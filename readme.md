@@ -18,7 +18,7 @@
 - [Design Systems & Style Guides](#design-systems-and-style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [UI & Design Inspiration](#ui-inspiration)
+- [Design Inspiration](#Design-inspiration)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -315,7 +315,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 
-## UI and Design Inspiration
+## Design Inspiration
 
 Here are some websites to get inspiration for design and UI
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |

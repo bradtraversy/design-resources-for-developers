@@ -11,7 +11,7 @@
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [CSS Components & Kits](#css-components)
+- [UI Components & Kits](#ui-components-and-kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
@@ -173,7 +173,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 
-## UI and CSS Components & Kits
+## UI Components and Kits
 
 Not quite "frameworks", but tools for creating user interfaces with comoponents or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |

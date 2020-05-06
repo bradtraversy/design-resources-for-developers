@@ -11,7 +11,7 @@
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
+- [CSS Components & Kits](#css-components)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
@@ -173,7 +173,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 
-## UI Components and Kits
+## UI and CSS Components & Kits
 
 Not quite "frameworks", but tools for creating user interfaces with comoponents or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -294,6 +294,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
+| [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 
 ## Downloadable Design Software
 
@@ -320,6 +321,8 @@ Here are some websites to get inspiration for design and UI
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
+| [Namelix](https://namelix.com/)| Generate brandable business names and logos |
+
 
 ## Adding To This Repo
 

@@ -300,6 +300,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
+| [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+
 
 ## Downloadable Design Software
 

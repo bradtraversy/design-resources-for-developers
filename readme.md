@@ -230,6 +230,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
+| [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 
 ## Angular UI
 

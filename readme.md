@@ -278,6 +278,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid. |
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
+| [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 
 ## Online Design Tools
 

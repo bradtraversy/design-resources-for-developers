@@ -66,6 +66,7 @@ Resources for Icons including font based, png, svg and more
 | [Material Icons](https://material.io/resources/icons/)| Material design icon library |
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)| 8000+ free icons |
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
+| [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |
 | [Linear Icons](https://linearicons.com/)| 1000+ Ultra crisp vector icons |
@@ -322,7 +323,6 @@ Here are some websites to get inspiration for design and UI
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Namelix](https://namelix.com/)| Generate brandable business names and logos |
-
 
 ## Adding To This Repo
 

@@ -18,7 +18,7 @@
 - [Design Systems & Style Guides](#design-systems-and-style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [UI & Design Inspiration](#ui-inspiration)
+- [Design Inspiration](#Design-inspiration)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -66,6 +66,7 @@ Resources for Icons including font based, png, svg and more
 | [Material Icons](https://material.io/resources/icons/)| Material design icon library |
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)| 8000+ free icons |
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
+| [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |
 | [Linear Icons](https://linearicons.com/)| 1000+ Ultra crisp vector icons |
@@ -74,6 +75,8 @@ Resources for Icons including font based, png, svg and more
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
+| [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
+| [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
 
 ## Stock Photos
 
@@ -119,6 +122,8 @@ Free vectors, clipart, illustrations, patterns and more
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
+| [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
+| [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 
 ## Product and Image Mockups
 
@@ -169,6 +174,10 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Milligram.io](https://milligram.io/)| Minimalist CSS framework |
 | [Vanilla Framework](https://vanillaframework.io/)| Simple, extensible CSS framework written in Sass |
 | [Spectre CSS](https://picturepan2.github.io/spectre/)| Lightweight, modern CSS framework |
+| [Picnic CSS](https://picnicss.com/)| Lightweight and beautiful library |
+| [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
+| [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
+| [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
 
 ## UI and CSS Components & Kits
 
@@ -221,6 +230,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
+| [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 
 ## Angular UI
 
@@ -291,6 +301,9 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
+| [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
+| [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
+| [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
 
 ## Downloadable Design Software
 
@@ -306,7 +319,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 
-## UI and Design Inspiration
+## Design Inspiration
 
 Here are some websites to get inspiration for design and UI
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -318,6 +331,8 @@ Here are some websites to get inspiration for design and UI
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
+| [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
+| [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 
 ## Adding To This Repo
 

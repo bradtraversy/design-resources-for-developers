@@ -74,6 +74,8 @@ Resources for Icons including font based, png, svg and more
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
+| [Icons icons](https://icon-icons.com/)| Thousands of free icons. |
+
 
 ## Stock Photos
 
@@ -95,6 +97,8 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |
 | [Find A Photo](https://www.chamberofcommerce.org/findaphoto/)| Searches multiple stock photo websites |
 | [Stockvault](http://www.stockvault.net/)| Categorized stock photos |
+| [Pxhere](https://pxhere.com/)| Free of copyrights under CC0. Do whatever you want.  |
+
 
 ## Stock Videos
 

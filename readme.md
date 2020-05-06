@@ -2,24 +2,24 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
-- [Product & Image Mockups](#product-and-image-mockups)
-- [HTML & CSS Templates](#html-css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [CSS Components & Kits](#css-components)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Design Systems & Style Guides](#design-systems-and-style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [UI & Design Inspiration](#ui-inspiration)
-- [Adding To This Repo](#adding-to-this-repo)
+- [Design Resources For Developers](#design-resources-for-developers)
+  - [UI Graphics](#ui-graphics)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Stock Photos and Videos](#stock-photos-and-videos)
+  - [Vectors & Clip Art](#vectors--clip-art)
+  - [Product and Image Mockups](#product-and-image-mockups)
+  - [HTML CSS Templates](#html-css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [UI and CSS Components & Kits](#ui-and-css-components--kits)
+  - [React UI](#react-ui)
+  - [Vue UI](#vue-ui)
+  - [Angular UI](#angular-ui)
+  - [Design Systems and Style Guides](#design-systems-and-style-guides)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [UI and Design Inspiration](#ui-and-design-inspiration)
+  - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -75,37 +75,31 @@ Resources for Icons including font based, png, svg and more
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
 
-## Stock Photos
+## Stock Photos and Videos
 
 Websites that offer free stock photos of all kinds for your websites and apps
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
-| [Pexels](https://www.pexels.com/)| Free stock photos shared by talented creators |
-| [Unsplash](https://unsplash.com/)| The internet’s source of freely usable images
-| [Pixabay](https://pixabay.com/)| Over 1.7 million+ high quality stock images and videos |
-| [Magdeleine](https://magdeleine.co/)| Gallery & free high res photo everyday |
-| [Picspree](https://picspree.com)| Royalty free images, stock photos, illustrations, and vectors |
-| [Burst](https://burst.shopify.com/)| Free stock photos collections |
-| [Life of Pix](https://www.lifeofpix.com/)| Free high resolution photography |
-| [Stock Snap](https://stocksnap.io/)| Hundreds of high quality photos added weekly |
-| [Morguefile](https://morguefile.com/)| Over 350,000 free stock photos for commercial use |
-| [Kaboom Pics](https://kaboompics.com/)| Stock photography and color palletes. Good for product images |
-| [New Old Stock](https://nos.twnsnd.co/)| Stock vintage photos |
-| [Pic Jumbo](https://picjumbo.com/)| Good collections of different types of photos |
-| [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |
-| [Find A Photo](https://www.chamberofcommerce.org/findaphoto/)| Searches multiple stock photo websites |
-| [Stockvault](http://www.stockvault.net/)| Categorized stock photos |
-
-## Stock Videos
-
-Websites that offer free stock videos of all kinds for your websites and apps
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
-| [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
-| [Videezy](https://www.videezy.com/)| Free HD stock footage & 4K videos |
-| [Mix Kit](https://mixkit.co/)| Stock video clips & music |
-| [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
-| [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description | Photos | Videos | Music
+| ----------------------- | ------------------ | --------- | ----- | ---- |
+| [Pixabay](https://pixabay.com)| Photos, illustrations, vectors, video, music | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:
+| [Mix Kit](https://mixkit.co/) | Stock video clips & music | non-vector art | :heavy_check_mark:| :heavy_check_mark: 
+| [Pexels](https://www.pexels.com)| Free stock photos shared by talented creators | :heavy_check_mark: | :heavy_check_mark: | :x:
+| [Videvo](https://www.videvo.net/stock-video-footage/) | (partially :heavy_dollar_sign:) Videos, motion graphics, music, sfx | :x: | :heavy_check_mark:| :heavy_check_mark:
+| [Coverr.co](https://coverr.co/) | Beautiful free stock video footage | :x: | :heavy_check_mark:| :x:
+| [Videezy](https://www.videezy.com/) | Free HD stock footage & 4K videos | :x: | :heavy_check_mark:| :x:
+| [Life Of Vids](https://www.lifeofvids.com/) | Free video clips and loops | :x: | :heavy_check_mark:| :x:
+| [Life of Pix](https://www.lifeofpix.com)| Free high resolution photography | :heavy_check_mark: | :x:| :x:
+| [Morguefile](https://morguefile.com)| Over 350,000 free stock photos for commercial use | :heavy_check_mark: | :x:| :x:
+| [Kaboom Pics](https://kaboompics.com)| Stock photography and color palletes. Good for product images | :heavy_check_mark: | :x:| :x:
+| [New Old Stock](https://nos.twnsnd.co)| Stock vintage photos | :heavy_check_mark: | :x:| :x:
+| [Pic Jumbo](https://picjumbo.com) | Good collections of different types of photos | :heavy_check_mark: | :x:| :x:
+| [Public Domain Pictures](https://www.publicdomainpictures.net/en) | Public domain images of all types | :heavy_check_mark: | :x:| :x:
+| [Find A Photo](https://www.chamberofcommerce.org/findaphoto) | Searches multiple stock photo websites | :heavy_check_mark: | :x:| :x:
+| [Stockvault](http://www.stockvault.net) | Categorized stock photos | :heavy_check_mark: | :x:| :x:
+| [Unsplash](https://unsplash.com/) | The internet’s source of freely usable images | :heavy_check_mark: | :x:| :x:
+| [Magdeleine](https://magdeleine.co/) | Gallery & free high res photo everyday | :heavy_check_mark: | :x:| :x:
+| [Picspree](https://picspree.com)| Royalty free images, stock photos, illustrations, and vectors | :heavy_check_mark: | :x:| :x:
+| [Burst](https://burst.shopify.com)| Free stock photos collections | :heavy_check_mark: | :x:| :x:
+| [Stock Snap](https://stocksnap.io)| Hundreds of high quality photos added weekly | :heavy_check_mark: | :x:| :x:
 
 ## Vectors & Clip Art
 
@@ -119,6 +113,7 @@ Free vectors, clipart, illustrations, patterns and more
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
+| [Pixabay](https://pixabay.com/)| Images, videos, vectors and more |
 
 ## Product and Image Mockups
 

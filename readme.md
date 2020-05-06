@@ -290,7 +290,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Favicon Generator](http://tools.dynamicdrive.com/favicon/)| Generate favicon ico files for your website |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
-| [Personas](https://personas.draftbit.com/|A playful avatar generator for the modern age. |
+| [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
 
 ## Downloadable Design Software
 

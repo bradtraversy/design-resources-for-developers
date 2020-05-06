@@ -329,6 +329,8 @@ Here are some websites to get inspiration for design and UI
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Namelix](https://namelix.com/)| Generate brandable business names and logos |
+| [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
+| [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 
 ## Adding To This Repo
 

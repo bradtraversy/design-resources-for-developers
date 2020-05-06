@@ -322,7 +322,7 @@ Here are some websites to get inspiration for design and UI
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Namelix](https://namelix.com/)| Generate brandable business names and logos |
-
+| [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration. |
 
 ## Adding To This Repo
 

@@ -11,7 +11,7 @@
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
+- [CSS Components & Kits](#css-components)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
@@ -179,7 +179,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 | [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
 
-## UI Components and Kits
+## UI and CSS Components & Kits
 
 Not quite "frameworks", but tools for creating user interfaces with comoponents or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -330,7 +330,7 @@ Here are some websites to get inspiration for design and UI
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
-| [Namelix](https://namelix.com/)| Generate brandable business names and logos |
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
 | [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
 | [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 

@@ -2,24 +2,25 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
-- [Product & Image Mockups](#product-and-image-mockups)
-- [HTML & CSS Templates](#html-css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Design Systems & Style Guides](#design-systems-and-style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Adding To This Repo](#adding-to-this-repo)
+- [Design Resources For Developers](#design-resources-for-developers)
+  - [UI Graphics](#ui-graphics)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Stock Photos](#stock-photos)
+  - [Stock Videos](#stock-videos)
+  - [Vectors & Clip Art](#vectors--clip-art)
+  - [Product and Image Mockups](#product-and-image-mockups)
+  - [HTML CSS Templates](#html-css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [UI Components and Kits](#ui-components-and-kits)
+  - [React UI](#react-ui)
+  - [Vue UI](#vue-ui)
+  - [Angular UI](#angular-ui)
+  - [Design Systems and Style Guides](#design-systems-and-style-guides)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [Design Inspiration](#design-inspiration)
+  - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -333,7 +334,7 @@ Here are some websites to get inspiration for design and UI
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
-| [Dribble](https://dribbble.com/)| Design projects featured by different creators |
+| [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |

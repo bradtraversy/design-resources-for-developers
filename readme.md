@@ -118,7 +118,9 @@ Free vectors, clipart, illustrations, patterns and more
 | [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
-| [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
+| [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |https://www.svgrepo.com/
+| [Svgrepo](https://www.svgrepo.com/)| 300.000+ SVG Vectors and Icons |
+| [remove.bg](https://www.remove.bg/)| Remove Image Background |
 
 ## Product and Image Mockups
 

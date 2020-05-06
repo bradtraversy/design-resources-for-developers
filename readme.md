@@ -40,6 +40,8 @@ Websites and resources with modern UI components in different formats such as PS
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
+| [PSD Repo](https://psdrepo.com/)                                | 12,800+ Templates               |
+
 
 ## Fonts
 

@@ -74,6 +74,7 @@ Resources for Icons including font based, png, svg and more
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
+| [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons. |
 
 ## Stock Photos
 

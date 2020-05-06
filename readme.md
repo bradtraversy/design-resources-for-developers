@@ -236,6 +236,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
 | [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
+| [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
 
 ## Angular UI
 

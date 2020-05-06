@@ -219,7 +219,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Quasar](https://quasar.dev/)| Build high-performance VueJS user interfaces in record time |
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
-| [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design. |
+| [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
 
 ## Angular UI
 
@@ -232,7 +232,6 @@ UI and component libraries for the Angular JavaScript framework
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/)| Native Angular components & directives for Lightning Design System |
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
-|
 
 ## Design Systems and Style Guides
 

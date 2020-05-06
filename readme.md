@@ -154,6 +154,7 @@ Websites that offer free beautiful website templates and themes of all types
 | [Free CSS](https://www.free-css.com/free-css-templates)| Huge collection of free templates |
 | [Hubspot](https://www.hubspot.com/resources)| Templates, infographics, banners and much more|
 | [Mobirise](https://mobirise.com/html-templates/)| Great looking HTML5/CSS3 templates|
+| [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 
 ## CSS Frameworks

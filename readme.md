@@ -75,7 +75,7 @@ Resources for Icons including font based, png, svg and more
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
 | [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons. |
-| [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. |
+| [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
 
 ## Stock Photos
 

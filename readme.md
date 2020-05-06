@@ -76,6 +76,7 @@ Resources for Icons including font based, png, svg and more
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
 | [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons. |
 | [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
+| [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
 
 ## Stock Photos
 
@@ -121,6 +122,8 @@ Free vectors, clipart, illustrations, patterns and more
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
+| [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
+| [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 
 ## Product and Image Mockups
 
@@ -174,6 +177,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Picnic CSS](https://picnicss.com/)| Lightweight and beautiful library |
 | [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
+| [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
 
 ## UI Components and Kits
 

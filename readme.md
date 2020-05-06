@@ -15,6 +15,7 @@
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
+- [Svelte UI Libraries](#svelte-ui)
 - [Design Systems & Style Guides](#design-systems-and-style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)

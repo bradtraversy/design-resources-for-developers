@@ -317,7 +317,7 @@ Here are some websites to get inspiration for design and UI
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
-| [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS, Javascript |
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
 
 ## Adding To This Repo
 

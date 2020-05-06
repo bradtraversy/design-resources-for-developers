@@ -114,7 +114,7 @@ Free vectors, clipart, illustrations, patterns and more
 | ----------------------- | ------------------ |
 | [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
 | [Freepik](https://www.freepik.com)| Free vectors, stock photos, PSD and icons |
-| [Free Vectors](hhttps://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
+| [Free Vectors](https://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
 | [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |

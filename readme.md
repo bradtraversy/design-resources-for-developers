@@ -169,6 +169,9 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Milligram.io](https://milligram.io/)| Minimalist CSS framework |
 | [Vanilla Framework](https://vanillaframework.io/)| Simple, extensible CSS framework written in Sass |
 | [Spectre CSS](https://picturepan2.github.io/spectre/)| Lightweight, modern CSS framework |
+| [Picnic CSS](https://picnicss.com/)| Lightweight and beautiful library |
+| [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
+| [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 
 ## UI Components and Kits
 

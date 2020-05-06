@@ -2,24 +2,24 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
-- [Product & Image Mockups](#product-and-image-mockups)
-- [HTML & CSS Templates](#html-css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Design Systems & Style Guides](#design-systems-and-style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Adding To This Repo](#adding-to-this-repo)
+-   [UI Graphics](#ui-graphics)
+-   [Fonts](#fonts)
+-   [Icons](#icons)
+-   [Stock Photos](#stock-photos)
+-   [Stock Videos](#stock-videos)
+-   [Vectors & Clipart](#vectors-and-clipart)
+-   [Product & Image Mockups](#product-and-image-mockups)
+-   [HTML & CSS Templates](#html-css-templates)
+-   [CSS Frameworks](#css-frameworks)
+-   [UI Components & Kits](#ui-components-and-kits)
+-   [React UI Libraries](#react-ui)
+-   [Vue UI Libraries](#vue-ui)
+-   [Angular UI Libraries](#angular-ui)
+-   [Design Systems & Style Guides](#design-systems-and-style-guides)
+-   [Online Design Tools](#online-design-tools)
+-   [Downloadable Design Software](#downloadable-design-software)
+-   [Design Inspiration](#Design-inspiration)
+-   [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -78,6 +78,7 @@ Resources for Icons including font based, png, svg and more
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
 | [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
+| [Icomoon](https://icomoon.io/)| Pixel Perfect Icon Solutions. Using IcoMoon you can easily search and download vector icons or generate fonts (icon fonts). This tool can also be used for icon set management. It can generate icon fonts, SVGs, PDFs, PNGs and sprites. |
 
 ## Stock Photos
 

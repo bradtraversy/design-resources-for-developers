@@ -159,6 +159,7 @@ Websites that offer free beautiful website templates and themes of all types
 | [Mobirise](https://mobirise.com/html-templates/)| Great looking HTML5/CSS3 templates|
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
+| [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
 
 ## CSS Frameworks
 

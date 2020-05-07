@@ -2,24 +2,25 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
-- [Product & Image Mockups](#product-and-image-mockups)
-- [HTML & CSS Templates](#html-css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Design Systems & Style Guides](#design-systems-and-style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Adding To This Repo](#adding-to-this-repo)
+- [Design Resources For Developers](#design-resources-for-developers)
+  - [UI Graphics](#ui-graphics)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Stock Photos](#stock-photos)
+  - [Stock Videos](#stock-videos)
+  - [Vectors & Clip Art](#vectors--clip-art)
+  - [Product and Image Mockups](#product-and-image-mockups)
+  - [HTML CSS Templates](#html-css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [UI Components and Kits](#ui-components-and-kits)
+  - [React UI](#react-ui)
+  - [Vue UI](#vue-ui)
+  - [Angular UI](#angular-ui)
+  - [Design Systems and Style Guides](#design-systems-and-style-guides)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [Design Inspiration](#design-inspiration)
+  - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -248,6 +249,7 @@ UI and component libraries for the Angular JavaScript framework
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/)| Native Angular components & directives for Lightning Design System |
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
+| [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security |
 
 ## Design Systems and Style Guides
 

@@ -221,7 +221,7 @@ CSS/UI frameworks to help build great looking websites and applications
 CSS animations to build awesome animations for websites and applications
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Animate.css](https://daneden.github.io/animate.css/)| Just-add-water CSS animations |
+| [Animate.css](https://animate.style/)| Just-add-water CSS animations |
 | [Bounce.js](http://bouncejs.com/)| Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations. |
 | [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
 | [Magic Animations](http://www.minimamente.com/example/magic_animations/Magic)| Animations has been one of the most impressive animation libraries available.) |

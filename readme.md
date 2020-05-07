@@ -365,6 +365,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |

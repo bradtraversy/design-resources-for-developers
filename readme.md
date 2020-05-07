@@ -312,6 +312,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
+| [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 
 ## Downloadable Design Software
 
@@ -326,6 +327,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Krita](https://krita.org/en/download/krita-desktop/)| Sketching and painting program designed for digital artists |
 | [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
+| [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
 
 ## Design Inspiration
 

@@ -216,6 +216,7 @@ Not quite "frameworks", but tools for creating user interfaces with components o
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
 | [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
+| [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 
 ## React UI
 
@@ -348,6 +349,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
+| [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 
 ## Downloadable Design Software
 
@@ -364,7 +366,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 | [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
 | [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects. |
-
+| [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
 
 ## Design Inspiration
 

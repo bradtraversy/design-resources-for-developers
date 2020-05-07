@@ -101,7 +101,7 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |
 | [Find A Photo](https://www.chamberofcommerce.org/findaphoto/)| Searches multiple stock photo websites |
 | [Stockvault](http://www.stockvault.net/)| Categorized stock photos |
-  [Placeholder](https://placeholder.com/)| A free image placeholder service for the web. You can specify image size and format |
+| [Placeholder](https://placeholder.com/)| A free image placeholder service for the web. You can specify image size and format |
 
 ## Stock Videos
 

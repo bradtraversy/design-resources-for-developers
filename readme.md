@@ -86,6 +86,7 @@ Resources for Icons including font based, png, svg and more
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
 | [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
+| [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
 | [vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 
 ## Stock Photos

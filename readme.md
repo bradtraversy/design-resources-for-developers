@@ -2,6 +2,7 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
+## Table of Contents
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Icons](#icons)
@@ -47,6 +48,10 @@ Websites and resources with modern UI components in different formats such as PS
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Fonts
 
 Websites that offer free fonts as well as font based tools
@@ -69,6 +74,10 @@ Websites that offer free fonts as well as font based tools
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Icons
 
@@ -100,6 +109,10 @@ Resources for Icons including font based, png, svg and more
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Stock Photos
 
 Websites that offer free stock photos of all kinds for your websites and apps
@@ -127,6 +140,10 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
 | [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Stock Videos
 
 Websites that offer free stock videos of all kinds for your websites and apps
@@ -137,6 +154,10 @@ Websites that offer free stock videos of all kinds for your websites and apps
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Vectors & Clip Art
 
@@ -154,6 +175,10 @@ Free vectors, clipart, illustrations, patterns and more
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Product & Image Mockups
 
 Create mockups of devices and other products
@@ -166,6 +191,10 @@ Create mockups of devices and other products
 | [Mockup World](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 | [Facebook Devices](https://facebook.design/devices)| Images and Sketch files of popular devices. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## HTML & CSS Templates
 
@@ -187,6 +216,10 @@ Websites that offer free beautiful website templates and themes of all types
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## CSS Frameworks
 
@@ -216,6 +249,10 @@ CSS/UI frameworks to help build great looking websites and applications
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## CSS Animations
 
 CSS animations to build awesome animations for websites and applications
@@ -233,6 +270,10 @@ CSS animations to build awesome animations for websites and applications
 | [Animista](http://animista.net/)| Css Animations On Demand |
 | [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## UI Components & Kits
 
@@ -252,6 +293,10 @@ Not quite "frameworks", but tools for creating user interfaces with components o
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## React UI
 
@@ -281,6 +326,10 @@ UI and component libraries for the React JavaScript framework
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components.
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps.
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Vue UI
 
 UI and component libraries for the Vue JavaScript framework
@@ -297,6 +346,10 @@ UI and component libraries for the Vue JavaScript framework
 | [Vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 | [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Angular UI
 
 UI and component libraries for the Angular JavaScript framework
@@ -311,6 +364,10 @@ UI and component libraries for the Angular JavaScript framework
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Svelte UI
 
 UI and component libraries for the Svelte Javascript compiler
@@ -319,6 +376,10 @@ UI and component libraries for the Svelte Javascript compiler
 | [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
 | [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Design Systems & Style Guides
 
@@ -352,6 +413,10 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Online Design Tools
 
@@ -395,6 +460,10 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Downloadable Design Software
 
 Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
@@ -411,6 +480,10 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
 | [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects. |
 | [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 ## Design Inspiration
 
@@ -432,6 +505,10 @@ Here are some websites to get inspiration for design and UI
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.|
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Image Compression
 
 Sites that allows you to compress large images
@@ -440,6 +517,16 @@ Sites that allows you to compress large images
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>

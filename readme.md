@@ -354,6 +354,9 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Krita](https://krita.org/en/download/krita-desktop/)| Sketching and painting program designed for digital artists |
 | [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
+| [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
+| [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects. |
+
 
 ## Design Inspiration
 

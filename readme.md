@@ -307,6 +307,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Vector Creator](https://icons8.com/vector-creator/)| Create engaging custom Illustrations. |
 
 ## Downloadable Design Software
 

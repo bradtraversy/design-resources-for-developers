@@ -15,6 +15,7 @@
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
+- [Svelte UI Libraries](#svelte-ui)
 - [Design Systems & Style Guides](#design-systems-and-style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
@@ -260,6 +261,14 @@ UI and component libraries for the Angular JavaScript framework
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/)| Native Angular components & directives for Lightning Design System |
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
+
+## Svelte UI
+UI and component libraries for the Svelte Javascript compiler
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
+| [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
+| [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
 
 ## Design Systems and Style Guides
 

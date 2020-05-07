@@ -11,14 +11,14 @@
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [CSS Components & Kits](#css-components)
+- [UI Components & Kits](#ui-components-and-kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
 - [Design Systems & Style Guides](#design-systems-and-style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [UI & Design Inspiration](#ui-inspiration)
+- [Design Inspiration](#Design-inspiration)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -39,8 +39,6 @@ Websites and resources with modern UI components in different formats such as PS
 | [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
-| [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
-| [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 
 ## Fonts
@@ -57,7 +55,9 @@ Websites that offer free fonts as well as font based tools
 | [What Font](http://www.chengyinliu.com/whatfont.html)| Tool for finding the fonts of a website without having to search in the devtools |
 | [Tiff](https://tiff.herokuapp.com/)| A type diff tool that visually contrasts the differences between two fonts. |
 | [Font Flame](http://app.fontflame.com/)| Tool for pairing fonts to see how they look together |
+| [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
+| [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 
 ## Icons
 
@@ -68,6 +68,7 @@ Resources for Icons including font based, png, svg and more
 | [Material Icons](https://material.io/resources/icons/)| Material design icon library |
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)| 8000+ free icons |
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
+| [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |
 | [Linear Icons](https://linearicons.com/)| 1000+ Ultra crisp vector icons |
@@ -75,6 +76,10 @@ Resources for Icons including font based, png, svg and more
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
+| [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
+| [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
+| [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
 
 ## Stock Photos
 
@@ -115,11 +120,13 @@ Free vectors, clipart, illustrations, patterns and more
 | ----------------------- | ------------------ |
 | [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
 | [Freepik](https://www.freepik.com)| Free vectors, stock photos, PSD and icons |
-| [Free Vectors](hhttps://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
+| [Free Vectors](https://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
 | [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
+| [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
+| [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 
 ## Product and Image Mockups
 
@@ -150,6 +157,8 @@ Websites that offer free beautiful website templates and themes of all types
 | [Free CSS](https://www.free-css.com/free-css-templates)| Huge collection of free templates |
 | [Hubspot](https://www.hubspot.com/resources)| Templates, infographics, banners and much more|
 | [Mobirise](https://mobirise.com/html-templates/)| Great looking HTML5/CSS3 templates|
+| [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
+| [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 
 ## CSS Frameworks
 
@@ -170,8 +179,12 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Milligram.io](https://milligram.io/)| Minimalist CSS framework |
 | [Vanilla Framework](https://vanillaframework.io/)| Simple, extensible CSS framework written in Sass |
 | [Spectre CSS](https://picturepan2.github.io/spectre/)| Lightweight, modern CSS framework |
+| [Picnic CSS](https://picnicss.com/)| Lightweight and beautiful library |
+| [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
+| [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
+| [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
 
-## UI and CSS Components & Kits
+## UI Components and Kits
 
 Not quite "frameworks", but tools for creating user interfaces with comoponents or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -192,6 +205,7 @@ UI and component libraries for the React JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
+| [Chakra UI](https://chakra-ui.com/)| Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |
 | [React Admin](https://marmelab.com/react-admin/)| A frontend Framework for building admin applications. Supports API's out of the box|
@@ -220,7 +234,8 @@ UI and component libraries for the Vue JavaScript framework
 | [Quasar](https://quasar.dev/)| Build high-performance VueJS user interfaces in record time |
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
-| [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design. |
+| [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
+| [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 
 ## Angular UI
 
@@ -233,7 +248,6 @@ UI and component libraries for the Angular JavaScript framework
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/)| Native Angular components & directives for Lightning Design System |
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
-|
 
 ## Design Systems and Style Guides
 
@@ -283,6 +297,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
 | [Colors](https://coolors.co/)| Color schemes generator |
+| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
@@ -291,6 +307,11 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
+| [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
+| [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
+| [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
+| [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 
 ## Downloadable Design Software
 
@@ -306,7 +327,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 
-## UI and Design Inspiration
+## Design Inspiration
 
 Here are some websites to get inspiration for design and UI
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -317,6 +338,12 @@ Here are some websites to get inspiration for design and UI
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
+| [Namelix](https://namelix.com/)| Generate brandable business names and logos |
+| [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration. |
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
+| [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
+| [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
+| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 
 ## Adding To This Repo
 

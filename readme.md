@@ -80,6 +80,7 @@ Resources for Icons including font based, png, svg and more
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
 | [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
+| [Iconshock Gradientify](https://www.iconshock.com/svg-icons/)| An interactive free SVG icons pack specially made for gradient lovers! |
 
 ## Stock Photos
 
@@ -198,6 +199,7 @@ Not quite "frameworks", but tools for creating user interfaces with comoponents 
 | [Shards](https://designrevision.com/downloads/shards/)| A free and modern UI toolkit for web makers based on Bootstrap. |
 | [Creative Tim](https://www.creative-tim.com/)| All types of UI libraries and kits including JS frameworks like React |
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
+| [Dashboards Design](https://dashboardsdesign.com/)| A powerful design kit with a huge set of customizable elements and templates|
 
 ## React UI
 
@@ -278,6 +280,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid. |
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
+| [Coolors](https://coolors.co/)| The super fast color schemes generator! |
 
 ## Online Design Tools
 

@@ -80,8 +80,7 @@ Resources for Icons including font based, png, svg and more
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
 | [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
-| [Heroicons](https://heroicons.dev/)| A set of free MIT-licensed high-quality SVG icons for UI development.
- |
+| [Heroicons](https://heroicons.dev/)| A set of free MIT-licensed high-quality SVG icons for UI development. |
 
 ## Stock Photos
 

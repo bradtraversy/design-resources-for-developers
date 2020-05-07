@@ -34,6 +34,8 @@ Websites and resources with modern UI components in different formats such as PS
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create. |
+| [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |
+| [Opendoodles](https://www.opendoodles.com/)                                                              | Free sketchy illustrations                                         |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
 | [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
@@ -57,6 +59,7 @@ Websites that offer free fonts as well as font based tools
 | [Font Flame](http://app.fontflame.com/)| Tool for pairing fonts to see how they look together |
 | [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
+| [Fontjoy](https://fontjoy.com/)| Generate font pairing in one click |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 
 ## Icons
@@ -198,6 +201,8 @@ Not quite "frameworks", but tools for creating user interfaces with comoponents 
 | [Shards](https://designrevision.com/downloads/shards/)| A free and modern UI toolkit for web makers based on Bootstrap. |
 | [Creative Tim](https://www.creative-tim.com/)| All types of UI libraries and kits including JS frameworks like React |
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
+| [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
+| [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 
 ## React UI
 

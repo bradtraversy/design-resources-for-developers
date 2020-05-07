@@ -91,6 +91,7 @@ Resources for Icons including font based, png, svg and more
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
 | [vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
+| [Line Awesome](https://icons8.com/line-awesome)| Swap Font Awesome for modern line icons in one line of code. |
 
 ## Stock Photos
 

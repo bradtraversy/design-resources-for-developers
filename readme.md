@@ -98,6 +98,7 @@ Resources for Icons including font based, png, svg and more
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
+| [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 
 ## Stock Photos
 

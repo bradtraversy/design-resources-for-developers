@@ -55,7 +55,9 @@ Websites that offer free fonts as well as font based tools
 | [What Font](http://www.chengyinliu.com/whatfont.html)| Tool for finding the fonts of a website without having to search in the devtools |
 | [Tiff](https://tiff.herokuapp.com/)| A type diff tool that visually contrasts the differences between two fonts. |
 | [Font Flame](http://app.fontflame.com/)| Tool for pairing fonts to see how they look together |
+| [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
+| [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 
 ## Icons
 
@@ -295,6 +297,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
 | [Colors](https://coolors.co/)| Color schemes generator |
+| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
@@ -307,6 +311,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 | [Vector Creator](https://icons8.com/vector-creator/)| Create engaging custom Illustrations. |
 
 ## Downloadable Design Software
@@ -339,6 +344,7 @@ Here are some websites to get inspiration for design and UI
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
 | [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
 | [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
+| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 
 ## Adding To This Repo
 

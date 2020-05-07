@@ -366,7 +366,7 @@ Here are some websites to get inspiration for design and UI
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
-| [Dribble](https://dribbble.com/)| Design projects featured by different creators |
+| [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |

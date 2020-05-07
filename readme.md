@@ -40,6 +40,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
+| [Fresh Folk](https://fresh-folk.com/) | Illustration library of people and objects
 
 ## Fonts
 
@@ -127,6 +128,7 @@ Free vectors, clipart, illustrations, patterns and more
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
+| [Isometric](https://isometric.online/) | Free isometric illustrations
 
 ## Product and Image Mockups
 
@@ -312,6 +314,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
+| [Lunacy](https://icons8.com/lunacy) | Graphic design software with built-in assets
 
 ## Downloadable Design Software
 

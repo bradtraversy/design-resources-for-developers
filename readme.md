@@ -432,7 +432,7 @@ Sites that allows you to compress large images
 | ----------------------- | ------------------ |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
-
+| [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.

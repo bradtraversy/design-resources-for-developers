@@ -3,6 +3,7 @@
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 ## Table of Contents
+
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Icons](#icons)
@@ -47,7 +48,11 @@ Websites and resources with modern UI components in different formats such as PS
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
+| [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
+| [FreeWebIllustrations](https://freewebillustrations.com/)                                                | Free recopilation of illustrations for the web.                    |
+| [Absurd.design](https://absurd.design/)                                                                  | Free absurd designs/illustrations to use.                          |
+| [Mixkit Illustrations](https://mixkit.co/free-stock-art/)                                                | Beautiful Art & Illustration, Free to use                          |
+| [ManyPixels Illustrations](https://www.manypixels.co/gallery/)                                           | Illustration Gallery, free to use.                                 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -75,6 +80,7 @@ Websites that offer free fonts as well as font based tools
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
+| [Transfonter](https://transfonter.org/)| Modern and simple css @font-face generator, also TTF to WOFF/2 Generator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -270,7 +276,7 @@ CSS animations to build awesome animations for websites and applications
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications. |
 | [Animista](http://animista.net/)| Css Animations On Demand |
 | [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
-| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
+| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -414,6 +420,14 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
+| [Australian Government Design System](https://designsystem.gov.au/)|  a framework and a set of tools to help designers and developers build government products and services more easily.|
+| [United Kingdom's Government Design System](https://design-system.service.gov.uk/)| GOV.UK styles, components and patterns |
+| [Spark Design System](https://sparkdesignsystem.com/)| Solutions for how to design and build unified digital experiences for the Rocket brands. |
+| [Fuse Design System](https://ni.github.io/design-system/)| National Instrument's Design System |
+| [CFPB Design Manual](https://cfpb.github.io/design-system/)| Consumer Financial Bureau's Design System |
+| [Royal Canin's Design System](http://developer.royalcanin.com/)| Royal Canin's Brand Design System |
+| [Morningstar's Design System](https://designsystem.morningstar.com/)| A collection of brand, visual, UX, and technical standards built into a central library so that teams can quickly build high-quality, consistent experiences. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -459,6 +473,11 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
+| [Svgomg](https://jakearchibald.github.io/svgomg/) | GUI for SVGO, a Node.js tool for optimizing SVG files |
+| [uiGradients](https://uigradients.com/) | uiGradients is a community contributed collection of beautiful multi-color gradients |
+| [CoolHue](https://webkul.github.io/coolhue/) |  Handpicked Gradient Hues and Swatches for your next Project |
+| [Screely](https://www.screely.com/) | Generate Beautiful Screenshots |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -503,6 +522,8 @@ Here are some websites to get inspiration for design and UI
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.|
+| [Landingfolio](https://www.landingfolio.com/) | Landing Page Design Inspiration with categories |
+| [LapaNinja](https://www.lapa.ninja/) | Landing Page Gallery |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -525,7 +546,6 @@ Sites that allows you to compress large images
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

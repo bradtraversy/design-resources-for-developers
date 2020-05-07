@@ -7,7 +7,7 @@
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors---clipart)
+- [Vectors & Clipart](#vectors-and-clipart)
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)
@@ -121,7 +121,7 @@ Websites that offer free stock videos of all kinds for your websites and apps
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
 
-## Vectors & Clip Art
+## Vectors and Clip Art
 
 Free vectors, clipart, illustrations, patterns and more
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |

@@ -127,6 +127,8 @@ Free vectors, clipart, illustrations, patterns and more
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
+| [Glaze](https://www.glazestock.com//)| Free illustrations, for everything
+|
 
 ## Product and Image Mockups
 
@@ -344,6 +346,7 @@ Here are some websites to get inspiration for design and UI
 | [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
 | [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+| [Calltoidea](https://www.calltoidea.com)| Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.|
 
 ## Adding To This Repo
 

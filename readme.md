@@ -11,6 +11,7 @@
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
+- [CSS Animations](#css-Animations)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
@@ -20,6 +21,7 @@
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
+- [Image Compression](#Image-compression)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -43,6 +45,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
+| [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 
 ## Fonts
 
@@ -63,6 +66,9 @@ Websites that offer free fonts as well as font based tools
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 | [FontSpark](https://fontspark.app/) | Discover Better Fonts |
 | [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
+| [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
+| [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
+| [Free Typography](https://freetypography.com/)| A list of high quality fonts |
 
 ## Icons
 
@@ -80,6 +86,7 @@ Resources for Icons including font based, png, svg and more
 | [Entypo](http://www.entypo.com/)| 411 carefully crafted premium pictograms by Daniel Bruce |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
+| [Fontisto Icons](https://fontisto.com/)| Fontisto the iconic font and css toolkit · 616+ free icons. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
 | [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons. |
@@ -90,6 +97,7 @@ Resources for Icons including font based, png, svg and more
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
 | [vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
+| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design |
 | [css.gg](https://css.gg/)| Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 
 ## Stock Photos
@@ -106,13 +114,18 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [Life of Pix](https://www.lifeofpix.com/)| Free high resolution photography |
 | [Stock Snap](https://stocksnap.io/)| Hundreds of high quality photos added weekly |
 | [Morguefile](https://morguefile.com/)| Over 350,000 free stock photos for commercial use |
-| [Kaboom Pics](https://kaboompics.com/)| Stock photography and color palletes. Good for product images |
+| [Kaboom Pics](https://kaboompics.com/)| Stock photography and color palettes. Good for product images |
 | [New Old Stock](https://nos.twnsnd.co/)| Stock vintage photos |
 | [Pic Jumbo](https://picjumbo.com/)| Good collections of different types of photos |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |
 | [Find A Photo](https://www.chamberofcommerce.org/findaphoto/)| Searches multiple stock photo websites |
 | [Stockvault](http://www.stockvault.net/)| Categorized stock photos |
 | [Placeholder](https://placeholder.com/)| A free image placeholder service for the web. You can specify image size and format |
+| [Realistic Shots](https://realisticshots.com/)| Free high resolution stock photos |
+| [Negative Space](https://negativespace.co/)| High-Resolution Free Stock Photos |
+| [SkitterPhoto](https://skitterphoto.com/)| Free high resolution photography |
+| [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
+| [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
 
 ## Stock Videos
 
@@ -139,6 +152,7 @@ Free vectors, clipart, illustrations, patterns and more
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
+| [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 
 ## Product & Image Mockups
 
@@ -172,6 +186,7 @@ Websites that offer free beautiful website templates and themes of all types
 | [Mobirise](https://mobirise.com/html-templates/)| Great looking HTML5/CSS3 templates|
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
+| [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
 
 ## CSS Frameworks
 
@@ -199,6 +214,24 @@ CSS/UI frameworks to help build great looking websites and applications
 | [W3.CSS](https://www.w3schools.com/w3css/) | A modern CSS framework with support for desktop, tablet, and mobile design by default. Designed to be independent of jQuery or any other JavaScript library. |
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
+| [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
+
+## CSS Animations
+
+CSS animations to build awesome animations for websites and applications
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Animate.css](https://daneden.github.io/animate.css/)| Just-add-water CSS animations |
+| [Bounce.js](http://bouncejs.com/)| Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations. |
+| [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
+| [Magic Animations](http://www.minimamente.com/example/magic_animations/Magic)| Animations has been one of the most impressive animation libraries available.) |
+| [Zdog](https://zzz.dog/)| Round, flat, designer-friendly pseudo-3D engine for canvas & SVG |
+| [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page. |
+| [Hover.css](http://ianlunn.github.io/Hover/)| Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website. |
+| [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure. |
+| [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications. |
+| [Animista](http://animista.net/)| Css Animations On Demand |
+| [tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
 
 ## UI Components & Kits
 
@@ -273,6 +306,7 @@ UI and component libraries for the Angular JavaScript framework
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 
 ## Svelte UI
+
 UI and component libraries for the Svelte Javascript compiler
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -311,6 +345,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
+| [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
 
 ## Online Design Tools
 
@@ -332,12 +367,14 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
 | [Octopus](https://octopus.do/)| Sitemap builder |
 | [Favicon Generator](http://tools.dynamicdrive.com/favicon/)| Generate favicon ico files for your website |
+| [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
@@ -347,6 +384,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
@@ -362,7 +400,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Raw Therapee](https://rawtherapee.com/)| Cross-platform raw image processing program |
 | [Be Funky](https://www.befunky.com/features/graphic-designer/)| Online design program |
 | [Krita](https://krita.org/en/download/krita-desktop/)| Sketching and painting program designed for digital artists |
-| [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
+| [Pencil Project](https://pencil.evolus.vn/)| GUI prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 | [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
 | [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects. |
@@ -376,17 +414,26 @@ Here are some websites to get inspiration for design and UI
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
-| [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
+| [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of UX writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Namelix](https://namelix.com/)| Generate brandable business names and logos |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration. |
-| [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
-| [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
-| [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
+| [awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI|
+| [codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
+| [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.|
 
+## Image Compression
+
+Sites that allows you to compress large images
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
+| [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
+| [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.

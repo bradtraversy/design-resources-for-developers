@@ -323,7 +323,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Infogram](https://infogram.com/)| Create infograms |
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
-| [Colors](https://coolors.co/)| Color schemes generator |
+| [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |

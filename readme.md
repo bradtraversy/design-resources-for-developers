@@ -83,6 +83,7 @@ Resources for Icons including font based, png, svg and more
 | [Entypo](http://www.entypo.com/)| 411 carefully crafted premium pictograms by Daniel Bruce |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
+| [Fontisto Icons](https://fontisto.com/)| Fontisto the iconic font and css toolkit · 616+ free icons. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
 | [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons. |

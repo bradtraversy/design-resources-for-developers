@@ -11,6 +11,7 @@
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components-and-kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
@@ -184,6 +185,25 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 | [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
+
+## Javascript Animation Libraries
+
+Javascript Animation Libraries to use
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Anime.js](https://animejs.com/)| A lightweight JavaScript animation library with a simple, yet powerful API. |
+| [Dynamics.js](http://dynamicsjs.com)| Javascript library to create physics-based animations. |
+| [Animo](https://animo.js.org/)| A powerful little tool for managing transitions and animations with JavaScript. |
+| [Typed.js](https://mattboldt.com/demos/typed-js/)| A JavaScript Typing Animation Library. |
+| [Vivus](http://maxwellito.github.io/vivus)| Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearance of being drawn. |
+| [Granim.js](https://sarcadass.github.io/granim.js/)| Create fluid and interactive gradient animations with this small javascript library.|
+| [moveTo](https://hsnaydd.github.io/moveTo/demo/)| A lightweight scroll animation javascript library without any dependency. |
+| [Particles.js](https://vincentgarreau.com/particles.js/)| A lightweight JavaScript library for creating particles. |
+| [aos](https://github.com/michalsnik/aos)| Animate on scroll library. |
+| [snabbt.js](https://github.com/daniel-lundin/snabbt.js)| Fast animations with javascript and CSS transforms. |
+| [mo.js](https://mojs.github.io/)| A javascript motion graphics library that is a fast, retina ready, modular and open source. |
+
+
 
 ## UI Components and Kits
 

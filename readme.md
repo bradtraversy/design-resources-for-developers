@@ -274,6 +274,9 @@ UI and component libraries for the React JavaScript framework
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
 | [Ant Design](https://ant.design/)| Open source design React ui library.
+| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers.
+| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components.
+| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps.
 
 ## Vue UI
 

@@ -451,7 +451,6 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
-| [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
@@ -496,7 +495,6 @@ Here are some websites to get inspiration for design and UI
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of UX writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
-| [Namelix](https://namelix.com/)| Generate brandable business names and logos |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration. |
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI|
@@ -517,6 +515,7 @@ Sites that allows you to compress large images
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
+| [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -127,8 +127,7 @@ Free vectors, clipart, illustrations, patterns and more
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
-| [Glaze](https://www.glazestock.com//)| Free illustrations, for everything
-|
+| [Glaze](https://www.glazestock.com//)| Free illustrations, for everything |
 
 ## Product and Image Mockups
 

@@ -66,7 +66,7 @@ Websites that offer free fonts as well as font based tools
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 | [FontSpark](https://fontspark.app/) | Discover Better Fonts |
 | [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
-| [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews  |
+| [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
 
@@ -119,6 +119,11 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [Find A Photo](https://www.chamberofcommerce.org/findaphoto/)| Searches multiple stock photo websites |
 | [Stockvault](http://www.stockvault.net/)| Categorized stock photos |
 | [Placeholder](https://placeholder.com/)| A free image placeholder service for the web. You can specify image size and format |
+| [Realistic Shots](https://realisticshots.com/)| Free high resolution stock photos |
+| [Negative Space](https://negativespace.co/)| High-Resolution Free Stock Photos |
+| [SkitterPhoto](https://skitterphoto.com/)| Free high resolution photography |
+| [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
+| [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
 
 ## Stock Videos
 
@@ -295,6 +300,7 @@ UI and component libraries for the Angular JavaScript framework
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 
 ## Svelte UI
+
 UI and component libraries for the Svelte Javascript compiler
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -422,4 +428,3 @@ Sites that allows you to compress large images
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
-

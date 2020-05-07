@@ -209,7 +209,7 @@ CSS animations to build awesome animations for websites and applications
 | [Animate.css](https://daneden.github.io/animate.css/)| Just-add-water CSS animations |
 | [Bounce.js](http://bouncejs.com/)| Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations. |
 | [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
-| [Magic Animations](http://www.minimamente.com/example/magic_animations/Magic| Animations has been one of the most impressive animation libraries available.) |
+| [Magic Animations](http://www.minimamente.com/example/magic_animations/Magic)| Animations has been one of the most impressive animation libraries available.) |
 | [Zdog](https://zzz.dog/)| Round, flat, designer-friendly pseudo-3D engine for canvas & SVG |
 | [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page. |
 | [Hover.css](http://ianlunn.github.io/Hover/)| Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website. |

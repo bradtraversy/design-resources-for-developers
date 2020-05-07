@@ -20,6 +20,7 @@
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
+- [Image Compression](#Image-compression)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -392,6 +393,13 @@ Here are some websites to get inspiration for design and UI
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.|
+
+## Image Compression
+
+Sites that allows you to compress large images
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 
 ## Adding To This Repo
 

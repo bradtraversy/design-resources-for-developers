@@ -251,6 +251,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
 | [Onsen Vue](https://onsen.io/vue/)| Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
+| [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
 
 ## Angular UI
 

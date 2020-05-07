@@ -284,7 +284,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [Marvel Style Guide](https://marvelapp.com/styleguide/overview/introduction)| Set of design principles and components |
 | [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)| Collection of UX frameworks from Microsoft |
 | [Pluralsight Design System](https://design-system.pluralsight.com/)| Design guide with components for designing with Pluralsight |
-|[Polaris](https://polaris.shopify.com/)|Design system that creates great experiences for all of Shopify’s merchants.|
+| [Polaris](https://polaris.shopify.com/)|Design system that creates great experiences for all of Shopify’s merchants.|
 | [Mozilla Protocol](https://protocol.mozilla.org/)| Protocol is a design system for Mozilla and Firefox websites |
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid. |
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
@@ -322,6 +322,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 
 ## Downloadable Design Software

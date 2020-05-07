@@ -11,6 +11,7 @@
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
+- [CSS Animations](#css-Animations)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
@@ -199,6 +200,20 @@ CSS/UI frameworks to help build great looking websites and applications
 | [W3.CSS](https://www.w3schools.com/w3css/) | A modern CSS framework with support for desktop, tablet, and mobile design by default. Designed to be independent of jQuery or any other JavaScript library. |
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
+
+## CSS Animations
+
+CSS animations to build awesome animations for websites and applications
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Animate.css](https://daneden.github.io/animate.css/)| Just-add-water CSS animations |
+| [Bounce.js](http://bouncejs.com/)| Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations. |
+| [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects. |
+| [Magic Animations](http://www.minimamente.com/example/magic_animations/Magic| Animations has been one of the most impressive animation libraries available.) |
+| [Zdog](https://zzz.dog/)| Round, flat, designer-friendly pseudo-3D engine for canvas & SVG |
+| [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page. |
+| [Hover.css](http://ianlunn.github.io/Hover/)| Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website. |
+| [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure. |
 
 ## UI Components & Kits
 

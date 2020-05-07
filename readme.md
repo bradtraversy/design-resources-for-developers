@@ -58,6 +58,8 @@ Websites that offer free fonts as well as font based tools
 | [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
+| [FontSpark](https://fontspark.app/) | Discover Better Fonts |
+| [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
 
 ## Icons
 
@@ -139,6 +141,7 @@ Create mockups of devices and other products
 | [Screen Peak](https://screenpeek.io/)| Create a mockup from a URL |
 | [Mockup Wolrd](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
+| [Facebook Devices](https://facebook.design/devices)| Images and Sketch files of popular devices. |
 
 ## HTML CSS Templates
 

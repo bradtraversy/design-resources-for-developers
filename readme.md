@@ -205,6 +205,7 @@ UI and component libraries for the React JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
+| [Ant Design](https://ant.design/)| Open source components for faster web development with a good design system |
 | [Chakra UI](https://chakra-ui.com/)| Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |
@@ -229,6 +230,7 @@ UI and component libraries for the Vue JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Vuetify](https://vuetifyjs.com/en/)| Material design component framework |
+| [Ant Design](https://www.antdv.com/)| Open source components for faster web development with a good design system |
 | [Bootstrap Vue](https://bootstrap-vue.org/)| Use Bootstrap components with Vue |
 | [Buefy](https://buefy.org/)| Lightweight UI components based on Bulma |
 | [Quasar](https://quasar.dev/)| Build high-performance VueJS user interfaces in record time |
@@ -243,6 +245,7 @@ UI and component libraries for the Angular JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material Angular](https://material.angular.io/)| UI library for Angular based on Material design |
+| [Ant Design](https://ng.ant.design/)| Open source components for faster web development with a good design system |
 | [NG Bootstrap](https://ng-bootstrap.github.io/#/home)| UI library for Angular based on the Bootstrap framework |
 | [PrimeNG](https://www.primefaces.org/primeng/#/)| Powerful UI component library for Angular |
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |

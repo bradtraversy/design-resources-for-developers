@@ -183,6 +183,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 | [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
+| [CSShake](https://elrumordelaluz.github.io/csshake/)| Some CSS classes to move your DOM! |
 
 ## UI Components and Kits
 

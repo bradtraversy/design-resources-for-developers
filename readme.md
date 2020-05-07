@@ -193,7 +193,7 @@ CSS/UI frameworks to help build great looking websites and applications
 
 ## UI Components and Kits
 
-Not quite "frameworks", but tools for creating user interfaces with comoponents or UI kits
+Not quite "frameworks", but tools for creating user interfaces with components or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [UILang](http://uilang.com/)| a minimal, ui-focused programming language for web designers |

@@ -7,16 +7,16 @@
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
-- [Product & Image Mockups](#product-and-image-mockups)
-- [HTML & CSS Templates](#html-css-templates)
+- [Vectors & Clipart](#vectors--clip-art)
+- [Product & Image Mockups](#product--image-mockups)
+- [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
+- [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
-- [Design Systems & Style Guides](#design-systems-and-style-guides)
+- [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
@@ -121,7 +121,7 @@ Websites that offer free stock videos of all kinds for your websites and apps
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
 
-## Vectors and Clip Art
+## Vectors & Clip Art
 
 Free vectors, clipart, illustrations, patterns and more
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -136,7 +136,7 @@ Free vectors, clipart, illustrations, patterns and more
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 
-## Product and Image Mockups
+## Product & Image Mockups
 
 Create mockups of devices and other products
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -148,7 +148,7 @@ Create mockups of devices and other products
 | [Mockup Wolrd](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 
-## HTML CSS Templates
+## HTML & CSS Templates
 
 Websites that offer free beautiful website templates and themes of all types
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -195,7 +195,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
 
-## UI Components and Kits
+## UI Components & Kits
 
 Not quite "frameworks", but tools for creating user interfaces with components or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -273,7 +273,7 @@ UI and component libraries for the Svelte Javascript compiler
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
 | [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
 
-## Design Systems and Style Guides
+## Design Systems & Style Guides
 
 Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |

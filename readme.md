@@ -20,6 +20,7 @@
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
+- [More Tool Collections](#more-tool-collections)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -383,6 +384,13 @@ Here are some websites to get inspiration for design and UI
 | [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
 | [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+
+## More Tool Collections
+
+More websites containing free tools and collections.
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [The Web Toolbox](https://thewebtoolbox.cc/)| A collection of handy, free-to-use tools for web developers, programmers and designers alike. |
 
 ## Adding To This Repo
 

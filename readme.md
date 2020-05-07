@@ -378,4 +378,4 @@ Here are some websites to get inspiration for design and UI
 
 ## Adding To This Repo
 
-Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here. It may be in another category. Do a search for it before adding. New resources are getting added all of the time.
+Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.

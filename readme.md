@@ -249,6 +249,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
+| [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

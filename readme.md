@@ -37,6 +37,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
 | [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
+| [Animate.css](https://daneden.github.io/animate.css/)                                                    | Free cross-browser CSS animations library.                         |
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |

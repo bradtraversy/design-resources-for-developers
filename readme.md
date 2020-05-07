@@ -129,7 +129,7 @@ Create mockups of devices and other products
 | [Shot Snap](https://shotsnapp.com/)| Create beautiful device mockup images for your app or website design |
 | [Screely](https://www.screely.com/)| Instantly turn your screenshot into a mockup |
 | [Screen Peak](https://screenpeek.io/)| Create a mockup from a URL |
-| [Mockup Wolrd](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
+| [Mockup World](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 
 ## HTML CSS Templates

@@ -245,6 +245,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
+| [Onsen Vue](https://onsen.io/vue/)| Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 
 ## Angular UI
@@ -301,6 +302,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Wireframe.cc](https://wireframe.cc/)| Wireframing tool (free & paid) |
 | [Fotor](https://www.fotor.com/)| Photo editor and design maker |
+| [Pixlr](https://www.pixlr.com/)| Online photo editor |
 | [Animoto Video Maker](https://animoto.com/apps/online-video-maker)| Make videos online |
 | [RemoveBG](https://www.remove.bg/)| Remove image backgrounds |
 | [Photo Creator](https://photos.icons8.com/creator)| Create your own photos instead of searching for stock |
@@ -322,6 +324,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
+| [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
+| [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |

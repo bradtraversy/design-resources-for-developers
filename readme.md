@@ -95,7 +95,7 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [Life of Pix](https://www.lifeofpix.com/)| Free high resolution photography |
 | [Stock Snap](https://stocksnap.io/)| Hundreds of high quality photos added weekly |
 | [Morguefile](https://morguefile.com/)| Over 350,000 free stock photos for commercial use |
-| [Kaboom Pics](https://kaboompics.com/)| Stock photography and color palletes. Good for product images |
+| [Kaboom Pics](https://kaboompics.com/)| Stock photography and color palettes. Good for product images |
 | [New Old Stock](https://nos.twnsnd.co/)| Stock vintage photos |
 | [Pic Jumbo](https://picjumbo.com/)| Good collections of different types of photos |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |
@@ -311,7 +311,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
-| [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
 
 ## Downloadable Design Software
 
@@ -324,7 +324,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Raw Therapee](https://rawtherapee.com/)| Cross-platform raw image processing program |
 | [Be Funky](https://www.befunky.com/features/graphic-designer/)| Online design program |
 | [Krita](https://krita.org/en/download/krita-desktop/)| Sketching and painting program designed for digital artists |
-| [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
+| [Pencil Project](https://pencil.evolus.vn/)| GUI prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 
 ## Design Inspiration
@@ -335,16 +335,16 @@ Here are some websites to get inspiration for design and UI
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribble](https://dribbble.com/)| Design projects featured by different creators |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
-| [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
+| [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of UX writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Namelix](https://namelix.com/)| Generate brandable business names and logos |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration. |
-| [Frontend Mentor](https://www.frontendmentor.io/)| Real word UI Challenges using HTML, CSS and Javascript |
-| [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
-| [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
+| [awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI|
+| [codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 
 ## Adding To This Repo
 
-Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category
+Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category.

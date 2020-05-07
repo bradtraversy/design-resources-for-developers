@@ -391,6 +391,7 @@ Here are some websites to get inspiration for design and UI
 | [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
+| [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.|
 
 ## Adding To This Repo
 

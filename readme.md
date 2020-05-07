@@ -7,15 +7,16 @@
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
-- [Product & Image Mockups](#product-and-image-mockups)
-- [HTML & CSS Templates](#html-css-templates)
+- [Vectors & Clipart](#vectors--clip-art)
+- [Product & Image Mockups](#product--image-mockups)
+- [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [UI Components & Kits](#ui-components-and-kits)
+- [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
-- [Design Systems & Style Guides](#design-systems-and-style-guides)
+- [Svelte UI Libraries](#svelte-ui)
+- [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
@@ -34,6 +35,8 @@ Websites and resources with modern UI components in different formats such as PS
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create. |
+| [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |
+| [Opendoodles](https://www.opendoodles.com/)                                                              | Free sketchy illustrations                                         |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
 | [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
@@ -57,6 +60,7 @@ Websites that offer free fonts as well as font based tools
 | [Font Flame](http://app.fontflame.com/)| Tool for pairing fonts to see how they look together |
 | [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
+| [Fontjoy](https://fontjoy.com/)| Generate font pairing in one click |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 
 ## Icons
@@ -77,10 +81,14 @@ Resources for Icons including font based, png, svg and more
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats. |
 | [The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community |
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place. |
+| [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons. |
+| [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
 | [icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG. |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
+| [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
+| [vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 
 ## Stock Photos
 
@@ -129,7 +137,7 @@ Free vectors, clipart, illustrations, patterns and more
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector atrworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 
-## Product and Image Mockups
+## Product & Image Mockups
 
 Create mockups of devices and other products
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -141,7 +149,7 @@ Create mockups of devices and other products
 | [Mockup Wolrd](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 
-## HTML CSS Templates
+## HTML & CSS Templates
 
 Websites that offer free beautiful website templates and themes of all types
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -184,10 +192,13 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Wing](https://kbrsh.github.io/wing/)| A beautiful CSS framework designed for minimalists. |
 | [Chota](https://jenil.github.io/chota/)| A micro (~3kb) CSS framework. |
 | [Blueprint CSS](https://blueprintcss.dev/)| A lightweight layout library for building great responsive mobile first UIs that work everywhere. |
+| [W3.CSS](https://www.w3schools.com/w3css/) | A modern CSS framework with support for desktop, tablet, and mobile design by default. Designed to be independent of jQuery or any other JavaScript library. |
+| [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
+| [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
 
-## UI Components and Kits
+## UI Components & Kits
 
-Not quite "frameworks", but tools for creating user interfaces with comoponents or UI kits
+Not quite "frameworks", but tools for creating user interfaces with components or UI kits
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [UILang](http://uilang.com/)| a minimal, ui-focused programming language for web designers |
@@ -199,6 +210,8 @@ Not quite "frameworks", but tools for creating user interfaces with comoponents 
 | [Shards](https://designrevision.com/downloads/shards/)| A free and modern UI toolkit for web makers based on Bootstrap. |
 | [Creative Tim](https://www.creative-tim.com/)| All types of UI libraries and kits including JS frameworks like React |
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
+| [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
+| [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 
 ## React UI
 
@@ -223,6 +236,7 @@ UI and component libraries for the React JavaScript framework
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
+| [Ant Design](https://ant.design/)| Open source design React ui library.
 
 ## Vue UI
 
@@ -236,7 +250,9 @@ UI and component libraries for the Vue JavaScript framework
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
 | [Keen UI](https://josephuspaye.github.io/Keen-UI)| VueUI library with a simple API, inspired by Google's Material Design |
+| [Onsen Vue](https://onsen.io/vue/)| Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
+| [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
 
 ## Angular UI
 
@@ -249,8 +265,17 @@ UI and component libraries for the Angular JavaScript framework
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |
 | [NG Lightning](https://ng-lightning.github.io/ng-lightning/#/)| Native Angular components & directives for Lightning Design System |
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
+| [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 
-## Design Systems and Style Guides
+## Svelte UI
+UI and component libraries for the Svelte Javascript compiler
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
+| [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
+| [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
+
+## Design Systems & Style Guides
 
 Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
@@ -275,6 +300,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [Marvel Style Guide](https://marvelapp.com/styleguide/overview/introduction)| Set of design principles and components |
 | [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)| Collection of UX frameworks from Microsoft |
 | [Pluralsight Design System](https://design-system.pluralsight.com/)| Design guide with components for designing with Pluralsight |
+| [Polaris](https://polaris.shopify.com/)|Design system that creates great experiences for all of Shopify’s merchants.|
 | [Mozilla Protocol](https://protocol.mozilla.org/)| Protocol is a design system for Mozilla and Firefox websites |
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid. |
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
@@ -291,6 +317,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Wireframe.cc](https://wireframe.cc/)| Wireframing tool (free & paid) |
 | [Fotor](https://www.fotor.com/)| Photo editor and design maker |
+| [Pixlr](https://www.pixlr.com/)| Online photo editor |
 | [Animoto Video Maker](https://animoto.com/apps/online-video-maker)| Make videos online |
 | [RemoveBG](https://www.remove.bg/)| Remove image backgrounds |
 | [Photo Creator](https://photos.icons8.com/creator)| Create your own photos instead of searching for stock |
@@ -298,7 +325,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Infogram](https://infogram.com/)| Create infograms |
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
-| [Colors](https://coolors.co/)| Color schemes generator |
+| [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
@@ -312,7 +339,10 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
+| [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
+| [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 
 ## Downloadable Design Software
@@ -328,6 +358,9 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Krita](https://krita.org/en/download/krita-desktop/)| Sketching and painting program designed for digital artists |
 | [Pencil Project](https://pencil.evolus.vn/)| Gui prototyping software |
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
+| [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
+| [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects. |
+
 
 ## Design Inspiration
 
@@ -335,7 +368,7 @@ Here are some websites to get inspiration for design and UI
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
-| [Dribble](https://dribbble.com/)| Design projects featured by different creators |
+| [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of ux writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community. |
@@ -349,4 +382,4 @@ Here are some websites to get inspiration for design and UI
 
 ## Adding To This Repo
 
-Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category
+Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.

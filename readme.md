@@ -248,6 +248,7 @@ UI and component libraries for the React JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
+| [Base Web](https://baseweb.design/)| Base Web provides a robust suite of components out of the box |
 | [Chakra UI](https://chakra-ui.com/)| Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |

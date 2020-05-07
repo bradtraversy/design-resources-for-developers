@@ -7,7 +7,7 @@
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors-and-clipart)
+- [Vectors & Clipart](#vectors---clipart)
 - [Product & Image Mockups](#product-and-image-mockups)
 - [HTML & CSS Templates](#html-css-templates)
 - [CSS Frameworks](#css-frameworks)

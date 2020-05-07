@@ -350,6 +350,7 @@ Here are some websites to get inspiration for design and UI
 | [Inspiration UI](http://inspirationui.com/)| Find design inspiration from real live projects |
 | [UI Garage](https://uigarage.net/)| Daily handpicked UI inspiration & patterns. Find specific design inspiration for web, mobile and tablet. |
 | [UI Movment](https://uimovement.com/)| Get the best UI design inspiration from 28,972 designers & developpers |
+| [Collect UI](https://collectui.com/)| A platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, hand picked. |
 
 
 

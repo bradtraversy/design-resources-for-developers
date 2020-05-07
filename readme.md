@@ -58,6 +58,9 @@ Websites that offer free fonts as well as font based tools
 | [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
+| [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews  |
+| [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
+| [Free Typography](https://freetypography.com/)| A list of high quality fonts |
 
 ## Icons
 

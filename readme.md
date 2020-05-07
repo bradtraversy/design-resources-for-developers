@@ -199,6 +199,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [W3.CSS](https://www.w3schools.com/w3css/) | A modern CSS framework with support for desktop, tablet, and mobile design by default. Designed to be independent of jQuery or any other JavaScript library. |
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
+| [Animate.css](https://daneden.github.io/animate.css/)| A cross-browser library of CSS animations. As easy to use as an easy thing. |
 
 ## UI Components & Kits
 

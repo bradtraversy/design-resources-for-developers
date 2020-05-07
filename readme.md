@@ -25,7 +25,7 @@
 
 ## UI Graphics
 
-Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
+>Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -47,7 +47,8 @@ Websites and resources with modern UI components in different formats such as PS
 
 ## Fonts
 
-Websites that offer free fonts as well as font based tools
+>Websites that offer free fonts as well as font based tools
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Google Fonts](https://fonts.google.com/)| Library of around 1000 free licensed font families |
@@ -68,7 +69,8 @@ Websites that offer free fonts as well as font based tools
 
 ## Icons
 
-Resources for Icons including font based, png, svg and more
+>Resources for Icons including font based, png, svg and more
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
@@ -95,7 +97,8 @@ Resources for Icons including font based, png, svg and more
 
 ## Stock Photos
 
-Websites that offer free stock photos of all kinds for your websites and apps
+>Websites that offer free stock photos of all kinds for your websites and apps
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Pexels](https://www.pexels.com/)| Free stock photos shared by talented creators |
@@ -117,7 +120,8 @@ Websites that offer free stock photos of all kinds for your websites and apps
 
 ## Stock Videos
 
-Websites that offer free stock videos of all kinds for your websites and apps
+>Websites that offer free stock videos of all kinds for your websites and apps
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
@@ -128,7 +132,8 @@ Websites that offer free stock videos of all kinds for your websites and apps
 
 ## Vectors & Clip Art
 
-Free vectors, clipart, illustrations, patterns and more
+>Free vectors, clipart, illustrations, patterns and more
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
@@ -143,7 +148,8 @@ Free vectors, clipart, illustrations, patterns and more
 
 ## Product & Image Mockups
 
-Create mockups of devices and other products
+>Create mockups of devices and other products
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Smart Mockups](https://smartmockups.com/)| Create stunning product mockups (free & premium) |
@@ -156,7 +162,8 @@ Create mockups of devices and other products
 
 ## HTML & CSS Templates
 
-Websites that offer free beautiful website templates and themes of all types
+>Websites that offer free beautiful website templates and themes of all types
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [HTML5Up](https://html5up.net/)| Very modern, unique responsive HTML5/CSS3 themes |
@@ -176,7 +183,8 @@ Websites that offer free beautiful website templates and themes of all types
 
 ## CSS Frameworks
 
-CSS/UI frameworks to help build great looking websites and applications
+>CSS/UI frameworks to help build great looking websites and applications
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Tailwind CSS](https://tailwindcss.com/)| Low level, utility-first framework |
@@ -203,7 +211,8 @@ CSS/UI frameworks to help build great looking websites and applications
 
 ## CSS Animations
 
-CSS animations to build awesome animations for websites and applications
+>CSS animations to build awesome animations for websites and applications
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Animate.css](https://daneden.github.io/animate.css/)| Just-add-water CSS animations |
@@ -220,7 +229,8 @@ CSS animations to build awesome animations for websites and applications
 
 ## UI Components & Kits
 
-Not quite "frameworks", but tools for creating user interfaces with components or UI kits
+>Not quite "frameworks", but tools for creating user interfaces with components or UI kits
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [UILang](http://uilang.com/)| a minimal, ui-focused programming language for web designers |
@@ -238,7 +248,8 @@ Not quite "frameworks", but tools for creating user interfaces with components o
 
 ## React UI
 
-UI and component libraries for the React JavaScript framework
+>UI and component libraries for the React JavaScript framework
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
@@ -263,7 +274,8 @@ UI and component libraries for the React JavaScript framework
 
 ## Vue UI
 
-UI and component libraries for the Vue JavaScript framework
+>UI and component libraries for the Vue JavaScript framework
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Vuetify](https://vuetifyjs.com/en/)| Material design component framework |
@@ -279,7 +291,8 @@ UI and component libraries for the Vue JavaScript framework
 
 ## Angular UI
 
-UI and component libraries for the Angular JavaScript framework
+>UI and component libraries for the Angular JavaScript framework
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material Angular](https://material.angular.io/)| UI library for Angular based on Material design |
@@ -291,7 +304,9 @@ UI and component libraries for the Angular JavaScript framework
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 
 ## Svelte UI
-UI and component libraries for the Svelte Javascript compiler
+
+>UI and component libraries for the Svelte Javascript compiler
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
@@ -300,7 +315,8 @@ UI and component libraries for the Svelte Javascript compiler
 
 ## Design Systems & Style Guides
 
-Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
+>Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material Design](https://material.io/)| Google's Material Design |
@@ -332,7 +348,8 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 
 ## Online Design Tools
 
-All kinds of online tools for design, from photo editors to wireframing, color generators and more
+>All kinds of online tools for design, from photo editors to wireframing, color generators and more
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
@@ -371,7 +388,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 
 ## Downloadable Design Software
 
-Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
+>Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Gimp](https://www.gimp.org/)| Free & open source image editor similar to Photoshop |
@@ -388,7 +406,8 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 
 ## Design Inspiration
 
-Here are some websites to get inspiration for design and UI
+>Here are some websites to get inspiration for design and UI
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
@@ -406,4 +425,4 @@ Here are some websites to get inspiration for design and UI
 
 ## Adding To This Repo
 
-Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
+>Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.

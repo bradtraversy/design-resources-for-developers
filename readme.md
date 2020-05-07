@@ -58,6 +58,8 @@ Websites that offer free fonts as well as font based tools
 | [FontJoy](https://fontjoy.com/)| Font pairing generator
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
+| [Contrast Ratio](https://contrast-ratio.com/)| A tool to calculate the contrast ratio between any two valid CSS colors. |
+
 
 ## Icons
 
@@ -101,6 +103,7 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |
 | [Find A Photo](https://www.chamberofcommerce.org/findaphoto/)| Searches multiple stock photo websites |
 | [Stockvault](http://www.stockvault.net/)| Categorized stock photos |
+| [CC Search](https://ccsearch.creativecommons.org/)| CC Search searches across more than 300 million images free of rights |
 
 ## Stock Videos
 
@@ -344,6 +347,11 @@ Here are some websites to get inspiration for design and UI
 | [awwwards](https://www.awwwards.com/)| A web site that rate and collects the best websites in the world in UI|
 | [codrops](https://tympanus.net/codrops/)| A web site that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+| [Inspiration UI](http://inspirationui.com/)| Find design inspiration from real live projects |
+| [UI Garage](https://uigarage.net/)| Daily handpicked UI inspiration & patterns. Find specific design inspiration for web, mobile and tablet. |
+| [UI Movment](https://uimovement.com/)| Get the best UI design inspiration from 28,972 designers & developpers |
+
+
 
 ## Adding To This Repo
 

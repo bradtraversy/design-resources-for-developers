@@ -3,8 +3,10 @@
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 ## Table of Contents
+
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
+- [Colors](#colors)
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
@@ -48,7 +50,7 @@
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
-| [Open Doodles](https://www.opendoodles.com/)                                                             | A free set of sketchy illustrations                                |
+| [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 
 <div align="right">
@@ -84,6 +86,25 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Colors
+
+Websites and resources that help with choices related to colors
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Coolors](https://coolors.co/generate)| Color schemes generator |
+| [Coolors](https://coolors.co/palettes/trending)| Trending color palettes |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
+| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
+| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
+| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Icons
 
 >Resources for Icons including font based, png, svg and more
@@ -111,10 +132,11 @@
 | [Icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG  |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project  |
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
+| [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library  |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
-| [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
@@ -299,6 +321,7 @@
 | [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure |
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
 | [Animista](http://animista.net/)| Css Animations On Demand |
+| [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need  |
 
 <div align="right">
@@ -463,7 +486,7 @@
 
 ## Online Design Tools
 
->All kinds of online tools for design, from photo editors to wireframing, color generators and more
+>All kinds of online tools for design, from photo editors to wireframing, and more
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -480,10 +503,6 @@
 | [Infogram](https://infogram.com/)| Create infograms |
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
-| [Coolors](https://coolors.co/generate)| Color schemes generator |
-| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
-| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
-| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
@@ -492,6 +511,14 @@
 | [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
 | [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
+| [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
+| [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
+| [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
+| [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
+| [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
+| [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
+| [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
+| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator  |
@@ -547,7 +574,6 @@
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
-| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock |
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
 
@@ -576,11 +602,10 @@
 
 ## Others
 
-Uncategorized Stuff
+>Uncategorized Stuff
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
-
 
 
  ## Adding To This Repo

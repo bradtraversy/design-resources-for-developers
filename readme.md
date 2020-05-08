@@ -2,6 +2,8 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
+#### Please read `contributing guidelines` before submitting new resources.
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
@@ -92,7 +94,8 @@
 
 ## Colors
 
-Websites and resources that help with choices related to colors
+>Websites and resources that help with choices related to colors
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
@@ -103,7 +106,9 @@ Websites and resources that help with choices related to colors
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc |
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
+| [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects by Mackenzie Child |
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
+| [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -366,6 +371,7 @@ Websites and resources that help with choices related to colors
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |
 | [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)| Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source  |
 | [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
+| [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

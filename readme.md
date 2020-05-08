@@ -344,6 +344,7 @@
 | [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
+| [GSAP](https://github.com/greensock/GSAP)| A JavaScript library for building high-performance animations that work in every major browser |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

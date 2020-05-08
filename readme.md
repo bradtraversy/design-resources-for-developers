@@ -219,6 +219,7 @@ Websites that offer free beautiful website templates and themes of all types
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
+| [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -343,6 +343,7 @@
 | [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
+| [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -524,7 +524,7 @@ Sites that allows you to compress large images
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Image Compression
+## Others
 
 Uncategorized Stuff
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/)| Check your awesome responsive webpage looks great in every size

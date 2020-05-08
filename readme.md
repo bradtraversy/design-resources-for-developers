@@ -367,6 +367,7 @@
 | [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
+| [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

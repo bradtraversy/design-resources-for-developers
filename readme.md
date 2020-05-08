@@ -80,7 +80,9 @@
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
-| [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts. |
+| [Fonts for Apple Platforms](https://developer.apple.com/fonts/)| Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps |
+| [SFWin](https://github.com/blaisck/sfwin/)| San Francisco Fonts for Windows 10 and non-Apple Platform |
+| [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -93,13 +95,13 @@ Websites and resources that help with choices related to colors
 | ----------------------- | ------------------ |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [Coolors](https://coolors.co/palettes/trending)| Trending color palettes |
-| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
-| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
-| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
-| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
+| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

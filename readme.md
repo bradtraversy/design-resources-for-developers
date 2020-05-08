@@ -4,27 +4,29 @@
 
 ## Table of Contents
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Icons](#icons)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Vectors & Clipart](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [CSS Animations](#css-Animations)
-- [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Svelte UI Libraries](#svelte-ui)
-- [Design Systems & Style Guides](#design-systems--style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
-- [Adding To This Repo](#adding-to-this-repo)
+- [Design Resources For Developers](#design-resources-for-developers)
+  - [Table of Contents](#table-of-contents)
+  - [UI Graphics](#ui-graphics)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Stock Photos](#stock-photos)
+  - [Stock Videos](#stock-videos)
+  - [Vectors & Clip Art](#vectors--clip-art)
+  - [Product & Image Mockups](#product--image-mockups)
+  - [HTML & CSS Templates](#html--css-templates)
+  - [CSS Frameworks](#css-frameworks)
+  - [CSS Animations](#css-animations)
+  - [UI Components & Kits](#ui-components--kits)
+  - [React UI](#react-ui)
+  - [Vue UI](#vue-ui)
+  - [Angular UI](#angular-ui)
+  - [Svelte UI](#svelte-ui)
+  - [Design Systems & Style Guides](#design-systems--style-guides)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [Design Inspiration](#design-inspiration)
+  - [Image Compression](#image-compression)
+  - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -420,14 +422,13 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
-| [Australian Government Design System](https://designsystem.gov.au/)|  a framework and a set of tools to help designers and developers build government products and services more easily.|
+| [Australian Government Design System](https://designsystem.gov.au/)| a framework and a set of tools to help designers and developers build government products and services more easily.|
 | [United Kingdom's Government Design System](https://design-system.service.gov.uk/)| GOV.UK styles, components and patterns |
 | [Spark Design System](https://sparkdesignsystem.com/)| Solutions for how to design and build unified digital experiences for the Rocket brands. |
 | [Fuse Design System](https://ni.github.io/design-system/)| National Instrument's Design System |
 | [CFPB Design Manual](https://cfpb.github.io/design-system/)| Consumer Financial Bureau's Design System |
 | [Royal Canin's Design System](http://developer.royalcanin.com/)| Royal Canin's Brand Design System |
 | [Morningstar's Design System](https://designsystem.morningstar.com/)| A collection of brand, visual, UX, and technical standards built into a central library so that teams can quickly build high-quality, consistent experiences. |
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -475,9 +476,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 | [Svgomg](https://jakearchibald.github.io/svgomg/) | GUI for SVGO, a Node.js tool for optimizing SVG files |
 | [uiGradients](https://uigradients.com/) | uiGradients is a community contributed collection of beautiful multi-color gradients |
-| [CoolHue](https://webkul.github.io/coolhue/) |  Handpicked Gradient Hues and Swatches for your next Project |
+| [CoolHue](https://webkul.github.io/coolhue/) | Handpicked Gradient Hues and Swatches for your next Project |
 | [Screely](https://www.screely.com/) | Generate Beautiful Screenshots |
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

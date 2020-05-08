@@ -94,6 +94,7 @@
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
 | [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
+| [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |
 | [Linear Icons](https://linearicons.com/)| 1000+ Ultra crisp vector icons |
 | [Entypo](http://www.entypo.com/)| 411 carefully crafted premium pictograms by Daniel Bruce |
@@ -112,6 +113,8 @@
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
+| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos 
 
@@ -538,7 +541,7 @@
 
 ## Image Compression
 
->Sites that allows you to compress large images
+>Websites that allow you to compress large images
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |

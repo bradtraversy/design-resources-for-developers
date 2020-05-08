@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# [RIVE.APP]
 
-# [Resource Name - Edit this line]
+Thousands of animations for Mob. Dev.
 
-Edit this line with Small Description about new added resource 
-
-Link: www.linkToResource
+Link: https://rive.app/explore/popular/trending/all
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [yes] I have performed a self-review of submitted resource and its follows the guidelines of the project.

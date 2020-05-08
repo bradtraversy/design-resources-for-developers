@@ -75,6 +75,7 @@ Websites that offer free fonts as well as font based tools
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
+| [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -110,6 +111,7 @@ Resources for Icons including font based, png, svg and more
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
+| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -193,6 +195,7 @@ Create mockups of devices and other products
 | [Mockup World](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 | [Facebook Devices](https://facebook.design/devices)| Images and Sketch files of popular devices. |
+| [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -218,6 +221,8 @@ Websites that offer free beautiful website templates and themes of all types
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
+| [BootstrapTaste](https://bootstraptaste.com/)| Premium & Free Bootstrap Templates|
+| [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -250,6 +255,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs. |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework. |
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
+| [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -270,7 +276,6 @@ CSS animations to build awesome animations for websites and applications
 | [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure. |
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications. |
 | [Animista](http://animista.net/)| Css Animations On Demand |
-| [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
 
 <div align="right">
@@ -323,10 +328,12 @@ UI and component libraries for the React JavaScript framework
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [Ant Design](https://ant.design/)| Open source design React ui library.
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers.
-| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components.
-| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps.
+| [Ant Design](https://ant.design/)| Open source design React ui library. |
+| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
+| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
+| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps. |
+| [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
+| [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -365,6 +372,7 @@ UI and component libraries for the Angular JavaScript framework
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
+| [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -460,6 +468,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
+| [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -518,6 +527,7 @@ Sites that allows you to compress large images
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
+| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB. | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

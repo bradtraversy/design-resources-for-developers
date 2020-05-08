@@ -76,6 +76,7 @@ Websites that offer free fonts as well as font based tools
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
 | [Leon Sans](https://github.com/cmiscm/leonsans/)| A geometric sans-serif typeface made with code |
+| [Lexend](https://www.lexend.com/)| A variable font empirically shown to significantly improve reading-proficiency |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

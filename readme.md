@@ -47,6 +47,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
+| [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -321,11 +322,12 @@ UI and component libraries for the React JavaScript framework
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [Ant Design](https://ant.design/)| Open source design React ui library.
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers.
-| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components.
-| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps.
-| [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects.
+| [Ant Design](https://ant.design/)| Open source design React ui library. |
+| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
+| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
+| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps. |
+| [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
+| [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

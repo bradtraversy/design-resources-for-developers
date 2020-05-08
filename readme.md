@@ -217,7 +217,6 @@
 | [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
 | [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
-| [ccMixter](http://dig.ccmixter.org/free)| Free to use music in commercial and personal projects |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

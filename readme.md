@@ -92,7 +92,8 @@
 
 ## Colors
 
-Websites and resources that help with choices related to colors
+>Websites and resources that help with choices related to colors
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |

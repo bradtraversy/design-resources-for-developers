@@ -339,7 +339,6 @@
 | [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure  |
 | [Animista](http://animista.net/)| CSS Animations On Demand |
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need   |
-| [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page |
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
 | [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |

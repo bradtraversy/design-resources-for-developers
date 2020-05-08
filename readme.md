@@ -111,7 +111,7 @@ Resources for Icons including font based, png, svg and more
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
-| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html/) | The icon font from Visual Studio Code |
+| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

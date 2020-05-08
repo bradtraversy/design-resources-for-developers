@@ -248,7 +248,6 @@ UI and component libraries for the React JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
-| [Base Web](https://baseweb.design/)| Base Web provides a robust suite of components out of the box |
 | [Chakra UI](https://chakra-ui.com/)| Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |
@@ -266,7 +265,8 @@ UI and component libraries for the React JavaScript framework
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [Ant Design](https://ant.design/)| Open source design React ui library.
+| [Ant Design](https://ant.design/)| Open source design React ui library. |
+| [Base Web](https://baseweb.design/)| Base Web provides a robust suite of components out of the box
 
 ## Vue UI
 

@@ -26,7 +26,6 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Others](#others)
-- [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -407,6 +406,7 @@ Websites and resources that help with choices related to colors
 | [Onsen Vue](https://onsen.io/vue/)| Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [Vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 | [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
+| [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

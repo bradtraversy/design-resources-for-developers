@@ -189,6 +189,9 @@
 | [SkitterPhoto](https://skitterphoto.com/)| Free high resolution photography |
 | [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
 | [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
+| [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
+| [123rf](https://www.123rf.com/)| Stock Photos, Vectors and Royalty Free Images from 123RF |
+| [dreamstime](https://www.dreamstime.com/)| Stock Photos & Royalty Free Photos by Dreamstime |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -291,6 +294,7 @@
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
 | [BootstrapTaste](https://bootstraptaste.com/)| Premium & Free Bootstrap Templates|
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
+| [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -325,6 +329,7 @@
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework  |
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
 | [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done |
+| [Blaze.css](http://blazecss.com/) | Open source modular CSS toolkit providing great structure for building websites quickly  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -610,6 +615,7 @@
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
+| [Code Tea](https://codetea.com/)| Nice collection of often useful examples done in HTML JavaScript CSS. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -3,8 +3,10 @@
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 ## Table of Contents
+
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
+- [Colors](#colors)
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
@@ -47,7 +49,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
+| [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -80,6 +82,25 @@ Websites that offer free fonts as well as font based tools
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Colors
+
+Websites and resources that help with choices related to colors
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Coolors](https://coolors.co/generate)| Color schemes generator |
+| [Coolors](https://coolors.co/palettes/trending)| Trending color palettes |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
+| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
+| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
+| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Icons
 
 Resources for Icons including font based, png, svg and more
@@ -106,9 +127,8 @@ Resources for Icons including font based, png, svg and more
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project. |
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format. |
+| [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
-| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
-| [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -270,7 +290,7 @@ CSS animations to build awesome animations for websites and applications
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications. |
 | [Animista](http://animista.net/)| Css Animations On Demand |
 | [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
-| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
+| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -421,7 +441,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 
 ## Online Design Tools
 
-All kinds of online tools for design, from photo editors to wireframing, color generators and more
+All kinds of online tools for design, from photo editors to wireframing, and more
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
@@ -437,10 +457,6 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Infogram](https://infogram.com/)| Create infograms |
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
-| [Coolors](https://coolors.co/generate)| Color schemes generator |
-| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
-| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
-| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
@@ -456,7 +472,6 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
-| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 
@@ -500,7 +515,6 @@ Here are some websites to get inspiration for design and UI
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI|
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
-| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs.|
 
@@ -525,7 +539,6 @@ Sites that allows you to compress large images
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -294,6 +294,7 @@ Not quite "frameworks", but tools for creating user interfaces with components o
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components. |
+| [Semantic UI](https://semantic-ui.com/)| A modern front-end development framework with lot of components. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

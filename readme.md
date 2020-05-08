@@ -151,6 +151,7 @@
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
+| [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 
 <div align="right">

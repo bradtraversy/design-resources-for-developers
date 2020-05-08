@@ -109,6 +109,8 @@
 | [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects by Mackenzie Child |
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
 | [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
+| [Gradient Hunt](https://gradienthunt.com/)| A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients |
+| [Web Gradients](https://webgradients.com/)| A free website to find good css gradients |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -152,6 +154,8 @@
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
+| [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
+| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -217,6 +221,7 @@
 | [Freesound](https://freesound.org/)| Free stock music and sounds |
 | [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
 | [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
+| [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -340,11 +345,13 @@
 | [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure  |
 | [Animista](http://animista.net/)| CSS Animations On Demand |
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need   |
-| [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page |
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
 | [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
+| [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
+| [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
+| [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -408,7 +415,6 @@
 | [Ant Design](https://ant.design/)| Open source design React ui library. |
 | [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
-| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps. |
 | [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
 | [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
 
@@ -453,6 +459,7 @@
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
+| [NG Zorro](https://ng.ant.design/)| UI library for Angular based on Ant Design |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -599,6 +606,7 @@
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
+| [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
 
@@ -632,6 +640,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
+| [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -75,6 +75,7 @@ Websites that offer free fonts as well as font based tools
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
+| [Leon Sans](https://github.com/cmiscm/leonsans/)| A geometric sans-serif typeface made with code |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

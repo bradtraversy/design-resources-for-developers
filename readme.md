@@ -10,6 +10,7 @@
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
+- [Stock Music & Sound Effects](#stock-music--sound-effects)
 - [Vectors & Clipart](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
@@ -26,7 +27,6 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Others](#others)
-- [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
 
@@ -80,7 +80,11 @@
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
-| [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts. |
+| [Leon Sans](https://github.com/cmiscm/leonsans/)| A geometric sans-serif typeface made with code |
+| [Lexend](https://www.lexend.com/)| A variable font empirically shown to significantly improve reading-proficiency |
+| [Fonts for Apple Platforms](https://developer.apple.com/fonts/)| Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps |
+| [SFWin](https://github.com/blaisck/sfwin/)| San Francisco Fonts for Windows 10 and non-Apple Platform |
+| [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -94,13 +98,15 @@
 | ----------------------- | ------------------ |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [Coolors](https://coolors.co/palettes/trending)| Trending color palettes |
-| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources. |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
-| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
-| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors. |
-| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock.|
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
+| [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects by Mackenzie Child |
+| [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
+| [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -192,6 +198,23 @@
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Stock Music & Sound Effects
+
+>Websites that offer free stock music and/or sound effects
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
+| [Bensound](https://www.bensound.com/)| Download Royalty Free Music for free and use it in your project |
+| [Mixkit](https://mixkit.co/free-stock-music/)| Free music for your projects |
+| [Freesound](https://freesound.org/)| Free stock music and sounds |
+| [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
+| [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -344,6 +367,9 @@
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |
+| [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)| Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source  |
+| [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
+| [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -373,10 +399,10 @@
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [Ant Design](https://ant.design/)| Open source design React ui library 
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers 
+| [Ant Design](https://ant.design/)| Open source design React ui library
+| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components
-| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps 
+| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps
 | [Ant Design](https://ant.design/)| Open source design React ui library. |
 | [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
@@ -404,6 +430,7 @@
 | [Onsen Vue](https://onsen.io/vue/)| Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [Vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 | [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
+| [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -591,7 +618,19 @@
 | [BulkResizePhotos](https://bulkresizephotos.com/)| Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline) |
 | [iLoveIMG](https://www.iloveimg.com/)| The fastest free web app for easy image modification |
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
-| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB | 
+| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Online Editors
+
+>Top Online Web Editors In Every Developer’s Toolkit
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [CODEPEN](https://codepen.io/)| Codepen is one of the finest places to discover your frontend talent. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

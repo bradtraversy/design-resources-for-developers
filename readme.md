@@ -357,6 +357,7 @@ UI and component libraries for the Angular JavaScript framework
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material Angular](https://material.angular.io/)| UI library for Angular based on Material design |
+| [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| UI library for Angular based on the Bootstrap framework |
 | [NG Bootstrap](https://ng-bootstrap.github.io/#/home)| UI library for Angular based on the Bootstrap framework |
 | [PrimeNG](https://www.primefaces.org/primeng/#/)| Powerful UI component library for Angular |
 | [Onsen Angular](https://onsen.io/angular2/)| Hybrid mobile and PWA UI library for Angular and Onsen UI |

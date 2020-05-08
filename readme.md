@@ -452,6 +452,7 @@
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
+| [NG Zorro](https://ng.ant.design/)| UI library for Angular based on Ant Design |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -110,6 +110,7 @@ Resources for Icons including font based, png, svg and more
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

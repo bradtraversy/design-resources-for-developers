@@ -98,6 +98,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Colormind.io](http://colormind.io)| Color palette generator |
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [Coolors](https://coolors.co/palettes/trending)| Trending color palettes |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |

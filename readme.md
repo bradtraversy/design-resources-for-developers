@@ -140,7 +140,7 @@ Websites that offer free stock photos of all kinds for your websites and apps
 | [SkitterPhoto](https://skitterphoto.com/)| Free high resolution photography |
 | [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
 | [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
-| [Rawpixels](https://www.rawpixel.com/)| Your Creative Home |
+| [Rawpixel](https://www.rawpixel.com/)| Your Creative Home |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

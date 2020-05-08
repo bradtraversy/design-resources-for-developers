@@ -2,6 +2,8 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
+#### Please read `contributing guidelines` before submitting new resources.
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)

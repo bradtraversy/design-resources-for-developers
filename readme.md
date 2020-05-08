@@ -113,7 +113,7 @@
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
-| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos 
+| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -310,6 +310,7 @@
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components. |
+| [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -546,7 +547,7 @@
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
-| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB. | 
+| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

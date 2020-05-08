@@ -294,6 +294,7 @@
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
 | [BootstrapTaste](https://bootstraptaste.com/)| Premium & Free Bootstrap Templates|
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
+| [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

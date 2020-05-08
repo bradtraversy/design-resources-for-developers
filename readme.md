@@ -27,7 +27,7 @@
 
 ## UI Graphics
 
-Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
+>Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -55,7 +55,8 @@ Websites and resources with modern UI components in different formats such as PS
 
 ## Fonts
 
-Websites that offer free fonts as well as font based tools
+>Websites that offer free fonts as well as font based tools
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Google Fonts](https://fonts.google.com/)| Library of around 1000 free licensed font families |
@@ -75,6 +76,7 @@ Websites that offer free fonts as well as font based tools
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
+| [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -82,7 +84,8 @@ Websites that offer free fonts as well as font based tools
 
 ## Icons
 
-Resources for Icons including font based, png, svg and more
+>Resources for Icons including font based, png, svg and more
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
@@ -91,6 +94,7 @@ Resources for Icons including font based, png, svg and more
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
 | [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
+| [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |
 | [Linear Icons](https://linearicons.com/)| 1000+ Ultra crisp vector icons |
 | [Entypo](http://www.entypo.com/)| 411 carefully crafted premium pictograms by Daniel Bruce |
@@ -109,6 +113,10 @@ Resources for Icons including font based, png, svg and more
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library  |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
+| [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
+| [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
+| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -116,7 +124,8 @@ Resources for Icons including font based, png, svg and more
 
 ## Stock Photos
 
-Websites that offer free stock photos of all kinds for your websites and apps
+>Websites that offer free stock photos of all kinds for your websites and apps
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Pexels](https://www.pexels.com/)| Free stock photos shared by talented creators |
@@ -147,7 +156,8 @@ Websites that offer free stock photos of all kinds for your websites and apps
 
 ## Stock Videos
 
-Websites that offer free stock videos of all kinds for your websites and apps
+>Websites that offer free stock videos of all kinds for your websites and apps
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
@@ -162,7 +172,8 @@ Websites that offer free stock videos of all kinds for your websites and apps
 
 ## Vectors & Clip Art
 
-Free vectors, clipart, illustrations, patterns and more
+>Free vectors, clipart, illustrations, patterns and more
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
@@ -182,7 +193,8 @@ Free vectors, clipart, illustrations, patterns and more
 
 ## Product & Image Mockups
 
-Create mockups of devices and other products
+>Create mockups of devices and other products
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Smart Mockups](https://smartmockups.com/)| Create stunning product mockups (free & premium) |
@@ -192,6 +204,7 @@ Create mockups of devices and other products
 | [Mockup World](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 | [Facebook Devices](https://facebook.design/devices)| Images and Sketch files of popular devices  |
+| [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -199,7 +212,8 @@ Create mockups of devices and other products
 
 ## HTML & CSS Templates
 
-Websites that offer free beautiful website templates and themes of all types
+>Websites that offer free beautiful website templates and themes of all types
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [HTML5Up](https://html5up.net/)| Very modern, unique responsive HTML5/CSS3 themes |
@@ -217,6 +231,8 @@ Websites that offer free beautiful website templates and themes of all types
 | [Bootswatch](https://bootswatch.com/)| Free themes for Bootstrap|
 | [Onepagelove](https://onepagelove.com/)| One page websites, templates and resources|
 | [Themes For App](https://themesfor.app/)| Free Bootstrap themes and landing pages|
+| [BootstrapTaste](https://bootstraptaste.com/)| Premium & Free Bootstrap Templates|
+| [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -224,7 +240,8 @@ Websites that offer free beautiful website templates and themes of all types
 
 ## CSS Frameworks
 
-CSS/UI frameworks to help build great looking websites and applications
+>CSS/UI frameworks to help build great looking websites and applications
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Tailwind CSS](https://tailwindcss.com/)| Low level, utility-first framework |
@@ -249,6 +266,7 @@ CSS/UI frameworks to help build great looking websites and applications
 | [98.css](https://jdan.github.io/98.css/)| A design system for building faithful recreations of old UIs  |
 | [NES CSS](https://nostalgic-css.github.io/NES.css/)| NES-style CSS Framework  |
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
+| [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -256,7 +274,8 @@ CSS/UI frameworks to help build great looking websites and applications
 
 ## CSS Animations
 
-CSS animations to build awesome animations for websites and applications
+>CSS animations to build awesome animations for websites and applications
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Animate.css](https://animate.style/)| Just-add-water CSS animations |
@@ -271,6 +290,12 @@ CSS animations to build awesome animations for websites and applications
 | [Animista](http://animista.net/)| CSS Animations On Demand |
 | [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet |
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need   |
+| [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page |
+| [Hover.css](http://ianlunn.github.io/Hover/)| Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website |
+| [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure |
+| [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications |
+| [Animista](http://animista.net/)| Css Animations On Demand |
+| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -278,7 +303,8 @@ CSS animations to build awesome animations for websites and applications
 
 ## UI Components & Kits
 
-Not quite "frameworks", but tools for creating user interfaces with components or UI kits
+>Not quite "frameworks", but tools for creating user interfaces with components or UI kits
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [UILang](http://uilang.com/)| A minimal, ui-focused programming language for web designers |
@@ -301,7 +327,8 @@ Not quite "frameworks", but tools for creating user interfaces with components o
 
 ## React UI
 
-UI and component libraries for the React JavaScript framework
+>UI and component libraries for the React JavaScript framework
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
@@ -326,6 +353,12 @@ UI and component libraries for the React JavaScript framework
 | [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers 
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps 
+| [Ant Design](https://ant.design/)| Open source design React ui library. |
+| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
+| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
+| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps. |
+| [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
+| [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -333,7 +366,8 @@ UI and component libraries for the React JavaScript framework
 
 ## Vue UI
 
-UI and component libraries for the Vue JavaScript framework
+>UI and component libraries for the Vue JavaScript framework
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Vuetify](https://vuetifyjs.com/en/)| Material design component framework |
@@ -353,7 +387,8 @@ UI and component libraries for the Vue JavaScript framework
 
 ## Angular UI
 
-UI and component libraries for the Angular JavaScript framework
+>UI and component libraries for the Angular JavaScript framework
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material Angular](https://material.angular.io/)| UI library for Angular based on Material design |
@@ -364,6 +399,7 @@ UI and component libraries for the Angular JavaScript framework
 | [NG Semantic](https://ng-semantic.herokuapp.com/)| UI library for Angular based on Semantic UI |
 | [Nebular](https://akveo.github.io/nebular/)| Customizable UI Kit, Auth & Security for Angular |
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
+| [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -371,7 +407,8 @@ UI and component libraries for the Angular JavaScript framework
 
 ## Svelte UI
 
-UI and component libraries for the Svelte Javascript compiler
+>UI and component libraries for the Svelte Javascript compiler
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Svelte Material UI](https://sveltematerialui.com/)| UI library for Svelte based on Material Design |
@@ -384,7 +421,8 @@ UI and component libraries for the Svelte Javascript compiler
 
 ## Design Systems & Style Guides
 
-Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
+>Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Material Design](https://material.io/)| Google's Material Design |
@@ -411,7 +449,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 | [Mozilla Protocol](https://protocol.mozilla.org/)| Protocol is a design system for Mozilla and Firefox websites |
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid  |
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
-| [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc. |
+| [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
 
@@ -421,7 +459,8 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 
 ## Online Design Tools
 
-All kinds of online tools for design, from photo editors to wireframing, color generators and more
+>All kinds of online tools for design, from photo editors to wireframing, color generators and more
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
@@ -440,7 +479,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Coolors](https://coolors.co/generate)| Color schemes generator |
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
-| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
@@ -459,6 +498,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
+| [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -466,7 +506,8 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 
 ## Downloadable Design Software
 
-Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
+>Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Gimp](https://www.gimp.org/)| Free & open source image editor similar to Photoshop |
@@ -480,6 +521,7 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 | [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
 | [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects  |
 | [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
+| [InVision Studio](https://www.invisionapp.com/studio)| Free screen designing tool from InVision |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -487,7 +529,8 @@ Free software for UI, photo, 3d modeling, etc. Alternatives to paid software lik
 
 ## Design Inspiration
 
-Here are some websites to get inspiration for design and UI
+>Here are some websites to get inspiration for design and UI
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
@@ -498,7 +541,7 @@ Here are some websites to get inspiration for design and UI
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration  |
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
-| [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI|
+| [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock |
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
@@ -510,13 +553,16 @@ Here are some websites to get inspiration for design and UI
 
 ## Image Compression
 
-Sites that allows you to compress large images
+>Websites that allow you to compress large images
+
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
+| [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
+| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -524,8 +570,8 @@ Sites that allows you to compress large images
 
 ## Adding To This Repo
 
-Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
 
+>Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

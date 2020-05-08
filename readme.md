@@ -3,6 +3,7 @@
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 ## Table of Contents
+
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Icons](#icons)
@@ -47,7 +48,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
+| [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -270,7 +271,7 @@ CSS animations to build awesome animations for websites and applications
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications. |
 | [Animista](http://animista.net/)| Css Animations On Demand |
 | [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
-| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
+| [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -346,6 +347,7 @@ UI and component libraries for the Vue JavaScript framework
 | [Onsen Vue](https://onsen.io/vue/)| Distributes Components for hybrid mobile apps with Vue and Onsen UI |
 | [Vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 | [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
+| [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -525,7 +527,6 @@ Sites that allows you to compress large images
 ## Adding To This Repo
 
 Feel free to make a pull request and add more resources to this repo. The only requirements are that anything you add has to be FREE and put in the correct category. Also, please make sure your resource is not already here or in a PR. New resources are getting added all of the time.
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

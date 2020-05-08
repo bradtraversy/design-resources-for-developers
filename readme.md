@@ -110,7 +110,6 @@
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
 | [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes | 
 | [Web Gradients](https://webgradients.com/)| A free website to find good css gradients |
-| [Colorhexia](https://www.colorhexa.com/index.php) | A free collor lookup / pallet lookup tool |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

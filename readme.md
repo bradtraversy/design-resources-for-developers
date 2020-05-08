@@ -517,6 +517,7 @@ Sites that allows you to compress large images
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
+| [BulkResizePhotos](https://bulkresizephotos.com/)| Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline) |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

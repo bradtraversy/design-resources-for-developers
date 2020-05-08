@@ -137,7 +137,6 @@
 | [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place  |
 | [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons  |
 | [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
-| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources  |
 | [Icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG  |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project  |
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
@@ -145,7 +144,7 @@
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library  |
-| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
+| [Material Palette](https://www.materialpalette.com/icons)| Free to pick palettes, icons and colors for Material Design]|
 | [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
@@ -552,7 +551,6 @@
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
-| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |

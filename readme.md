@@ -346,6 +346,7 @@ Websites and resources that help with choices related to colors
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |
+| [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -375,10 +376,10 @@ Websites and resources that help with choices related to colors
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [Ant Design](https://ant.design/)| Open source design React ui library 
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers 
+| [Ant Design](https://ant.design/)| Open source design React ui library
+| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components
-| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps 
+| [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps
 | [Ant Design](https://ant.design/)| Open source design React ui library. |
 | [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
@@ -594,7 +595,7 @@ Websites and resources that help with choices related to colors
 | [BulkResizePhotos](https://bulkresizephotos.com/)| Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline) |
 | [iLoveIMG](https://www.iloveimg.com/)| The fastest free web app for easy image modification |
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
-| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB | 
+| [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

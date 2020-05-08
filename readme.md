@@ -10,6 +10,7 @@
 - [Icons](#icons)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
+- [Stock Music & Sound Effects](#stock-music--sound-effects)
 - [Vectors & Clipart](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
@@ -194,6 +195,23 @@ Websites and resources that help with choices related to colors
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Stock Music & Sound Effects
+
+>Websites that offer free stock music and/or sound effects
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
+| [Bensound](https://www.bensound.com/)| Download Royalty Free Music for free and use it in your project |
+| [Mixkit](https://mixkit.co/free-stock-music/)| Free music for your projects |
+| [Freesound](https://freesound.org/)| Free stock music and sounds |
+| [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
+| [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

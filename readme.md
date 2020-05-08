@@ -347,6 +347,7 @@ Websites and resources that help with choices related to colors
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |
 | [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
+| [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

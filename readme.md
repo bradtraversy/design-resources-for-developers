@@ -316,6 +316,7 @@
 | [Bulma](https://bulma.io/)| Modern CSS framework with no JS |
 | [Skeleton](http://getskeleton.com/)| Extremely light framework for basic UI elements |
 | [Semantic UI](https://semantic-ui.com/)| Empowers designers and developers by creating a shared vocabulary for UI  |
+| [Fomantic UI](https://fomantic-ui.com/)| A community fork of Semantic-UI |
 | [Foundation](https://get.foundation/)| Mobile first framework with clean markup |
 | [Pure CSS](https://purecss.io/)| A set of small, responsive CSS modules |
 | [UIKit](https://getuikit.com/)| Lightweight and modular front-end framework |

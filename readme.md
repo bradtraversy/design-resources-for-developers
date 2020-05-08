@@ -193,6 +193,7 @@
 | [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
 | [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
 | [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
+| [transparent images](https://www.freepngimg.com/)| transparent png Images, Pictures, Icons in different sizes stock photos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -370,6 +371,7 @@
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
+| [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -397,6 +399,8 @@
 | [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)| Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source  |
 | [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
 | [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
+| [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
+| [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -582,6 +586,7 @@
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
+| [Neumorphism.io](https://neumorphism.io/#55b9f3) | Generate Soft-UI CSS shadow code |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -661,6 +666,7 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
 | [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
+| [videomail.io](https://videomail.io/) | Email videos from your cam right away |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

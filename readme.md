@@ -630,7 +630,8 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [CODEPEN](https://codepen.io/)| Codepen is one of the finest places to discover your frontend talent. |
+| [Codepen](https://codepen.io/)| Codepen is one of the finest places to discover your frontend talent. |
+| [JSFiddle](https://jsfiddle.net/)| JSFiddle stands in the league of Codepen.io. It is slightly complicated in comparison to Codepen. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

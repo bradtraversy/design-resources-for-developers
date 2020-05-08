@@ -12,7 +12,7 @@
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [CSS Animations](#css-Animations)
+- [CSS Animations](#css-animations)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
@@ -21,8 +21,8 @@
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
+- [Design Inspiration](#design-inspiration)
+- [Image Compression](#image-compression)
 - [Adding To This Repo](#adding-to-this-repo)
 
 ## UI Graphics
@@ -48,6 +48,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
+| [ManyPixels](https://www.manypixels.co/gallery/) | Each week, discover royalty-free illustrations to power up your projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -109,6 +110,8 @@ Resources for Icons including font based, png, svg and more
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [illustrio](https://illustrio.com/) | A 100% free icon library with customizability options |
+| [iconstore.co](https://iconstore.co/) | Free Icons by First-Class Designers |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

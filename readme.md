@@ -312,6 +312,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
+| [Convertio](https://convertio.co/) | Convert your files to any format.|
 
 ## Downloadable Design Software
 

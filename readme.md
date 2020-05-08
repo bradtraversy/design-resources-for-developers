@@ -632,6 +632,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
+| [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -280,6 +280,7 @@
 | [Animista](http://animista.net/)| Css Animations On Demand |
 | [TypeIt JS](https://typeitjs.com/)| The most versatile animated typing utility on the planet.|
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)| Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need.  |
+| [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

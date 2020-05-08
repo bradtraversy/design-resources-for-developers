@@ -432,7 +432,7 @@
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
 | [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |
-| [Base Web](https://baseweb.design/)| Base Web provides a robust suite of components out of the box
+| [Base Web](https://baseweb.design/)| Base Web provides a robust suite of components out of the box |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

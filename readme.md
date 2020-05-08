@@ -151,6 +151,7 @@
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
+| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

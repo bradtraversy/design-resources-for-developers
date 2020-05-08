@@ -151,6 +151,7 @@
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
+| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -631,6 +632,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
+| [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

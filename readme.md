@@ -109,6 +109,7 @@ Resources for Icons including font based, png, svg and more
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design]|
 | [iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [CSS.gg](https://css.gg/) | Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

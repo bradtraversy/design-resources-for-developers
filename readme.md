@@ -48,6 +48,7 @@ Websites and resources with modern UI components in different formats such as PS
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
+| [FrontEnd Mentor](https://www.frontendmentor.io/challenges)                                                             | Contains alot of UI challenges you can practise                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -294,6 +295,7 @@ Not quite "frameworks", but tools for creating user interfaces with components o
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components. |
+| [Free FrontEnd](https://freefrontend.com/)                                                             | Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue, Angular) code snippets            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

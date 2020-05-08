@@ -1,4 +1,4 @@
-- **Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
 # [Resource Name - Edit this line]
 

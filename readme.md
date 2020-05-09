@@ -380,6 +380,7 @@
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
+| [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

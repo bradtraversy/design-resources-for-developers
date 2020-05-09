@@ -187,6 +187,7 @@ Not quite "frameworks", but tools for creating user interfaces with comoponents 
 | [Shards](https://designrevision.com/downloads/shards/)| A free and modern UI toolkit for web makers based on Bootstrap. |
 | [Creative Tim](https://www.creative-tim.com/)| All types of UI libraries and kits including JS frameworks like React |
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
+| [AdminLTE](https://adminlte.io/)| Best open source admin dashboard & control panel theme|
 
 ## React UI
 

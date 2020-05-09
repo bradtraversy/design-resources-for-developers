@@ -1,10 +1,8 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
-
 # [Resource Name - Edit this line]
 
-Edit this line with Small Description about new added resource 
+Compressnow is an online Image compressing site which compress JPEG, GIF and PNG image files 
 
-Link: www.linkToResource
+Link: https://compressnow.com
 
 #### Checklist:
 

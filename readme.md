@@ -117,6 +117,7 @@
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set  |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
 | [UI Gradients](https://uigradients.com/)| UI gradients color generator |
+| [Palette Generator](https://palettegenerator.colorion.co/)| Generate new color palette with every spacebar press |
 | [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
 
 <div align="right">

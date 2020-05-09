@@ -236,6 +236,8 @@ CSS/UI frameworks to help build great looking websites and applications
 | [Semantic UI](https://semantic-ui.com/)| Empowers designers and developers by creating a shared vocabulary for UI. |
 | [Foundation](https://get.foundation/)| Mobile first framework with clean markup |
 | [Pure CSS](https://purecss.io/)| A set of small, responsive CSS modules |
+| [Hint.CSS](https://kushagra.dev/lab/hint/)| A tooltip library in CSS |
+| [Mini.CSS](https://minicss.org/)| Minimal, responsive, style-agnostic CSS framework. |
 | [UIKit](https://getuikit.com/)| Lightweight and modular front-end framework |
 | [Susy](https://www.oddbird.net/susy/)| Lightweight, grid-layout engine for Sass |
 | [Milligram.io](https://milligram.io/)| Minimalist CSS framework |
@@ -267,6 +269,7 @@ CSS animations to build awesome animations for websites and applications
 | [CSShake](http://elrumordelaluz.github.io/csshake/)| CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page. |
 | [Hover.css](http://ianlunn.github.io/Hover/)| Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website. |
 | [Imagehover.css](http://imagehover.io/)| A pure CSS image hover effect library. |
+| [Loading IO](https://loading.io/)| Your SVG + GIF + PNG + AJAX loading icons and animations. Here you get live backgrounds and also has custom made facility. |
 | [AniJS](http://anijs.github.io/)| AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure. |
 | [Sequence.js](https://www.sequencejs.com/)| Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications. |
 | [Animista](http://animista.net/)| Css Animations On Demand |

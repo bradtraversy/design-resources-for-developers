@@ -673,6 +673,7 @@
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
+| [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

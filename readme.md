@@ -116,6 +116,7 @@
 | [Web Gradients](https://webgradients.com/)| A free website to find good css gradients |
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set  |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
+| [UI Gradients](https://uigradients.com/)| UI gradients color generator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -163,6 +164,7 @@
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [Devicon](https://konpa.github.io/devicon/) | Devicon is a set of icons representing programming languages, designing & development tools |
+| [Material Design Icons](https://materialdesignicons.com/) | A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -334,6 +336,7 @@
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
 | [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done |
 | [Blaze.css](http://blazecss.com/) | Open source modular CSS toolkit providing great structure for building websites quickly  |
+| [Turret CSS](https://turretcss.com/) | Turret CSS is a styles framework for development of responsive websites.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -464,6 +467,7 @@
 | [Vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 | [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
 | [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
+| [Antdv](https://antdv.com/)|UI library for Vue based on Ant Design |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -637,6 +641,7 @@
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
+| [Freefrontend](https://freefrontend.com/)| Free front end design from css html and javascript. latest work some design part |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

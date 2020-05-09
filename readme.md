@@ -151,7 +151,6 @@
 | [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
-| [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library  |
 | [Material Palette](https://www.materialpalette.com/icons)| Free to pick palettes, icons and colors for Material Design]|
 | [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |

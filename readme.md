@@ -120,6 +120,7 @@
 | [Palette Generator](https://palettegenerator.colorion.co/)| Generate new color palette with every spacebar press |
 | [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
 | [Grabient]( https://www.grabient.com/) | Gradient Selector |
+| [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

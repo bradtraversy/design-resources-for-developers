@@ -193,7 +193,6 @@
 | [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
 | [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
 | [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
-| [transparent images](https://www.freepngimg.com/)| transparent png Images, Pictures, Icons in different sizes stock photos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -666,7 +665,6 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
 | [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
-| [videomail.io](https://videomail.io/) | Email videos from your cam right away |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

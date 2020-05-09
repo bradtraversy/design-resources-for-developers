@@ -117,6 +117,7 @@
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set  |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
 | [UI Gradients](https://uigradients.com/)| UI gradients color generator |
+| [Grabient]( https://www.grabient.com/) | Gradient Selector |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -165,7 +166,7 @@
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [Devicon](https://konpa.github.io/devicon/) | Devicon is a set of icons representing programming languages, designing & development tools |
 | [Material Design Icons](https://materialdesignicons.com/) | A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. | 
-
+| [Growwkit](https://growwwkit.com/illustrations/phonies) | Icons collection and illustrations of phones
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -231,7 +232,7 @@
 | [Freesound](https://freesound.org/)| Free stock music and sounds |
 | [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
-
+| [Unminus](https://www.unminus.com/) | Free to use background music
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -594,6 +595,8 @@
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
 | [Neumorphism.io](https://neumorphism.io/#55b9f3) | Generate Soft-UI CSS shadow code |
+| [knutsynstad](http://knutsynstad.com/fauxcode) | Generate false code effect |
+| [uibakery](https://uibakery.io/signup-form-generator) | Online form generator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -661,8 +664,8 @@
 | [iLoveIMG](https://www.iloveimg.com/)| The fastest free web app for easy image modification |
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
-| [CompressNow](https://compressnow.com/)| JPEG,
-GIF,PNG Compression |   
+| [CompressNow](https://compressnow.com/)| JPEG,GIF,PNG Compression |   
+| [Promo Image Resizer](https://promo.com/tools/image-resizer/) | Image Resizer |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

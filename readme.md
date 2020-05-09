@@ -118,6 +118,7 @@
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
 | [UI Gradients](https://uigradients.com/)| UI gradients color generator |
 | [Palette Generator](https://palettegenerator.colorion.co/)| Generate new color palette with every spacebar press |
+| [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -152,7 +153,6 @@
 | [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
-| [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library  |
 | [Material Palette](https://www.materialpalette.com/icons)| Free to pick palettes, icons and colors for Material Design]|
 | [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
@@ -381,6 +381,7 @@
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
+| [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -401,6 +402,7 @@
 | [Shards](https://designrevision.com/downloads/shards/)| A free and modern UI toolkit for web makers based on Bootstrap  |
 | [Creative Tim](https://www.creative-tim.com/)| All types of UI libraries and kits including JS frameworks like React |
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
+| [AdminLTE](https://adminlte.io/)| Best open source admin dashboard & control panel theme|
 | [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
@@ -414,6 +416,7 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
 
 ## React UI
 
@@ -597,6 +600,7 @@
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
 | [Neumorphism.io](https://neumorphism.io/#55b9f3) | Generate Soft-UI CSS shadow code |
+| [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -184,6 +184,7 @@
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [Devicon](https://konpa.github.io/devicon/) | Devicon is a set of icons representing programming languages, designing & development tools |
+| [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | 202 thin stroke icons inspired by iOS 7 |
 | [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
 
 <div align="right">

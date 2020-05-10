@@ -124,6 +124,7 @@
 | [Grabient](https://www.grabient.com/) | Gradient Selector |
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [ColorSpace](https://mycolor.space/) | Generate color palettes from one color |
+| [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -115,12 +115,13 @@
 | [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
 | [Gradient Hunt](https://gradienthunt.com/)| A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients |
 | [Web Gradients](https://webgradients.com/)| A free website to find good css gradients |
-| [ColorBox](https://www.colorbox.io)| A free website to produce color set  |
+| [ColorBox](https://www.colorbox.io)| A free website to produce color set |
+| [CSS gradient](https://cssgradient.io/)| A free website to make custome gradient and some examples of gradient |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
 | [UI Gradients](https://uigradients.com/)| UI gradients color generator |
 | [Palette Generator](https://palettegenerator.colorion.co/)| Generate new color palette with every spacebar press |
 | [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
-| [Grabient]( https://www.grabient.com/) | Gradient Selector |
+| [Grabient](https://www.grabient.com/) | Gradient Selector |
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [ColorSpace](https://mycolor.space/) | Generate color palettes from one color |
 

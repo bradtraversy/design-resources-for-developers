@@ -194,7 +194,6 @@
 | [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
 | [IcoMoon](https://icomoon.io/) | Customizable icons as SVGs or fonts from various library |
 
-
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

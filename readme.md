@@ -609,14 +609,6 @@
 | [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
 | [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
-| [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
-| [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
-| [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
-| [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
-| [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams. |
-| [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker. |
-| [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |
-| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator  |

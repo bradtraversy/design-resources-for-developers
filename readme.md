@@ -183,6 +183,7 @@
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |
 | [Devicon](https://konpa.github.io/devicon/) | Devicon is a set of icons representing programming languages, designing & development tools |
+| [PaymentFont](https://paymentfont.com/) | A sleek webfont for payment operators and methods. Featuring 116 icons |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

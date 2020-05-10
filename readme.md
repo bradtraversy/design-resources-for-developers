@@ -179,6 +179,7 @@
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |
 | [Fontisto Icons](https://fontisto.com/)| Fontisto the iconic font and css toolkit · 616+ free icons  |
 | [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons  |
+| [Icofont](https://icofont.com/)| 2100+ free icons to spice up your creative designs  |
 | [Material Palette](https://www.materialpalette.com/icons)| Free to pick palettes, icons and colors for Material Design]|
 | [Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/index.html) | Material design icon font |
 | [Vscode Codicons](https://microsoft.github.io/vscode-codicons/dist/codicon.html) | The icon font from Visual Studio Code |

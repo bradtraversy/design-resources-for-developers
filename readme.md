@@ -566,6 +566,7 @@
 | [Rizzo](https://rizzo.lonelyplanet.com/styleguide/design-elements)| Style guide with UI components, JS components, widgets, etc |
 | [Atomize](https://atomizecode.com/)| UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly |
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
+| [Done Design System](https://uilibrary.github.io/done-design-system/)| Open source design system, guides & components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

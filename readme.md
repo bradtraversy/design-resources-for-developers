@@ -331,6 +331,7 @@
 | [BootstrapTaste](https://bootstraptaste.com/)| Premium & Free Bootstrap Templates|
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 | [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
+| [Free Frontend](https://freefrontend.com/) | Hand-picked free HTML5/CSS3/JS code examples |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -636,7 +637,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Adobe XD](https://www.adobe.com/products/xd.html)| Free UI/UX design tool |
 | [Gimp](https://www.gimp.org/)| Free & open source image editor similar to Photoshop |
 | [Gravit Designer](https://www.designer.io/en/)| Free full-featured vector graphic design app that works on ALL platforms  |
 | [Blender](https://www.blender.org/download/)| Open source, free animation, 3D modeling, etc. |

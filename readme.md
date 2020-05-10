@@ -684,6 +684,7 @@
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
 | [Freefrontend](https://freefrontend.com/)| Free front end design from css html and javascript. latest work some design part |
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |
+| [Collect UI](http://collectui.com/)| Daily inspiration collected from daily ui archive and beyond. Hand picked, and updating daily. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

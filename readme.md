@@ -192,6 +192,8 @@
 | [Weather Icons](https://erikflowers.github.io/weather-icons/) | Weather Icons is the only icon font with 222 weather themed icons |
 | [Stroke 7](https://themes-pixeden.com/font-demos/7-stroke/index.html) | 202 thin stroke icons inspired by iOS 7 |
 | [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
+| [IcoMoon](https://icomoon.io/) | Customizable icons as SVGs or fonts from various library |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -657,6 +657,7 @@
 | [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
 | [InVision Studio](https://www.invisionapp.com/studio)| Free screen designing tool from InVision |
 | [Darktable](https://www.invisionapp.com/studio)| Free & Open source photography workflow application and raw developer |
+| [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

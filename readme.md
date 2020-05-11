@@ -167,6 +167,7 @@
 | [Material Design Icons](https://materialdesignicons.com/) | A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Heroicons](https://heroicons.dev/) | Free, open source icons from the creators of Tailwind CSS. |
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |
+| [Endless Icons](http://endlessicons.com/) | A website offering a number of free icons. Icons are tagged and also compressed into kits. |
 | [Icomoon](https://icomoon.io/app/) |Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons. |
 
 <div align="right">
@@ -684,6 +685,7 @@
 | [Freefrontend](https://freefrontend.com/)| Free front end design from css html and javascript. latest work some design part |
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |
 | [Collect UI](http://collectui.com/)| Daily inspiration collected from daily ui archive and beyond. Hand picked, and updating daily. |
+| [Graphic Burger](https://graphicburger.com/) | A site offering a free and pain icons, mock-ups, Ui-Kits, text effect and backgrounds.  This site's resource are a mix of free and paid resources. Icons is on a mix of PNG, SVG, EPS and Sketch Format. Some resources are confusing as there are sponsored content in the middle of the free sets.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

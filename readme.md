@@ -159,6 +159,8 @@
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [Material Design Icons](https://materialdesignicons.com/) | A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
+| [Zondicons](http://www.zondicons.com/) | A set of free premium SVG icons for you to use on your digital products. you can download the icons into your desktop |
+| [Entypo](http://www.entypo.com/) | 411 carefully crafted premium pictograms |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

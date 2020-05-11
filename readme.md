@@ -708,6 +708,7 @@
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
 | [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
+| [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

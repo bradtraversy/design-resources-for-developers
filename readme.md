@@ -241,6 +241,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Pexels](https://www.pexels.com/)| Largest library of free to use videos, donated by the community |
 | [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
 | [Videezy](https://www.videezy.com/)| Free HD stock footage & 4K videos |
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |

@@ -57,6 +57,7 @@
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.
+| [Rive](https://rive.app/)                                                              | Real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform. 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

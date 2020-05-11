@@ -127,8 +127,7 @@
 | [ColorSpace](https://mycolor.space/) | Generate color palettes from one color |
 | [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
-| [0to255](https://www.0to255.com/) |
-A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
+| [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

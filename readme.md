@@ -126,6 +126,7 @@
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [ColorSpace](https://mycolor.space/) | Generate color palettes from one color |
 | [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
+| [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

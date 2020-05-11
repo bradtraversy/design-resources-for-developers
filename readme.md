@@ -167,6 +167,7 @@
 | [Material Design Icons](https://materialdesignicons.com/) | A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Heroicons](https://heroicons.dev/) | Free, open source icons from the creators of Tailwind CSS. |
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |
+| [Icomoon](https://icomoon.io/app/) |Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -414,6 +415,7 @@
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
+| [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -167,6 +167,7 @@
 | [Material Design Icons](https://materialdesignicons.com/) | A icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Heroicons](https://heroicons.dev/) | Free, open source icons from the creators of Tailwind CSS. |
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |
+| [Endless Icons](http://endlessicons.com/) | A set of free premium SVG icons for you to use on your digital products. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

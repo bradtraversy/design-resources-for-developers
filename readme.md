@@ -415,6 +415,7 @@
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
+| [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -638,6 +638,7 @@
 | [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
 | [Ui Bakery](https://uibakery.io/) | Create full-fledged web apps visually |
 | [Faux](http://knutsynstad.com/fauxcode/) | Turn real code into faux code |
+| [Rive](https://rive.app/) | Real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -730,6 +730,7 @@
 | [The Web Toolbox](https://thewebtoolbox.cc/)| A collection of handy, free-to-use tools for web developers, programmers and designers. |
 | [css-tricks](https://css-tricks.com/)| Free CSS tricks and some unique ideas for beginners and advanced |
 | [Material Design Resizer](https://material.io/resources/resizer/)| An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet. |
+| [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

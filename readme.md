@@ -489,7 +489,6 @@
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
 | [Ant Design](https://ant.design/)| Open source design React ui library. |
-| [KendoReact](https://www.telerik.com/kendo-react-ui/)| UI for React Developers. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Primer Components](https://primer.style/components/)| Primer Components are React components which implement GitHub's Primer Design System |
 | [Orbit](https://orbit.kiwi/)| Design system and React UI components for travel projects. |

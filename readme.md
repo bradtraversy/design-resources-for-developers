@@ -38,7 +38,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-|[Free Frontend](https://freefrontend.com/) |                                                              | Ui design all types of components                              |
+|[Free Frontend](https://freefrontend.com/)  |  Ui design all types of components   |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
 | [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |

@@ -25,7 +25,6 @@
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
-- [Accessibility Tools](#accessibility-tools)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
@@ -561,18 +560,6 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Accessibility Tools
-
->Website, tools, and resources related to accessibility in web design and development
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
-| [A11ygator](https://a11ygator.chialab.io/)| A website to scan websites against WCAG rules. Available as Google Chrome browser extension and as Twitter bot as well. |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
 ## Design Systems & Style Guides
 
 >Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
@@ -751,6 +738,7 @@
 | [css-tricks](https://css-tricks.com/)| Free CSS tricks and some unique ideas for beginners and advanced |
 | [Material Design Resizer](https://material.io/resources/resizer/)| An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet. |
 | [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent.|
+| [A11ygator](https://a11ygator.chialab.io/)| A web tool to scan websites against WCAG rules. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

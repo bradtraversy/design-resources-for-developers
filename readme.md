@@ -103,7 +103,7 @@
 | ----------------------- | ------------------ |
 | [Colormind.io](http://colormind.io)| Color palette generator |
 | [ColorCurves.app](https://colorcurves.app)| Color palette generator that uses curves to generate color palettes |
-| [Coolors](https://coolors.co)| Color schemes |
+| [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |

@@ -595,6 +595,7 @@
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
 | [Done Design System](https://uilibrary.github.io/done-design-system/)| Open source design system, guides & components |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
+| [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

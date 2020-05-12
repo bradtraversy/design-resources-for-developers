@@ -53,7 +53,6 @@
 | [Animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
-| [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.
@@ -295,7 +294,6 @@
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
-| [unDraw](https://undraw.co/illustrations)| Constantly updated Open-source SVG/PNG illustrations that you can use completely free and without attribution! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -486,7 +484,6 @@
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
-| [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
 | [Ant Design](https://ant.design/)| Open source design React ui library. |
 | [PRIMEREACT](https://www.primefaces.org/primereact/)| The ultimate collection of design-agnostic, flexible and accessible React UI Components |

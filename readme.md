@@ -175,6 +175,7 @@
 | [Eva Icons](https://akveo.github.io/eva-icons/#/) |Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
 | [Zondicons](http://www.zondicons.com/) | A set of free premium SVG icons for you to use on your digital products. you can download the icons into your desktop |
 | [Entypo](http://www.entypo.com/) | 411 carefully crafted premium pictograms |
+| [Cryptoicons](http://cryptoicons.co/) | A set of 430 crypto and fiat currency icons. Completely free. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

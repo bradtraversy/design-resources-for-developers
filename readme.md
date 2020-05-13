@@ -237,7 +237,7 @@
 | [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
 | [Piqsels](https://piqsels.com/)| Royalty Free Stock Photos |
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
-
+| [Nappy](https://www.nappy.co/)| Beautiful, high-res photos of black and brown people.|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

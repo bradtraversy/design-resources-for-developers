@@ -735,6 +735,7 @@
 | [Material Design Resizer](https://material.io/resources/resizer/)| An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet. |
 | [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent.|
 | [A11ygator](https://a11ygator.chialab.io/)| A web tool to scan websites against WCAG rules. |
+| [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

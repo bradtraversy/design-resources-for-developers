@@ -640,6 +640,7 @@
 | [Faux](http://knutsynstad.com/fauxcode/) | Turn real code into faux code |
 | [Rive](https://rive.app/) | Real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform. |
 | [Google Font to SVG](https://danmarshall.github.io/google-font-to-svg-path/) | Create an SVG path from a Google font |
+| [Embedded Google Fonts](https://amio.github.io/embedded-google-fonts/) | Embed base64 encoded google fonts into CSS. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

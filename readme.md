@@ -240,6 +240,7 @@
 | [Piqsels](https://piqsels.com/)| Royalty Free Stock Photos |
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
 | [Nappy](https://www.nappy.co/)| A website offering Beautiful, high-res photos of black and brown people.|
+| [Generated Photos](https://generated.photos/)| Unique AI Generated model photos|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

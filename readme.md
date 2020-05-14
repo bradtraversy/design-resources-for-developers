@@ -129,7 +129,8 @@
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 | [Gradient Buttons](https://gradientbuttons.colorion.co/) | Ready to use copy/paste gradient buttons |
 | [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
-| [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments. | [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
+| [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments. 
+| [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -727,6 +727,7 @@
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
 | [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
+| [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

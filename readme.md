@@ -178,6 +178,7 @@
 | [Zondicons](http://www.zondicons.com/) | A set of free premium SVG icons for you to use on your digital products. you can download the icons into your desktop |
 | [Entypo](http://www.entypo.com/) | 411 carefully crafted premium pictograms |
 | [Cryptoicons](http://cryptoicons.co/) | A set of 430 crypto and fiat currency icons. Completely free. |
+| [Ikonate](https://ikonate.com/) | Fully customisable & accessible vector icons |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

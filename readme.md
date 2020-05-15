@@ -753,7 +753,7 @@
 | [A11ygator](https://a11ygator.chialab.io/)| A web tool to scan websites against WCAG rules |
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Foramtter, Minifier, File Converter |
-
+| [appicon](https://appicon.co/)| Easyly Generate your App icons in diffrent sizes for iOS  macOS Android Mobile Apps | 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

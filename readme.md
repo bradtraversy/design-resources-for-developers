@@ -134,6 +134,7 @@
 | [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
 | [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments. 
 | [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
+| [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

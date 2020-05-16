@@ -1,7 +1,4 @@
-# Design Resources For Developers
-
-> A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
-
+![Repository Banner](https://res.cloudinary.com/techlead/image/upload/v1589632171/Github/mtqzazsxetwufeb08h4j.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents

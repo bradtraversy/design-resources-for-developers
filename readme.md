@@ -181,6 +181,7 @@
 | [Cryptoicons](http://cryptoicons.co/) | A set of 430 crypto and fiat currency icons. Completely free. |
 | [Ikonate](https://ikonate.com/) | Fully customisable & accessible vector icons |
 | [appicon](https://appicon.co/)| Quickly generate app icons in diffrent sizes for your IOS, macOS and Android projects|
+| [LineIcons](https://lineicons.com) | 2000+ Essential Line Icons for Designers and Developers |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

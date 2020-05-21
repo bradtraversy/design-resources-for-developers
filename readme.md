@@ -228,6 +228,7 @@
 | [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
 | [Fontastic.me](http://fontastic.me/) | Create your custom icon fonts in seconds. Over 9,000 icons available to pick from or upload your custom svg |
 | [Fontello](http://fontello.com/)| 200+ web icons where you can customize the names or codes of icons. |
+| [Linea](https://linea.io/)| Linea: Featuring 750+ Free Icons |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

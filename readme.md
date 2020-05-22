@@ -54,7 +54,8 @@
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
-| [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin     
+| [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
+| [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -131,7 +132,7 @@
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
 | [Gradient Buttons](https://gradientbuttons.colorion.co/) | Ready to use copy/paste gradient buttons |
 | [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
-| [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments. 
+| [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 | [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
 | [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
@@ -773,7 +774,7 @@
 | [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent|
 | [A11ygator](https://a11ygator.chialab.io/)| A web tool to scan websites against WCAG rules |
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
-| [CleanCss](https://www.cleancss.com/)| Tool For Code Foramtter, Minifier, File Converter | 
+| [CleanCss](https://www.cleancss.com/)| Tool For Code Foramtter, Minifier, File Converter |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

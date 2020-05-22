@@ -528,6 +528,7 @@
 | [Reaviz](https://reaviz.io)| Data visualization library for React based on D3 |
 | [React Suite](https://rsuitejs.com/en/)| A suite of React components, sensible UI design, and a friendly development experience. |
 | [React Spring](https://www.react-spring.io/)| Spring-physics based animation library for React applications. |
+| [Recharts](http://recharts.org/en-US/)| A composable charting library built on React components. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# Toolplate
 
-# Resource Name - Edit this line
+Toolplate is a free collection of HTML/CSS templates place.
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: https://www.tooplate.com/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [X] I have performed a self-review of submitted resource and its follows the guidelines of the project.

@@ -136,6 +136,7 @@
 | [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
 | [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
+| [Paletton](https://paletton.com/)| Paletton.com is a designer color tool designed for creating color combinations that work together well.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

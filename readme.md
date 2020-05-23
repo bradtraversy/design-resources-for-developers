@@ -489,6 +489,7 @@
 | [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
+| [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

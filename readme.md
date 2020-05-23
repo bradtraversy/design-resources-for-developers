@@ -1,4 +1,4 @@
-![Repository Banner](https://res.cloudinary.com/techlead/image/upload/v1589632171/Github/mtqzazsxetwufeb08h4j.png)
+![Repository Banner](header_image.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents

@@ -378,6 +378,7 @@
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 | [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 | [Tooplate](https://www.tooplate.com/)| Tooplate: Free HTML Templates for everyone! |
+| [Cruip](https://cruip.com/free-templates/)| Fully coded HTML templates to help you easily build your startup landing page without hassles. |
 | [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
 
 <div align="right">

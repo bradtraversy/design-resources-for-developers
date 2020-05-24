@@ -126,6 +126,8 @@
 | [Material Palettes](https://material.colorion.co/)| 1000+ Material Design palettes |
 | [Grabient](https://www.grabient.com/) | Gradient Selector |
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
+| [BrandColors](http://brandcolors.net/) | The biggest collection of official brand color codes  |
+| [BRAND PALETTES](https://brandpalettes.com/) | Logo Color Codes and Palettes  |
 | [ColorSpace](https://mycolor.space/) | Generate color palettes from one color |
 | [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
@@ -325,6 +327,7 @@
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
+| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -375,6 +378,8 @@
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 | [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 | [Tooplate](https://www.tooplate.com/)| Tooplate: Free HTML Templates for everyone! |
+| [Cruip](https://cruip.com/free-templates/)| Fully coded HTML templates to help you easily build your startup landing page without hassles. |
+| [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -414,6 +419,8 @@
 | [Turret CSS](https://turretcss.com/) | Turret CSS is a styles framework for development of responsive websites.  |
 | [Cutestrap](https://www.cutestrap.com/) | A strong, independent CSS Framework. |
 | [Shorthand](https://shorthandcss.com/) | Shorthand is a free and open source css framework, that allows you to make unique and modern design without writing any css |
+| [XP.css](https://botoxparty.github.io/XP.css/) | XP.css is an extention of 98.css. A CSS library for building interfaces that look like old UIs. |
+| [Framework7](https://framework7.io/) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -680,6 +687,7 @@
 | [Rive](https://rive.app/) | Real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform.
 | [Unscreen](https://www.unscreen.com/) | Remove Video Background 100% Automatically and Free |
 | [Kodeshot](https://www.kodeshot.net/) | Convert your source code into nice pictures for your articles, tweets, messages, posts... |
+| [Wix](https://www.wix.com/) | Create a Website You’re Proud Of |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -736,6 +744,7 @@
 | [Really Good Emails](https://reallygoodemails.com/) | A site offering users a ton of company e-mails from customer service to marketing.  |
 | [Free Design Resource](https://freedesignresources.net/) | A site offering fonts, mockups, templates graphics and ui kits.  |
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
+| [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -781,6 +790,9 @@
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Foramtter, Minifier, File Converter |
 | [Tiny helpers](https://tiny-helpers.dev/)| A collection of free single-purpose online tools for web developers |
+| [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
+| [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
+| [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
 
 <div align="right">

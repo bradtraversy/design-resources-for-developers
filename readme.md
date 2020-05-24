@@ -375,6 +375,7 @@
 | [BootstrapMade](https://bootstrapmade.com/)| Elegant, clean and beautiful free templates using Bootstrap. |
 | [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 | [Tooplate](https://www.tooplate.com/)| Tooplate: Free HTML Templates for everyone! |
+| [Wix](https://www.wix.com/)| Create a Website You’re Proud Of |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

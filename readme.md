@@ -127,6 +127,7 @@
 | [Grabient](https://www.grabient.com/) | Gradient Selector |
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [BrandColors](http://brandcolors.net/) | The biggest collection of official brand color codes  |
+| [BRAND PALETTES](https://brandpalettes.com/) | Logo Color Codes and Palettes  |
 | [ColorSpace](https://mycolor.space/) | Generate color palettes from one color |
 | [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |

@@ -491,6 +491,7 @@
 | [Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)| Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source  |
 | [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
 | [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
+| [Desingkit](https://designkit.io/)| Designkit is a tool to build tailwindcss based pages using the drag and drop/BETA Version. |
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
 | [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |

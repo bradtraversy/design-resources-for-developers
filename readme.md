@@ -155,6 +155,7 @@
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
 | [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
+| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
 | [Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons |
 | [Entypo](http://www.entypo.com/)| 411 carefully crafted premium pictograms by Daniel Bruce |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
@@ -250,6 +251,7 @@
 | [Magdeleine](https://magdeleine.co/)| Gallery & free high res photo everyday |
 | [Picspree](https://picspree.com)| Royalty free images, stock photos, illustrations, and vectors |
 | [Burst](https://burst.shopify.com/)| Free stock photos collections |
+| [Gratisography](https://gratisography.com/)| Free collection of free high-resolution pictures |
 | [Life of Pix](https://www.lifeofpix.com/)| Free high resolution photography |
 | [Stock Snap](https://stocksnap.io/)| Hundreds of high quality photos added weekly |
 | [Morguefile](https://morguefile.com/)| Over 350,000 free stock photos for commercial use |
@@ -489,6 +491,8 @@
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
 | [AdminLTE](https://adminlte.io/)| Best open source admin dashboard & control panel theme|
 | [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
+| [Epic Spinners](https://epic-spinners.epicmax.co/)| CSS spinners collection with Vue.js integration. |
+| [Loading.io](https://loading.io/)| Online service provider for creating simple animations, spinners, progress bar and more |
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |
@@ -653,6 +657,8 @@
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
 | [Vectr](https://vectr.com/)| Free vector graphics software|
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
+| [Get Waves](https://getwaves.io/)| A free SVG wave generator to make unique SVG waves for web design |
+| [Clippy](https://bennettfeely.com/clippy/)| Easy CSS clip-path maker |
 | [Wireframe.cc](https://wireframe.cc/)| Wireframing tool (free & paid) |
 | [Fotor](https://www.fotor.com/)| Photo editor and design maker |
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |
@@ -794,6 +800,10 @@
 | [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
 | [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
+<<<<<<< HEAD
+=======
+| [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
+>>>>>>> upstream/master
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

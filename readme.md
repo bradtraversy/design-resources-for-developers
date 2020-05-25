@@ -657,6 +657,7 @@
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
 | [Vectr](https://vectr.com/)| Free vector graphics software|
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
+| [Get Waves](https://getwaves.io/)| A free SVG wave generator to make unique SVG waves for web design |
 | [Wireframe.cc](https://wireframe.cc/)| Wireframing tool (free & paid) |
 | [Fotor](https://www.fotor.com/)| Photo editor and design maker |
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |

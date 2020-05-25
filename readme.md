@@ -139,6 +139,8 @@
 | [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
 | [Paletton](https://paletton.com/)| Paletton.com is a designer color tool designed for creating color combinations that work together well.|
+| [Colorzilla](https://www.colorzilla.com/) | A powerful online photoShop-like CSS gradient editor |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -803,6 +805,7 @@
 | [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
 | [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
+| [Responsively](https://manojvivek.github.io/responsively-app/) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

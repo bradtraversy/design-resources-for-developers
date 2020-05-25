@@ -486,6 +486,7 @@
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
 | [AdminLTE](https://adminlte.io/)| Best open source admin dashboard & control panel theme|
 | [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
+| [Epic Spinners](https://epic-spinners.epicmax.co/)| CSS spinners collection with Vue.js integration. |
 | [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 | [CSS Layout](https://csslayout.io/)| A collection of popular web layouts and patterns in pure CSS |
 | [Codyhouse](https://codyhouse.co/)| Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components  |

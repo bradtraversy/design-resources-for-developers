@@ -41,7 +41,7 @@
 | [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
 | [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
-| [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns       							|
+| [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns                     |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |
@@ -56,7 +56,7 @@
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
-| [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns					|
+| [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -685,7 +685,8 @@
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
-| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
+| [Grid Malven](http://grid.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox  |
+| [Flex Malven](http://flexbox.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |

@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# Flex Malven
 
-# Resource Name - Edit this line
+A css flexbox cheatsheet to reference when using flexbox
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: http://flexbox.malven.co/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [x] I have performed a self-review of submitted resource and its follows the guidelines of the project.

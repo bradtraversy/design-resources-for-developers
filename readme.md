@@ -42,6 +42,7 @@
 | [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
 | [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns                     |
+| [404 illustration](https://error404.fun/)                                                                | free illustrations for 404  pages |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |

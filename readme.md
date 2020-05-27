@@ -738,6 +738,7 @@
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
+| [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration|
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of UX writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community  |

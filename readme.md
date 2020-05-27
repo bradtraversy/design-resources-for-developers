@@ -738,7 +738,6 @@
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
-| [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration|
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
 | [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of UX writing examples, microcopy examples and copywriting examples |
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community  |
@@ -750,6 +749,7 @@
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
+| [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration |
 | [Freefrontend](https://freefrontend.com/)| Free front end design from css html and javascript. latest work some design part |
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |
 | [Collect UI](http://collectui.com/)| Daily inspiration collected from daily ui archive and beyond. Hand picked, and updating daily. |
@@ -794,7 +794,6 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
-| [Personas](https://personas.draftbit.com/) | A playful avatar generator for the modern age |
 | [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 | [The Web Toolbox](https://thewebtoolbox.cc/)| A collection of handy, free-to-use tools for web developers, programmers and designers. |
 | [WebDevTrick](https://webdevtrick.com/)| A famous blog for many amazing HTML, CSS, JQuery designs. |

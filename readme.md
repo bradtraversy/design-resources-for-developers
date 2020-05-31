@@ -334,6 +334,8 @@
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
+| [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
+| [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -345,7 +347,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [trianglify.io](https://trianglify.io/) | best image generator for hero section |
 | [Smart Mockups](https://smartmockups.com/)| Create stunning product mockups (free & premium) |
 | [Shot Snap](https://shotsnapp.com/)| Create beautiful device mockup images for your app or website design |
 | [Screely](https://www.screely.com/)| Instantly turn your screenshot into a mockup |
@@ -661,7 +662,6 @@
 | ----------------------- | ------------------ |
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
 | [Vectr](https://vectr.com/)| Free vector graphics software|
-| [blob](https://blobs.app/) | free blob generator |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Get Waves](https://getwaves.io/)| A free SVG wave generator to make unique SVG waves for web design |
 | [Clippy](https://bennettfeely.com/clippy/)| Easy CSS clip-path maker |

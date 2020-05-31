@@ -815,6 +815,7 @@
 | [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
 | [Responsively](https://manojvivek.github.io/responsively-app/) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
 | [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
+| [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
 
 
 <div align="right">

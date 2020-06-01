@@ -143,6 +143,8 @@
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
 | [Paletton](https://paletton.com/)| Paletton.com is a designer color tool designed for creating color combinations that work together well.|
 | [Colorzilla](https://www.colorzilla.com/) | A powerful online photoShop-like CSS gradient editor |
+| [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
+| [CombineCOLORS](https://combinecolors.com/) | Color mixing tool |
 
 
 <div align="right">

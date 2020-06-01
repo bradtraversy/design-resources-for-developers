@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
@@ -12,22 +13,22 @@
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
 - [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clipart](#vectors--clip-art)
+- [Vectors & Clip Art](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
-- [CSS Animations](#css-Animations)
-- [Javascript Animations](#javascript-animation-libraries)
+- [CSS Animations](#css-animations)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Svelte UI Libraries](#svelte-ui)
+- [React UI](#react-ui)
+- [Vue UI](#vue-ui)
+- [Angular UI](#angular-ui)
+- [Svelte UI](#svelte-ui)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
+- [Design Inspiration](#design-inspiration)
+- [Image Compression](#image-compression)
 - [Others](#others)
 
 ## UI Graphics
@@ -58,6 +59,7 @@
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns         |
+|[Cool Background](https://coolbackgrounds.io/) | A collection of great background SVG. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

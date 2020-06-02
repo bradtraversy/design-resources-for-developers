@@ -58,6 +58,7 @@
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns         |
+| [Cool Background](https://coolbackgrounds.io/) | A collection of cool background SVG |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

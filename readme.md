@@ -554,6 +554,7 @@
 | [React Suite](https://rsuitejs.com/en/)| A suite of React components, sensible UI design, and a friendly development experience. |
 | [React Spring](https://www.react-spring.io/)| Spring-physics based animation library for React applications. |
 | [Recharts](http://recharts.org/en-US/)| A composable charting library built on React components. |
+| [Vercel UI](https://github.com/zeit-ui/react) | Modern and minimalist React UI library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -655,7 +656,6 @@
 | [Done Design System](https://uilibrary.github.io/done-design-system/)| Open source design system, guides & components |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
-| [Vercel UI](https://github.com/zeit-ui/react) | Modern and minimalist React UI library |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

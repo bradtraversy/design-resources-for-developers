@@ -790,7 +790,7 @@
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
-| [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
+| [Promo Image Resizer](https://promo.com/tools/image-resizer/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |

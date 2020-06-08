@@ -437,6 +437,7 @@
 | [Framework7](https://framework7.io/) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
 | [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
 | [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
+| [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

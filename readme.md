@@ -342,6 +342,7 @@
 | [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
 | [HiClipart](https://www.hiclipart.com/)| A community for designers to share & download transparent background PNG cliparts |
 | [Stories by Freepik](https://stories.freepik.com/) | A collection of free and customizable illustrations for projects |
+| [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

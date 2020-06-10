@@ -58,6 +58,7 @@
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns         |
+| [IRA Design](https://iradesign.io/)                                                                     | An open-source gradient illustrations collection by creative tim.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -343,6 +344,7 @@
 | [HiClipart](https://www.hiclipart.com/)| A community for designers to share & download transparent background PNG cliparts |
 | [Stories by Freepik](https://stories.freepik.com/) | A collection of free and customizable illustrations for projects |
 | [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
+| [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -485,7 +487,8 @@
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
-| [Tilt.Js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Tilt.js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Roughnotation](https://roughnotation.com/)| Rough Notation is a small JavaScript library to create and animate annotations on a web page |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

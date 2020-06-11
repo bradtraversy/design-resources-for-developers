@@ -328,6 +328,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
+| [Black Illustrations](https://www.blackillustrations.com/)| Beautiful, FREE illustrations of black people for your next digital project! |
 | [Freepik](https://www.freepik.com)| Free vectors, stock photos, PSD and icons |
 | [Free Vectors](https://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
 | [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |

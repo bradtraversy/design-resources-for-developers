@@ -58,6 +58,8 @@
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns         |
+| [IRA Design](https://iradesign.io/)                                                                     | An open-source gradient illustrations collection by creative tim.  |
+| [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -341,6 +343,9 @@
 | [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
 | [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
 | [HiClipart](https://www.hiclipart.com/)| A community for designers to share & download transparent background PNG cliparts |
+| [Stories by Freepik](https://stories.freepik.com/) | A collection of free and customizable illustrations for projects |
+| [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
+| [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -393,6 +398,7 @@
 | [Tooplate](https://www.tooplate.com/)| Tooplate: Free HTML Templates for everyone! |
 | [Cruip](https://cruip.com/free-templates/)| Fully coded HTML templates to help you easily build your startup landing page without hassles. |
 | [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
+| [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -434,6 +440,9 @@
 | [Shorthand](https://shorthandcss.com/) | Shorthand is a free and open source css framework, that allows you to make unique and modern design without writing any css |
 | [XP.css](https://botoxparty.github.io/XP.css/) | XP.css is an extention of 98.css. A CSS library for building interfaces that look like old UIs. |
 | [Framework7](https://framework7.io/) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
+| [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
+| [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
+| [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -459,6 +468,7 @@
 | [Infinite](https://tilomitra.github.io/infinite/)| These animations, like rotations and pulses, that are specifically designed to run and repeat forever |
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
+| [Keyframes.app](https://keyframes.app/)| A graphical user interface for generating custom CSS keyframe animations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -478,7 +488,8 @@
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
-| [Tilt.Js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Tilt.js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
+| [Roughnotation](https://roughnotation.com/)| Rough Notation is a small JavaScript library to create and animate annotations on a web page |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -513,7 +524,7 @@
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
 | [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |
-
+| [Soft Components](https://soft-components-docs.web.app/)| A set of framework-agnostic web components based on neumorphic design. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -569,6 +580,7 @@
 | [Vuetify](https://vuetifyjs.com/en/)| Material design component framework |
 | [Bootstrap Vue](https://bootstrap-vue.org/)| Use Bootstrap components with Vue |
 | [Buefy](https://buefy.org/)| Lightweight UI components based on Bulma |
+| [Semantic UI Vue](https://semantic-ui-vue.github.io)| Semantic UI Vue is the Vue integration for Semantic UI |
 | [Quasar](https://quasar.dev/)| High-performance Material Design component suite with builders for SPA, SSR, PWA, Mobile (Cordova & Capacitor), Desktop (Electron) and Browser extensions |
 | [Element](https://element.eleme.io/#/en-US)| Desktop UI library for Vue |
 | [Fish UI](https://myliang.github.io/fish-ui/#/components/index)| Vue UI toolkit for the web |
@@ -710,6 +722,7 @@
 | [Kodeshot](https://www.kodeshot.net/) | Convert your source code into nice pictures for your articles, tweets, messages, posts... |
 | [Wix](https://www.wix.com/) | Create a Website You’re Proud Of |
 | [GTmetrix](https://gtmetrix.com/) | Website Speed and Performance Optimization |
+| [Framer](https://www.framer.com/) | Is prototyping tool for teams |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -735,6 +748,7 @@
 | [InVision Studio](https://www.invisionapp.com/studio)| Free screen designing tool from InVision |
 | [Darktable](https://www.darktable.org/)| Free & Open source photography workflow application and raw developer |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
+| [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easely! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -789,7 +803,7 @@
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
-| [Promo Image Resizer](https://compressnow.com/)| Free Image and Photo Resizer |
+| [Promo Image Resizer](https://promo.com/tools/image-resizer/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |

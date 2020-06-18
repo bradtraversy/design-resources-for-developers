@@ -445,6 +445,7 @@
 | [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
 | [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
 | [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
+| [Tachyons](https://tachyons.io/) | Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

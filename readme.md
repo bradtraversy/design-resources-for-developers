@@ -97,6 +97,7 @@
 | [Befonts](https://befonts.com/) | High quality fonts for free |
 | [Arabic fonts](https://arabicfonts.net/) | Arabic fonts for free |
 | [FontDrop](https://fontdrop.info) | Simple and easy way to view the contents of font files |
+| [Open Foundry](https://open-foundry.com) | FREE platform for curated open-source typefaces |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

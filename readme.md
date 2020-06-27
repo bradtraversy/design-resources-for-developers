@@ -151,7 +151,7 @@
 | [Colorzilla](https://www.colorzilla.com/) | A powerful online photoShop-like CSS gradient editor |
 | [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
 | [CombineCOLORS](https://combinecolors.com/) | Color mixing tool |
-
+| [Color Lovers](https://www.colourlovers.com/palettes) | it will show the color schemes which are popular in outside world
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -449,7 +449,7 @@
 | [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
 | [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
 | [Tachyons](https://tachyons.io/) | Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. |
-
+| [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -618,7 +618,8 @@
 | [Alyle UI](https://alyle.io/)| Minimal components set for Angular |
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
 | [NG Zorro](https://ng.ant.design/)| UI library for Angular based on Ant Design |
-
+| [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
+| [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | for multi select dropdowm in forms |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

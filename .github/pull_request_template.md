@@ -1,10 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# Resource Name - Edit this line
+# Pinterest - Design Inspiration
 
-Edit this line with Small Description about new added resource
+Sign up, search, pin and save free UI and design templates.
 
-Link: www.linkToResource
+Link: www.pinterest.com
 
 #### Checklist:
 

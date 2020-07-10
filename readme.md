@@ -723,6 +723,7 @@
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
+| [Big Heads](https://github.com/RobertBroersma/bigheads) | Easily generate avatars for your projects with Big Heads by Robert Broersma.
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
 | [Neumorphism.io](https://neumorphism.io/#55b9f3) | Generate Soft-UI CSS shadow code |

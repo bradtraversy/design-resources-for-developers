@@ -28,6 +28,7 @@
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
+- [SEO](#Search Engine Optimization(SEO))
 - [Others](#others)
 
 ## UI Graphics
@@ -824,6 +825,31 @@
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Search Engine Optimization(SEO)
+
+>Websites that allow you to imporve SEO
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+
+| [Semrush](https://www.semrush.com/)| SEMrush is a software as a service that sells online visibility and marketing analytics software subscriptions. |
+| [Alexa](https://www.alexa.com/)| tools you need to improve your SEO and PPC strategy. |
+| [Google Trends](https://trends.google.com/)| Explore what the world is searching in Google. |
+| [Keywordtool](https://keywordtool.io/)| Free online keyword research instrument that uses Google Autocomplete to generate hundreds of relevant long-tail keywords for any topic. |
+| [Moz](https://moz.com/domain-analysis?site=haloauragraphic.com)| Show you top competitive SEO metrics like Domain Authority, top pages, ranking keywords, and more. |
+| [Webpagetest](https://www.webpagetest.org/)| Test a website's performance. |
+| [Pingdom](https://tools.pingdom.com/)| Enter a URL to test the page load time, analyze it, and find bottlenecks. |
+| [Gtmetrix](https://gtmetrix.com/)| See how your site performs, reveal why it's slow and discover optimization opportunities. |
+| [Ranksignals](https://www.ranksignals.com/)| Uncover SEO backlinks & traffic sources of your competitors. |
+| [Majestic](https://majestic.com/)| Find out who links to your website. |
+| [Openlinkprofiler](https://www.openlinkprofiler.org/)| Analyze the links of any website for free. |
+| [Webmeup](https://webmeup.com/)| Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite. |
+| [Sur](https://sur.ly/)| Sur.ly alters the outbound links on your site so that visitors can get to external target pages without leaving your domain. |
+| [Majestic](https://majestic.com/)| Find out who links to your website. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

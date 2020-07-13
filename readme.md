@@ -576,7 +576,6 @@
 | [React Spring](https://www.react-spring.io/)| Spring-physics based animation library for React applications. |
 | [Recharts](http://recharts.org/en-US/)| A composable charting library built on React components. |
 | [Vercel UI](https://github.com/zeit-ui/react) | Modern and minimalist React UI library |
-| [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -737,6 +736,7 @@
 | [Wix](https://www.wix.com/) | Create a Website You’re Proud Of |
 | [GTmetrix](https://gtmetrix.com/) | Website Speed and Performance Optimization |
 | [Framer](https://www.framer.com/) | Is prototyping tool for teams |
+| [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -28,7 +28,7 @@
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
-- [SEO](#Search-engine-optimization)
+- [Search Engine Optimization](#Search-Engine-Optimization)
 - [Others](#others)
 
 ## UI Graphics
@@ -830,13 +830,12 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Search Engine Optimization(SEO)
+## Search Engine Optimization
 
 >Websites that allow you to imporve SEO
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-
 | [Semrush](https://www.semrush.com/)| SEMrush is a software as a service that sells online visibility and marketing analytics software subscriptions. |
 | [Alexa](https://www.alexa.com/)| tools you need to improve your SEO and PPC strategy. |
 | [Google Trends](https://trends.google.com/)| Explore what the world is searching in Google. |

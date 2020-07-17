@@ -578,6 +578,7 @@
 | [Recharts](http://recharts.org/en-US/)| A composable charting library built on React components. |
 | [Vercel UI](https://github.com/zeit-ui/react) | Modern and minimalist React UI library |
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
+| [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 
 
 <div align="right">

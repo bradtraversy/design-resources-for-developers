@@ -503,6 +503,7 @@
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
 | [Tilt.js](http://gijsroge.github.io/tilt.js/)| A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery. |
 | [Roughnotation](https://roughnotation.com/)| Rough Notation is a small JavaScript library to create and animate annotations on a web page |
+| [Particles.js](https://vincentgarreau.com/particles.js/)| A lightweight JavaScript library for creating particles |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

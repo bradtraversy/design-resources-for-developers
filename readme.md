@@ -309,6 +309,7 @@
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
+| [Internet Archives](https://archive.org/details/movies)| Free and premium stock videos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -88,6 +88,7 @@
 | [Fonts for Apple Platforms](https://developer.apple.com/fonts/)| Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps |
 | [SFWin](https://github.com/blaisck/sfwin/)| San Francisco Fonts for Windows 10 and non-Apple Platform |
 | [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts |
+| [Iconscout](https://iconscout.com/)| Free icons in wide variety of styles like line, solid, flat, colored outline, hand drawn and many more such styles.Icons in PNG, SVG, AI, EPS, Bases 64, all file formats are available in royalty-free. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

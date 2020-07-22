@@ -154,6 +154,7 @@
 | [Color Lovers](https://www.colourlovers.com/palettes) | it will show the color schemes which are popular in outside world
 | [HTML CSS Color](https://www.htmlcsscolor.com/) | Free online Color (USA) or Colour (British) tools: information, gradient generator, color wheels etc.
 | [HEX Color Codes](https://hexcolorcodes.org/) | It gets HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.
+| [CoolHue 2.0](https://webkul.github.io/coolhue/) | A free tool that shows different gradient examples in CSS and PNG format
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

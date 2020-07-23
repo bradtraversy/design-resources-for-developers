@@ -60,6 +60,7 @@
 | [IRA Design](https://iradesign.io/)                                                                     | An open-source gradient illustrations collection by creative tim.  |
 | [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
+| [Patternico](https://patternico.com) | Seamless Pattern Maker |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

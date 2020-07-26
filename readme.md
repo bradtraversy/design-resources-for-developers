@@ -61,6 +61,7 @@
 | [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
+| [Freellustrations](https://freellustrations.com/) | Free Background Images for awesome landing Pages |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -312,6 +313,7 @@
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
 | [Life Of Vids](https://www.lifeofvids.com/)| Free video clips and loops |
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
+| [Loopvidz](http://stock.loopvidz.com/)| Free To Use Cinemagraphs Created With VIMAGE App |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -374,6 +376,7 @@
 | [Smart Mockups](https://smartmockups.com/)| Create stunning product mockups (free & premium) |
 | [Shot Snap](https://shotsnapp.com/)| Create beautiful device mockup images for your app or website design |
 | [Screely](https://www.screely.com/)| Instantly turn your screenshot into a mockup |
+| [Screenshot.rocks](https://screenshot.rocks/)| Create beautiful browser & mobile mockups in seconds |
 | [Screen Peak](https://screenpeek.io/)| Create a mockup from a URL |
 | [Mockup World](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
@@ -460,6 +463,8 @@
 | [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
 | [Tachyons](https://tachyons.io/) | Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. |
 | [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
+| [Ivory](https://github.com/IVORY-UI/ivory) | A modern CSS framework for developing powerful web interfaces faster and easier |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

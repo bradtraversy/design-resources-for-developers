@@ -704,6 +704,7 @@
 | [Done Design System](https://uilibrary.github.io/done-design-system/)| Open source design system, guides & components |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
+| [Asphalt](https://asphalt.gojek.io/) | Gojek’s design language system. A collection of guidelines and components to create amazing user experiences. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -885,6 +885,7 @@
 | [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
 | [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
+| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
 
 
 <div align="right">

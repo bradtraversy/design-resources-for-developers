@@ -210,6 +210,7 @@
 | [SVG Repo](https://www.svgrepo.com/) | Download free SVG Vectors for commercial use. |
 | [Convertio](https://convertio.co/png-svg/) | Convert PNG files to SVG online & free. (One of the services provided by it.) |
 | [CSS ICON](https://cssicon.space/) | Icon set made with pure css code, no dependencies, "grab and go" icons |
+| [Unified icons](https://iconify.design/) |Thousands of icons, one unified framework. One library, over 40,000 vector icons. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -856,6 +856,7 @@
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
+| [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -308,6 +308,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age. |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator. |
+| [Neumorphism.io](https://neumorphism.io/#5b7c8f)| Generate Soft-UI CSS code. |
 | [Photopea](https://www.photopea.com)| A Online Photoshop editor. |
 | [Squoosh](https://squoosh.app/)| Reduce photo size and convert to modern formats. |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map. |

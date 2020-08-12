@@ -895,6 +895,7 @@
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
 | [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
 | [PlayCode](https://playcode.io/) | Javascript playground.  |
+| [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

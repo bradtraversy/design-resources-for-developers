@@ -601,7 +601,7 @@
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
-
+| [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

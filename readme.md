@@ -364,6 +364,7 @@
 | [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
 | [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
+| [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and Powerpoint presentations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

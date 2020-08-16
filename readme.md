@@ -298,6 +298,9 @@
 | [Reshot](https://www.reshot.com/)| Uniquely free photos. Handpicked, non-stocky images.
 | [Free Images](https://www.freeimages.com/)| Find and download free stock photos - all free for personal and commercial use|
 | [Lorem Picsum](https://picsum.photos/)| An easy to use API to get beautiful placeholder images. Size and other parameters can be specified. |
+| [Saxifraga](http://www.freenatureimages.eu) | Free nature images|
+| [scienceimage](https://www.scienceimage.csiro.au) | An image library specializing in science and nature images |
+| [Public Health Image Library](https://phil.cdc.gov) | An organized, universal electronic gateway to the CDC's pictures |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -364,6 +367,11 @@
 | [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
 | [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
+| [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
+| [Clipart Library](http://clipart-library.com) | Free clip art library |
+| [Library of Science & Medical Illustrations](https://www.somersault1824.com/science-illustrations) | Ready-to-use science illustrations in 5 different color schemes |
+| [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and Powerpoint presentations |
+| [DeviantArt](https://www.deviantart.com/) | Free access to 370 million pieces of art |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

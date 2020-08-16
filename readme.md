@@ -298,6 +298,7 @@
 | [Reshot](https://www.reshot.com/)| Uniquely free photos. Handpicked, non-stocky images.
 | [Free Images](https://www.freeimages.com/)| Find and download free stock photos - all free for personal and commercial use|
 | [Lorem Picsum](https://picsum.photos/)| An easy to use API to get beautiful placeholder images. Size and other parameters can be specified. |
+| [Public Health Image Library](https://phil.cdc.gov) | An organized, universal electronic gateway to the CDC's pictures |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

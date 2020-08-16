@@ -298,6 +298,7 @@
 | [Reshot](https://www.reshot.com/)| Uniquely free photos. Handpicked, non-stocky images.
 | [Free Images](https://www.freeimages.com/)| Find and download free stock photos - all free for personal and commercial use|
 | [Lorem Picsum](https://picsum.photos/)| An easy to use API to get beautiful placeholder images. Size and other parameters can be specified. |
+| [Saxifraga](http://www.freenatureimages.eu) | Free nature images |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -364,7 +365,7 @@
 | [Black Illustrations](https://www.blackillustrations.com/) | Beautiful illustrations of black people (free and premium) |
 | [Delesign](https://delesign.com/free-designs/graphics) | A collection of free illustrations and more |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
-| [DeviantArt](https://www.deviantart.com/) | Free access to 370 million pieces of art |
+| [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -835,6 +836,7 @@
 | [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
 | [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
+| [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

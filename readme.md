@@ -29,7 +29,7 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
-- [VS Code Extensions](#Vs-code-extensions)
+- [Visual Studio Code Extensions](#Vs-code-extensions)
 - [Others](#others)
 
 ## UI Graphics
@@ -895,9 +895,9 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## VS Code Extensions
+## Visual Studio Code Extensions
 
->Useful Chrome extensions for Designers and Web-Developers.
+>Useful Visual Studio Code extensions for Designers and Web-Developers.
 
 | Marketplace URL&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |

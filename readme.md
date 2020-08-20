@@ -29,7 +29,7 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
-- [Visual Studio Code Extensions](#Vs-code-extensions)
+- [Visual Studio Code Extensions](#Visual-studio-code-extensions)
 - [Others](#others)
 
 ## UI Graphics

@@ -541,6 +541,7 @@
 | [UILang](http://uilang.com/)| A minimal, ui-focused programming language for web designers |
 | [Medialoot CSS Components](https://medialoot.com/free-themes/css-components/)| Calendars, price grids and other UI components |
 | [Froala Design Blocks](https://froala.com/design-blocks)| Over 170 responsive design blocks ready to be used in your web or mobile apps |
+| [Mui Treasury](https://mui-treasury.com)| An open-source project that provides a collection of ready-to-use components based on Material-UI.  |
 | [Material Design For Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/)| Open source toolkit for building material design with Bootstrap |
 | [Photonkit](http://photonkit.com/)| Desktop UI library for Electron |
 | [Flat UI](https://designmodo.github.io/Flat-UI/)| Minimal free user interface kit|
@@ -562,6 +563,7 @@
 | [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |
 | [Soft Components](https://soft-components-docs.web.app/)| A set of framework-agnostic web components based on neumorphic design. |
 | [Fast](https://www.fast.design/)| An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
+| [LottieFiles ](https://lottiefiles.com/)| Interactive animations in many formats like json,gif and mp4, libraries and plugins for Web & Mobile . |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

@@ -154,6 +154,7 @@
 | [Colorzilla](https://www.colorzilla.com/) | A powerful online photoShop-like CSS gradient editor |
 | [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
 | [CombineCOLORS](https://combinecolors.com/) | Color mixing tool |
+| [Gradientme](https://gurupawar.github.io/gradientme/)| Awesome Gradient Collection |
 | [Color Lovers](https://www.colourlovers.com/palettes) | it will show the color schemes which are popular in outside world
 | [HTML CSS Color](https://www.htmlcsscolor.com/) | Free online Color (USA) or Colour (British) tools: information, gradient generator, color wheels etc.
 | [HEX Color Codes](https://hexcolorcodes.org/) | It gets HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.

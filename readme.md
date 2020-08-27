@@ -201,7 +201,6 @@
 | [Endless Icons](http://endlessicons.com/) | A website offering a number of free icons. Icons are tagged and also compressed into kits. |
 | [Icomoon](https://icomoon.io/app/) |Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons. |
 | [Eva Icons](https://akveo.github.io/eva-icons/#/) |Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
-| [Zondicons](http://www.zondicons.com/) | A set of free premium SVG icons for you to use on your digital products. you can download the icons into your desktop |
 | [Cryptoicons](http://cryptoicons.co/) | A set of 430 crypto and fiat currency icons. Completely free. |
 | [Ikonate](https://ikonate.com/) | Fully customisable & accessible vector icons |
 | [appicon](https://appicon.co/)| Quickly generate app icons in diffrent sizes for your IOS, macOS and Android projects|

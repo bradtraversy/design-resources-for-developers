@@ -523,6 +523,7 @@
 | [Particles.js](https://vincentgarreau.com/particles.js/)| A lightweight JavaScript library for creating particles |
 | [mo.js](https://mojs.github.io/)| The motion graphics toolbelt for the web |
 | [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)| A small JS library to overlay images on top of the current page. |
+| [Slick](https://kenwheeler.github.io/slick/)|  Fully responsive carousel |
 
 
 <div align="right">

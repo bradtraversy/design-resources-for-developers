@@ -27,7 +27,8 @@
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
+- [Image Compression](#Image-compression)Create your site quickly and effectively with Metro 4
+Metro 4 is a free open-source impressive components library built on html, css, javascript.
 - [Chrome Extensions](#Chrome-extensions)
 - [Others](#others)
 
@@ -475,8 +476,7 @@
 | [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
 | [Ivory](https://github.com/IVORY-UI/ivory) | A modern CSS framework for developing powerful web interfaces faster and easier |
 | [Halfmoon UI](https://www.gethalfmoon.com/)| A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
-| [Metro 4](https://metroui.org.ua/index.html)| Create your site quickly and effectively with Metro 4
-Metro 4 is a free open-source impressive components library built on html, css, javascript. |
+| [Metro 4](https://metroui.org.ua/index.html)| Create your site quickly and effectively with Metro 4. impressive components library built on html, css, javascript. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

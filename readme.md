@@ -27,8 +27,7 @@
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)Create your site quickly and effectively with Metro 4
-Metro 4 is a free open-source impressive components library built on html, css, javascript.
+- [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
 - [Others](#others)
 

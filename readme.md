@@ -782,6 +782,7 @@
 | [GTmetrix](https://gtmetrix.com/) | Website Speed and Performance Optimization |
 | [Framer](https://www.framer.com/) | Is prototyping tool for teams |
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
+| [Giphy](https://giphy.com/) | The world's largest library of free GIFs, Stickers & memes! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -126,6 +126,7 @@
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc |
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
+| [ColorsWall](https://colorswall.com/) | Place to store your color palettes and generate palette in one click |
 | [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects by Mackenzie Child |
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
 | [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |

@@ -938,6 +938,7 @@
 | [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
 | [PlayCode](https://playcode.io/) | Javascript playground.  |
 | [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
+| [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

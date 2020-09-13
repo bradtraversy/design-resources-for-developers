@@ -904,6 +904,8 @@
 | [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) | Adds a semi-transparent image overlay over the top of the developed HTML to easily perform pixel perfect comparison between them, useful for replicating UI designs. |
 | [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) | Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | A must-have tool for designers and frontend developers to grab colors for any website. |
+| [Mobile/Responsive Web Design Tester](https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo) | Test responsive web designs or mobile pages that detect specific user agents. Test multiple devices at the same time! |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

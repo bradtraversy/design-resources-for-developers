@@ -530,6 +530,7 @@
 | [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)| A small JS library to overlay images on top of the current page. |
 | [Slick](https://kenwheeler.github.io/slick/)|  Fully responsive carousel |
 | [barba.js](https://barba.js.org/)| Create fluid and smooth transitions between your website’s pages. |
+| [mo.js](https://mojs.github.io/)| A javascript motion graphics library that is a fast, retina ready, modular and open source. |
 
 
 <div align="right">

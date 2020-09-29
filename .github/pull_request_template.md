@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+PngPix
 
-# Resource Name - Edit this line
+Free Transparent PNG Images For Everyone
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: http://www.pngpix.com/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [ *] I have performed a self-review of submitted resource and its follows the guidelines of the project.

@@ -115,6 +115,7 @@
 | [Gradient Hunt](https://gradienthunt.com/)| A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients |
 | [Web Gradients](https://webgradients.com/)| A free website to find good css gradients |
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set  |
+|[paletton.com](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)| Random color generated on one click which is relevent to each other|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

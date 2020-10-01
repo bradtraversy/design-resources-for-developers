@@ -333,6 +333,7 @@
 | [Shoelace.css](https://www.shoelace.style/)| Lightweight, forward-thinking CSS library built with future CSS syntax |
 | [MVP.css](https://andybrewer.github.io/mvp/) | A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML and you're done |
 | [Blaze.css](http://blazecss.com/) | Open source modular CSS toolkit providing great structure for building websites quickly  |
+|[paletton.com](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)| Random color generated on one click which is relevent to each other|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

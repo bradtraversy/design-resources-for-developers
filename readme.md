@@ -970,6 +970,7 @@
 | [Sketchize](https://www.sketchize.com/) | Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices. |
 | [{CSS}Portal](https://www.cssportal.com/) | CSSPortal is home to a large range of CSS generators, tools and resources. |
 | [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
+| [papersizes](https://papersizes.io/) | The best resource for International Paper Sizes, Dimensions & Formats. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

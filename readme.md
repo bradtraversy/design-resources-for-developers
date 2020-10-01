@@ -968,7 +968,7 @@
 | [Gerillass](https://gerillass.com/) | Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs. |
 | [Sketchize](https://www.sketchize.com/) | Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices. |
 | [{CSS}Portal](https://www.cssportal.com/) | CSSPortal is home to a large range of CSS generators, tools and resources. |
-| [DevDocs}(https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
+| [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -434,6 +434,7 @@
 | [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
 | [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
 | [Splawr](https://splawr.com/) | Free web templates to kickstart your idea! |
+| [TailwindUI](https://tailwindui.com/components) | Free web snippets in tailwind to kickstart your idea! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

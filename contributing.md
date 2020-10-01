@@ -9,3 +9,4 @@
   - Example: `Link: https://tailwindcss.com/`
 
 - Double check if the resource is truly free without any kind of hidden surprises.
+- This is completely free

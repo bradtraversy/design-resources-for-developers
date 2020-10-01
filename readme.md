@@ -56,6 +56,8 @@
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
 | [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns
+|
+| [IsoFlat](https://isoflat.com/)                                                                          | A Free collection of Isometric SVG graphic resources
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -89,6 +89,7 @@
 | [Fontjoy](https://fontjoy.com/)| Generate font pairing in one click |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 | [FontSpark](https://fontspark.app/) | Discover Better Fonts |
+| [FontGet](https://www.fontget.com/) | Has a variety of fonts available to download and sorted neatly with tags |
 | [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |

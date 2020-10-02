@@ -218,6 +218,9 @@
 | [CSS ICON](https://cssicon.space/) | Icon set made with pure css code, no dependencies, "grab and go" icons |
 | [Unified icons](https://iconify.design/) |Thousands of icons, one unified framework. One library, over 40,000 vector icons. |
 | [System UIcons](https://systemuicons.com/) |220+ icons in a growing collection. |
+| [Flaticon](https://www.flaticon.com/)| Access 3,427,500 vector icons |
+
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

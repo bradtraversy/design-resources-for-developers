@@ -220,8 +220,6 @@
 | [System UIcons](https://systemuicons.com/) |220+ icons in a growing collection. |
 | [Flaticon](https://www.flaticon.com/)| Access 3,427,500 vector icons |
 
-
-
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -269,7 +267,7 @@
 | [Linea](https://linea.io/)| Linea: Featuring 750+ Free Icons |
 | [Unicons](https://iconscout.com/unicons)| A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native. |
 | [Mobirise Icons](https://mobiriseicons.com/)| A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
-
+| [Line Awesome](https://icons8.com/line-awesome/)| is a free alternative for Font Awesome, flat icons that offer complete coverage of the main Font Awesome icon set. | 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -872,6 +870,7 @@
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 | [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
+| [Humans.fyi](https://humans.fyi/) | A collection of brilliant personal websites filterable by colors and web technologies used in each website. |
 
 
 <div align="right">

@@ -436,6 +436,9 @@
 | [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
 | [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
 | [Splawr](https://splawr.com/) | Free web templates to kickstart your idea! |
+| [W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp) | Some responsive W3.CSS website templates for you to use. |
+| [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

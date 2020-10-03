@@ -265,7 +265,7 @@
 | [Linea](https://linea.io/)| Linea: Featuring 750+ Free Icons |
 | [Unicons](https://iconscout.com/unicons)| A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native. |
 | [Mobirise Icons](https://mobiriseicons.com/)| A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
-| [Line Awesome](https://icons8.com/line-awesome/)| is a free alternative for Font Awesome, flat icons that offer complete coverage of the main Font Awesome icon set. | 
+| [Icons8 Emoji](https://icons8.com/emoji)| icons for emojis crossplatform in svg an also access API or a flat JSON file. | 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

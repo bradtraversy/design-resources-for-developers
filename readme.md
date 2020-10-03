@@ -378,6 +378,7 @@
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
 | [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and PowerPoint presentations |
 | [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
+| [Free Vector](https://www.freevector.com/) | FreeVector.com is a top creative source for thousands of graphic designers, illustrators & design students |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

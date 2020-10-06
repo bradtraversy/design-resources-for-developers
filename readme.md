@@ -30,6 +30,7 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Chrome Extensions](#Chrome-extensions)
+- [React Animation Libraries](#react-animation-libraries)
 - [Others](#others)
 
 ## UI Graphics
@@ -924,6 +925,19 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## React Animation Libraries 
+
+>Awesome React Animation Libraries for building beautiful and user friendly animations
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Framer Motion](https://www.framer.com/motion/) | A production-ready motion library for React. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 
 ## Chrome Extensions
 

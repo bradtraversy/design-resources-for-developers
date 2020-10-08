@@ -894,6 +894,7 @@
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 | [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
 | [Humans.fyi](https://humans.fyi/) | A collection of brilliant personal websites filterable by colors and web technologies used in each website. |
+| [SiteSee](https://sitesee.co/) | A curated gallery of beautiful and modern websites. |
 
 
 <div align="right">

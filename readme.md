@@ -690,6 +690,7 @@
 | [View UI](https://www.iviewui.com/)|Dozens of useful and beautiful Vue components made for people with all skill levels with extensive documentation.|
 | [Particles.vue](https://particles.matteobruni.it/)| A lightweight Vue 2.x component for creating particles |
 | [Particles.vue3](https://particles.matteobruni.it/)| A lightweight Vue 3.x component for creating particles |
+| [TCComponents](https://components.timos.design) | A library of high-quality ready to use components that will help you speed up your development workflow. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

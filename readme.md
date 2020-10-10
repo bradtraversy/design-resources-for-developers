@@ -3,7 +3,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)

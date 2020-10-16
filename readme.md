@@ -7,6 +7,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Logos](#logos)
 - [Favicons](#favicons)
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
@@ -185,8 +186,6 @@
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
 | [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
-| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
-| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |
 | [Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
@@ -203,11 +202,7 @@
 | [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
-| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
-| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
-| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
-| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [Material Design Icons](https://materialdesignicons.com/) | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Heroicons](https://heroicons.dev/) | Free, open source icons from the creators of Tailwind CSS. |
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |
@@ -224,8 +219,26 @@
 | [CSS ICON](https://cssicon.space/) | Icon set made with pure css code, no dependencies, "grab and go" icons |
 | [Unified icons](https://iconify.design/) |Thousands of icons, one unified framework. One library, over 40,000 vector icons. |
 | [System UIcons](https://systemuicons.com/) |220+ icons in a growing collection. |
-| [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |
 | [IconPark](https://github.com/bytedance/IconPark) | Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Logos
+>Resources for Logos
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |                      
+| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |                    
+| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |                                                         
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |  
+| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |                          
+| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |                       
+| [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |                                     
+| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |                          
+| [Logo Maker](https://logomakr.com/)| Create custom logos |                                                              
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -379,7 +392,6 @@
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
-| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 | [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
 | [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
 | [HiClipart](https://www.hiclipart.com/)| A community for designers to share & download transparent background PNG cliparts |
@@ -804,7 +816,6 @@
 | [Infogram](https://infogram.com/)| Create infograms |
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
-| [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
 | [Octopus](https://octopus.do/)| Sitemap builder |

@@ -233,7 +233,7 @@
 | [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |                      
 | [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |                    
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |                                                         
-| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg     |  
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |  
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |                          
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |                       
 | [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |                                     

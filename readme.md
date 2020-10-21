@@ -734,6 +734,7 @@
 | [NG Particles](https://particles.matteobruni.it/)| A lightweight Angular component for creating particles |
 | [Covalent UI](https://teradata.github.io/covalent/v3/#/)| Angular UI Platform focused on solving common enterprise needs |
 | [NGX Foundation](https://ngxfoundation.com/)| UI framework based on the veteran CSS framework foundation |
+| [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

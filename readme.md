@@ -677,6 +677,7 @@
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 | [Treact](https://treact.owaiskhan.me)| gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
+| [Open](https://github.com/cruip/open-react-template/)| Open is a free React template created for developers who want to create a quick and professional landing page for their open source projects, online services, digital products, and more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

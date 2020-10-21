@@ -731,6 +731,7 @@
 | [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
 | [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | for multi select drop-dowm in forms |
 | [NG Particles](https://particles.matteobruni.it/)| A lightweight Angular component for creating particles |
+| [Covalent UI](https://teradata.github.io/covalent/v3/#/)| Angular UI Platform focused on solving common enterprise needs |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

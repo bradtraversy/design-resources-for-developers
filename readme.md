@@ -678,6 +678,7 @@
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 | [Treact](https://treact.owaiskhan.me)| gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [Open](https://github.com/cruip/open-react-template/)| Open is a free React template created for developers who want to create a quick and professional landing page for their open source projects, online services, digital products, and more. |
+| [Star Admin](https://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard)| A free React Native template that presents an endless variety of essential elements to bring any idea to life. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

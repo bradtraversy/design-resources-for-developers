@@ -678,6 +678,7 @@
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 | [Treact](https://treact.owaiskhan.me)| gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [Open](https://github.com/cruip/open-react-template/)| Open is a free React template created for developers who want to create a quick and professional landing page for their open source projects, online services, digital products, and more. |
+| [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

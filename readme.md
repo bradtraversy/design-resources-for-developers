@@ -683,6 +683,7 @@
 | [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage)| free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
 | [Tabler](https://github.com/tabler/tabler-react)| Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
 | [Argon Design Systems](https://demos.creative-tim.com/argon-design-system-react/#/)| Argon Design System React is built with over 100 individual components, giving you the freedom of choosing and combining. |
+| [Isomorphic](https://github.com/pujoey/ismorphic)| Isomorphic is a manageable and attractive admin template with tonnes of flexible components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

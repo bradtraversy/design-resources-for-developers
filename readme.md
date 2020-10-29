@@ -1040,6 +1040,7 @@
 | [papersizes](https://papersizes.io/) | The best resource for International Paper Sizes, Dimensions & Formats. |
 | [Match Stick](https://matchstick.xyz/) | Visually compare your code and designs. Compare your mockups with your live website to pinpoint any missing details. |
 | [flexboxfroggy](http://flexboxfroggy.com/) | Help Froggy and friends by writing CSS code! |
+| [Designbetter Books](https://www.designbetter.co/books) | Essential reading on the practices that propel the best design teams forward. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -231,15 +231,15 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |                      
-| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |                    
-| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |                                                         
-| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |  
-| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |                          
-| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |                       
-| [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |                                     
-| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |                          
-| [Logo Maker](https://logomakr.com/)| Create custom logos |                                                              
+| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
+| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |
+| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
+| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
+| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
+| [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |
+| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
+| [Logo Maker](https://logomakr.com/)| Create custom logos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -803,6 +803,7 @@
 | [Asphalt](https://asphalt.gojek.io/) | Gojek’s design language system. A collection of guidelines and components to create amazing user experiences. |
 | [Laws of UX](https://lawsofux.com/) | A collection of the key maxims that designers must consider when building user interfaces. |
 | [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
+| [Humane By Design](https://humanebydesign.com/) | A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

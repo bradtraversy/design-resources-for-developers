@@ -7,6 +7,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Logos](#logos)
 - [Favicons](#favicons)
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
@@ -68,6 +69,7 @@
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
 | [sketchvalley](https://sketchvalley.com/) | Download free PNG, SVG or AI file . |
 | [PatternPad](https://patternpad.com/) | free and unlimited unique pattern designs. |
+| [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -185,8 +187,6 @@
 | [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
 | [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
-| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
-| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |
 | [Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
@@ -203,11 +203,7 @@
 | [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
-| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
-| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
-| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
-| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [Material Design Icons](https://materialdesignicons.com/) | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Heroicons](https://heroicons.dev/) | Free, open source icons from the creators of Tailwind CSS. |
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |
@@ -224,7 +220,28 @@
 | [CSS ICON](https://cssicon.space/) | Icon set made with pure css code, no dependencies, "grab and go" icons |
 | [Unified icons](https://iconify.design/) |Thousands of icons, one unified framework. One library, over 40,000 vector icons. |
 | [System UIcons](https://systemuicons.com/) |220+ icons in a growing collection. |
+| [IconPark](https://github.com/bytedance/IconPark) | Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons |
+| [Radix Icons](https://icons.modulz.app/) |A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component,SVG and more. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Logos
+>Resources for Logos
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
+| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |
+| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
+| [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
+| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
+| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |
+| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
+| [Logo Maker](https://logomakr.com/)| Create custom logos |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -273,6 +290,7 @@
 | [Unicons](https://iconscout.com/unicons)| A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native. |
 | [Mobirise Icons](https://mobiriseicons.com/)| A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
 | [Line Awesome](https://icons8.com/line-awesome/)| It is a free alternative for Font Awesome, flat icons that offer complete coverage of the main Font Awesome icon set. |
+| [Hero Icons](https://heroicons.dev/)| Free Open Source Svg Icon Library |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -376,7 +394,6 @@
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |
 | [Clipart](https://www.clipart.email/)| Choose great clipart, png, coloring pages, drawings and more for your projects from the free collection! |
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
-| [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 | [trianglify.io](https://trianglify.io/) | Generate low-poly backgrounds, textures, and vectors |
 | [blob](https://blobs.app/) | Generate Blob shapes for Web and Flutter apps |
 | [HiClipart](https://www.hiclipart.com/)| A community for designers to share & download transparent background PNG cliparts |
@@ -386,6 +403,8 @@
 | [Custom Shape Dividers](https://www.shapedivider.app/) | Free tool to make it easier for designers and developers to export a beautiful SVG shape divider |
 | [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and PowerPoint presentations |
 | [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
+| [SVG wave](https://svgwave.in/) | A free, & customizable gradient 🌈 SVG wave generator for UI designs . |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -408,6 +427,7 @@
 | [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
 | [Mockuphone](https://mockuphone.com/)| 100% free mockups for all devices including IOS, Android, Windows Phone, Laptop & Desktop and TV |
 | [Device Shots](https://deviceshots.com/)| Create high-resolution device mockups for social media, for free |
+| [Clean Mock](https://cleanmock.com/)| Create stunning mockups using latest device frames like iPhone X & custom backgrounds that make your mobile or website design standout, right from your browser quickly & for free. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -439,11 +459,11 @@
 | [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 | [Tooplate](https://www.tooplate.com/)| Tooplate: Free HTML Templates for everyone! |
 | [Cruip](https://cruip.com/free-templates/)| Fully coded HTML templates to help you easily build your startup landing page without hassles. |
-| [Shade](https://grayic.com/shade/) | Get High Converting Landing Pages For Free! |
 | [UIdeck](https://uideck.com/) | Free Landing Page Templates and Bootstrap Themes |
 | [Splawr](https://splawr.com/) | Free web templates to kickstart your idea! |
 | [W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp) | Some responsive W3.CSS website templates for you to use. |
 | [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
+| [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
 
 
 <div align="right">
@@ -661,6 +681,11 @@
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
+| [Treact](https://treact.owaiskhan.me)| gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
+| [Open](https://github.com/cruip/open-react-template/)| Open is a free React template created for developers who want to create a quick and professional landing page for their open source projects, online services, digital products, and more. |
+| [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
+| [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage)| free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
+| [Tabler](https://github.com/tabler/tabler-react)| Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -716,6 +741,10 @@
 | [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
 | [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | for multi select drop-dowm in forms |
 | [NG Particles](https://particles.matteobruni.it/)| A lightweight Angular component for creating particles |
+| [Covalent UI](https://teradata.github.io/covalent/v3/#/)| Angular UI Platform focused on solving common enterprise needs |
+| [NGX Foundation](https://ngxfoundation.com/)| UI framework based on the veteran CSS framework foundation |
+| [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -774,6 +803,8 @@
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 | [Asphalt](https://asphalt.gojek.io/) | Gojek’s design language system. A collection of guidelines and components to create amazing user experiences. |
 | [Laws of UX](https://lawsofux.com/) | A collection of the key maxims that designers must consider when building user interfaces. |
+| [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
+| [Humane By Design](https://humanebydesign.com/) | A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -802,7 +833,6 @@
 | [Infogram](https://infogram.com/)| Create infograms |
 | [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 | [Cartoon Photo](https://cartoon.pho.to/)| Turn photos into cartoons |
-| [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Whimsical](https://whimsical.com/)| Wireframes, diagrams and more (4 free) |
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
 | [Octopus](https://octopus.do/)| Sitemap builder |
@@ -835,6 +865,8 @@
 | [UXWing SVG Editor](https://uxwing.com/svg-icon-editor)| Creating and Edit SVG Online |
 | [CSS Arrow](http://www.cssarrowplease.com/)| Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 | [Lucidchart](https://www.lucidchart.com/pages/)| Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
+| [blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design to help you quickly create random, unique, and organic-looking SVG shapes. |
+| [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1010,6 +1042,8 @@
 | [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
 | [papersizes](https://papersizes.io/) | The best resource for International Paper Sizes, Dimensions & Formats. |
 | [Match Stick](https://matchstick.xyz/) | Visually compare your code and designs. Compare your mockups with your live website to pinpoint any missing details. |
+| [flexboxfroggy](http://flexboxfroggy.com/) | Help Froggy and friends by writing CSS code! |
+| [Designbetter Books](https://www.designbetter.co/books) | Essential reading on the practices that propel the best design teams forward. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

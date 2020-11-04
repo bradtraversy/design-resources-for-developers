@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# [Carbon] -> [Online Design Tools]
 
-# Resource Name - Edit this line
+Create and share beautiful images of your source code by typing or drop a file.
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: https://carbon.now.sh
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [🗸] I have performed a self-review of submitted resource and its follows the guidelines of the project.

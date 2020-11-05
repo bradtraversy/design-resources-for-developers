@@ -805,6 +805,7 @@
 | [Laws of UX](https://lawsofux.com/) | A collection of the key maxims that designers must consider when building user interfaces. |
 | [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
 | [Humane By Design](https://humanebydesign.com/) | A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. |
+| [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | A open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

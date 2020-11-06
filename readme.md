@@ -47,6 +47,8 @@
 | [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns                                 |
 | [404 illustration](https://error404.fun/)                                                                | free illustrations for 404  pages                                  |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
+| [Absurd.design](https://absurd.design/)                                                                  | Free surrealist illustrations for designers and developers
+
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Manypixels.co](https://www.manypixels.co/gallery/)                                                      | Monochromatic, Isometric high-quality illustrations                |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |

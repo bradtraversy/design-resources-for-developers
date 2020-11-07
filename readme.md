@@ -18,7 +18,7 @@
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
-- [CSS Animations](#css-Animations)
+- [CSS Animations](#css-animations)
 - [Javascript Animations](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
@@ -28,9 +28,9 @@
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#Design-inspiration)
-- [Image Compression](#Image-compression)
-- [Chrome Extensions](#Chrome-extensions)
+- [Design Inspiration](#design-inspiration)
+- [Image Compression](#image-compression)
+- [Chrome Extensions](#chrome-extensions)
 - [Others](#others)
 
 ## UI Graphics
@@ -47,8 +47,7 @@
 | [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns                                 |
 | [404 illustration](https://error404.fun/)                                                                | free illustrations for 404  pages                                  |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
-| [Absurd.design](https://absurd.design/)                                                                  | Free surrealist illustrations for designers and developers
-
+| [Absurd.design](https://absurd.design/)                                                                  | Free surrealist illustrations for designers and developers         |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Manypixels.co](https://www.manypixels.co/gallery/)                                                      | Monochromatic, Isometric high-quality illustrations                |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |

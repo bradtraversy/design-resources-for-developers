@@ -1,8 +1,10 @@
-# Freebiesbug
+**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-Hand-picked resources for web designer and developers, constantly updated.
+# Resource Name - Edit this line
 
-Link: https://freebiesbug.com
+Edit this line with Small Description about new added resource
+
+Link: www.linkToResource
 
 #### Checklist:
 

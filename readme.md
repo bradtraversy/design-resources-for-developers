@@ -71,7 +71,7 @@
 | [sketchvalley](https://sketchvalley.com/) | Download free PNG, SVG or AI file . |
 | [PatternPad](https://patternpad.com/) | free and unlimited unique pattern designs. |
 | [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces|
-| [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designer and developers, constantly updated.|
+| [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

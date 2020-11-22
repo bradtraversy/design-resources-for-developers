@@ -279,7 +279,7 @@
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
 | [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
 | [Material Icons](https://material.io/resources/icons/)| Material design icon library |
-| [Fluent UI Icons](https://developer.microsoft.com/en-us/fluentui#/styles/web/icons)| Fluent UI icons by Microsoft |
+| [Fluent UI Icons](https://developer.microsoft.com/en-us/fluentui#/styles/web/icons)| Fluent UI icons by Microsoft. [How to set it up?](https://blog.usman-s.me/how-to-use-microsoft-fluent-ui-icons-on-your-website) |
 | [Phosphor Icons](https://phosphoricons.com/)| A flexible icon family for interfaces, diagrams, presentations — whatever, really. |
 | [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
 | [Zurb Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)| Customizable Foundation icons |

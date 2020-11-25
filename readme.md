@@ -642,6 +642,7 @@
 | [Tailwind Templates](https://tailwindtemplates.io/)| A free collection of Tailwindcss Templates - tailwind components for rapid UI development. |
 | [Stitches](https://stitches.hyperyolo.com/)| An HTML template generator using functional css. |
 | [Meraki UI Components](https://merakiui.com/)| Beautiful Tailwindcss components that support RTL languages & fully responsive based on Flexbox & CSS Grid. |
+| [MDBootstrap](https://mdbootstrap.com/)| Open Source UI Kits & Templates built using Bootstrap, Angular, React & Vue JS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

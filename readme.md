@@ -72,6 +72,7 @@
 | [PatternPad](https://patternpad.com/) | free and unlimited unique pattern designs. |
 | [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces|
 | [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated.|
+| [Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

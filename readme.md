@@ -796,7 +796,7 @@
 | [UXWing SVG Editor](https://uxwing.com/svg-icon-editor)                                                  | Creating and Edit SVG Online                                                                                                     |
 | [CSS Arrow](http://www.cssarrowplease.com/)                                                              | Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 | [Carbon](https://carbon.now.sh)                                                                          | Create and share beautiful images of your source code                                                                            |
-| [Shields](https://shields.io/)                                                                           | Create badges with your own customization                                                                                        |
+| [Shields](https://shields.io/)                                                                           | Create badges with your own customization for your readme                                                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

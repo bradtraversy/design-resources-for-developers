@@ -1,5 +1,4 @@
-![Repository Banner](header
-.png)
+![Repository Banner](header.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents

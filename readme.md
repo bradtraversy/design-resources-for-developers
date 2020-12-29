@@ -576,6 +576,7 @@
 | [thoughtbot](https://thoughtbot.com/blog/transitions-and-transforms)| CSS Transitions and Transformations for Beginners |
 | [SVG Artista](https://svgartista.net/)| A useful tool to animate stroke and fill properties in SVG images with plain CSS code |
 | [AOS](https://github.com/michalsnik/aos)| Animate on Scroll Library |
+| [AnimXYZ](https://animxyz.com/)| AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

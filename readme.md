@@ -1069,6 +1069,7 @@
 | [Pageclip](https://pageclip.co/) | A server for your Static HTML forms |
 | [Shields](https://shields.io) | Create badges with your own customization. |
 | [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
+| [GitBook](https://www.gitbook.com/) | GitBook is a modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs. |
 
 
 <div align="right">

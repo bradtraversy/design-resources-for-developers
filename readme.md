@@ -236,6 +236,7 @@
 | [Teeny Icons](https://teenyicons.com/) | TeenyIcons is a set icons in SVG format easy to use in html |
 | [Lucide](https://lucide.netlify.app/) | Lucide is an open-source icon library, a fork of Feather Icons. |
 | [Icones](https://icones.js.org/) | Icon Explorer with Instant searching, powered by Iconify. |
+| [Iconspedia](https://www.iconspedia.com/) | Iconspedia is a website that contains a large collection of high quality free icons. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

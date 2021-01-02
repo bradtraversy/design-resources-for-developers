@@ -236,6 +236,7 @@
 | [Teeny Icons](https://teenyicons.com/) | TeenyIcons is a set icons in SVG format easy to use in html |
 | [Lucide](https://lucide.netlify.app/) | Lucide is an open-source icon library, a fork of Feather Icons. |
 | [Icones](https://icones.js.org/) | Icon Explorer with Instant searching, powered by Iconify. |
+| [Shitty Icons](https://shittyicons.com/) | Collection of Free icons. |
 | [Iconspedia](https://www.iconspedia.com/) | Iconspedia is a website that contains a large collection of high quality free icons. |
 
 <div align="right">
@@ -1071,7 +1072,6 @@
 | [Pageclip](https://pageclip.co/) | A server for your Static HTML forms |
 | [Shields](https://shields.io) | Create badges with your own customization. |
 | [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

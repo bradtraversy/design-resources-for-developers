@@ -237,7 +237,7 @@
 | [Lucide](https://lucide.netlify.app/) | Lucide is an open-source icon library, a fork of Feather Icons. |
 | [Icones](https://icones.js.org/) | Icon Explorer with Instant searching, powered by Iconify. |
 | [Shitty Icons](https://shittyicons.com/) | Collection of Free icons. |
-
+| [Iconspedia](https://www.iconspedia.com/) | Iconspedia is a website that contains a large collection of high quality free icons. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -578,6 +578,7 @@
 | [thoughtbot](https://thoughtbot.com/blog/transitions-and-transforms)| CSS Transitions and Transformations for Beginners |
 | [SVG Artista](https://svgartista.net/)| A useful tool to animate stroke and fill properties in SVG images with plain CSS code |
 | [AOS](https://github.com/michalsnik/aos)| Animate on Scroll Library |
+| [AnimXYZ](https://animxyz.com/)| AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1071,8 +1072,6 @@
 | [Pageclip](https://pageclip.co/) | A server for your Static HTML forms |
 | [Shields](https://shields.io) | Create badges with your own customization. |
 | [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
-| [GitBook](https://www.gitbook.com/) | GitBook is a modern documentation platform where teams can document everything from products to internal knowledge-bases and APIs. |
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -115,6 +115,7 @@
 | [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/)| When RoughJS meets Font Awesome |
 | [FFonts](https://ffonts.net)| Stylish fonts for free |
 | [Malayalam Fonts](https://smc.org.in/fonts/)| Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC) |
+| [Dev Fonts](https://devfonts.gafi.dev/)| find and use the coding fonts for free |
 
 
 <div align="right">

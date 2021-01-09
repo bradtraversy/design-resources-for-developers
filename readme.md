@@ -73,6 +73,7 @@
 | [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces|
 | [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated.|
 | [Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
+| [Cool Text](https://cooltext.com/)| Cool Text is a FREE graphics generator for web pages and anywhere else you need an impressive logo without a lot of design work |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -116,7 +117,6 @@
 | [FFonts](https://ffonts.net)| Stylish fonts for free |
 | [Malayalam Fonts](https://smc.org.in/fonts/)| Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC) |
 | [Dev Fonts](https://devfonts.gafi.dev/)| find and use the coding fonts for free |
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

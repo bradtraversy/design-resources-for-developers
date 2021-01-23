@@ -988,6 +988,7 @@
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
 | [Verexif](https://www.verexif.com/en/) | Remove meta tags in image in order to reduce image size and increase privacy security |
+| [Vecta Nano](https://vecta.io/nano) | Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

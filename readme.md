@@ -242,7 +242,7 @@
 | [Iconspedia](https://www.iconspedia.com/) | Iconspedia is a website that contains a large collection of high quality free icons. |
 | [iconhub](https://iconhub.io/) | Just practical stunning icons for everyone |
 
-<div align="right">
+<div align="left">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 

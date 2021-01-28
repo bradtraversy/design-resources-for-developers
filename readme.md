@@ -611,6 +611,7 @@
 | [barba.js](https://barba.js.org/)| Create fluid and smooth transitions between your website’s pages. |
 | [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)| A simple scroll library that provides detection of elements in viewport & smooth scrolling with parallax. |
 | [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/)| Free responsive jQuery carousel |
+| [Flickity](https://flickity.metafizzy.co/)| Touch, responsive, flickable carousel with CSS and JS. Free for personal use. |
 
 
 <div align="right">

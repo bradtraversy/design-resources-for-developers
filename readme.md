@@ -611,6 +611,7 @@
 | [barba.js](https://barba.js.org/)| Create fluid and smooth transitions between your website’s pages. |
 | [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)| A simple scroll library that provides detection of elements in viewport & smooth scrolling with parallax. |
 | [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/)| Free responsive jQuery carousel |
+| [Swiperjs](https://swiperjs.com/)| Free, Open Source, Modern Slider without jQuery. Available for Vanilla JS and all modern frameworks like React, Vue, Angular etc. |
 
 
 <div align="right">

@@ -1027,6 +1027,7 @@
 | [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more. |
 | [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React debugging tools to the Chrome Developer Tools. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) | Wappalyzer is a technology profiler that shows you what websites are built with. |
+| [Ghostery](https://chrome.google.com/webstore/detail/ghostery-insights-beta/eafjgfjfiocmniplemahnlhgibaanhch?hl=id) | Ghostery is a great Chrome extension which detects trackers, pixels, and any other embedded snippet on a website. You immediately see which plugins and trackers are installed on the web page you’ve visited. Further on, Ghostery lets you protect your privacy. There’s no registration or sign up required to use this Chrome extension. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

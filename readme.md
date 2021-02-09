@@ -710,7 +710,7 @@
 | [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
 | [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage)| free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
 | [Tabler](https://github.com/tabler/tabler-react)| Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
-| [Sha-el-design](https://github.com/sha-el/sha-el-design)| React components for easier customization and smooth development flow. [Storybook](https://sha-el-design.netlify.app/) |
+| [Sha-el-design](https://github.com/sha-el/sha-el-design)| React components for easier customization and smooth development flow. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

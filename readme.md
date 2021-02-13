@@ -537,6 +537,7 @@
 | [Halfmoon UI](https://www.gethalfmoon.com/)| A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
 | [Metro 4](https://metroui.org.ua/index.html)| Create your site quickly and effectively with Metro 4. impressive components library built on html, css, javascript. |
 | [css-doodle](https://css-doodle.com/) | A web component for drawing patterns with CSS |
+| [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

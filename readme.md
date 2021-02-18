@@ -75,6 +75,8 @@
 | [Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
 | [Cool Text](https://cooltext.com/)| Cool Text is a FREE graphics generator for web pages and anywhere else you need an impressive logo without a lot of design work |
 | [illustration kit](https://illustrationkit.com/)| Premium open source illustrations added daily |
+| [Doodad Pattern Generator](https://doodad.dev/pattern-generator/) | Create unique, seamless, royalty-free patterns.|
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

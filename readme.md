@@ -661,6 +661,7 @@
 | [Tailwind Templates](https://tailwindtemplates.io/)| A free collection of Tailwindcss Templates - tailwind components for rapid UI development. |
 | [Stitches](https://stitches.hyperyolo.com/)| An HTML template generator using functional css. |
 | [Meraki UI Components](https://merakiui.com/)| Beautiful Tailwindcss components that support RTL languages & fully responsive based on Flexbox & CSS Grid. |
+| [Daemonites Material Design For Bootstrap](https://http://daemonite.github.io/material/)| Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

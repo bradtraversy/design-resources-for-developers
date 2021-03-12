@@ -45,7 +45,7 @@
 | [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
 | [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns                                 |
-| [404 illustration](https://error404.fun/)                                                                | free illustrations for 404  pages                                  |
+| [404 illustration](https://error404.fun/)                                                                | Free illustrations for 404  pages                                  |
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Absurd.design](https://absurd.design/)                                                                  | Free surrealist illustrations for designers and developers         |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
@@ -69,7 +69,7 @@
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
 | [sketchvalley](https://sketchvalley.com/) | Download free PNG, SVG or AI file . |
-| [PatternPad](https://patternpad.com/) | free and unlimited unique pattern designs. |
+| [PatternPad](https://patternpad.com/) | Free and unlimited unique pattern designs. |
 | [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces|
 | [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated.|
 | [Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
@@ -119,7 +119,7 @@
 | [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/)| When RoughJS meets Font Awesome |
 | [FFonts](https://ffonts.net)| Stylish fonts for free |
 | [Malayalam Fonts](https://smc.org.in/fonts/)| Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC) |
-| [Dev Fonts](https://devfonts.gafi.dev/)| find and use the coding fonts for free |
+| [Dev Fonts](https://devfonts.gafi.dev/)| Find and use the coding fonts for free |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -174,7 +174,7 @@
 | [Colorzilla](https://www.colorzilla.com/) | A powerful online Photoshop-like CSS gradient editor |
 | [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
 | [CombineCOLORS](https://combinecolors.com/) | Color mixing tool |
-| [Color Lovers](https://www.colourlovers.com/palettes) | it will show the color schemes which are popular in outside world |
+| [Color Lovers](https://www.colourlovers.com/palettes) | It will show the color schemes which are popular in the outside world. |
 | [HTML CSS Color](https://www.htmlcsscolor.com/) | Free online Color (USA) or Colour (British) tools: information, gradient generator, color wheels etc. |
 | [HEX Color Codes](https://hexcolorcodes.org/) | It gets HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names. |
 | [CoolHue 2.0](https://webkul.github.io/coolhue/) | A free tool that shows different gradient examples in CSS and PNG format |
@@ -253,13 +253,13 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Instant Logo Search](http://instantlogosearch.com/)| thousands of free brands logos ( SVG - PNG ) |
-| [LogoSear.ch](https://logosear.ch/search.html) | search engine with over 200,000 SVG logos indexed |
+| [Instant Logo Search](http://instantlogosearch.com/)| Thousands of free brands logos ( SVG - PNG ) |
+| [LogoSear.ch](https://logosear.ch/search.html) | Search engine with over 200,000 SVG logos indexed |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
-| [VectorLogoZone](https://www.vectorlogo.zone/) | consistently formatted SVG logos |
+| [VectorLogoZone](https://www.vectorlogo.zone/) | Consistently formatted SVG logos |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
@@ -533,7 +533,7 @@
 | [Framework7](https://framework7.io/) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
 | [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |
 | [imagehover.io](http://imagehover.io/) | Pure CSS Image Hover Effect Library |
-| [mini.css](https://minicss.org/) | minimal, responsive, style-agnostic CSS framework |
+| [mini.css](https://minicss.org/) | A minimal, responsive, style-agnostic CSS framework |
 | [Tachyons](https://tachyons.io/) | Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible. |
 | [Material Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/) | Material Design with Bootstrap |
 | [Ivory](https://github.com/IVORY-UI/ivory) | A modern CSS framework for developing powerful web interfaces faster and easier |
@@ -693,7 +693,7 @@
 | [Onsen React](https://onsen.io/react/)| Distributes Components for hybrid mobile apps with React and Onsen UI |
 | [Evergreen](https://evergreen.segment.com/)| Design system for React |
 | [Rebass](https://rebassjs.org/)| React primitive UI components built with styled system |
-| [Grommet](https://v2.grommet.io/)| mobile first UI component library |
+| [Grommet](https://v2.grommet.io/)| A mobile first UI component library |
 | [Rimble](https://rimble.consensys.design/)| React design kit, library and guides |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
@@ -713,9 +713,9 @@
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
-| [Treact](https://treact.owaiskhan.me)| gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
+| [Treact](https://treact.owaiskhan.me)| Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
-| [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage)| free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
+| [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage)| Free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
 | [Tabler](https://github.com/tabler/tabler-react)| Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
 | [Sha-el-design](https://github.com/sha-el/sha-el-design)| React components for easier customization and smooth development flow. |
 
@@ -771,7 +771,7 @@
 | [NGX Bootstrap](https://valor-software.com/ngx-bootstrap/#/)| Another UI library for Angular based on the Bootstrap framework |
 | [NG Zorro](https://ng.ant.design/)| UI library for Angular based on Ant Design |
 | [Pagination for datatables](https://www.npmjs.com/package/ngx-pagination) | npm library for pagination |
-| [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | for multi select drop-dowm in forms |
+| [Multi select dropdown](https://www.npmjs.com/package/ng-multiselect-dropdown) | For multi select drop-dowm in forms |
 | [NG Particles](https://particles.matteobruni.it/)| A lightweight Angular component for creating particles |
 | [Covalent UI](https://teradata.github.io/covalent/v3/#/)| Angular UI Platform focused on solving common enterprise needs |
 | [NGX Foundation](https://ngxfoundation.com/)| UI framework based on the veteran CSS framework foundation |
@@ -823,7 +823,7 @@
 | [Marvel Style Guide](https://marvelapp.com/styleguide/overview/introduction)| Set of design principles and components |
 | [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)| Collection of UX frameworks from Microsoft |
 | [Pluralsight Design System](https://design-system.pluralsight.com/)| Design guide with components for designing with Pluralsight |
-| [Polaris](https://polaris.shopify.com/)|Design system that creates great experiences for all of Shopify’s merchants |
+| [Polaris](https://polaris.shopify.com/)| Design system that creates great experiences for all of Shopify’s merchants |
 | [Mozilla Protocol](https://protocol.mozilla.org/)| Protocol is a design system for Mozilla and Firefox websites |
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid  |
 | [VTEX Styleguide](https://styleguide.vtex.com/)| Reusable patterns, components and assets related to product design in VTEX |
@@ -870,7 +870,7 @@
 | [Whiteboard](https://witeboard.com/)| Online drawing tool |
 | [Octopus](https://octopus.do/)| Sitemap builder |
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
-| [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes  |
+| [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [SoftUI](https://www.softui.io)| A Soft UI (neumorphism) CSS generator  |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
@@ -898,7 +898,6 @@
 | [UXWing SVG Editor](https://uxwing.com/svg-icon-editor)| Creating and Edit SVG Online |
 | [CSS Arrow](http://www.cssarrowplease.com/)| Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 | [Lucidchart](https://www.lucidchart.com/pages/)| Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
-| [blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
 
 <div align="right">
@@ -921,7 +920,7 @@
 | [Inkscape](https://inkscape.org/)| Powerful free design tool |
 | [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
 | [Shapes.so](https://shape.so/pricing)| Icons that can be used as code in your projects  |
-| [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
+| [Lunacy](https://icons8.com/lunacy)| Sketch for Windows |
 | [InVision Studio](https://www.invisionapp.com/studio)| Free screen designing tool from InVision |
 | [Darktable](https://www.darktable.org/)| Free & Open source photography workflow application and raw developer |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
@@ -953,20 +952,20 @@
 | [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and javascript. latest work some design part |
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |
 | [Collect UI](http://collectui.com/)| Daily inspiration collected from daily ui archive and beyond. Handpicked, and updating daily. |
-| [Graphic Burger](https://graphicburger.com/) | A site offering a free and pain icons, mock-ups, Ui-Kits, text effect and backgrounds.  This site's resource are a mix of free and paid resources. Icons is on a mix of PNG, SVG, EPS and Sketch Format. Some resources are confusing as there are sponsored content in the middle of the free sets.  |
-| [Really Good Emails](https://reallygoodemails.com/) | A site offering users a ton of company e-mails from customer service to marketing.  |
-| [Free Design Resource](https://freedesignresources.net/) | A site offering fonts, mockups, templates graphics and ui kits.  |
+| [Graphic Burger](https://graphicburger.com/)| A site offering a free and pain icons, mock-ups, Ui-Kits, text effect and backgrounds.  This site's resource are a mix of free and paid resources. Icons is on a mix of PNG, SVG, EPS and Sketch Format. Some resources are confusing as there are sponsored content in the middle of the free sets.  |
+| [Really Good Emails](https://reallygoodemails.com/)| A site offering users a ton of company e-mails from customer service to marketing.  |
+| [Free Design Resource](https://freedesignresources.net/)| A site offering fonts, mockups, templates graphics and ui kits.  |
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
-| [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily.  |
-| [NavNav](https://navnav.co/) | Responsive navigation examples |
-| [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
-| [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
-| [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
-| [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
+| [Web Design Inspiration](https://www.webdesign-inspiration.com/)| A site for web design inspiration, updated daily.  |
+| [NavNav](https://navnav.co/)| Responsive navigation examples |
+| [Calltoidea](https://www.calltoidea.com/)| Collection of different web Components for inspiration. |
+| [MediaQueri.es](https://mediaqueri.es/)| A collection of inspirational websites using media queries and responsive web design |
+| [Mulzli Search](https://search.muz.li)| Search engine for design inspiration |
+| [DeviantArt](https://www.deviantart.com/)| Access to 370 million pieces of art for inspiration. |
 | [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
-| [Humans.fyi](https://humans.fyi/) | A collection of brilliant personal websites filterable by colors and web technologies used in each website. |
-| [SiteSee](https://sitesee.co/) | A curated gallery of beautiful and modern websites. |
-| [UI Garage](https://uigarage.net/) | Daily handpicked UI inspiration & patterns. |
+| [Humans.fyi](https://humans.fyi/)| A collection of brilliant personal websites filterable by colors and web technologies used in each website. |
+| [SiteSee](https://sitesee.co/)| A curated gallery of beautiful and modern websites. |
+| [UI Garage](https://uigarage.net/)| Daily handpicked UI inspiration & patterns. |
 
 
 <div align="right">
@@ -995,8 +994,8 @@
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
-| [Verexif](https://www.verexif.com/en/) | Remove meta tags in image in order to reduce image size and increase privacy security |
-| [Vecta Nano](https://vecta.io/nano) | Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)  |
+| [Verexif](https://www.verexif.com/en/)| Remove meta tags in image in order to reduce image size and increase privacy security |
+| [Vecta Nano](https://vecta.io/nano)| Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1008,34 +1007,34 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | The easiest way to identify fonts on web pages.|
-| [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en) | Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts - you name it.|
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)| The easiest way to identify fonts on web pages.|
+| [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en)| Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts - you name it.|
 | [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Adds a toolbar button with various web developer tools.|
-| [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) | Full page screen capture and screen recorder - 2 in 1. Share screencast video instantly|
-| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) | Get programming news with zero effort. Simply open a new tab, and you’re all set. A must-have tool for busy developers!|
-| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents. |
+| [Awesome Screenshot & Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en)| Full page screen capture and screen recorder - 2 in 1. Share screencast video instantly|
+| [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied)| Get programming news with zero effort. Simply open a new tab, and you’re all set. A must-have tool for busy developers!|
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)| Validate and view JSON documents. |
 | [JSON Lite](https://github.com/lauriro/json-lite) | Browser extension for viewing JSON files. |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Resize the browser window to emulate various screen resolutions. |
-| [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) | Show multiple screens once, Responsive design tester |
-| [BrowserStack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=en) | Instantly test your webpage on any desktop or mobile browser. |
-| [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) | Open source web design debug tool built with JavaScript |
-| [Keyframes](https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck?hl=en) | In-browser CSS Animation creator. |
-| [Kontrast - WCAG Contrast Checker](https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en) |  Quickly check and adjust contrast in real-time in your browser to meet WCAG 2.1 requirements |
-| [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) | Adds a semi-transparent image overlay over the top of the developed HTML to easily perform pixel perfect comparison between them, useful for replicating UI designs. |
-| [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) | Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts. |
-| [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | A must-have tool for designers and frontend developers to grab colors for any website. |
-| [Mobile/Responsive Web Design Tester](https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo) | Test responsive web designs or mobile pages that detect specific user agents. Test multiple devices at the same time! |
-| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
-| [Lorem Ipsum Generator (Default Text)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20) | Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can be customized. |
-| [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en) | Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file |
-| [Imageye - Image downloader](https://chrome.google.com/webstore/detail/imageye-image-downloader/agionbommeaifngbhincahgmoflcikhm) | Find and download all images on a web page. With Imageye you can find, browse and download all the images present in a web page. |
-| [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions! |
-| [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) | Change the appearance of the web instantly. |
-| [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more. |
-| [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React debugging tools to the Chrome Developer Tools. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) | Wappalyzer is a technology profiler that shows you what websites are built with. |
-| [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | Fake Filler a form filler that fills all inputs on a page with fake/dummy data. |
-| [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | A Web Developer\Designer ruler to get perfect pixel dimensions and positioning to measure elements on any web page. |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)| Resize the browser window to emulate various screen resolutions. |
+| [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)| Show multiple screens once, Responsive design tester |
+| [BrowserStack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=en)| Instantly test your webpage on any desktop or mobile browser. |
+| [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)| Open source web design debug tool built with JavaScript |
+| [Keyframes](https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck?hl=en)| In-browser CSS Animation creator. |
+| [Kontrast - WCAG Contrast Checker](https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en)|  Quickly check and adjust contrast in real-time in your browser to meet WCAG 2.1 requirements |
+| [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)| Adds a semi-transparent image overlay over the top of the developed HTML to easily perform pixel perfect comparison between them, useful for replicating UI designs. |
+| [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)| Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts. |
+| [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh)| A must-have tool for designers and frontend developers to grab colors for any website. |
+| [Mobile/Responsive Web Design Tester](https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo)| Test responsive web designs or mobile pages that detect specific user agents. Test multiple devices at the same time! |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)| Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
+| [Lorem Ipsum Generator (Default Text)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20)| Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can be customized. |
+| [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en)| Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file |
+| [Imageye - Image downloader](https://chrome.google.com/webstore/detail/imageye-image-downloader/agionbommeaifngbhincahgmoflcikhm)| Find and download all images on a web page. With Imageye you can find, browse and download all the images present in a web page. |
+| [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)| Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions! |
+| [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)| Change the appearance of the web instantly. |
+| [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)| A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more. |
+| [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)| React debugging tools to the Chrome Developer Tools. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)| Wappalyzer is a technology profiler that shows you what websites are built with. |
+| [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)| Fake Filler a form filler that fills all inputs on a page with fake/dummy data. |
+| [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal)| A Web Developer\Designer ruler to get perfect pixel dimensions and positioning to measure elements on any web page. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1047,45 +1046,45 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
-| [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
+| [everysize.kibalabs.com](https://everysize.kibalabs.com/)| Check your awesome responsive webpage looks great in every size |
+| [Devhints.io](https://devhints.io/)| This is a modest collection of cheatsheets on Internet |
 | [The Web Toolbox](https://thewebtoolbox.cc/)| A collection of handy, free-to-use tools for web developers, programmers and designers. |
 | [WebDevTrick](https://webdevtrick.com/)| A famous blog for many amazing HTML, CSS, JQuery designs. |
 | [css-tricks](https://css-tricks.com/)| Free CSS tricks and some unique ideas for beginners and advanced |
 | [Material Design Resizer](https://material.io/resources/resizer/)| An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet |
-| [Nodesign.dev](https://nodesign.dev) | A collection of tools for developers who have little to no artistic talent|
+| [Nodesign.dev](https://nodesign.dev)| A collection of tools for developers who have little to no artistic talent|
 | [A11ygator](https://a11ygator.chialab.io/)| A web tool to scan websites against WCAG rules |
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Formatter, Minifier, File Converter |
 | [Tiny helpers](https://tiny-helpers.dev/)| A collection of free single-purpose online tools for web developers |
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
-| [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
-| [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
+| [Can I Use](https://caniuse.com/)| Check cross-browser compatibility of frontend technologies. |
+| [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/)| Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
-| [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
-| [Responsively](https://manojvivek.github.io/responsively-app/) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
-| [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
-| [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
-| [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
-| [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
-| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
-| [PlayCode](https://playcode.io/) | Javascript playground.  |
-| [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
-| [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
-| [Grid.js](https://gridjs.io/) | Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs. |
-| [Gerillass](https://gerillass.com/) | Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs. |
-| [Sketchize](https://www.sketchize.com/) | Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices. |
-| [{CSS}Portal](https://www.cssportal.com/) | CSSPortal is home to a large range of CSS generators, tools and resources. |
-| [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
-| [papersizes](https://papersizes.io/) | The best resource for International Paper Sizes, Dimensions & Formats. |
-| [Match Stick](https://matchstick.xyz/) | Visually compare your code and designs. Compare your mockups with your live website to pinpoint any missing details. |
-| [flexboxfroggy](http://flexboxfroggy.com/) | Help Froggy and friends by writing CSS code! |
-| [Designbetter Books](https://www.designbetter.co/books) | Essential reading on the practices that propel the best design teams forward. |
-| [OverAPI](https://overapi.com/) | Collection Of All Cheat Sheets. |
-| [Pageclip](https://pageclip.co/) | A server for your Static HTML forms |
-| [Shields](https://shields.io) | Create badges with your own customization. |
-| [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
-| [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
+| [Codepen](https://codepen.io/)| Build, test and discover frontend code. |
+| [Responsively](https://manojvivek.github.io/responsively-app/)| A tool for designers and frontend developers to design and debug their in all platforms with ease |
+| [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/)| Client-side HTML-to-PDF rendering using pure JS. |
+| [CSS Reference](https://cssreference.io/)| A collection of all css properties and definitions in detail |
+| [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator)| Generate critical css for your web pages |
+| [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)| Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
+| [shortcode.dev](https://shortcode.dev)| A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
+| [PlayCode](https://playcode.io/)| Javascript playground.  |
+| [All The Tags](https://allthetags.com/)| All HTML tags briefly explained. |
+| [Vue Telemetry](https://vuetelemetry.com/)| Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
+| [Grid.js](https://gridjs.io/)| Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs. |
+| [Gerillass](https://gerillass.com/)| Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs. |
+| [Sketchize](https://www.sketchize.com/)| Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices. |
+| [{CSS}Portal](https://www.cssportal.com/)| CSSPortal is home to a large range of CSS generators, tools and resources. |
+| [DevDocs](https://devdocs.io/)| DevDocs combines multiple API documentations in a fast, organized, and searchable interface. |
+| [papersizes](https://papersizes.io/)| The best resource for International Paper Sizes, Dimensions & Formats. |
+| [Match Stick](https://matchstick.xyz/)| Visually compare your code and designs. Compare your mockups with your live website to pinpoint any missing details. |
+| [flexboxfroggy](http://flexboxfroggy.com/)| Help Froggy and friends by writing CSS code! |
+| [Designbetter Books](https://www.designbetter.co/books)| Essential reading on the practices that propel the best design teams forward. |
+| [OverAPI](https://overapi.com/)| Collection Of All Cheat Sheets. |
+| [Pageclip](https://pageclip.co/)| A server for your Static HTML forms |
+| [Shields](https://shields.io)| Create badges with your own customization. |
+| [williamsharkey](http://williamsharkey.com/Shapes.html)| Random SVG Graphic Generator |
+| [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)| An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

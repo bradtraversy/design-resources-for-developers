@@ -899,6 +899,7 @@
 | [CSS Arrow](http://www.cssarrowplease.com/)| Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like. |
 | [Lucidchart](https://www.lucidchart.com/pages/)| Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
+| [Snappa](https://snappa.com)| Snappa saves you time every step of the way The perfect sized image is always one click away. Image dimensions for social media, display ads, blogs, emails, and infographics are available as clickable presets. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

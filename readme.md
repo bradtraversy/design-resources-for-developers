@@ -25,6 +25,7 @@
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
+- [React Native UI Libraries](#react-native-ui)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
@@ -791,6 +792,18 @@
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
 | [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
 | [Svelte Particles](https://particles.matteobruni.it/)| A lightweight Svelte component for creating particles |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## React Native UI
+
+>UI and component libraries for the React Native Framework
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Magnus UI](https://magnus-ui.com/)| Magnus UI is the ultimate UI framework that helps you in building consistent user interfaces effortlessly in react native. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -430,6 +430,7 @@
 | [Heritage Library](https://www.heritagetype.com/collections/free-vintage-illustrations) | Vintage Illustrations (vector and png) |
 | [ROBOHASH](https://robohash.org/) | Generate unique images from any text |
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
+| [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 
 
 <div align="right">
@@ -750,7 +751,7 @@
 | [Particles.vue](https://particles.matteobruni.it/)| A lightweight Vue 2.x component for creating particles |
 | [Particles.vue3](https://particles.matteobruni.it/)| A lightweight Vue 3.x component for creating particles |
 | [TC Components](https://components.timos.design) | A library of high-quality ready to use components that will help you speed up your development workflow. |
-| [Equal UI](https://quatrochan.github.io/Equal/) | Equal UI – open-source Vue 3 components system for your next project based on TypeScript |
+| [Vant](https://youzan.github.io/vant) | Lightweight Mobile UI Components built on Vue. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

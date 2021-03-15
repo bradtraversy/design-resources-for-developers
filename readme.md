@@ -750,6 +750,7 @@
 | [Particles.vue](https://particles.matteobruni.it/)| A lightweight Vue 2.x component for creating particles |
 | [Particles.vue3](https://particles.matteobruni.it/)| A lightweight Vue 3.x component for creating particles |
 | [TC Components](https://components.timos.design) | A library of high-quality ready to use components that will help you speed up your development workflow. |
+| [Vant](https://youzan.github.io/vant) | Lightweight Mobile UI Components built on Vue. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

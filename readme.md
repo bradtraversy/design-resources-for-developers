@@ -545,6 +545,7 @@
 | [css-doodle](https://css-doodle.com/) | A web component for drawing patterns with CSS |
 | [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
 | [Paper CSS](https://github.com/cognitom/paper-css) | Front-end printing solution |
+| [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -755,6 +755,7 @@
 | [TC Components](https://components.timos.design) | A library of high-quality ready to use components that will help you speed up your development workflow. |
 | [Vant](https://youzan.github.io/vant) | Lightweight Mobile UI Components built on Vue. |
 | [Equal UI](https://quatrochan.github.io/Equal/) | Open-source Vue 3 components system for your next project based on TypeScript |
+| [Mint UI](https://mint-ui.github.io/#!/en) | Mobile UI elements for Vue.js |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

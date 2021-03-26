@@ -78,7 +78,7 @@
 | [illustration kit](https://illustrationkit.com/)| Premium open source illustrations added daily |
 | [Doodad Pattern Generator](https://doodad.dev/pattern-generator/) | Create unique, seamless, royalty-free patterns.|
 | [Pattern Monster](https://pattern.monster/) | A simple online pattern generator to create repeatable SVG patterns|
-
+| [Exemplar](https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/) | Free Avatar Library for Figma and Sketch|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -546,7 +546,7 @@
 | [CSS Gradient](https://cssgradient.io/gradient-backgrounds/) | CSS Gradient is a little website and free tool that lets you create a gradient background for websites |
 | [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
 | [Paper CSS](https://github.com/cognitom/paper-css) | Front-end printing solution |
-| [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS
+| [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

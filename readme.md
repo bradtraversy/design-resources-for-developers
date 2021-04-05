@@ -543,7 +543,7 @@
 | [Halfmoon UI](https://www.gethalfmoon.com/)| A responsive and lightweight framework, designed for quickly building beautiful dashboards and product pages. |
 | [Metro 4](https://metroui.org.ua/index.html)| Create your site quickly and effectively with Metro 4. impressive components library built on html, css, javascript. |
 | [css-doodle](https://css-doodle.com/) | A web component for drawing patterns with CSS |
-| [CSS Gradient](https://cssgradient.io/gradient-backgrounds/) | CSS Gradient is a little website and free tool that lets you create a gradient background for websites |
+| [CSS Gradient](https://cssgradient.io/) | CSS Gradient is a little website and free tool that lets you create a gradient background for websites |
 | [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
 | [Paper CSS](https://github.com/cognitom/paper-css) | Front-end printing solution |
 | [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |

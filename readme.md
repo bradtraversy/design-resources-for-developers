@@ -456,6 +456,7 @@
 | [Mockuphone](https://mockuphone.com/)| 100% free mockups for all devices including IOS, Android, Windows Phone, Laptop & Desktop and TV |
 | [Device Shots](https://deviceshots.com/)| Create high-resolution device mockups for social media, for free |
 | [Clean Mock](https://cleanmock.com/)| Create stunning mockups using latest device frames like iPhone X & custom backgrounds that make your mobile or website design standout, right from your browser quickly & for free. |
+| [Mock.Video](https://www.mock.video/)| Instantly create mockups by adding a device frame to your videos. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -547,6 +547,7 @@
 | [latex.css](https://latex.now.sh/) | Make your website look like a LaTeX document |
 | [Paper CSS](https://github.com/cognitom/paper-css) | Front-end printing solution |
 | [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
+| [Cirrus CSS](https://spiderpig86.github.io/Cirrus/) | A gorgeous CSS Framework for the web |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

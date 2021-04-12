@@ -824,6 +824,7 @@
 | [React Native Elements](https://reactnativeelements.com/)| Cross Platform React Native UI Toolkit that provides an all-in-one UI kit for creating apps in react native.  |
 | [NativeBase](https://nativebase.io/)| Essential cross-platform UI components for React Native & Vue Native.  |
 | [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction)| Shoutem UI toolkit enables you to build professionally looking React Native apps with ease.  |
+| [tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)| Use Tailwind CSS in React Native projects.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

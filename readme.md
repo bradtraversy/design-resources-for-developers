@@ -766,6 +766,7 @@
 | [AT-UI](https://at-ui.github.io/at-ui/#/en) | AT-UI is a modular front-end UI framework for developing fast and powerful web interfaces based on Vue.js. |
 | [Vuikit](https://vuikit.js.org/) | A consistent and responsive Vue UI library, based on the front-end framework UIkit. |
 | [Wave UI](https://antoniandre.github.io/wave-ui/) | A Vue.js UI framework with only the bright side. |
+| [VueTailwind](https://www.vue-tailwind.com/) | Set of Lightview and fully customizable Vue Components optimized for TailwindCSS. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -727,6 +727,7 @@
 | [React-WeUI](https://weui.github.io/react-weui/docs/#/react-weui/docs/page/0/articles/0)| React-WeUI made from our love of React and WeChat's WeUI Design. |
 | [Supabase UI](https://ui.supabase.io/)| An open-source UI component library inspired by Tailwind and AntDesign. |
 | [Ring UI](https://github.com/JetBrains/ring-ui)| A collection of JetBrains Web UI components. |
+| [React95](https://react95.io/)| Refreshed Windows 95 style UI components for your React app. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

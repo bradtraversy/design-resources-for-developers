@@ -729,6 +729,7 @@
 | [Ring UI](https://github.com/JetBrains/ring-ui)| A collection of JetBrains Web UI components. |
 | [React95](https://react95.io/)| Refreshed Windows 95 style UI components for your React app. |
 | [Reakit](https://reakit.io/)| Reakit is a lower level component library for building accessible high level UI libraries, design systems and applications with React. |
+| [Zent](https://github.com/youzan/zent)| A collection of essential UI components written with React. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

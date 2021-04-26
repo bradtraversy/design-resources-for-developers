@@ -549,6 +549,7 @@
 | [Paper CSS](https://github.com/cognitom/paper-css) | Front-end printing solution |
 | [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
 | [Cirrus CSS](https://spiderpig86.github.io/Cirrus/) | A gorgeous CSS Framework for the web |
+| [Gutenberg](https://github.com/BafS/Gutenberg) | Modern framework to print the web correctly. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

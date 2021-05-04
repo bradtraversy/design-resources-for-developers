@@ -553,6 +553,7 @@
 | [Gutenberg](https://github.com/BafS/Gutenberg) | Modern framework to print the web correctly. |
 | [lit](https://github.com/ajusa/lit) | World's smallest responsive fire css framework (395 bytes). |
 | [Arwes](https://github.com/arwes/arwes) | Arwes is a web framework to build user interfaces based on futuristic science fiction designs, animations, and sound effects. |
+| [Bojler](https://bojler.slicejack.com/) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

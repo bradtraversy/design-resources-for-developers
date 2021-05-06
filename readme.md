@@ -738,6 +738,7 @@
 | [Reakit](https://reakit.io/)| Reakit is a lower level component library for building accessible high level UI libraries, design systems and applications with React. |
 | [Zent](https://github.com/youzan/zent)| A collection of essential UI components written with React. |
 | [Gestalt](https://github.com/pinterest/gestalt)| A set of React UI components that supports Pinterest’s design language. |
+| [xstyled](https://xstyled.dev/)| A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

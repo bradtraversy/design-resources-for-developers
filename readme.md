@@ -556,6 +556,7 @@
 | [Arwes](https://github.com/arwes/arwes) | Arwes is a web framework to build user interfaces based on futuristic science fiction designs, animations, and sound effects. |
 | [Bojler](https://bojler.slicejack.com/) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
 | [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
+| [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

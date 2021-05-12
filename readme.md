@@ -557,6 +557,7 @@
 | [Bojler](https://bojler.slicejack.com/) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
 | [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
+| [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

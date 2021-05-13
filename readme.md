@@ -558,6 +558,7 @@
 | [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
+| [PSone](https://github.com/micah5/PSone.css) | PS1 style CSS Framework, inspired by NES.css. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -559,6 +559,7 @@
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
 | [PSone](https://github.com/micah5/PSone.css) | PS1 style CSS Framework, inspired by NES.css. |
+| [Marx](https://github.com/mblode/marx) | Marx is the classless CSS reset to be used in any projects (namely small ones). |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

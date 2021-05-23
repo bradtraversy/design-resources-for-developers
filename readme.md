@@ -638,6 +638,7 @@
 | [Swiperjs](https://swiperjs.com/)| Free, Open Source, Modern Slider without jQuery. Available for Vanilla JS and all modern frameworks like React, Vue, Angular etc. |
 | [Splide](https://splidejs.com)| Free, pure JS library for carousels and sliders |
 | [Simple Parallax](https://simpleparallax.com/)| The easiest way to get a parallax effect with javascript |
+| [KUTE.js](https://thednp.github.io/kute.js/)| KUTE.js is a JavaScript animation engine for modern browsers. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

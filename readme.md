@@ -249,7 +249,7 @@
 | [Shitty Icons](https://shittyicons.com/) | Collection of Free icons. |
 | [Iconspedia](https://www.iconspedia.com/) | Iconspedia is a website that contains a large collection of high quality free icons. |
 | [iconhub](https://iconhub.io/) | Just practical stunning icons for everyone |
-
+| [Named Icon](https://icon.prodconfig.com/) | Significantly generates a named icon from single or double characters. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

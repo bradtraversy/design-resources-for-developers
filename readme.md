@@ -639,6 +639,7 @@
 | [Splide](https://splidejs.com)| Free, pure JS library for carousels and sliders |
 | [Simple Parallax](https://simpleparallax.com/)| The easiest way to get a parallax effect with javascript |
 | [KUTE.js](https://thednp.github.io/kute.js/)| KUTE.js is a JavaScript animation engine for modern browsers. |
+| [Granim.js](https://sarcadass.github.io/granim.js/index.html)| Create fluid and interactive gradient animations with this small javascript library. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

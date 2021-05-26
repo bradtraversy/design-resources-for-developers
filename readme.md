@@ -749,6 +749,7 @@
 | [Gestalt](https://github.com/pinterest/gestalt)| A set of React UI components that supports Pinterest’s design language. |
 | [xstyled](https://xstyled.dev/)| A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate. |
 | [@use-gesture](https://github.com/pmndrs/use-gesture)| Bread n butter utility for component-tied mouse/touch gestures in React. |
+| [React Rainbow](https://react-rainbow.io/)| React Rainbow is a collection of components that will reliably help you build your application in a snap. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

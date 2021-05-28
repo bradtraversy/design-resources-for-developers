@@ -858,6 +858,7 @@
 | [tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)| Use Tailwind CSS in React Native projects.  |
 | [Ant Design Mobile RN](https://rn.mobile.ant.design/)| An Ant design based configurable Mobile UI component library based on React Native.  |
 | [SnackUI](https://github.com/snackui/snackui)| SnackUI is a UI Kit for React Native + react-native-web that's much faster rocket with an optimizing compiler.  |
+| [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

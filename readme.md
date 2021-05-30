@@ -1158,6 +1158,7 @@
 | [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
 | [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR Code Generator to easily create a QR code for your project. |
+| [PapersDB](https://papersdb.com/) | The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

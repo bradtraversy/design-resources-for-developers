@@ -462,6 +462,7 @@
 | [Clean Mock](https://cleanmock.com/)| Create stunning mockups using latest device frames like iPhone X & custom backgrounds that make your mobile or website design standout, right from your browser quickly & for free. |
 | [Mock.Video](https://www.mock.video/)| Instantly create mockups by adding a device frame to your videos. |
 | [MockupBro](https://mockupbro.com/)| Create product mockups with online mockup generator! Just choose a mockup, upload your design and download your image without a watermark. |
+| [Animockup](https://animockup.com/)| Create animated mockups in the browser 🔥. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

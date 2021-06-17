@@ -645,6 +645,7 @@
 | [Simple Parallax](https://simpleparallax.com/)| The easiest way to get a parallax effect with javascript |
 | [KUTE.js](https://thednp.github.io/kute.js/)| KUTE.js is a JavaScript animation engine for modern browsers. |
 | [Granim.js](https://sarcadass.github.io/granim.js/index.html)| Create fluid and interactive gradient animations with this small javascript library. |
+| [Popmotion](https://popmotion.io/)| Simple animation libraries for delightful user interfaces. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

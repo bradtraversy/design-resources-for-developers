@@ -649,6 +649,7 @@
 | [Granim.js](https://sarcadass.github.io/granim.js/index.html)| Create fluid and interactive gradient animations with this small javascript library. |
 | [Popmotion](https://popmotion.io/)| Simple animation libraries for delightful user interfaces. |
 | [Vivus](https://maxwellito.github.io/vivus/)| Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. |
+| [Typed.js](https://mattboldt.com/demos/typed-js/)| A JavaScript Typing Animation Library. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

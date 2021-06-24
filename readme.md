@@ -810,6 +810,7 @@
 | [Varlet](https://github.com/haoziqaq/varlet) | Varlet is a Material design mobile component library developed based on Vue3, developed and maintained by partners in the community. |
 | [Naive UI](https://www.naiveui.com/en-US/os-theme) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
 | [Vuestic](https://vuestic.dev/) | Free and Open Source UI Library for Vue 3 🤘. |
+| [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

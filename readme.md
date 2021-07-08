@@ -652,6 +652,7 @@
 | [Vivus](https://maxwellito.github.io/vivus/)| Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. |
 | [Typed.js](https://mattboldt.com/demos/typed-js/)| A JavaScript Typing Animation Library. |
 | [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/)| Responsive and slick progress bars with animated SVG paths. |
+| [react-spring](https://react-spring.io/)| A spring-physics based animation library that should cover most of your UI related animation needs. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

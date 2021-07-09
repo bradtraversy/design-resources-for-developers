@@ -1034,7 +1034,7 @@
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
-| [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
+| [Saaspages.xyz](https://saaspages.xyz)| A collection of the best landing pages with a focus on copywriting and design. |
 | [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
 | [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration |
 | [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and javascript. latest work some design part |

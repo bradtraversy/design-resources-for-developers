@@ -1152,6 +1152,7 @@
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Formatter, Minifier, File Converter |
 | [Tiny helpers](https://tiny-helpers.dev/)| A collection of free single-purpose online tools for web developers |
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
+| [Normalize.css](https://necolas.github.io/normalize.css/)| makes browsers render all elements more consistently and in line with modern standards. |
 | [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
 | [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |

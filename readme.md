@@ -20,6 +20,7 @@
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
 - [Javascript Animations](#javascript-animation-libraries)
+- [Javascript Charts](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
@@ -653,6 +654,22 @@
 | [Vivus](https://maxwellito.github.io/vivus/)| Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. |
 | [Typed.js](https://mattboldt.com/demos/typed-js/)| A JavaScript Typing Animation Library. |
 | [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/)| Responsive and slick progress bars with animated SVG paths. |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Javascript Chart Libraries
+
+>Libraries that help developers visualize data into charts
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [ChartJS](https://www.chartjs.org/)| Simple yet flexible JavaScript charting for designers & developers |
+| [FrappeJS](https://frappe.io/charts)| Includes Green squares grid like in github, and other charts to use. |
+| [G2Plot](https://g2plot.antv.vision/en)| G2Plot is an interactive and responsive charting library based on the grammar of graphics. |
+| [Google Charts](https://developers.google.com/chart/)| Get the experience from google to create similar charts that google use. |
+| [Data Driven Documents (D3)](https://d3js.org/)| bind complicated and massive data to interactive graphs. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -190,6 +190,7 @@
 | [Color Hex](https://www.color-hex.com) | Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK) and generates a simple css code for the selected color. |
 | [FarbVelo](https://farbvelo.elastiq.ch/) | A random color palette generator |
 | [Veranda Color](https://verandacolor.com) | Browse color palettes made by other designers, generate and submit your own |
+| [Duo](https://duo.alexpate.uk/) | Duo is a collection of colour combinations that I’ve curated from personal projects or that I’ve come across on the web. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

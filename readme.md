@@ -98,6 +98,7 @@
 | [1001 Free Fonts](https://www.1001freefonts.com/)| I think the name speaks for itself :smirk: |
 | [Font Squirrel](https://www.fontsquirrel.com/)| Font Squirrel scours the internet for high quality, legitimately free fonts |
 | [Font Fabric](https://www.fontfabric.com/free-fonts/)| A digital type foundry crafting retail fonts and custom typography for various brands |
+| [Font Bundles](https://fontbundles.net/free-fonts)| Free selections of fonts for you to browse and use for your next project |
 | [Tiff](https://tiff.herokuapp.com/)| A type diff tool that visually contrasts the differences between two fonts  |
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
 | [Fontjoy](https://fontjoy.com/)| Generate font pairing in one click |

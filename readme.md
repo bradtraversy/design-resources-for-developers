@@ -1078,6 +1078,7 @@
 | [UI Garage](https://uigarage.net/) | Daily handpicked UI inspiration & patterns. |
 | [ecomm.design](https://ecomm.design/) | eCommerce Website Design Gallery & Tech Inspiration. |
 | [Design Nominees](https://www.designnominees.com/) | A showcase of awarding and showcasing the best websites, apps and Games. |
+| [Design Vault](https://designvault.io/) | A library of screenshots and patterns from real world digital products|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -222,7 +222,7 @@
 | [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
-| [Lordicon](https://lordicon.com/free-icons) | 50 free animated interactive icons |
+| [Lordicon](https://lordicon.com/icons#free) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |

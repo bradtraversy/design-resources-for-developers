@@ -4,6 +4,7 @@
 
 - Pull request title should include resource name and resource section.
   - Example: `[Tailwind CSS] -> [CSS Frameworks]`
+  - Example: `[youn CSS] -> [CSS Frameworks]`
 
 - Provide a link to submitted resource in pull request comment section for easier access without copy paste.
   - Example: `Link: https://tailwindcss.com/`

@@ -720,6 +720,7 @@
 | [Stitches](https://stitches.dev/)| CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. |
 | [Headless UI](https://headlessui.dev/)| Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [Styled components](https://styled-components.com/)| Build beautifully UI Components, for your applications & websites. |
+| [Glass UI](https://ui.glass/)| A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

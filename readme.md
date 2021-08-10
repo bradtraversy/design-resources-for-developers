@@ -367,6 +367,8 @@
 | [Saxifraga](http://www.freenatureimages.eu) | Free nature images |
 | [Creative Commons](https://search.creativecommons.org) | Search for free images to reuse.
 | [AllTheFreeStock](https://allthefreestock.com/) | a curated list of free stock images, audio and videos.
+| [Photostock](https://photostockeditor.com/) | Beautiful free photos for commercial use.
+| [Freejpg](https://en.freejpg.com.ar/) | Free Stock Photos.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -387,6 +389,7 @@
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
 | [Loopvidz](http://stock.loopvidz.com/)| Free To Use Cinema graphs Created With VIMAGE App |
 | [SplitShire](https://www.splitshire.com/)| Beautiful & exclusive free stock videos & photos |
+| [Free Stock Videos](https://free-stock.videos/)| Free video clips and Animated Backgrounds |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -405,6 +408,7 @@
 | [Free Music Archive](https://freemusicarchive.org/)|  Collaborative database of creative-commons licensed sound for musicians and sound lovers  |
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
+| [FreeSoundEffects](https://free-sound-effects.net/)| Free Sound Effects For YouTube, filmmakers, games, podcasts and to use in your next video project! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

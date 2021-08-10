@@ -1009,6 +1009,7 @@
 | [Lucidchart](https://www.lucidchart.com/pages/)| Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
 | [PixCleaner](https://www.pixcleaner.com/)| Accurate and hassle free background removal tool |
+| [Glass UI](https://ui.glass/generator)| A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1060,7 +1060,7 @@
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Saaspages.xyz](https://saaspages.xyz)| A collection of the best landing pages with a focus on copywriting and design. |
-| [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
+| [Screenlane](https://screenlane.com)| Screenlane is a website and newsletter that features the latest web and mobile design inspiration. |
 | [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration |
 | [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and javascript. latest work some design part |
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |

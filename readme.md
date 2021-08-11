@@ -1086,6 +1086,7 @@
 | [Design Nominees](https://www.designnominees.com/) | A showcase of awarding and showcasing the best websites, apps and Games. |
 | [Design Vault](https://designvault.io/) | A library of screenshots and patterns from real world digital products|
 | [CSS buttons](https://getcssscan.com/css-buttons-examples)| 84 Beautiful CSS buttons examples. |
+| [CSS box-shadow](https://getcssscan.com/css-box-shadow-examples)| 91 Beautiful CSS box-shadow examples. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

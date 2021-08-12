@@ -523,6 +523,7 @@
 | [Material Design Lite](https://getmdl.io/)| Light framework based on Material Design. No JS dependency |
 | [Bulma](https://bulma.io/)| Modern CSS framework with no JS |
 | [Skeleton](http://getskeleton.com/)| Extremely light framework for basic UI elements |
+| [Uniform CSS](https://uniformcss.com/)| Fully configurable utility generator and CSS framework built entirely in Sass |
 | [Semantic UI](https://semantic-ui.com/)| Empowers designers and developers by creating a shared vocabulary for UI  |
 | [Fomantic UI](https://fomantic-ui.com/)| A community fork of Semantic-UI |
 | [Foundation](https://get.foundation/)| Mobile first framework with clean markup |

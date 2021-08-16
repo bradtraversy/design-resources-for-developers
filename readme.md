@@ -1053,6 +1053,7 @@
 | ----------------------- | ------------------ |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
+| [Landingfolio](https://landingfolio.com/)| Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
 | [Codewell](https://www.codewell.cc/)| Practice your HTML, CSS, and Javascript skills on real world design templates |
 | [Foxyapps](https://foxyapps.co/)| Design inspiration from the best mobile app designs |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |

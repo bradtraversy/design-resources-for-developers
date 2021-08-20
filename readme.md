@@ -1216,6 +1216,7 @@
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR Code Generator to easily create a QR code for your project. |
 | [PapersDB](https://papersdb.com/) | The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units. |
 | [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
+| [Angry Tools](https://angrytools.com/)                       | Free web tools for speed up your development                 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

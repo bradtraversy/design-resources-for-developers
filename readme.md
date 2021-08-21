@@ -191,6 +191,7 @@
 | [FarbVelo](https://farbvelo.elastiq.ch/) | A random color palette generator |
 | [Veranda Color](https://verandacolor.com) | Browse color palettes made by other designers, generate and submit your own |
 | [Duo](https://duo.alexpate.uk/) | Duo is a collection of colour combinations that I’ve curated from personal projects or that I’ve come across on the web. |
+| [Lospec Palette List](https://lospec.com/palette-list) | The Lospec Palette List is a database of palettes for pixel art. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -268,7 +269,6 @@
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
-| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [VectorLogoZone](https://www.vectorlogo.zone/) | Consistently formatted SVG logos |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |

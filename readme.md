@@ -269,7 +269,6 @@
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
-| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
 | [VectorLogoZone](https://www.vectorlogo.zone/) | Consistently formatted SVG logos |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |

@@ -673,6 +673,7 @@
 | [G2Plot](https://g2plot.antv.vision/en)| G2Plot is an interactive and responsive charting library based on the grammar of graphics. |
 | [Google Charts](https://developers.google.com/chart/)| Get the experience from Google to create similar charts that Google uses. |
 | [Data Driven Documents (D3)](https://d3js.org/)| Bind complicated and massive data to interactive graphs. |
+| [ApexCharts.Js](https://apexcharts.com/)|Modern & Interactive Open-source Charts |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

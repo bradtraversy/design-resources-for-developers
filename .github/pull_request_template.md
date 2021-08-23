@@ -1,10 +1,10 @@
-`[ApexCharts.js] -> [Javascript Chart Libraries]`
+**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# Resource Name - ApexCharts.js
+# Resource Name - Edit this line
 
 Edit this line with Small Description about new added resource
 
-Link: https://apexcharts.com/
+Link: www.linkToResource
 
 #### Checklist:
 

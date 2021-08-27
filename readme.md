@@ -545,7 +545,6 @@
 | [Blaze.css](http://blazecss.com/) | Open source modular CSS toolkit providing great structure for building websites quickly  |
 | [Turret CSS](https://turretcss.com/) | Turret CSS is a styles framework for development of responsive websites.  |
 | [Cutestrap](https://www.cutestrap.com/) | A strong, independent CSS Framework. |
-| [Shorthand](https://shorthandcss.com/) | Shorthand is a free and open source css framework, that allows you to make unique and modern design without writing any css |
 | [XP.css](https://botoxparty.github.io/XP.css/) | XP.css is an extension of 98.css. A CSS library for building interfaces that look like old UIs. |
 | [Framework7](https://framework7.io/) | Framework7 - is a free and open source framework to develop mobile, desktop or web apps with native look and feel. |
 | [Hint.css](https://kushagra.dev/lab/hint/) | A pure CSS tooltip library for your lovely websites. |

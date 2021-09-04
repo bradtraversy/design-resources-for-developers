@@ -1043,6 +1043,7 @@
 | [Darktable](https://www.darktable.org/)| Free & Open source photography workflow application and raw developer |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
+| [PickPick](https://picpick.app/en/)| An all-in-one design tool packed with features like, screen capture, Intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard and more.! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

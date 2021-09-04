@@ -421,7 +421,6 @@
 | [Free Vectors](https://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
 | [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
-| [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector artworks |
 | [Illlustrations](https://illlustrations.co/)| Beautiful 100 Illustrations - png, svg |

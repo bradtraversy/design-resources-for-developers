@@ -1018,6 +1018,8 @@
 | [Glass UI](https://ui.glass/generator)| A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications. |
 | [Glassmorphism](https://glassmorphism.com/)| An incredible online tool for generating quick glassmorphic UI in CSS code snippets. |
 | [TableConvert](https://tableconvert.com/)| Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table.  |
+| [Doodle Ipsum](https://doodleipsum.com/)| The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
+| [Figen](https://figen.cc/)| Post Cover & Background Generator Tool |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

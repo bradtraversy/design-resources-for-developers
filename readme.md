@@ -13,14 +13,14 @@
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
 - [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clipart](#vectors--clip-art)
+- [Vectors & Clip Art](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
-- [Javascript Animations](#javascript-animation-libraries)
-- [Javascript Charts](#javascript-chart-libraries)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
+- [Javascript Chart Libraries](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)
@@ -260,6 +260,7 @@
 </div>
 
 ## Logos
+
 >Resources for Logos
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |

@@ -26,7 +26,7 @@
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
-- [React Native UI Libraries](#react-native-ui)
+- [React Native UI Libraries](#react-native-ui-libraries)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
@@ -890,7 +890,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## React Native UI
+## React Native UI Libraries
 
 >UI and component libraries for the React Native Framework
 

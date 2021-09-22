@@ -20,7 +20,7 @@
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
 - [Javascript Animation Libraries](#javascript-animation-libraries)
-- [Javascript Charts](#javascript-chart-libraries)
+- [Javascript Chart Libraries](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)
 - [Vue UI Libraries](#vue-ui)

@@ -260,6 +260,7 @@
 </div>
 
 ## Logos
+
 >Resources for Logos
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |

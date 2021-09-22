@@ -19,7 +19,7 @@
 - [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
-- [Javascript Animations](#javascript-animation-libraries)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
 - [Javascript Charts](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui)

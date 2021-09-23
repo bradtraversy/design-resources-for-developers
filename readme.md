@@ -22,7 +22,7 @@
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [Javascript Chart Libraries](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui)
+- [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui)
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
@@ -730,7 +730,7 @@
 </div>
 
 
-## React UI
+## React UI Libraries
 
 >UI and component libraries for the React JavaScript framework
 

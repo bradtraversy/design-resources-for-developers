@@ -24,7 +24,7 @@
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui-libraries)
-- [Angular UI Libraries](#angular-ui)
+- [Angular UI Libraries](#angular-ui-libraries)
 - [Svelte UI Libraries](#svelte-ui)
 - [React Native UI Libraries](#react-native-ui-libraries)
 - [Design Systems & Style Guides](#design-systems--style-guides)
@@ -846,7 +846,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Angular UI
+## Angular UI Libraries
 
 >UI and component libraries for the Angular JavaScript framework
 

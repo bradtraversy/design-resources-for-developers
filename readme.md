@@ -23,7 +23,7 @@
 - [Javascript Chart Libraries](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui-libraries)
-- [Vue UI Libraries](#vue-ui)
+- [Vue UI Libraries](#vue-ui-libraries)
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
 - [React Native UI Libraries](#react-native-ui-libraries)
@@ -796,7 +796,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Vue UI
+## Vue UI Libraries
 
 >UI and component libraries for the Vue JavaScript framework
 

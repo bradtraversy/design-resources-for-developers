@@ -25,7 +25,7 @@
 - [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui-libraries)
 - [Angular UI Libraries](#angular-ui-libraries)
-- [Svelte UI Libraries](#svelte-ui)
+- [Svelte UI Libraries](#svelte-ui-libraries)
 - [React Native UI Libraries](#react-native-ui-libraries)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
@@ -874,7 +874,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Svelte UI
+## Svelte UI Libraries
 
 >UI and component libraries for the Svelte JavaScript compiler
 

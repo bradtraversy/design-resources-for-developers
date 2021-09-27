@@ -656,6 +656,7 @@
 | [Vivus](https://maxwellito.github.io/vivus/)| Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn. |
 | [Typed.js](https://mattboldt.com/demos/typed-js/)| A JavaScript Typing Animation Library. |
 | [Progress Bar.js](https://kimmobrunfeldt.github.io/progressbar.js/)| Responsive and slick progress bars with animated SVG paths. |
+| [Midnight.js](https://aerolab.github.io/midnight.js/)| Midnight.js lets you switch fixed headers on the fly |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

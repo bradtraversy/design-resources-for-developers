@@ -82,6 +82,7 @@
 | [Pattern Monster](https://pattern.monster/) | A simple online pattern generator to create repeatable SVG patterns|
 | [Exemplar](https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/) | Free Avatar Library for Figma and Sketch|
 | [UIBundle](https://uibundle.com) | Thousands of Free Design Resources like UI Kits, Mockups, Illustrations, Icons, Fonts, 3D assets, Templates and more. |
+| [openby.design](https://openby.design/) | Custom crafted free UI design resources, for personal and commercial projects. No attribution is required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

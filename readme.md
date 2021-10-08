@@ -1175,7 +1175,7 @@
 | [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | A simple CSS property viewer. |
 | [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | An open-source, automated tool for improving the performance, quality, and correctness of your web apps. |
-| [Debug CSS](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj) | Adds outline to all elements on the page to show the culprit element which is changing desired layout |
+| [Debug CSS](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj) | Adds outline to all elements on the page to show the culprit element which is changing desired layout. Helps in knowing the layout of the page |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

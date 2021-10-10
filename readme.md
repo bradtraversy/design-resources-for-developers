@@ -65,7 +65,6 @@
 | [IsoFlat](https://isoflat.com/)                                                                          | A Free collection of Isometric SVG graphic resources               |
 | [IRA Design](https://iradesign.io/)                                                                      | An open-source gradient illustrations collection by creative tim.   |
 | [Transparent Textures](https://www.transparenttextures.com/) | A collection of transparent textures background patterns. |
-| [Storytale.io](https://storytale.io/freebies/) | Subset of Storytale free quality illustrations |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
 | [Freellustrations](https://freellustrations.com/) | Free Background Images for awesome landing Pages |

@@ -679,6 +679,7 @@
 | [Google Charts](https://developers.google.com/chart/)| Get the experience from Google to create similar charts that Google uses. |
 | [Data Driven Documents (D3)](https://d3js.org/)| Bind complicated and massive data to interactive graphs. |
 | [ApexCharts.Js](https://apexcharts.com/)|Modern & Interactive Open-source Charts |
+| [Chartist](http://gionkunz.github.io/chartist-js/index.html)|Simple responsive charts |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

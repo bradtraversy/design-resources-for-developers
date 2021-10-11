@@ -1055,6 +1055,7 @@
 | [Darktable](https://www.darktable.org/)| Free & Open source photography workflow application and raw developer |
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
+| [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

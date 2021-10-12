@@ -747,6 +747,7 @@
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
 | [Chakra UI](https://chakra-ui.com/)| Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
+| [Mantine](https://mantine.dev/)| A fully featured React components library. |
 | [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library. |
 | [ui-playbook](https://uiplaybook.dev/)| The documented collection of UI components |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |

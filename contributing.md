@@ -1,7 +1,7 @@
 # Contributing Guidelines
 
 - Add single resource in one pull request as it will allow for easier review.
-
+d
 - Pull request title should include resource name and resource section.
   - Example: `[Tailwind CSS] -> [CSS Frameworks]`
 

@@ -3,8 +3,7 @@
 
 ## Table of Contents
 
-- [UI Graphics](#ui-graphics) oyyiyiooyiiouio fhffhfhffgffgffhgffg
-- [Fonts](#fonts)
+- [UI Graphics](#ui-graphics) oyyiyiooyiiouio fhffhfhffgffgffhgffg  jfjgjjg jgjgjggj gjjj
 - [Colors](#colors)
 - [Icons](#icons)
 - [Logos](#logos)

@@ -1,11 +1,11 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# Resource Name - Edit this line
 
-Edit this line with Small Description about new added resource
+# Readme Creator
 
-Link: www.linkToResource
+The easiest way to create a README. It allows you to quickly add and customize all the sections you need for your project's readme.
+
+Link: https://readme.so
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [x] I have performed a self-review of submitted resource and its follows the guidelines of the project.

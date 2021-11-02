@@ -820,6 +820,7 @@
 | [Bootstrap Vue](https://bootstrap-vue.org/)| Use Bootstrap components with Vue |
 | [Buefy](https://buefy.org/)| Lightweight UI components based on Bulma |
 | [Semantic UI Vue](https://semantic-ui-vue.github.io)| Semantic UI Vue is the Vue integration for Semantic UI |
+| [Arco Design Vue](https://arco.design/vue/en-US/docs/start)| A comprehensive Vue UI components library based on the Arco Design system. |
 | [VEUI](https://veui.dev/en-US)| VEUI is an enterprise UI component library, based on Vue.js. |
 | [Grace](https://github.com/Trendyol/grace)| Design System For Vue Applications. |
 | [Quasar](https://quasar.dev/)| High-performance Material Design component suite with builders for SPA, SSR, PWA, Mobile (Cordova & Capacitor), Desktop (Electron) and Browser extensions |

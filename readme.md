@@ -126,6 +126,7 @@
 | [Malayalam Fonts](https://smc.org.in/fonts/)| Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC) |
 | [Dev Fonts](https://devfonts.gafi.dev/)| Find and use the coding fonts for free |
 | [Font M](https://fontm.com/)| Free font you can download for material coding and design |
+| [W Fonts](https://www.wfonts.com/)| Download Free fonts |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

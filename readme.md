@@ -1038,6 +1038,7 @@
 | [Doodle Ipsum](https://doodleipsum.com/)| The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
 | [Figen](https://figen.cc/)| Post Cover & Background Generator Tool |
 | [Windframe](https://www.devwares.com/windframe/)|  A tool to rapidly prototype and build stunning websites using Tailwind CSS (Free & Premium) |
+| [Slickr](https://slickr.vercel.app/)| A tool for designing cover image for your blog. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

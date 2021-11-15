@@ -808,6 +808,7 @@
 | [React Use Smooth Scroll](https://github.com/saidMounaim/React-Use-Smooth-Scroll)| React Provider Component to add a smooth scroll effect |
 | [Choc UI](https://choc-ui.tech/)| Choc UI is a set of accessible and reusable components that are commonly used in web applications. |
 | [Elementz](https://elementz.style/)| A React Component library for buliding modern applications easily & quickly. |
+| [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -296,6 +296,7 @@
 | [Favicon Generator](http://tools.dynamicdrive.com/favicon/)| Generate favicon ico files for your website |
 | [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
 | [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
+| [Favicon.cc](https://www.favicon.cc) | Draw a favicon online and browse through a library of favicons made by other users |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

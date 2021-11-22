@@ -643,6 +643,7 @@
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
+| [Atropos](https://atroposjs.com/)| Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |

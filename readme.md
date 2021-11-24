@@ -1042,6 +1042,7 @@
 | [Windframe](https://www.devwares.com/windframe/)|  A tool to rapidly prototype and build stunning websites using Tailwind CSS (Free & Premium) |
 | [Slickr](https://slickr.vercel.app/)| A tool for designing cover image for your blog. |
 | [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)| Create a set of lush, realistic CSS shadows. |
+| [Ray.so](https://ray.so/)| Online tool to create beautiful images of your code. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

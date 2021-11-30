@@ -620,6 +620,7 @@
 | [AnimXYZ](https://animxyz.com/)| AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 | [Whirl](https://github.com/jh3y/whirl)| CSS loading animations with minimal effort! |
 | [Hamburgers](https://jonsuh.com/hamburgers/)| Hamburgers is a collection of tasty CSS-animated hamburger icons. Also included is the source as a Sass library. It’s modular and customizable, so cook up your own hamburger. |
+| [CSS Loaders & Spinners](https://cssloaders.github.io/)| This is a library having a collection of different types of CSS loaders, spinners |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

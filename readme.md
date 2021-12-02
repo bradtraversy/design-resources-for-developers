@@ -67,7 +67,7 @@
 | [Transparent Textures](https://www.transparenttextures.com/) | A collection of transparent textures background patterns. |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
-| [Freellustrations](https://freellustrations.com/) | Free Background Images for awesome landing Pages |
+| [Freellustrations](https://www.freellustrations.com/) | Free Background Images for awesome landing Pages |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
 | [sketchvalley](https://sketchvalley.com/) | Download free PNG, SVG or AI file . |

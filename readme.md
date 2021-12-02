@@ -674,6 +674,7 @@
 | [Tingle.js](https://tingle.robinparisi.com/)| Tingle is a simple modal plugin written in pure JavaScript |
 | [Theatre.js](https://www.theatrejs.com/)| Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable. |
 | [splidejs](https://splidejs.com/)| Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
+| [nice-waves](https://gvguy.github.io/nice-waves/)| Beautiful animated waves |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -34,6 +34,9 @@
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
 - [Others](#others)
+- [Others](#others)
+- [Others](#others)
+- [Others](#others)
 
 ## UI Graphics
 

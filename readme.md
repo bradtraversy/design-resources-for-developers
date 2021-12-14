@@ -797,7 +797,7 @@
 | [Vercel UI](https://github.com/geist-org/react) | Modern and minimalist React UI library |
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
-| [React tsParticles](https://particles.matteobruni.it/)| A lightweight React component for creating particles |
+| [React tsParticles](https://github.com/matteobruni/tsparticles/tree/main/components/react)| A lightweight React component for creating particles |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 | [Treact](https://treact.owaiskhan.me)| Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |

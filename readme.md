@@ -852,7 +852,7 @@
 | [Chakra UI Vue](https://vue.chakra-ui.com/)|Chakra UI is a simple modular and accessible component library that gives you the building blocks to build Vue applications with speed.|
 | [View UI](https://www.iviewui.com/)|Dozens of useful and beautiful Vue components made for people with all skill levels with extensive documentation.|
 | [Particles.vue](https://github.com/matteobruni/tsparticles/tree/main/components/vue)| A lightweight Vue 2.x component for creating particles |
-| [Particles.vue3](https://particles.matteobruni.it/)| A lightweight Vue 3.x component for creating particles |
+| [Particles.vue3](https://github.com/matteobruni/tsparticles/tree/main/components/vue3)| A lightweight Vue 3.x component for creating particles |
 | [TC Components](https://components.timos.design) | A library of high-quality ready to use components that will help you speed up your development workflow. |
 | [Vant](https://youzan.github.io/vant) | Lightweight Mobile UI Components built on Vue. |
 | [Equal UI](https://quatrochan.github.io/Equal/) | Open-source Vue 3 components system for your next project based on TypeScript |

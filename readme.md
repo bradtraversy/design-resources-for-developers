@@ -697,6 +697,7 @@
 | [Data Driven Documents (D3)](https://d3js.org/)| Bind complicated and massive data to interactive graphs. |
 | [ApexCharts.Js](https://apexcharts.com/)|Modern & Interactive Open-source Charts |
 | [Chartist](http://gionkunz.github.io/chartist-js/index.html)|Simple responsive charts |
+| [Vizzu](https://lib.vizzuhq.com/0.3.0/)| Vizzu - a free, open-source Javascript library for building animated charts, data stories, and interactive explorers. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -584,7 +584,6 @@
 | [Raster Simple Grid System](https://rsms.me/raster/) | Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS. |
 | [flowrift](https://flowrift.com/c/banner) | Flowrift is a library made of beautifully designed Tailwind CSS UI blocks. |
 | [twind](https://twind.dev/) | The smallest, fastest, most feature complete tailwind-in-js solution in existence |
-| [Halfmoon](https://www.gethalfmoon.com/) | Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools |
 | [Pico.css](https://picocss.com/) | Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. |
 
 <div align="right">

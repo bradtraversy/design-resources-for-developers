@@ -198,6 +198,7 @@
 | [Lospec Palette List](https://lospec.com/palette-list) | The Lospec Palette List is a database of palettes for pixel art. |
 | [Palettte App](https://palettte.app) | Build smooth color schemes that flow from one color to another. |
 | [Eggradients](https://www.eggradients.com/) | Gradient Background Colors with eggs.|
+| [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

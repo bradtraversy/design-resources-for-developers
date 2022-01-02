@@ -83,8 +83,9 @@
 | [UIBundle](https://uibundle.com)                                                                         | Thousands of Free Design Resources like UI Kits, Mockups, Illustrations, Icons, Fonts, 3D assets, Templates and more. |
 | [openby.design](https://openby.design/)                                                                  | Custom crafted free UI design resources, for personal and commercial projects. No attribution is required. |
 | [Design Stripe](https://designstripe.com/catalog)                                                        | Create beautiful illustrations, no design skills needed. |
-| [Iconscout](https://iconscout.com/illustrations)                                                         | Free and beautiful illustrations
-| |
+| [Iconscout](https://iconscout.com/illustrations)                                                         | Free and beautiful illustrations |
+| [HOLA SVG!](https://holasvg.com/)                                                                        | An SVG playground to share SVG stuff. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -129,6 +130,7 @@
 | [Dev Fonts](https://devfonts.gafi.dev/)| Find and use the coding fonts for free |
 | [Font M](https://fontm.com/)| Free font you can download for material coding and design |
 | [W Fonts](https://www.wfonts.com/)| Download Free fonts |
+| [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/)| Fluid typography is a modern way of approaching responsive typography. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -199,6 +201,7 @@
 | [Lospec Palette List](https://lospec.com/palette-list) | The Lospec Palette List is a database of palettes for pixel art. |
 | [Palettte App](https://palettte.app) | Build smooth color schemes that flow from one color to another. |
 | [Eggradients](https://www.eggradients.com/) | Gradient Background Colors with eggs.|
+| [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -954,6 +957,7 @@
 | [Ant Design](https://ant.design/)| Design system for enterprise-level products |
 | [Apple Design Resources](https://developer.apple.com/design/resources/)| Guides and templates for using Apple design and UI |
 | [Primer](https://primer.style/)| Design, build, and create with GitHub’s design system |
+| [Arco.design](https://arco.design/en-US)| An enterprise-level design system jointly launched by the Bytedance GIP UED team and the architecture front-end team. |
 | [Alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html)| Oracle's design system and toolkit |
 | [Pulse](https://pulse.heartbeat.ua/)| Design system, guides and React component library |
 | [Bolt](https://boltdesignsystem.com/)| Robust Twig and web component powered UI components |

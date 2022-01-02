@@ -954,6 +954,7 @@
 | [Ant Design](https://ant.design/)| Design system for enterprise-level products |
 | [Apple Design Resources](https://developer.apple.com/design/resources/)| Guides and templates for using Apple design and UI |
 | [Primer](https://primer.style/)| Design, build, and create with GitHub’s design system |
+| [Arco.design](https://arco.design/en-US)| An enterprise-level design system jointly launched by the Bytedance GIP UED team and the architecture front-end team. |
 | [Alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html)| Oracle's design system and toolkit |
 | [Pulse](https://pulse.heartbeat.ua/)| Design system, guides and React component library |
 | [Bolt](https://boltdesignsystem.com/)| Robust Twig and web component powered UI components |

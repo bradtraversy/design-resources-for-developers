@@ -84,7 +84,7 @@
 | [openby.design](https://openby.design/) | Custom crafted free UI design resources, for personal and commercial projects. No attribution is required. |
 | [Design Stripe](https://designstripe.com/catalog) | Create beautiful illustrations, no design skills needed. |
 | [HOLA SVG!](https://holasvg.com/) | An SVG playground to share SVG stuff. |
-
+| [symu.co](https://symu.co/freebies/templates-4/)| Free templates, UI kits, icon, PSD |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

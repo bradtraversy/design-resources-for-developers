@@ -201,6 +201,7 @@
 | [Eggradients](https://www.eggradients.com/) | Gradient Background Colors with eggs.|
 | [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 | [Encycolorpedia](https://encycolorpedia.com/) | Website for referencing web colors. Color knowledge, Web colors, Hex color codes. |
+| [Croma](https://croma.app/) | A website for pick colors quickly from image or manually. It's color picker is easier to use. |
 
 
 <div align="right">

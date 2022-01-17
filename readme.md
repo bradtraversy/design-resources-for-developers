@@ -1273,7 +1273,7 @@
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |
 | [Readme.so](https://readme.so) | The easisest way to create a README. |
 | [Showcode](https://showcode.app) | Beautiful code screenshot generator. |
-| [tldraw](https://www.tldraw.com) | A tiny little drawing app. |
+| [tldraw](https://www.tldraw.com) | A tiny little drawing app.yes, it is. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

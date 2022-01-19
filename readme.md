@@ -758,6 +758,7 @@
 | [Headless UI](https://headlessui.dev/)| Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [Styled components](https://styled-components.com/)| Build beautifully UI Components, for your applications & websites. |
 | [Figma Bootstrap 5 UI Kit](https://drive.google.com/file/d/1SZOTxXYfCMujqP2P684Vd5QIrlk5bwe6/view?usp=sharing)| UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. |
+| [Notiflix](https://notiflix.github.io)| JavaScript library for client-side non-blocking notifications, popup boxes, loading indicators, and more that makes your web projects much better |
 
 
 

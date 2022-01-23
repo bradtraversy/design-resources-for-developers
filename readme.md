@@ -1276,6 +1276,7 @@
 | [Readme.so](https://readme.so) | The easisest way to create a README. |
 | [Showcode](https://showcode.app) | Beautiful code screenshot generator. |
 | [tldraw](https://www.tldraw.com) | A tiny little drawing app. |
+| [devices.css](http://marvelapp.github.io/devices.css/) | Pure CSS phones and tablets by Marvel App. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

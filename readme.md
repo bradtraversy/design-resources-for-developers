@@ -925,6 +925,7 @@
 | [SvelteStrap](https://bestguy.github.io/sveltestrap/)| UI library for Svelte based on the Bootstrap framework |
 | [Svelte Flat UI](https://svelteui.js.org/)|UI library for Svelte based on Flat Design |
 | [Svelte Particles](https://github.com/matteobruni/tsparticles/tree/main/components/svelte)| A lightweight Svelte component for creating particles |
+| [Attractions](https://illright.github.io/attractions/)| A pretty cool UI kit for Svelte |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

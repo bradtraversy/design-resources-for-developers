@@ -927,6 +927,7 @@
 | [Svelte Flat UI](https://svelteui.js.org/)|UI library for Svelte based on Flat Design |
 | [Svelte Particles](https://github.com/matteobruni/tsparticles/tree/main/components/svelte)| A lightweight Svelte component for creating particles |
 | [Attractions](https://illright.github.io/attractions/)| A pretty cool UI kit for Svelte |
+| [Svelteit](https://docs.svelteit.dev)| A minimalistic UI/UX component library for Svelte and Sapper projects |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -143,6 +143,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Atmos](https://atmos.style) | Atmos is a toolbox specialized for creating UI palettes. From finding colors, through generating shades, to fine-tuning your palette, we've got you covered. | 
 | [Color Brewer 2](https://colorbrewer2.org/)| The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. |
 | [Huetone](https://github.com/ardov/huetone)| A tool to create accessible color systems. |
 | [Colormind.io](http://colormind.io)| Color palette generator |

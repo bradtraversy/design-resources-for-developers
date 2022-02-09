@@ -733,7 +733,7 @@
 | [Photonkit](http://photonkit.com/)| Desktop UI library for Electron |
 | [Flat UI](https://designmodo.github.io/Flat-UI/)| Minimal free user interface kit|
 | [Shards](https://designrevision.com/downloads/shards/)| A free and modern UI toolkit for web makers based on Bootstrap  |
-| [Themesberg](https://themesberg.com)| Free and open-source website themes, templates, and UI kits based on Bootstrap and React |
+| [Themesberg](https://themesberg.com/templates/free)| Free and open-source website themes, templates, and UI kits based on Bootstrap and React |
 | [Creative Tim](https://www.creative-tim.com/)| All types of UI libraries and kits including JS frameworks like React |
 | [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
 | [AdminLTE](https://adminlte.io/)| Best open source admin dashboard & control panel theme|

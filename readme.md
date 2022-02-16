@@ -783,7 +783,7 @@
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [Semi Design](https://semi.design/en-US)| A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products. |
 | [Mantine](https://mantine.dev/)| React components and hooks library with native dark theme support focused on usability, accessibility and developer experience. |
-| [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library. |
+| [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
 | [Arco Design](https://arco.design/en-US)| A comprehensive React UI components library based on the Arco Design system. |
 | [ui-playbook](https://uiplaybook.dev/)| The documented collection of UI components |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |
@@ -837,7 +837,6 @@
 | [Choc UI](https://choc-ui.com/)| Choc UI is a set of accessible and reusable components that are commonly used in web applications. |
 | [Elementz](https://elementz.style/)| A React Component library for buliding modern applications easily & quickly. |
 | [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
-| [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

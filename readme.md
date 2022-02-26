@@ -527,6 +527,7 @@
 | [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
 | [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
+| [ThemeWagon](https://themewagon.com/)| Free Landing Page Templates ,Portfolio, Admin&dashboard Educational and Bootstrap Themes. you can also submit |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

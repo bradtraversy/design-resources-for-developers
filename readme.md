@@ -206,6 +206,7 @@
 | [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 | [Encycolorpedia](https://encycolorpedia.com/) | Website for referencing web colors. Color knowledge, Web colors, Hex color codes. |
 | [Croma](https://croma.app/) | A website for pick colors quickly from image or manually. It's color picker is easier to use. |
+| [Color Designer](https://colordesigner.io/gradient-generator) | A gradient generetor from one color. |
 
 
 <div align="right">

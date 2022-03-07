@@ -1046,6 +1046,7 @@
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
+| [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |

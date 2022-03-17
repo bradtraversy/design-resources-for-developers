@@ -788,6 +788,7 @@
 | [React Rainbow](https://react-rainbow.io/)| React Rainbow is a collection of components that will reliably help you build your application in a snap. |
 | [Choc UI](https://choc-ui.tech/)| Choc UI is a set of accessible and reusable components that are commonly used in web applications. |
 | [Elementz](https://elementz.style/)| A React Component library for buliding modern applications easily & quickly. |
+| [Materio MUI ReactNextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)| Most Powerful & Comprehensive open-source MUI React NextJS Admin Dashboard Template built for developers. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

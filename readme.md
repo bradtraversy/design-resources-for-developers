@@ -766,7 +766,7 @@
 | [Figma Bootstrap 5 UI Kit](https://drive.google.com/file/d/1SZOTxXYfCMujqP2P684Vd5QIrlk5bwe6/view?usp=sharing)| UI Kit comprising 300+ organized Bootstrap 5 components built with atomic design system & auto layout. |
 | [Notiflix](https://notiflix.github.io)| JavaScript library for client-side non-blocking notifications, popup boxes, loading indicators, and more that makes your web projects much better |
 | [CoreUI](https://coreui.io)| Bootstrap Admin Dashboard Template & UI Components Library |
-
+| [SVGR](https://react-svgr.com/)| SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
 
 
 <div align="right">

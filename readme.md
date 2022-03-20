@@ -390,6 +390,7 @@
 | [Creative Commons](https://search.creativecommons.org) | Search for free images to reuse.
 | [AllTheFreeStock](https://allthefreestock.com/) | a curated list of free stock images, audio and videos.
 | [Lorem.space - Placeholder image generator](https://lorem.space) | API for placeholder images but useful! |
+| [Openverse](https://wordpress.org/openverse/) | Openverse is a search engine for openly-licensed media |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -767,6 +768,7 @@
 | [Notiflix](https://notiflix.github.io)| JavaScript library for client-side non-blocking notifications, popup boxes, loading indicators, and more that makes your web projects much better |
 | [CoreUI](https://coreui.io)| Bootstrap Admin Dashboard Template & UI Components Library |
 | [AgnosticUI](https://www.agnosticui.com/)| Accessible React component primitives that also work with Vue 3, Svelte, and Angular |
+| [SVGR](https://react-svgr.com/)| SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
 
 
 <div align="right">

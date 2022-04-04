@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# SVG sine waves generator
 
-# Resource Name - Edit this line
+Draw perfect sine waves and export as SVG for your Front-End and design projects.
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: https://www.sinwaver.com/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [X] I have performed a self-review of submitted resource and its follows the guidelines of the project.

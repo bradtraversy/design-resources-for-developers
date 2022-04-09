@@ -1089,7 +1089,7 @@
 | [Codepng](https://www.codepng.app/)| Convert your source code into awesome shareable images. |
 | [CSS Grid Generator](https://grid.layoutit.com/)| A tool for creating CSS Grid Layouts |
 | [JSONT](https://www.jsont.run/)| A simple and powerful online JSON formatting tool |
-
+| [Jitter](https://jitter.video/)| Online tool to create motion graphics/design|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

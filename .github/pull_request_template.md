@@ -6,4 +6,4 @@ Link: https://www.sinwaver.com/
 
 #### Checklist:
 
-- [X] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [] I have performed a self-review of submitted resource and its follows the guidelines of the project.

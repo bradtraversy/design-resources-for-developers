@@ -1,9 +1,11 @@
-# SVG sine waves generator
+**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-Draw perfect sine waves and export as SVG for your Front-End and design projects.
+# Resource Name - Edit this line
 
-Link: https://www.sinwaver.com/
+Edit this line with Small Description about new added resource
+
+Link: www.linkToResource
 
 #### Checklist:
 
-- [X] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.

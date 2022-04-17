@@ -531,7 +531,7 @@
 | [W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp) | Some responsive W3.CSS website templates for you to use. |
 | [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
 | [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
-| [TemplateFlip](https://templateflip.com/templates/)| Modern and Responsive Website Templates |
+| [BootstrapDash](https://www.bootstrapdash.com/product-category/free-bootstrap-admin-templates/)| Speed up your development with our free templates that are highly customizable.|
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
 
 <div align="right">

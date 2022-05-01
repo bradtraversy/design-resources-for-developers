@@ -414,6 +414,7 @@
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
 | [Loopvidz](http://stock.loopvidz.com/)| Free To Use Cinema graphs Created With VIMAGE App |
 | [SplitShire](https://www.splitshire.com/)| Beautiful & exclusive free stock videos & photos |
+| [Free-Stock-Video](https://free-stock.video)| Free Footage Stock Videos |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

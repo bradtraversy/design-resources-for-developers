@@ -534,6 +534,7 @@
 | [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
 | [htmlrev](https://htmlrev.com/) | Free HTML landing page templates |
+| [GrayGrids](https://graygrids.com/) | Free Website Templates and Bootstrap Themes |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

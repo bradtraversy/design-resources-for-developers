@@ -434,6 +434,7 @@
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 | [Pixabay](https://pixabay.com/music/)| Free music downloads for your project like Youtube videos, Music, Vlog, Film, Podcast etc. |
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
+| [Snapmuse](https://snapmuse.com/)| Discover best royalty free music for Youtube, Podcast, Vlog and other video projects.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

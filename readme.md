@@ -314,6 +314,7 @@
 | [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
 | [Favicon.cc](https://www.favicon.cc) | Draw a favicon online and browse through a library of favicons made by other users |
 | [Maskable.app Editor](https://maskable.app/editor/) | Generate maskable PWA icons based on your existing icon |
+| [BEAUBUS Favicons](https://favicons.beaubus.com/) | A set of free SVG favicons for you to use on your projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

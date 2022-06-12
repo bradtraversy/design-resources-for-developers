@@ -1029,6 +1029,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Figma](https://www.figma.com/graphic-design-tool/)| Online graphic design tool (Free & paid options) |
+| [Penpot](https://penpot.app/)| [Open Source and selfhostable](https://github.com/penpot/penpot#what-is-penpot) online graphic design tool |
 | [Vectr](https://vectr.com/)| Free vector graphics software|
 | [Taler](https://www.taler.app/)| Create social media banner designs in minutes from hundreds of customizable templates |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |

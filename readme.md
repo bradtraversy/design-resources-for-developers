@@ -94,7 +94,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Fonts
+## Fonts & Style
 
 >Websites that offer free fonts as well as font-based tools
 

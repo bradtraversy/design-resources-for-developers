@@ -299,6 +299,7 @@
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
+| [Namecheap Logo Maker](https://www.namecheap.com/logo-maker/)| Create and download custom Logos for free |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

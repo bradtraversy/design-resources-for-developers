@@ -88,6 +88,7 @@
 | [symu.co](https://symu.co/freebies/templates-4/)| Free templates, UI kits, icon, PSD |
 | [Mesh Gradient](https://meshgradient.in/)| Generate & download beautiful mesh gradients. |
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
+| [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
 
 
 <div align="right">

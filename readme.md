@@ -934,6 +934,8 @@
 | [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 | [Taiga UI](https://taiga-ui.dev/)| Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 | [ngx-admin](https://akveo.github.io/ngx-admin/)| Admin template based on Angular 10+ and Nebular |
+| [MDBootstrap](https://mdbootstrap.com/)| Material Design for Bootstrap (Angular version) |
+| [NgSemantic](https://ng-semantic.herokuapp.com/#/)| Angular2 building blocks based on Semantic UI |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

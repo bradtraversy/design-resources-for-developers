@@ -661,6 +661,7 @@
 | [Motion One](https://motion.dev/)| A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. |
 | [pocoloco](https://pocoloco.io/)| Generate dynamic backgrounds for your website |
 | [AniX](https://drawcall.github.io/AniX/)| Super easy and lightweight css animation library. |
+| [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -808,6 +808,7 @@
 | [React Admin](https://marmelab.com/react-admin/)| A frontend Framework for building admin applications. Supports API's out of the box|
 | [BlueprintJS](https://blueprintjs.com/)| React-based UI toolkit for the web |
 | [React Semantic UI](https://react.semantic-ui.com/)| UI components based off of the Semantic UI framework |
+| [React Admin](https://www.wrappixel.com/templates/category/react-templates/)| Download the Free react admin dashboard templates by WrapPixel |
 | [Shards React](https://designrevision.com/downloads/shards-react/)| React UI kit featuring a modern design system with dozens of custom components  |
 | [React Virtualized](https://bvaughn.github.io/react-virtualized)| UI set for data. Includes tables, lists, sorting, etc. |
 | [React Toolbox](http://react-toolbox.io/#/)| Material design UI library for React |
@@ -884,6 +885,7 @@
 | [Vuejsexamples](https://vuejsexamples.com)| A nice collection of useful vuejs UI components |
 | [Inkline](https://inkline.io)|Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications |
 | [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
+| [Vuejs Admin](https://www.wrappixel.com/templates/category/vuejs-templates/)|Download Free Vuejs Admin Dashboard By WrapPixel |
 | [Antdv](https://antdv.com/)|UI library for Vue based on Ant Design |
 | [Shards Vue](https://designrevision.com/downloads/shards-vue/)|A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components |
 | [Prime Vue](https://www.primefaces.org/primevue/)|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
@@ -937,6 +939,7 @@
 | [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 | [Taiga UI](https://taiga-ui.dev/)| Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons. |
 | [ngx-admin](https://akveo.github.io/ngx-admin/)| Admin template based on Angular 10+ and Nebular |
+| [Angular Admin](https://www.wrappixel.com/templates/category/angular-templates/)| Download Free Angular admin From WrapPixel |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1187,6 +1190,7 @@
 | [CSS buttons](https://getcssscan.com/css-buttons-examples)| 84 Beautiful CSS buttons examples. |
 | [CSS box-shadow](https://getcssscan.com/css-box-shadow-examples)| 91 Beautiful CSS box-shadow examples. |
 | [Super Designer](https://superdesigner.co)| Design tools that give you super powers. |
+| [Free Admin](https://www.wrappixel.com)| Free UI Dashboard and admin templates with Angular, React, vueJs, NextJs, Bootstrap & NuxtJs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

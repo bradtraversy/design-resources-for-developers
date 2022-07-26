@@ -1004,9 +1004,6 @@
 | [Humane By Design](https://humanebydesign.com/) | A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. |
 | [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 | [Patterfly](https://www.patternfly.org/) | PatternFly is an open source design system from Red Hat, Inc. |
-| [Penpot](https://penpot.app/) | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community |
-
-
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1080,7 +1077,7 @@
 | [Ray.so](https://ray.so/)| Online tool to create beautiful images of your code. |
 | [Codepng](https://www.codepng.app/)| Convert your source code into awesome shareable images. |
 | [CSS Grid Generator](https://grid.layoutit.com/)| A tool for creating CSS Grid Layouts |
-
+| [Penpot](https://penpot.app/) | Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

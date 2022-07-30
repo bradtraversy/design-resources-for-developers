@@ -1107,6 +1107,7 @@
 | [JSONT](https://www.jsont.run/)| A simple and powerful online JSON formatting tool |
 | [Jitter](https://jitter.video/)| Online tool to create motion graphics/design|
 | [Visily](https://www.visily.ai)| Tool that empowers *non-designers* to design web and mobile app mockups |
+| [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1322,7 +1323,6 @@
 | [devices.css](http://marvelapp.github.io/devices.css/) | Pure CSS phones and tablets by Marvel App. |
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
-| [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -820,7 +820,7 @@
 | [Reaviz](https://reaviz.io)| Data visualization library for React based on D3 |
 | [React Suite](https://rsuitejs.com/en/)| A suite of React components, sensible UI design, and a friendly development experience. |
 | [React Spring](https://www.react-spring.io/)| Spring-physics based animation library for React applications. |
-| [React Spring](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=uzptfe/)| A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list. |
+| [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=uzptfe/)| A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list. |
 | [Recharts](http://recharts.org/en-US/)| A composable charting library built on React components. |
 | [Vercel UI](https://github.com/geist-org/react) | Modern and minimalist React UI library |
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |

@@ -478,6 +478,7 @@
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
+| [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |
 
 
 <div align="right">

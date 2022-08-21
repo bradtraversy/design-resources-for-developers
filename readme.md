@@ -1263,6 +1263,7 @@
 | [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | An open-source, automated tool for improving the performance, quality, and correctness of your web apps. |
 | [Debug CSS](https://chrome.google.com/webstore/detail/debug-css/igiofjnckcagmjgdoaakafngegecjnkj) | Adds outline to all elements on the page to show the culprit element which is changing desired layout. Helps in debugging CSS of the page |
+| [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) |  Identify usability issues through a heuristic evaluation. |
 | [Angular Developer Tool](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools allows you to understand the structure of your application and preview the state of the directive and the component instances. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -136,6 +136,7 @@
 | [W Fonts](https://www.wfonts.com/)| Download Free fonts |
 | [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/)| Fluid typography is a modern way of approaching responsive typography. |
 | [UrbanFonts](https://www.urbanfonts.com/) | A collection of over 8000 free fonts and dingbats |
+| [Fonts In The Wild](https://www.fontsinthewild.com/) | Typography inspiration from the real world |
 | [Typespiration](https://typespiration.com/)| Inspirational font combinations and color palettes |
 
 <div align="right">

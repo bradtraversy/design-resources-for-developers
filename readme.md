@@ -1331,6 +1331,7 @@
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers.
+| [Taskade](https://www.taskade.com) | A real-time mind mapping tool for designers and developers to collaborate on the same page. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

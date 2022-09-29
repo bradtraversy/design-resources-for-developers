@@ -1224,6 +1224,7 @@
 | [Vecta Nano](https://vecta.io/nano) | Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)  |
 | [Watermarkly](https://watermarkly.com/compress-jpeg/) | Private, client-side compression of JPEG images. The app does not send images to a server for processing. |
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |
+| [Image2Convert](https://image2convert.com/Compress) | Compress your JPEGs, PNGs, and PDFs with compression methods while maintaining the same level of quality. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -180,6 +180,7 @@
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [BrandColors](http://brandcolors.net/) | The biggest collection of official brand color codes  |
 | [BRAND PALETTES](https://brandpalettes.com/) | Logo Color Codes and Palettes  |
+| [Branition Colors](https://branition.com/colors) | Hand-curated color pallets best fitted for branding  |
 | [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |

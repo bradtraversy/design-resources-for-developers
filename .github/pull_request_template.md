@@ -1,10 +1,11 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+`[UX Project Checklist] -> [Design Systems & Style Guides]`
 
-# Resource Name - Edit this line
+# Resource Name - UX Project Checklist
 
-Edit this line with Small Description about new added resource
+Checklist for UX and
+provides deeper explanation on each item on the list.
 
-Link: www.linkToResource
+Link: https://uxchecklist.github.io/
 
 #### Checklist:
 

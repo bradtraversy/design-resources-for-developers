@@ -6,4 +6,4 @@ Link: https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljl
 
 #### Checklist:
 
-- I have performed a self-review of the submitted resource and it follows the guidelines of the project.
+- I have performed a self-review of the submitted resource and it follows the guidelines of the projec

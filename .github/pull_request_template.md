@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# Grid Ruler
 
-# Resource Name - Edit this line
+Creates vertical and horizontal grids for convenient distance measurement.
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj 
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- I have performed a self-review of the submitted resource and it follows the guidelines of the project.

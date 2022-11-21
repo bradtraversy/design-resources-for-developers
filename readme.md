@@ -1324,6 +1324,7 @@
 | [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR Code Generator to easily create a QR code for your project. |
 | [PapersDB](https://papersdb.com/) | The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units. |
+| [SETools.xyz](https://www.setools.xyz/) | Free Online tools  website for work |
 | [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
 | [Angry Tools](https://angrytools.com/) | Free web tools for speed up your development. |
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |

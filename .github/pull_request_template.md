@@ -1,11 +1,11 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+`[Takenotes] -> [Stock Music & Sound Effects]`
 
-# Resource Name - Edit this line
+# Takenotes
 
-Edit this line with Small Description about new added resource
+completely free stock music resourse
 
-Link: www.linkToResource
+Link: https://taketones.com/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [X] I have performed a self-review of submitted resource and its follows the guidelines of the project.

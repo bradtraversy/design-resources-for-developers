@@ -1,11 +1,10 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# Resource Name - Edit this line
+# Haikei
 
-Edit this line with Small Description about new added resource
+Generate unique organic SVG(and PNG) banners and backgrounds (blobs, waves, blurry gradient, circle scatter,etc.)
 
-Link: www.linkToResource
+Link: https://app.haikei.app/
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [x] I have performed a self-review of submitted resource and its follows the guidelines of the project.

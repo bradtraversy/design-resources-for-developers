@@ -89,7 +89,7 @@
 | [Mesh Gradient](https://meshgradient.in/)| Generate & download beautiful mesh gradients. |
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
-
+ | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1286,8 +1286,8 @@
 
 >Uncategorized Stuff
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
@@ -1311,8 +1311,8 @@
 | [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
 | [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
-| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
-| [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more.  |
+| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more. |
+| [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more. |
 | [PlayCode](https://playcode.io/) | Javascript playground.  |
 | [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 | [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
@@ -1341,7 +1341,7 @@
 | [devices.css](http://marvelapp.github.io/devices.css/) | Pure CSS phones and tablets by Marvel App. |
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
-| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers.
+| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

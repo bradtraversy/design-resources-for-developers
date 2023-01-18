@@ -792,6 +792,7 @@
 | [SVGR](https://react-svgr.com/)| SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
 | [uiverse](https://uiverse.io)| Hundreds Open-Source UI elements, made with HTML & CSS. Anyone can contribute. Includes buttons, checkboxes, spinners, cards, inputs and more. |
 | [HyperUI](https://www.hyperui.dev/)| Free open source Tailwind CSS components for marketing and ecommerce websites, as well as application UI. |
+| [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard)| Free and open-source admin dashboard template built with Tailwind CSS and Flowbite featuring 15 examples pages, charts, widgets, and dark mode. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

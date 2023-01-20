@@ -460,6 +460,7 @@
 | [Freepik](https://www.freepik.com)| Free vectors, stock photos, PSD and icons |
 | [Free Vectors](https://www.freevectors.net/)| Community of vector lovers who share free vector graphics |
 | [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |
+| [PNGWing](https://www.pngwing.com/)| Transparent background png images for designers |
 | [Vector4Free](https://www.vector4free.com/)| Free vector graphics |
 | [Freeble](http://freebbble.com/)| Vectors, patterns, mockups and more |
 | [Lukaszadam](https://lukaszadam.com/)| Free Vector artworks |

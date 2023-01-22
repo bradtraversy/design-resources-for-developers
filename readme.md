@@ -617,6 +617,7 @@
 | [twind](https://twind.dev/) | The smallest, fastest, most feature complete tailwind-in-js solution in existence |
 | [Pico.css](https://picocss.com/) | Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. |
 | [clay.css](https://github.com/codeAdrian/clay.css) | Extensible and configurable micro CSS util class and SASS mixin for adding claymorphism styles to your components. |
+| [BeerCSS](https://www.beercss.com) | Build Material Design interfaces in record time, without stress for devs 🍻. The first CSS framework that implements Material Design 3. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

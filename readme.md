@@ -1292,7 +1292,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
@@ -1347,6 +1346,7 @@
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
+| [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

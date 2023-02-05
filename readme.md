@@ -90,6 +90,7 @@
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
  | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
+| [storyset](https://storyset.com/) | Download free customizable illustrations to power up your projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

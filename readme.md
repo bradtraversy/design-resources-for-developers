@@ -295,7 +295,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Instant Logo Search](http://instantlogosearch.com/)| Thousands of free brands logos ( SVG - PNG ) |
 | [LogoSear.ch](https://logosear.ch/search.html) | Search engine with over 200,000 SVG logos indexed |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |

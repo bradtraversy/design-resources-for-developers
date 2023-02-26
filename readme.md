@@ -1123,6 +1123,7 @@
 | [Visily](https://www.visily.ai)| Tool that empowers *non-designers* to design web and mobile app mockups |
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
+| [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

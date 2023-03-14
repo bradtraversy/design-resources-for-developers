@@ -548,6 +548,7 @@
 | [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
+| [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

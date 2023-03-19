@@ -217,7 +217,7 @@
 | [Duotone](https://duotone.shapefactory.co/) | Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds. |
 | [coolbackgrounds generator](https://coolbackgrounds.io/) | Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. |
 | [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
-
+| [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

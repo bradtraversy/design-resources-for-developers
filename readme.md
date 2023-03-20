@@ -875,7 +875,7 @@
 | [Chakra Templates](https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
 | [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels)| React components for resizable panel groups/layouts. |
 | [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/)| Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
-
+| [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -802,6 +802,7 @@
 | [Wicked Blocks](https://wickedblocks.dev/)| A free collection of Tailwind blocks & components |
 | [Mamba UI](https://mambaui.com/)| Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. |
 |[Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
+|[DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

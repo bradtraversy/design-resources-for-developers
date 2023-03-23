@@ -803,6 +803,7 @@
 | [Mamba UI](https://mambaui.com/)| Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. |
 |[Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
 |[DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
+| [Tailwind Elements](https://tailwind-elements.com) | Tailwind Elements you will find all the essential elements necessary for every project.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

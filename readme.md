@@ -252,6 +252,7 @@
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
 | [Lordicon](https://lordicon.com/icons#free) | 50 free animated interactive icons |
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
+| [Free Vector]([https://useanimations.com/](https://www.freepik.com/search?format=search&query=illustrations&type=vector)) | Free human character in SVG and Json Format  |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
 | [Material Design Icons](https://materialdesignicons.com/) | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |

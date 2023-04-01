@@ -528,6 +528,7 @@
 | [HTML5Up](https://html5up.net/)| Very modern, unique responsive HTML5/CSS3 themes |
 | [Templatemo](https://templatemo.com/)| Minimal, resume, gallery themes and more |
 | [FreeHTML5](https://freehtml5.co/)| Free & premium HTML5 and Bootstrap themes |
+| [Demo Coding](https://democoding.netlify.app/) | Free collection of HTML and CSS animation code example |
 | [StyleShout](https://www.styleshout.com/free-templates/)| Brilliantly crafted free website templates |
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
 | [Zerotheme](https://www.zerotheme.com/)| HTML5, Bootstrap, Prestashop templates |

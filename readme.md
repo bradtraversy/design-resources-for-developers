@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
@@ -12,27 +13,28 @@
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clip Art](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
+- [Stock Music \& Sound Effects](#stock-music--sound-effects)
+- [Vectors \& Clip Art](#vectors--clip-art)
+- [Product \& Image Mockups](#product--image-mockups)
+- [HTML \& CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [Javascript Chart Libraries](#javascript-chart-libraries)
-- [UI Components & Kits](#ui-components--kits)
+- [UI Components \& Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui-libraries)
 - [Angular UI Libraries](#angular-ui-libraries)
 - [Svelte UI Libraries](#svelte-ui-libraries)
 - [React Native UI Libraries](#react-native-ui-libraries)
-- [Design Systems & Style Guides](#design-systems--style-guides)
+- [Design Systems \& Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
+- [Firefox Extensions](#firefox-extensions)
 - [Others](#others)
 
 ## UI Graphics
@@ -1138,6 +1140,7 @@
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1165,6 +1168,7 @@
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
 | [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook: For mac only |
+| [LibreOffice - Draw](https://www.libreoffice.org/discover/draw/) | Draw lets you produce anything from a quick sketch to a complex plan, and gives you the means to communicate with graphics and diagrams. With a maximum page size of 300cm by 300cm, Draw is a an excellent package for producing technical drawings, general posters, and much else. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

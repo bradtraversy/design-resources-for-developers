@@ -1169,6 +1169,7 @@
 | [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook: For mac only |
 | [LibreOffice - Draw](https://www.libreoffice.org/discover/draw/) | Draw lets you produce anything from a quick sketch to a complex plan, and gives you the means to communicate with graphics and diagrams. With a maximum page size of 300cm by 300cm, Draw is a an excellent package for producing technical drawings, general posters, and much else. |
+| [Wings 3D](http://www.wings3d.com/) | Wings 3D is a subdivision modeler inspired by Nendo and Mirai from Izware. It is possible to assign materials, vertex color, UV coordinates and textures, but there will be improvements in those features before Wings goes 1.0. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

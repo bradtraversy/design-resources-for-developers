@@ -358,6 +358,7 @@
 | [Mobirise Icons](https://mobiriseicons.com/)| A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
 | [Hero Icons](https://heroicons.dev/)| Free Open Source Svg Icon Library |
 | [React Icons](https://react-icons.github.io/react-icons/)| An Open Source and free Svg Icon Library, it is a collection of your favorite icon libraries like Font Awesome and Material Icons to provide you with a wide range of SVG icons to choose from.  |
+| [Unicopy](https://unicopy.cc/)| Copy unicode characters and symbols! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

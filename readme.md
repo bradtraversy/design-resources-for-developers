@@ -807,6 +807,7 @@
 |[Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
 |[DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
 |[Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
+|[Float UI](https://floatui.com/)|Free and open-source UI components and website templates using Tailwind CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

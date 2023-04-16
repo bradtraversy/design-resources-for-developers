@@ -360,6 +360,7 @@
 | [Mobirise Icons](https://mobiriseicons.com/)| A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons. |
 | [Hero Icons](https://heroicons.dev/)| Free Open Source Svg Icon Library |
 | [React Icons](https://react-icons.github.io/react-icons/)| An Open Source and free Svg Icon Library, it is a collection of your favorite icon libraries like Font Awesome and Material Icons to provide you with a wide range of SVG icons to choose from.  |
+| [Unicopy](https://unicopy.cc/)| Copy unicode characters and symbols! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -676,7 +677,7 @@
 | [CSS Loaders & Spinners](https://cssloaders.github.io/)| This is a library having a collection of different types of CSS loaders, spinners |
 | [Motion One](https://motion.dev/)| A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. |
 | [pocoloco](https://pocoloco.io/)| Generate dynamic backgrounds for your website |
-| [AniX](https://drawcall.github.io/AniX/)| Super easy and lightweight css animation library. |
+| [AniX](https://adajuly.github.io/AniX/)| Super easy and lightweight css animation library. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
 
@@ -808,6 +809,7 @@
 |[Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
 |[DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
 |[Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
+|[Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

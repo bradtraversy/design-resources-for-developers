@@ -33,6 +33,7 @@
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
+- [Firefox Extensions](#firefox-extensions)
 - [Others](#others)
 
 ## UI Graphics

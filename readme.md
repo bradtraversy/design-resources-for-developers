@@ -33,6 +33,7 @@
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
+- [Firefox Extensions](#firefox-extensions)
 - [Others](#others)
 
 ## UI Graphics
@@ -1302,9 +1303,10 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Firefox Extensions
+
 >Useful Firefox extensions for Designers and Web-Developers.
 
-## Firefox Extensions
 | Extension                                                                                                           | Description |
 |---------------------------------------------------------------------------------------------------------------------| ----------- |
 | [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)                                            | Identify fonts on web pages |

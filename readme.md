@@ -140,6 +140,7 @@
 | [Typespiration](https://typespiration.com/)| Inspirational font combinations and color palettes |
 | [Fontsource](https://fontsource.org/) | Self-host Open Source fonts in neatly bundled NPM packages. |
 | [FontBolt](https://www.fontbolt.com/) | Discover and generate your favorite fonts from pop culture. |
+| [FontsKey](https://www.fontskey.com/) | Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

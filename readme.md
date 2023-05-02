@@ -629,7 +629,6 @@
 | [daisyUI](https://daisyui.com/) | Tons of components use with Tailwind CSS but write fewer class names. |
 | [UnoCSS](https://unocss.dev/) | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets. |
 
-
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

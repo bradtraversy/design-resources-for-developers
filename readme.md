@@ -1403,6 +1403,7 @@
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
+| [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

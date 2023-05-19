@@ -1235,6 +1235,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Jpeg Compressor](https://jpegcompressor.com/)| compress JPEG, PNG, JPG, SVG, and WEBP images
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |

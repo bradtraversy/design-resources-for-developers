@@ -941,6 +941,7 @@
 | [Vuestic](https://vuestic.dev/) | Free and Open Source UI Library for Vue 3 🤘. |
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
+| [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started) | Fully styled and customizable components for Nuxt. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

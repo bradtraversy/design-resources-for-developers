@@ -34,6 +34,7 @@
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
 - [Firefox Extensions](#firefox-extensions)
+- [AI Graphic Design Tools](#ai-graphic-design-tools)
 - [Others](#others)
 
 ## UI Graphics
@@ -1341,6 +1342,14 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## AI Graphic Design Tools
+
+>AI tools that offer free service to generate design
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
 
 ## Others
 

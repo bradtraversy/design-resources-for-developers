@@ -7,5 +7,6 @@
 
 - Provide a link to submitted resource in pull request comment section for easier access without copy paste.
   - Example: `Link: https://tailwindcss.com/`
+  - skycaptain
 
 - Double check if the resource is truly free without any kind of hidden surprises.

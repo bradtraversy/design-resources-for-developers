@@ -813,6 +813,7 @@
 |[Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
 |[Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
 |[Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
+|[Wind UI](https://wind-ui.com/) | Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

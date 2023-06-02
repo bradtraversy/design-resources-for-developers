@@ -814,6 +814,7 @@
 |[Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
 |[Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
 |[Wind UI](https://wind-ui.com/) | Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. |
+|[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

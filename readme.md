@@ -747,6 +747,7 @@
 | [Chartist](http://gionkunz.github.io/chartist-js/index.html)|Simple responsive charts |
 | [Vizzu](https://lib.vizzuhq.com/0.3.0/)| Vizzu - a free, open-source Javascript library for building animated charts, data stories, and interactive explorers. |
 | [AntV](https://charts.ant.design/en)|Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
+| [Nivo](https://nivo.rocks/)|Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

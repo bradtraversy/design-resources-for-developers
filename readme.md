@@ -812,6 +812,7 @@
 |[Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
 |[Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
 |[Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
+|[React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat#readme) | A chat UI component that offers a ready-to-use chat interface with features like message bubbles, input toolbar, and more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

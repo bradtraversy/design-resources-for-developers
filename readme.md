@@ -818,7 +818,7 @@
 |[React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat#readme) | A chat UI component that offers a ready-to-use chat interface with features like message bubbles, input toolbar, and more. |
 |[Wind UI](https://wind-ui.com/) | Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. |
 |[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
-
+|[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

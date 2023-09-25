@@ -375,7 +375,7 @@
 | ----------------------- | ------------------ |
 | [Pexels](https://www.pexels.com/)| Free stock photos shared by talented creators |
 | [Unsplash](https://unsplash.com/)| The internet’s source of freely usable images
-| [Pixabay](https://pixabay.com/)| Over 1.7 million+ high-quality stock images and videos |
+| [Pixabay](https://pixabay.com/)| Over 4.1 million+ high quality stock images, videos and music |
 | [Magdeleine](https://magdeleine.co/)| Gallery & free high-resolution photo everyday |
 | [Picspree](https://picspree.com)| Royalty free images, stock photos, illustrations, and vectors |
 | [Burst](https://burst.shopify.com/)| Free stock photos collections |

@@ -423,6 +423,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Pexels](https://www.pexels.com/videos)| Largest library of free to use videos, donated by the community |
+| [Mazwai](https://www.mazwai.com/videos)| Download free stock video footage with clips available in HD |
 | [Pixabay](https://www.pixabay.com/videos)| Large library of free to use videos, donated by the community similar to Pexels |
 | [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
 | [Videezy](https://www.videezy.com/)| Free HD stock footage & 4K videos |

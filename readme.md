@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [HTML LAYOUT](#ui-graphics)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)

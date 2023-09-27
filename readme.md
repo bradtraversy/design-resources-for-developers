@@ -250,8 +250,8 @@
 | [Nucleo App](https://nucleoapp.com/)| Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) |
 | [Icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG  |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project  |
-| [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
-| [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System | 
+| [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections "my edit here" |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |
 | [Lordicon](https://lordicon.com/icons#free) | 50 free animated interactive icons |

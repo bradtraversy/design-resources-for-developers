@@ -251,7 +251,7 @@
 | [Icon-icons.com](https://icon-icons.com/)| Free Icons PNG, ICO, ICNS and Vector file SVG  |
 | [Bootstrap Icons](https://icons.getbootstrap.com/)| Free Icons built for Bootstrap but they'll work in any project  |
 | [Remix Icon](https://remixicon.com/)| Simply Delightful Icon System |
-| [Pixabay](https://www.pixabay.com/videos)| Large library of free to use videos, donated by the community similar to pixels | 
+| [Pixabay](https://www.pixabay.com/videos)| Large library of free to use videos, donated by the community similar to pexels | 
 | [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
 | [Vivid.js](https://webkul.github.io/vivid/)| Ready to use Free and Open Source SVG Icons Pack JavaScript Library. |
 | [Iconfinder](https://www.iconfinder.com/)| Free and premium vector icons in SVG, PNG, CSH and AI format  |

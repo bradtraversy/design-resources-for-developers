@@ -1242,6 +1242,7 @@
 | [Curated](https://www.curated.design/)| Unleash your creativity with out-of-this-world web design inspiration from across the web. |
 | [Maxibestofone](https://maxibestof.one/)| Daily feed of websites & fonts inspiration. |
 | [Bento Grids](https://bentogrids.com/)| Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides. |
+| [Landing Gallery](https://www.landing.gallery/)| Home of the best landing page design inspiration. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

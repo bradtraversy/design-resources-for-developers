@@ -92,6 +92,7 @@
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
  | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
+|[Random User Generator](https://www.randomuser.me/) | A free, open-source API for generating random user data. Like Lorem Ipsum, but for people |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

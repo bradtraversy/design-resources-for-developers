@@ -89,6 +89,7 @@
 | [symu.co](https://symu.co/freebies/templates-4/)| Free templates, UI kits, icon, PSD |
 | [Mesh Gradient](https://meshgradient.in/)| Generate & download beautiful mesh gradients. |
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
+| [Creatica](https://creatica.app/backgrounds) | Generate unique beautiful and unique Backgrounds and patterns. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
  | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 

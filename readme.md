@@ -1447,6 +1447,7 @@
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
 | [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
+| [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

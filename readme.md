@@ -1377,6 +1377,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
+| [Galileo AI](https://www.usegalileo.ai/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
 | [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
 
 <div align="right">

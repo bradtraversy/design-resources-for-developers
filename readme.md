@@ -904,6 +904,7 @@
 | [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/)| Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
+| [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

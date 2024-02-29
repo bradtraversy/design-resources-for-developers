@@ -562,6 +562,7 @@
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
+| [WrapPixel](https://www.wrappixel.com/) | HTML & CSS Admin Dashboard Templates by WrapPixel Team |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

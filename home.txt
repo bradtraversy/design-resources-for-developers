@@ -1,0 +1,1 @@
+This is commit from my local machine for task 1.2

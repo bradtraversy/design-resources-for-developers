@@ -561,6 +561,7 @@
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
+| [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

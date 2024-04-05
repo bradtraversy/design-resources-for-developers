@@ -1007,6 +1007,8 @@
 | [shadcn-svelte](https://www.shadcn-svelte.com/)| shadcn-svelte is an unofficial community-led Svelte port of shadcn/ui.|
 | [Skeleton](https://www.skeleton.dev/)| Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows you to create reactive web interfaces using Svelte + Tailwind CSS.|
 | [Aceternity UI Svelte](https://aceternity.sveltekit.io/)| Free Incredible Animated Components.|
+| [Svelte UX](https://svelte-ux.techniq.dev/)| Collection of Svelte components, actions, stores, and utilities to build highly interactive applications. |
+| [Flowbite-Svelte](https://flowbite-svelte.com/)| Flowbite-svelte is an open-source UI component library built with Svelte components, Tailwind CSS utility classes and based on the Flowbite design system |
 
 
 <div align="right">

@@ -934,7 +934,7 @@
 | [Vuesax](https://vuesax.com/)|Unique and reusable UI components |
 | [Antdv](https://antdv.com/)|UI library for Vue based on Ant Design |
 | [Shards Vue](https://designrevision.com/downloads/shards-vue/)|A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components |
-| [Prime Vue](https://www.primefaces.org/primevue/)|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
+| [Prime Vue]([https://www.primefaces.org/primevue/](https://primevue.org/))|Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces.|
 | [Chakra UI Vue](https://vue.chakra-ui.com/)|Chakra UI is a simple modular and accessible component library that gives you the building blocks to build Vue applications with speed.|
 | [View UI](https://www.iviewui.com/)|Dozens of useful and beautiful Vue components made for people with all skill levels with extensive documentation.|
 | [@tsparticles/vue2](https://github.com/tsparticles/vue2)| A lightweight Vue 2.x component for creating particles |

@@ -1009,6 +1009,7 @@
 | [Aceternity UI Svelte](https://aceternity.sveltekit.io/)| Free Incredible Animated Components.|
 | [Svelte UX](https://svelte-ux.techniq.dev/)| Collection of Svelte components, actions, stores, and utilities to build highly interactive applications. |
 | [Flowbite-Svelte](https://flowbite-svelte.com/)| Flowbite-svelte is an open-source UI component library built with Svelte components, Tailwind CSS utility classes and based on the Flowbite design system |
+| [bits-ui](https://www.bits-ui.com/) | The headless components for Svelte |
 | [melt-ui](https://melt-ui.com) | A set of headless, accessible component builders for Svelte |
 
 

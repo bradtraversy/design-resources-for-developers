@@ -1215,8 +1215,6 @@
 | [Landingfolio](https://landingfolio.com/)| Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
 | [Foxyapps](https://foxyapps.co/)| Design inspiration from the best mobile app designs |
 | [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
-| [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community  |
-| [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration  |
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
@@ -1235,11 +1233,9 @@
 | [Web Design Inspiration](https://www.webdesign-inspiration.com/) | A site for web design inspiration, updated daily.  |
 | [NavNav](https://navnav.co/) | Responsive navigation examples |
 | [Calltoidea](https://www.calltoidea.com/) | Collection of different web Components for inspiration. |
-| [MediaQueri.es](https://mediaqueri.es/) | A collection of inspirational websites using media queries and responsive web design |
 | [Mulzli Search](https://search.muz.li) | Search engine for design inspiration |
 | [DeviantArt](https://www.deviantart.com/) | Access to 370 million pieces of art for inspiration. |
 | [Design your way](https://www.designyourway.net/blog/web-and-mobile-design/) | Collection of different Web and Mobile Designs |
-| [Humans.fyi](https://humans.fyi/) | A collection of brilliant personal websites filterable by colors and web technologies used in each website. |
 | [SiteSee](https://sitesee.co/) | A curated gallery of beautiful and modern websites. |
 | [UI Garage](https://uigarage.net/) | Daily handpicked UI inspiration & patterns. |
 | [ecomm.design](https://ecomm.design/) | eCommerce Website Design Gallery & Tech Inspiration. |

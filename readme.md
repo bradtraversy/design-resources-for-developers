@@ -3,7 +3,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
@@ -94,6 +93,7 @@
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
 | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

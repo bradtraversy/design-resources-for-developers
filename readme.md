@@ -94,6 +94,7 @@
 | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -908,7 +909,8 @@
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
-
+| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
+100% open-source, and customizable. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

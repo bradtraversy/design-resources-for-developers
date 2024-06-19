@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
@@ -12,22 +13,22 @@
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clip Art](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
+- [Stock Music \& Sound Effects](#stock-music--sound-effects)
+- [Vectors \& Clip Art](#vectors--clip-art)
+- [Product \& Image Mockups](#product--image-mockups)
+- [HTML \& CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [Javascript Chart Libraries](#javascript-chart-libraries)
-- [UI Components & Kits](#ui-components--kits)
+- [UI Components \& Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui-libraries)
 - [Angular UI Libraries](#angular-ui-libraries)
 - [Svelte UI Libraries](#svelte-ui-libraries)
 - [React Native UI Libraries](#react-native-ui-libraries)
-- [Design Systems & Style Guides](#design-systems--style-guides)
+- [Design Systems \& Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#design-inspiration)
@@ -910,7 +911,9 @@
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
 | [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
+| [Dyna UI](https://www.dynaui.design/) | 30+ animated components built with React, Tailwind CSS, and Framer Motion. |
 100% open-source, and customizable. |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

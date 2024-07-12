@@ -1,11 +1,9 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
+# Resource Name - Colorlab
 
-# Resource Name - Edit this line
+Colorlab is an online tool to create color palettes, gradients, color scales, check color contrast.
 
-Edit this line with Small Description about new added resource
-
-Link: www.linkToResource
+Link: www.getcolorlab.com
 
 #### Checklist:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [x] I have performed a self-review of submitted resource and its follows the guidelines of the project.

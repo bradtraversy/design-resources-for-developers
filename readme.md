@@ -292,6 +292,8 @@
 | [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
 | [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
+| [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

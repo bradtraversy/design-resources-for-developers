@@ -292,6 +292,9 @@
 | [Unicorn Icons](https://unicornicons.com) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
 | [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
+| [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
+| [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -908,8 +911,9 @@
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
-| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable. |
+| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
+| [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1456,6 +1460,8 @@
 | [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
 | [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
+| [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
+| [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

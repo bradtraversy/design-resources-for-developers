@@ -223,6 +223,7 @@
 | [coolbackgrounds generator](https://coolbackgrounds.io/) | Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. |
 | [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
+| [Paleta de Cores](https://paletadecores.com/) | Free tool made for you to automatically find different color combinations and enhance your brand's visual identity! |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

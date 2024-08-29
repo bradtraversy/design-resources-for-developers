@@ -1461,6 +1461,7 @@
 | [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
+| [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

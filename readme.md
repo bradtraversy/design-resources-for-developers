@@ -493,6 +493,7 @@
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
 | [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |
+| [Mossaik](https://mossaik.app/) | Free SVG generator with different tools, waves, tiles, blobs, and more. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1351,7 +1351,7 @@
 
 >Useful Firefox extensions for Designers and Web-Developers.
 
-| Website                                                                                                           | Description |
+| Website&nbsp;                                                                                                           | Description |
 |---------------------------------------------------------------------------------------------------------------------| ----------- |
 | [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)                                            | Identify fonts on web pages |
 | [WhatRuns](https://addons.mozilla.org/en-US/firefox/addon/whatruns/)                                                | Discover technologies used on websites |

@@ -1351,8 +1351,8 @@
 
 >Useful Firefox extensions for Designers and Web-Developers.
 
-| Website&nbsp;                                                                                                           | Description |
-|---------------------------------------------------------------------------------------------------------------------| ----------- |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
 | [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)                                            | Identify fonts on web pages |
 | [WhatRuns](https://addons.mozilla.org/en-US/firefox/addon/whatruns/)                                                | Discover technologies used on websites |
 | [Web Developer](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)                                      | Toolbar for web development tasks |

@@ -140,6 +140,7 @@
 | [Fontsource](https://fontsource.org/) | Self-host Open Source fonts in neatly bundled NPM packages. |
 | [FontBolt](https://www.fontbolt.com/) | Discover and generate your favorite fonts from pop culture. |
 | [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
+| [Font Resources](https://font-resources.vercel.app/) | Providing a curated catalog of high quality typography services and collections. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -215,7 +215,7 @@
 | [Eggradients](https://www.eggradients.com/) | Gradient Background Colors with eggs.|
 | [Gradientos](https://www.gradientos.app/) | Find and test gradients easily. |
 | [Encycolorpedia](https://encycolorpedia.com/) | Website for referencing web colors. Color knowledge, Web colors, Hex color codes. |
-| [Croma](https://croma.app/) | A website for pick colors quickly from image or manually. It's color picker is easier to use. |
+| [Croma](https://chroma.dev/) | Powerful color tools including an eyedropper, color picker, and palette generator. |
 | [Color Designer](https://colordesigner.io/gradient-generator) | A gradient generetor from one color. |
 | [Duotone](https://duotone.shapefactory.co/) | Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds. |
 | [coolbackgrounds generator](https://coolbackgrounds.io/) | Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. |

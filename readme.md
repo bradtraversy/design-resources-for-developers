@@ -832,6 +832,8 @@
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 |[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
+|[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

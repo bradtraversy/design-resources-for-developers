@@ -541,7 +541,6 @@
 | [FreeHTML5](https://freehtml5.co/)| Free & premium HTML5 and Bootstrap themes |
 | [StyleShout](https://www.styleshout.com/free-templates/)| Brilliantly crafted free website templates |
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
-| [Zerotheme](https://www.zerotheme.com/)| HTML5, Bootstrap, Prestashop templates |
 | [HTML5xCSS3](https://www.html5xcss3.com/)| Collection of wonderful templates in different categories |
 | [ThemeWagon](https://themewagon.com/theme-price/free/)| Collection of HTML5 Bootstrap templates from different categories |
 | [Colorlib](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |

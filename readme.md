@@ -739,6 +739,7 @@
 | [nice-waves](https://gvguy.github.io/nice-waves/)| Beautiful animated waves |
 | [Vanta.js](https://www.vantajs.com/)| Animated website backgrounds in a few lines of code. |
 | [Splitting.js](https://splitting.js.org/)| Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more! |
+| [Motion One](https://motion.dev/)| A modern web animation library based on native browser APIs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

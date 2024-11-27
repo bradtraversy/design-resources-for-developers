@@ -222,6 +222,7 @@
 | [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
 | [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
+| [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1222,6 +1222,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Websitevice](https://websitevice.com/) | A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices. |
 | [CSS Zen Garden](http://csszengarden.com/) | Demonstrating the power of CSS, over 200 CSS-only interpretations of the same HTML file. |
 | [Behance](https://www.behance.net/)| Design projects featured by different creators |
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |

@@ -763,6 +763,9 @@
 | [AntV](https://ant-design-charts.antgroup.com/en/)|Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
 | [Nivo](https://nivo.rocks/)|Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts.|
 | [Echarts](https://echarts.apache.org/en/index.html)|An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization |
+| [VChart](https://visactor.io/vchart)|VChart is not only a multi-terminal chart library that can be used out of the box, but also a vivid and flexible data storyteller.|
+| [VTable](https://visactor.io/vtable)|VTable is a high-performance multidimensional analysis component developed based on Canvas. When compared with traditional DOM table components, VTable primarily addresses rendering and interaction performance issues in the context of large amounts of data.|
+| [VStory](https://visactor.io/vstory)|VStory is a feature-rich narrative system that can use VisActor's VChart and VTable, combined with built-in components, to create visual works. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

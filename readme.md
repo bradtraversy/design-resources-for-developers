@@ -1400,6 +1400,7 @@
 | [Galileo AI](https://www.usegalileo.ai/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
 | [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
 | [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
+| [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

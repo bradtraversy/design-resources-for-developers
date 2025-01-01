@@ -527,6 +527,7 @@
 | [Animockup](https://github.com/alyssaxuu/animockup)| Create animated mockups in the browser 🔥. |
 | [Pika](https://pika.style)| Instantly create browser mockups and beautiful images for marketing, blog post and more |
 | [Lunacy](https://icons8.com/lunacy)| Create mockups from scratch for free  |
+| [Savvsyhot](https://savvyshot.app)| Snap and beautify screenshots instantly on Windows and Mac |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1479,6 +1479,8 @@
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
+| [OneCompiler](https://onecompiler.com/) | A free online compiler and editor that supports over 70 languages and databases, allowing you to run, share, and write code. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

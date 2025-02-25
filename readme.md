@@ -1481,6 +1481,7 @@
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
+| [Core Web Vitals History Checker](https://punits.dev/core-web-vitals-historical/) | Know if the core web vitals for a url or an origin have improved, degraded or remained stable for the last six months.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

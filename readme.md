@@ -1408,6 +1408,7 @@
 | [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 | [Free AI Diagram Generator](https://diagram-generator.com/) a free AI-powered platform that helps you create various types of diagrams with ease. |
+| [Uizardr](https://uizard.io/) | Uizardr is an AI-powered design tool that transforms wireframe sketches and screenshots into digital, editable prototypes-ideal for rapidly iterating UI designs. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

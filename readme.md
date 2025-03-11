@@ -778,6 +778,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [CSSnippets](https://cssnippets.shefali.dev)| Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more. |
 | [Bit](https://bit.dev/components)| Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members |
 | [UILang](http://uilang.com/)| A minimal, UI-focused programming language for web designers |
 | [Medialoot CSS Components](https://medialoot.com/free-themes/css-components/)| Calendars, price grids and other UI components |

@@ -105,6 +105,7 @@
 | [DaFont](https://www.dafont.com/)| Archive of freely downloadable fonts |
 | [Use & Modify](https://usemodify.com/)| Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces |
 | [1001 Free Fonts](https://www.1001freefonts.com/)| I think the name speaks for itself :smirk: |
+| [Font of Web](https://fontofweb.com/)| Detect all fonts used on a website without browser extensions.
 | [Font Squirrel](https://www.fontsquirrel.com/)| Font Squirrel scours the internet for high quality, legitimately free fonts |
 | [Font Fabric](https://www.fontfabric.com/free-fonts/)| A digital type foundry crafting retail fonts and custom typography for various brands |
 | [Just Free Fonts](https://justfreefonts.com/)| A hand-curated collection of freeware, open-source, and public domain fonts intended for commercial use |

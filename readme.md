@@ -841,6 +841,7 @@
 |[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
 |[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
 |[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
+|[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
 
 
 <div align="right">

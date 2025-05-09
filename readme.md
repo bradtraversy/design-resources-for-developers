@@ -1177,6 +1177,7 @@
 | [Glassmorphism](https://glassmorphism.com/)| An incredible online tool for generating quick glassmorphic UI in CSS code snippets. |
 | [TableConvert](https://tableconvert.com/)| Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table.  |
 | [Doodle Ipsum](https://doodleipsum.com/)| The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
+| [Lorem Ipsum Generator](https://beautifyourcode.com/lorem-ipsum-generator/) | Generate placeholder text (Lorem Ipsum) for design and development projects. |
 | [Figen](https://figen.cc/)| Post Cover & Background Generator Tool |
 | [Windframe](https://www.devwares.com/windframe/)|  A tool to rapidly prototype and build stunning websites using Tailwind CSS (Free & Premium) |
 | [Slickr](https://slickr.vercel.app/)| A tool for designing cover image for your blog. |
@@ -1309,6 +1310,32 @@
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |
 | [CompressImage.io](https://compressimage.io) | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline |
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
+| [AVI ↔ MP4](https://beautifyourcode.com/avi-to-mp4/) | Convert AVI files to MP4 and vice versa. |
+| [Audio Bitrate Converter](https://beautifyourcode.com/audio-bitrate-converter/) | Convert audio files to different bitrates. |
+| [EML ↔ TXT](https://beautifyourcode.com/eml-to-txt/) | Convert EML files to TXT and vice versa. |
+| [FLAC ↔ MP3](https://beautifyourcode.com/flac-to-mp3/) | Convert FLAC files to MP3 and vice versa. |
+| [HEIC ↔ JPG](https://beautifyourcode.com/heic-to-jpg/) | Convert HEIC files to JPG and vice versa. |
+| [HEIC ↔ PNG](https://beautifyourcode.com/heic-to-png/) | Convert HEIC files to PNG and vice versa. |
+| [HEIF ↔ JPG](https://beautifyourcode.com/heif-to-jpg/) | Convert HEIF files to JPG and vice versa. |
+| [HEIF ↔ PNG](https://beautifyourcode.com/heif-to-png/) | Convert HEIF files to PNG and vice versa. |
+| [ICO ↔ PNG](https://beautifyourcode.com/ico-to-png/) | Convert ICO files to PNG and vice versa. |
+| [JPG ↔ BMP](https://beautifyourcode.com/jpg-to-bmp/) | Convert JPG files to BMP and vice versa. |
+| [JPG ↔ PNG](https://beautifyourcode.com/jpg-to-png/) | Convert JPG files to PNG and vice versa. |
+| [MP3 ↔ WAV](https://beautifyourcode.com/mp3-to-wav/) | Convert MP3 files to WAV and vice versa. |
+| [MP4 to MP3](https://beautifyourcode.com/mp4-to-mp3/) | Extract audio from MP4 files and convert to MP3. |
+| [MP4 ↔ WebM](https://beautifyourcode.com/mp4-to-webm/) | Convert MP4 files to WebM and vice versa. |
+| [PCX ↔ BMP](https://beautifyourcode.com/pcx-to-bmp/) | Convert PCX files to BMP and vice versa. |
+| [PDF ↔ JPG](https://beautifyourcode.com/pdf-to-jpg/) | Convert PDF files to JPG images and vice versa. |
+| [PDF ↔ Word](https://beautifyourcode.com/pdf-to-word/) | Convert PDF files to Word documents and vice versa. |
+| [PNG ↔ BMP](https://beautifyourcode.com/png-to-bmp/) | Convert PNG files to BMP and vice versa. |
+| [PNG ↔ SVG](https://beautifyourcode.com/png-to-svg/) | Convert PNG files to SVG and vice versa. |
+| [PNG ↔ TIFF](https://beautifyourcode.com/png-to-tiff/) | Convert PNG files to TIFF and vice versa. |
+| [PPM/PGM/PBM ↔ PNG](https://beautifyourcode.com/ppm-pgm-pbm-to-png/) | Convert PPM, PGM, or PBM files to PNG and vice versa. |
+| [TGA ↔ PNG](https://beautifyourcode.com/tga-to-png/) | Convert TGA files to PNG and vice versa. |
+| [TXT ↔ PDF](https://beautifyourcode.com/txt-to-pdf/) | Convert TXT files to PDF and vice versa. |
+| [WebP ↔ BMP](https://beautifyourcode.com/webp-to-bmp/) | Convert WebP files to BMP and vice versa. |
+| [WebP ↔ JPG](https://beautifyourcode.com/webp-to-jpg/) | Convert WebP files to JPG and vice versa. |
+| [WebP ↔ PNG](https://beautifyourcode.com/webp-to-png/) | Convert WebP files to PNG and vice versa. |
 
 
 <div align="right">
@@ -1337,7 +1364,7 @@
 | [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) | Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh) | A must-have tool for designers and frontend developers to grab colors for any website. |
 | [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies |
-| [Lorem Ipsum Generator (Default Text)](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20) | Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can be customized. |
+| [Lorem Ipsum Generator](https://beautifyourcode.com/lorem-ipsum-generator/) | Generate placeholder text (Lorem Ipsum) for design and development projects. |
 | [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en) | Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file |
 | [Imageye - Image downloader](https://chrome.google.com/webstore/detail/imageye-image-downloader/agionbommeaifngbhincahgmoflcikhm) | Find and download all images on a web page. With Imageye you can find, browse and download all the images present in a web page. |
 | [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions! |
@@ -1461,7 +1488,7 @@
 | [Pageclip](https://pageclip.co/) | A server for your Static HTML forms |
 | [Shields](https://shields.io) | Create badges with your own customization. |
 | [williamsharkey](http://williamsharkey.com/Shapes.html) | Random SVG Graphic Generator |
-| [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
+| [Bootstrap CheatSheet](https://beautifyourcode.com/bootstrap-classes/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR Code Generator to easily create a QR code for your project. |
 | [PapersDB](https://papersdb.com/) | The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units. |
 | [SETools.xyz](https://www.setools.xyz/) | Free Online tools  website for work |
@@ -1477,8 +1504,10 @@
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
-| [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
-| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
+| [Code Beautify](https://beautifyourcode.com/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
+| [Vue CheatSheet](https://beautifyourcode.com/vuecheatsheet/) | An interactive cheatsheet of Vue. The only Vue CheatSheet you will ever need. |
+| [Vue Router CheatSheet](https://beautifyourcode.com/vueroutercheatsheet/) | An interactive cheatsheet of Vue Router. The only Vue Router CheatSheet you will ever need. |
+| [Pinia CheatSheet](https://beautifyourcode.com/pinia-cheatsheet/) | An interactive cheatsheet of Pinia. The only Pinia CheatSheet you will ever need. |
 | [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |

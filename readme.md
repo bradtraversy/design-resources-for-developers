@@ -860,7 +860,7 @@
 | [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [Semi Design](https://semi.design/en-US)| A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products. |
 | [Mantine](https://mantine.dev/)| React components and hooks library with native dark theme support focused on usability, accessibility and developer experience. |
-| [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
+| [HeroUI - Previously NextUI](https://www.heroui.com/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
 | [Arco Design](https://arco.design/en-US)| A comprehensive React UI components library based on the Arco Design system. |
 | [ui-playbook](https://uiplaybook.dev/)| The documented collection of UI components |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |

@@ -327,7 +327,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [FaviFiles](https://favifiles.com/)| Generate pixel-perfect favicons for free in seconds |
 | [Favicon.io](https://favicon.io/)| Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats |
 | [Favicomatic](https://favicomatic.com/)| Generate favicons of all the sizes and formats as well as the HTML code needed to support every possible browser or device |
 | [Favicon Generator](http://tools.dynamicdrive.com/favicon/)| Generate favicon ico files for your website |
@@ -336,6 +335,8 @@
 | [Favicon.cc](https://www.favicon.cc) | Draw a favicon online and browse through a library of favicons made by other users |
 | [Maskable.app Editor](https://maskable.app/editor/) | Generate maskable PWA icons based on your existing icon |
 | [Favicon Generator](https://favicon.inbrowser.app/) | Generate website's favicon assets. SVG, maskable, image minified supported. Pure frontend. No privacy risk. Fast.|
+| [FaviFiles](https://favifiles.com/)| Generate pixel-perfect favicons for free in seconds |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

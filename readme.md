@@ -335,6 +335,8 @@
 | [Favicon.cc](https://www.favicon.cc) | Draw a favicon online and browse through a library of favicons made by other users |
 | [Maskable.app Editor](https://maskable.app/editor/) | Generate maskable PWA icons based on your existing icon |
 | [Favicon Generator](https://favicon.inbrowser.app/) | Generate website's favicon assets. SVG, maskable, image minified supported. Pure frontend. No privacy risk. Fast.|
+| [FaviFiles](https://favifiles.com/)| Generate pixel-perfect favicons for free in seconds |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

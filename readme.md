@@ -1290,6 +1290,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
+| [ImagiTool](https://imagitool.com/)| Bulk image resizing, compression & convert file formats. supports all raw file formats
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |

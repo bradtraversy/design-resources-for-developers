@@ -1088,7 +1088,6 @@
 | [Fundamental Library](https://sap.github.io/fundamental-styles/)| Open source and community driven project for consistent user interfaces|
 | [Infor Design](https://design.infor.com/)| Guidelines and resources to create meaningful experiences for Infor’s products |
 | [Lexicon](https://liferay.design/lexicon/)| An experience language for crafting beautiful UI |
-| [Mailchimp UI/UX](https://ux.mailchimp.com/patterns/color)| Style guide and components from Mailchimp |
 | [Marvel Style Guide](https://marvelapp.com/styleguide/overview/introduction)| Set of design principles and components |
 | [Microsoft Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)| Collection of UX frameworks from Microsoft |
 | [Pluralsight Design System](https://design-system.pluralsight.com/)| Design guide with components for designing with Pluralsight |

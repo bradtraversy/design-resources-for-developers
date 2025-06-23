@@ -844,6 +844,7 @@
 |[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
 |[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
 |[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
+|[Shadcnblocks](https://shadcnblocks.com/)| Hundreds of extra blocks for Shadcn UI. |
 
 
 <div align="right">

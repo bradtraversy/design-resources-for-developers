@@ -58,10 +58,10 @@
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
 | [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin                  |
-| [Hero Patterns](http://www.heropatterns.com/)                                                            | A collection of repeatable SVG background patterns                 |
-| [BEAUBUS Patterns](https://patterns.beaubus.com/)                                                        | A set of 150+ free SVG patterns (backgrounds)                       |
+| [Hero Patterns](http://www.heropatterns.com/)                                                            | collection of repeatable SVG background patterns                 |
+| [BEAUBUS Patterns](https://patterns.beaubus.com/)                                                        | set of 150+ free SVG patterns (backgrounds)                       |
 | [IRA Design](https://iradesign.io/)                                                                      | An open-source gradient illustrations collection by creative tim.   |
-| [Transparent Textures](https://www.transparenttextures.com/) | A collection of transparent textures background patterns. |
+| [Transparent Textures](https://www.transparenttextures.com/) | collection of transparent textures background patterns. |
 | [icons8.com/illustrations](https://icons8.com/illustrations) | Vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |

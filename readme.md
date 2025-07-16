@@ -276,7 +276,7 @@
 | [Unified icons](https://iconify.design/) |Thousands of icons, one unified framework. One library, over 40,000 vector icons. |
 | [System UIcons](https://systemuicons.com/) |220+ icons in a growing collection. |
 | [IconPark](https://github.com/bytedance/IconPark) | Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons |
-| [Radix Icons](https://icons.modulz.app/) |A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component,SVG and more. |
+| [Radix Icons](https://www.radix-ui.com/icons) |A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component,SVG and more. |
 | [EOS Icons](https://icons.eosdesignsystem.com/) | A pixel-perfect, open source iconic font available as ligature and SVG. |
 | [Ionicons](https://ionicons.com) | Beautifully crafted open source icons for use in web, iOS, Android, and desktop apps. |
 | [Phosphor Icons](https://phosphoricons.com) | Phosphor is a flexible icon family for interfaces, diagrams, presentations |

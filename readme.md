@@ -710,7 +710,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
+| [GSAP](https://gsap.com/)| A JavaScript library for building high-performance animations that work in every major browser |
 | [Velocity.js](http://velocityjs.org/)| Velocity is a lightweight animation engine with the same API as jQuery's $.animate() |
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
@@ -745,7 +745,6 @@
 | [nice-waves](https://gvguy.github.io/nice-waves/)| Beautiful animated waves |
 | [Vanta.js](https://www.vantajs.com/)| Animated website backgrounds in a few lines of code. |
 | [Splitting.js](https://splitting.js.org/)| Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more! |
-| [GSAP](https://gsap.com/)| GSAP is a professional-grade animation library for the web that can animate anything JavaScript can touch (CSS, SVG, canvas, etc.) |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

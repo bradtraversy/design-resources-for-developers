@@ -710,7 +710,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
+| [GSAP](https://gsap.com/)| A JavaScript library for building high-performance animations that work in every major browser |
 | [Velocity.js](http://velocityjs.org/)| Velocity is a lightweight animation engine with the same API as jQuery's $.animate() |
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |

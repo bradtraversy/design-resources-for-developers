@@ -841,11 +841,8 @@
 |[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
-|[Preline UI](https://preline.co/index.html) | Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. |
-|[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
 |[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
 |[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
-|[Skiper UI](https://skiper-ui.com/)| Brand new uncommon components for your Next.js project. Use with ease through shadcn CLI 3.0. |
 
 
 <div align="right">

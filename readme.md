@@ -1223,6 +1223,7 @@
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
 | [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook: For mac only |
+| [Affinity](https://www.affinity.studio)| Affinity by Canva Free Graphic design, Photo editing and Page layout software for Mac and Windows. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

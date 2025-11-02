@@ -1486,6 +1486,7 @@
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
+| [CSS Button Generator](https://markodenic.com/tools/buttons-generator/) | CSS button generator is a free online tool you can use to create CSS button styles in one click.                                                                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1426,6 +1426,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 | [Free AI Diagram Generator](https://diagram-generator.com/) a free AI-powered platform that helps you create various types of diagrams with ease. |
+| [Gempix2](https://gempix2.site) | Gempix2 is a free AI image generation platform with text-to-image, AI editing, and video generation support using the second-generation Nano Banana model. No registration required. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

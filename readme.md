@@ -943,6 +943,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Edil Ozi](https://www.edil-ozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [Shadcn Templates](https://shadcntemplates.com/)| Free collection of Shadcn UI templates, components, blocks, boilerplates, and more. |
 | [Eldora UI](https://eldoraui.site/)| Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. | 
+| [NoxHD UI](https://ui.noxhd.com)| A modern collection of beautifully crafted, responsive UI components and templates built with Next.js, Tailwind CSS, and Framer Motion. |
 
 
 <div align="right">

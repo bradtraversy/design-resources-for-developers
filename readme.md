@@ -309,6 +309,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Round Icons](https://roundicons.com/) | The world's biggest premium and free icon packs library of flat icons, line icons, filled outline, isometric and solid styles. |
 | [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
 | [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
+| [Bangaru Icons](https://github.com/bangarumahesh22) | A simple collection of icons for developers |
 
 
 <div align="right">

@@ -1,16 +1,4 @@
-<div align="center" markdown="1">
-   <sup>Special thanks to:</sup>
-   <br>
-   <br>
-   <a href="https://www.warp.dev/windebloat">
-      <img alt="Warp sponsorship" width="400" src="https://github.com/user-attachments/assets/c21102f7-bab9-4344-a731-0cf6b341cab2">
-   </a>
-
-Warp, the intelligent terminal for developers
-Available for MacOS, Linux, & Windows<br>
-
-</div>
-<hr>
+![Repository Banner](headerimage.png)
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 

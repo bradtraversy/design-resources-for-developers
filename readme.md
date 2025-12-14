@@ -845,6 +845,7 @@
 |[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 |[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
 |[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
+|[Bundui](https://bundui.io/) | Discover a curated collection of over 200 handcrafted UI components made with Tailwind CSS, React, and Shadcn UI. |
 
 
 <div align="right">

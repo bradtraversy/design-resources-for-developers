@@ -226,6 +226,7 @@
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
 | [InclusiveColors palette creator](https://www.inclusivecolors.com/) | Create custom accessible Tailwind-style color palettes, where you can modify HSL curves across whole swatches, check WCAG/APCA contrast, then export to Tailwind/CSS/Figma/Adobe |
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
+| [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -928,11 +929,11 @@
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
-| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
+| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. |
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
 | [Edil Ozi](https://www.edil-ozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [Shadcn Templates](https://shadcntemplates.com/)| Free collection of Shadcn UI templates, components, blocks, boilerplates, and more. |
-| [Eldora UI](https://eldoraui.site/)| Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. | 
+| [Eldora UI](https://eldoraui.site/)| Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. |
 
 
 <div align="right">

@@ -89,7 +89,7 @@
 | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
 | [Mesher](https://csshero.org/mesher) | A Free tool to create beautiful mesh gradients only with CSS code. Use your own colors or randomly generated ones to build the trendiest CSS gradients |
-
+| [Square Face Avatar Generator](https://www.squarefaceicongenerator.co/) | Generate square-face avatars & icons online |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

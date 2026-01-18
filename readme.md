@@ -848,6 +848,8 @@
 |[Shadcnui Blocks](https://www.shadcnui-blocks.com/)| Effortless Shadcn UI Component Previews & Code Snippets. |
 |[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
 |[Bundui](https://bundui.io/) | Discover a curated collection of over 200 handcrafted UI components made with Tailwind CSS, React, and Shadcn UI. |
+|[Shadcn Examples](https://shadcnexamples.com/) | Examples and components built with React and Tailwind CSS, compatible with Shadcn UI. |
+|[Shadcn Admin](https://shadcnadmin.com/) | A multipurpose admin dashboard template for React, Next.js, and Vue.js. Fully compatible with shadcn/ui.
 
 
 <div align="right">

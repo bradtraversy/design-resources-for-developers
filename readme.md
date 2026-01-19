@@ -115,6 +115,7 @@
 | [FontGet](https://www.fontget.com/) | Has a variety of fonts available to download and sorted neatly with tags |
 | [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
+| [FontAlternatives](https://fontalternatives.com/)| Free alternatives to 300+ premium fonts with visual comparisons |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
 | [Leon Sans](https://github.com/cmiscm/leonsans/)| A geometric sans-serif typeface made with code |

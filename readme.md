@@ -851,7 +851,7 @@
 |[Bundui](https://bundui.io/) | Discover a curated collection of over 200 handcrafted UI components made with Tailwind CSS, React, and Shadcn UI. |
 |[Shadcn Examples](https://shadcnexamples.com/) | Examples and components built with React and Tailwind CSS, compatible with Shadcn UI. |
 |[Shadcn Admin](https://shadcnadmin.com/) | A multipurpose admin dashboard template for React, Next.js, and Vue.js. Fully compatible with shadcn/ui.
-|[CodedThemes](https://codedthemes.com)| A handpicked collection of thoughtfully designed admin dashboard templates and UI kits, built with popular technologies like React, Vue, Angular, Next.js, Tailwind CSS, Bootstrap, and more.
+|[CodedThemes Freebies](https://codedthemes.com/item/category/free-templates/)| A handpicked collection of thoughtfully designed admin dashboard templates and UI kits, built with popular technologies like React, Vue, Angular, Next.js, Tailwind CSS, Bootstrap, and more.
 
 
 <div align="right">

@@ -1496,7 +1496,7 @@
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
-| [webtoolz](https://webtoolz.dev) | Free JSON toolkit - format, validate, diff, convert to YAML/CSV. Privacy-first, runs entirely in browser. |
+| [webtoolz](https://webtoolz.dev) | JSON studio with AI-powered fix for broken JSON. Formats, validates, minifies. Browser-only, no uploads. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

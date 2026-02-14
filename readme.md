@@ -1183,6 +1183,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
 | [Trace](https://stickermule.com/trace) | Instantly remove the background from your photos |
 | [Neumorphism.io](https://neumorphism.io/#55b9f3) | Generate Soft-UI CSS shadow code |
+| [NexTool](https://nextool.app/free-tools/)| 228+ free browser-based developer & design tools — CSS generators, color tools, gradient makers, image editors, converters, and more. 100% client-side, no signup. |
 | [DB Designer](https://app.dbdesigner.net/) | Design your database for free online |
 | [Ui Bakery](https://uibakery.io/) | Create full-fledged web apps visually |
 | [Faux](http://knutsynstad.com/fauxcode/) | Turn real code into faux code |

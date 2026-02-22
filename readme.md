@@ -277,6 +277,7 @@ Available for MacOS, Linux, & Windows<br>
 | [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [css.gg](https://css.gg/) | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API |
 | [IconBros](https://www.iconbros.com) | 7843+ free icons grouped in 182 collections |
+| [Woopicx](https://woopicx.com)| 12,000+ premium 3D icons across 80+ categories with AI chat editor to customize any icon |
 | [Material Design Icons](https://materialdesignicons.com/) | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
 | [Heroicons](https://heroicons.dev/) | Free, open source icons from the creators of Tailwind CSS. |
 | [Zondicons](https://www.zondicons.com/icons.html) | A set of free premium SVG icons for you to use on your digital products. |

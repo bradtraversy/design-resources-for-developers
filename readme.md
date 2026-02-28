@@ -1494,6 +1494,7 @@ Available for MacOS, Linux, & Windows<br>
 | [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
 | [Angry Tools](https://angrytools.com/) | Free web tools for speed up your development. |
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |
+| [RatedWithAI](https://ratedwithai.com) | Free AI-powered website accessibility scanner for ADA and WCAG compliance testing |
 | [Readme.so](https://readme.so) | The easisest way to create a README. |
 | [Showcode](https://showcode.app) | Beautiful code screenshot generator. |
 | [tldraw](https://www.tldraw.com) | A tiny little drawing app. |

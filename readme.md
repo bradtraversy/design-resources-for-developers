@@ -438,6 +438,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Lorem.space - Placeholder image generator](https://lorem.space) | API for placeholder images but useful! |
 | [Openverse](https://wordpress.org/openverse/) | Openverse is a search engine for openly-licensed media |
 | [ISO Republic](https://isorepublic.com/) | Get Thousands of Free High-Resolution Stock CC0 Photos |
+| [Shortodella](https://shortodella.com/) | Free AI-generated images and creative assets with a canvas editor |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -459,6 +460,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Loopvidz](http://stock.loopvidz.com/)| Free To Use Cinema graphs Created With VIMAGE App |
 | [SplitShire](https://www.splitshire.com/)| Beautiful & exclusive free stock videos & photos |
 | [Free-Stock-Video](https://free-stock.video)| Free Footage Stock Videos |
+| [Shortodella](https://shortodella.com/) | Free AI-generated videos and creative assets |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

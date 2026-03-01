@@ -1436,6 +1436,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 | [Free AI Diagram Generator](https://diagram-generator.com/) a free AI-powered platform that helps you create various types of diagrams with ease. |
+| [Shortodella](https://shortodella.com/) | AI Video Generator & Image Generator with a canvas editor. Design images, edit with AI chat commands, generate videos, and remove backgrounds. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

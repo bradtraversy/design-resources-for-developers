@@ -1211,6 +1211,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Codepng](https://www.codepng.app/)| Convert your source code into awesome shareable images. |
 | [CSS Grid Generator](https://grid.layoutit.com/)| A tool for creating CSS Grid Layouts |
 | [JSONT](https://www.jsont.run/)| A simple and powerful online JSON formatting tool |
+| [JSON Web Tools](https://jsonwebtools.com)| 18+ free client-side JSON tools: format, validate, diff, repair, JWT decode, JSONPath evaluator, convert to TypeScript/Python/Java/Go/C#/PHP/Kotlin/Ruby/Rust, CSV/YAML/XML/SQL. No login, no tracking. |
 | [Jitter](https://jitter.video/)| Online tool to create motion graphics/design|
 | [Visily](https://www.visily.ai)| Tool that empowers *non-designers* to design web and mobile app mockups |
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |

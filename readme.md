@@ -1492,6 +1492,7 @@ Available for MacOS, Linux, & Windows<br>
 | [PapersDB](https://papersdb.com/) | The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units. |
 | [SETools.xyz](https://www.setools.xyz/) | Free Online tools  website for work |
 | [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
+| [BeginThings](https://beginthings.com/) | 96+ free browser-based tools for developers & freelancers — JSON formatter, regex tester, base64, image compressor, QR code, invoice generator & more. No signup required. |
 | [Angry Tools](https://angrytools.com/) | Free web tools for speed up your development. |
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |
 | [Readme.so](https://readme.so) | The easisest way to create a README. |

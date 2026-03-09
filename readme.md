@@ -1510,6 +1510,7 @@ Available for MacOS, Linux, & Windows<br>
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
+| [GEOScore](https://geoscoreai.com/) | Free AI search visibility scanner that checks 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

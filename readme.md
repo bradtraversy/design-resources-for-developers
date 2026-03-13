@@ -77,6 +77,9 @@
 | [Cool Text](https://cooltext.com/)| Cool Text is a FREE graphics generator for web pages and anywhere else you need an impressive logo without a lot of design work |
 | [illustration kit](https://illustrationkit.com/)| Premium open source illustrations added daily |
 | [Doodad Pattern Generator](https://doodad.dev/pattern-generator/) | Create unique, seamless, royalty-free patterns.|
+| [Robotz](https://threedee.design/cartoon-robot) | Free modular 3D cartoon robot with customizable heads, bodies and hands |
+| [Mockupz](https://mockupz.design/) | Free 3D mockup scenes for showcasing your design work in Blender, Figma and Sketch |
+| [Handz](https://handz.design/) | Free library of 320+ diverse 3D hand illustrations with Blender source files |
 
 
 <div align="right">

@@ -1510,6 +1510,7 @@ Available for MacOS, Linux, & Windows<br>
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
+| [ZapTools](https://zaptools.web.app) | 114+ free browser-based developer tools: JSON formatter, CSS generators, hash tools, regex tester, converters, and more. No signup required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

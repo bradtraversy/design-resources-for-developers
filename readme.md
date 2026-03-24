@@ -951,6 +951,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Edil Ozi](https://www.edil-ozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [Shadcn Templates](https://shadcntemplates.com/)| Free collection of Shadcn UI templates, components, blocks, boilerplates, and more. |
 | [Eldora UI](https://eldoraui.site/)| Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. |
+| [Emerald UI](https://emerald-ui.com/)| A modern UI design inspiration websites and collection of 40+ components free and open source built with Next.js, React, Tailwind CSS, GSAP, and Motion. |
+
 
 
 <div align="right">

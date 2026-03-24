@@ -1510,6 +1510,7 @@ Available for MacOS, Linux, & Windows<br>
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
+| [SnapAPI](https://api-snap.com) | Multi-tool utility API with 13+ endpoints: QR codes, screenshots, HTML-to-PDF, image resize, hashing, UUID, base64, JWT decode, URL metadata, and more. Free tier with 100 calls/month. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

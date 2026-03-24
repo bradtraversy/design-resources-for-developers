@@ -650,6 +650,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
 | [Sakura](https://oxal.org/projects/sakura/) | A minimal classless css framework / theme. |
+| [DAUB](https://daub.dev/) | Considered CSS component library — 73 components, 20 theme families, classless mode, AI-ready with llms.txt and MCP server. Zero build step |
 | [PSone](https://github.com/micah5/PSone.css) | PS1 style CSS Framework, inspired by NES.css. |
 | [Marx](https://github.com/mblode/marx) | Marx is the classless CSS reset to be used in any projects (namely small ones). |
 | [Tufte](https://github.com/edwardtufte/tufte-css) | Style your webpage like Edward Tufte’s handouts. |

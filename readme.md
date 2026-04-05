@@ -44,6 +44,7 @@ Available for MacOS, Linux, & Windows<br>
 - [React Native UI Libraries](#react-native-ui-libraries)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
+| [Glitch](https://idliapam.in/glitch) | AI bug reporting widget with screenshot annotation |
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)

@@ -16,6 +16,7 @@ Available for MacOS, Linux, & Windows<br>
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for design and development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)

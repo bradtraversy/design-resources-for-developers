@@ -589,6 +589,7 @@ Available for MacOS, Linux, & Windows<br>
 | [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
+| [HTML Design](https://html.design) | 800+ free HTML, Bootstrap & PSD templates across 40+ categories. No registration required |
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |

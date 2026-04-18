@@ -1,17 +1,16 @@
 'use client';
 
-import { useSyncExternalStore } from 'react';
-import { useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import type { Link } from '@/lib/types';
 
 const FAVORITES_STORAGE_KEY = 'design-resources-favorites';
-const EMPTY_SET = new Set<string>();
 
 interface StoredFavorite {
   id: string;
   addedAt: number;
 }
 
+// Helper functions for localStorage
 function getStoredFavorites(): StoredFavorite[] {
   if (typeof window === 'undefined') return [];
   try {
@@ -31,123 +30,72 @@ function setStoredFavorites(favorites: StoredFavorite[]): void {
   }
 }
 
-// External store for favorites
-function createFavoritesStore() {
-  let favorites: Set<string> = new Set();
-  const listeners: Set<() => void> = new Set();
-
-  if (typeof window !== 'undefined') {
-    const stored = getStoredFavorites();
-    favorites = new Set(stored.map(f => f.id));
+// Initialize state from localStorage
+function getInitialFavorites(): Set<string> {
+  if (typeof window === 'undefined') return new Set();
+  try {
+    const stored = localStorage.getItem(FAVORITES_STORAGE_KEY);
+    if (stored) {
+      const parsed: StoredFavorite[] = JSON.parse(stored);
+      return new Set(parsed.map(f => f.id));
+    }
+  } catch {
+    // Ignore parse errors
   }
-
-  const getSnapshot = () => favorites;
-  const getServerSnapshot = () => EMPTY_SET;
-
-  const subscribe = (listener: () => void) => {
-    listeners.add(listener);
-    return () => listeners.delete(listener);
-  };
-
-  const notify = () => {
-    listeners.forEach(listener => listener());
-  };
-
-  const toggle = (link: Link) => {
-    if (favorites.has(link.id)) {
-      favorites.delete(link.id);
-      const stored = getStoredFavorites().filter(f => f.id !== link.id);
-      setStoredFavorites(stored);
-    } else {
-      favorites.add(link.id);
-      const stored = getStoredFavorites();
-      if (!stored.find(f => f.id === link.id)) {
-        stored.push({
-          id: link.id,
-          addedAt: Date.now(),
-        });
-        setStoredFavorites(stored);
-      }
-    }
-    notify();
-  };
-
-  const remove = (linkId: string) => {
-    if (favorites.has(linkId)) {
-      favorites.delete(linkId);
-      const stored = getStoredFavorites().filter(f => f.id !== linkId);
-      setStoredFavorites(stored);
-      notify();
-    }
-  };
-
-  const clear = () => {
-    favorites = new Set();
-    setStoredFavorites([]);
-    notify();
-  };
-
-  const has = (linkId: string) => favorites.has(linkId);
-  const size = () => favorites.size;
-
-  return {
-    getSnapshot,
-    getServerSnapshot,
-    subscribe,
-    toggle,
-    remove,
-    clear,
-    has,
-    size,
-  };
+  return new Set();
 }
 
-const favoritesStore =
-  typeof window !== 'undefined' ? createFavoritesStore() : null;
-
-// Stable references for server-side rendering
-const noopSubscribe = () => () => {};
-const emptySnapshot = () => EMPTY_SET;
-
 export function useFavorites() {
-  const subscribeFn = favoritesStore ? favoritesStore.subscribe : noopSubscribe;
-  const snapshotFn = favoritesStore
-    ? favoritesStore.getSnapshot
-    : emptySnapshot;
-  const serverSnapshotFn = favoritesStore
-    ? favoritesStore.getServerSnapshot
-    : emptySnapshot;
+  const [favoriteIds, setFavoriteIds] =
+    useState<Set<string>>(getInitialFavorites);
 
-  const favorites = useSyncExternalStore(
-    subscribeFn,
-    snapshotFn,
-    serverSnapshotFn,
+  const isFavorite = useCallback(
+    (linkId: string) => {
+      return favoriteIds.has(linkId);
+    },
+    [favoriteIds],
   );
 
-  const isFavorite = useCallback((linkId: string) => {
-    return favoritesStore?.has(linkId) ?? false;
-  }, []);
-
   const toggleFavorite = useCallback((link: Link) => {
-    favoritesStore?.toggle(link);
+    setFavoriteIds(prev => {
+      const newSet = new Set(prev);
+      if (newSet.has(link.id)) {
+        newSet.delete(link.id);
+        const stored = getStoredFavorites().filter(f => f.id !== link.id);
+        setStoredFavorites(stored);
+      } else {
+        newSet.add(link.id);
+        const stored = getStoredFavorites();
+        stored.push({ id: link.id, addedAt: Date.now() });
+        setStoredFavorites(stored);
+      }
+      return newSet;
+    });
   }, []);
 
   const removeFavorite = useCallback((linkId: string) => {
-    favoritesStore?.remove(linkId);
+    setFavoriteIds(prev => {
+      const newSet = new Set(prev);
+      newSet.delete(linkId);
+      const stored = getStoredFavorites().filter(f => f.id !== linkId);
+      setStoredFavorites(stored);
+      return newSet;
+    });
   }, []);
 
   const clearAllFavorites = useCallback(() => {
-    favoritesStore?.clear();
+    setFavoriteIds(new Set());
+    setStoredFavorites([]);
   }, []);
 
-  const favoritesCount = favoritesStore?.size() ?? 0;
+  const favoritesCount = favoriteIds.size;
 
   return {
-    favoriteIds: favorites,
+    favoriteIds,
+    favoritesCount,
     isFavorite,
     toggleFavorite,
     removeFavorite,
     clearAllFavorites,
-    favoritesCount,
   };
 }

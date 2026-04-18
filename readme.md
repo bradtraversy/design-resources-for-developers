@@ -6,8 +6,8 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **Global Search** - Search across all categories from anywhere via the header search bar
 - **Curated Categories** - Browse resources organized by type (UI Graphics, CSS Frameworks, Icons, Typography, etc.)
-- **Search Functionality** - Quickly find resources across all categories
 - **Click Tracking** - Track resource popularity with click counts
 - **Featured Resources** - Highlight top resources
 - **Responsive Design** - Fully responsive UI that works on all devices
@@ -85,16 +85,30 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📁 Project Structure
+## 🔍 Global Search
+
+The application features a global search bar in the header that allows you to search across all categories and resources from any page:
+
+- Type your query in the search bar (desktop or mobile)
+- Press Enter or click the Search button
+- View results organized by category on the search results page
+- Clear your search with the X button to return home
+
+The search looks through resource titles and descriptions, providing instant access to relevant design resources.
+
+## � Project Structure
 
 ```
 ├── app/                    # Next.js App Router pages
 │   ├── actions.ts         # Server actions for data operations
 │   ├── page.tsx           # Home page
 │   ├── layout.tsx         # Root layout
+│   ├── search/            # Global search results page
+│   │   └── page.tsx
 │   └── [slug]/            # Dynamic category pages
 │       └── page.tsx
 ├── components/            # React components
+│   ├── header.tsx        # Site header with global search
 │   ├── category-nav.tsx  # Category navigation
 │   ├── link-card.tsx     # Link display card
 │   ├── search-input.tsx  # Search component
@@ -179,6 +193,5 @@ Contributions are welcome! Please read our [contributing guidelines](./contribut
 
 ## 🙏 Acknowledgments
 
-- [Brad Traversy](https://github.com/bradtraversy) for the initial project concept
-- [Vercel](https://vercel.com) for the hosting platform
-- All the amazing design resource creators
+- Thanks to all contributors who help maintain this resource collection
+- Built with the amazing Next.js and React ecosystem

@@ -15,16 +15,20 @@ import { cn } from '@/lib/utils';
 import type { Link as LinkType } from '@/lib/types';
 import { useFavorites } from '@/lib/hooks/use-favorites';
 
+type ViewMode = 'grid' | 'list';
+
 interface LinkCardProps {
   link: LinkType;
   index?: number;
   showFavoriteButton?: boolean;
+  view?: ViewMode;
 }
 
 export function LinkCard({
   link,
   index = 0,
   showFavoriteButton = true,
+  view = 'grid',
 }: LinkCardProps) {
   const [copied, setCopied] = useState(false);
   const [isPreviewOpen, setIsPreviewOpen] = useState(false);
@@ -59,33 +63,66 @@ export function LinkCard({
     }, 100);
   };
 
+  const isListView = view === 'list';
+
   return (
     <>
       <Card
         className={cn(
           'relative overflow-hidden transition-all duration-300',
-          'hover:shadow-lg hover:-translate-y-1',
+          !isListView && 'hover:shadow-lg hover:-translate-y-1',
+          isListView && 'hover:bg-slate-50 dark:hover:bg-slate-900',
           'border-slate-200 dark:border-slate-800',
           'hover:border-slate-300 dark:hover:border-slate-700',
           'cursor-pointer',
+          isListView && 'py-3 px-4',
         )}
         style={{
           animationDelay: `${index * 50}ms`,
         }}
         onClick={handleCardClick}
       >
-        <CardContent className='p-4'>
-          <div className='flex items-start justify-between gap-3'>
-            <div className='flex-1 min-w-0'>
-              <h3 className='font-semibold text-slate-900 dark:text-slate-100 truncate transition-colors hover:text-blue-600 dark:hover:text-blue-400'>
-                {link.title}
-              </h3>
-              <p className='mt-1 text-sm text-slate-500 dark:text-slate-400 line-clamp-2'>
-                {link.description}
-              </p>
-              <p className='mt-2 text-xs text-slate-400 dark:text-slate-500 truncate'>
-                {link.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}
-              </p>
+        <CardContent className={cn('p-4', isListView && 'py-2 px-0')}>
+          <div
+            className={cn(
+              'flex items-start gap-3',
+              isListView && 'items-center flex-1',
+            )}
+          >
+            <div
+              className={cn(
+                'flex-1 min-w-0',
+                isListView && 'flex items-center gap-4',
+              )}
+            >
+              <div className={cn('flex-1', isListView && 'min-w-0')}>
+                <h3
+                  className={cn(
+                    'font-semibold text-slate-900 dark:text-slate-100 truncate transition-colors hover:text-blue-600 dark:hover:text-blue-400',
+                    isListView && 'text-sm',
+                  )}
+                >
+                  {link.title}
+                </h3>
+                {!isListView && (
+                  <p className='mt-1 text-sm text-slate-500 dark:text-slate-400 line-clamp-2'>
+                    {link.description}
+                  </p>
+                )}
+                {isListView && link.description && (
+                  <p className='text-sm text-slate-500 dark:text-slate-400 truncate'>
+                    {link.description}
+                  </p>
+                )}
+                <p
+                  className={cn(
+                    'text-xs text-slate-400 dark:text-slate-500 truncate',
+                    isListView && 'hidden',
+                  )}
+                >
+                  {link.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}
+                </p>
+              </div>
             </div>
 
             <div className='flex items-center gap-1'>

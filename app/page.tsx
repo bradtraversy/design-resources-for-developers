@@ -6,8 +6,10 @@ import {
   getAllLinksCountAction,
 } from './actions';
 import { CategoryNav } from '@/components/category-nav';
+import { ViewToggle } from '@/components/view-toggle';
 import { LinkCard } from '@/components/link-card';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
+import { cn } from '@/lib/utils';
 import {
   Pagination,
   PaginationContent,
@@ -29,15 +31,24 @@ async function CategoriesNav() {
   return <CategoryNav categories={categories} />;
 }
 
-const ITEMS_PER_PAGE = 9;
+const ITEMS_PER_PAGE = 12;
+
+type ViewMode = 'grid' | 'list';
 
 interface HomePageProps {
   searchParams: Promise<{
     page?: string;
+    view?: string;
   }>;
 }
 
-async function LinksByCategory({ page }: { page: number }) {
+async function LinksByCategory({
+  page,
+  view,
+}: {
+  page: number;
+  view: ViewMode;
+}) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
   const categoriesWithLinks = await getAllCategoriesWithLinksAction({
     limit: ITEMS_PER_PAGE,
@@ -74,9 +85,16 @@ async function LinksByCategory({ page }: { page: number }) {
           )}
         </header>
 
-        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 stagger-children'>
+        <div
+          className={cn(
+            'stagger-children',
+            view === 'list'
+              ? 'flex flex-col gap-2'
+              : 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4',
+          )}
+        >
           {defaultCategory.links.map((link, index) => (
-            <LinkCard key={link.id} link={link} index={index} />
+            <LinkCard key={link.id} link={link} index={index} view={view} />
           ))}
         </div>
 
@@ -169,10 +187,15 @@ async function LinksByCategory({ page }: { page: number }) {
   );
 }
 
+function ViewToggleWrapper() {
+  return <ViewToggle className='hidden sm:block' />;
+}
+
 export default async function HomePage({ searchParams }: HomePageProps) {
-  const { page } = await searchParams;
+  const { page, view } = await searchParams;
   const currentPage = page ? parseInt(page, 10) : 1;
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
+  const currentView = (view as ViewMode) || 'grid';
 
   return (
     <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
@@ -197,15 +220,22 @@ export default async function HomePage({ searchParams }: HomePageProps) {
         </header>
 
         {/* Category Navigation with Suspense */}
-        <div className='mb-12'>
+        <div className='mb-8'>
           <Suspense fallback={<NavSkeleton />}>
             <CategoriesNav />
           </Suspense>
         </div>
 
+        {/* View Toggle */}
+        <div className='mb-6 flex justify-end'>
+          <Suspense fallback={null}>
+            <ViewToggleWrapper />
+          </Suspense>
+        </div>
+
         {/* Links Display */}
         <Suspense fallback={<LinkGridSkeleton />}>
-          <LinksByCategory page={validPage} />
+          <LinksByCategory page={validPage} view={currentView} />
         </Suspense>
       </main>
 

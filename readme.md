@@ -6,6 +6,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **View Toggle** - Switch between Grid view and List view for browsing resources
 - **Quick Preview Modal** - Preview resource details in a modal without leaving the site
 - **Favorites/Bookmarks** - Save your favorite resources to local storage for quick access
 - **Global Search** - Search across all categories from anywhere via the header search bar
@@ -124,6 +125,27 @@ The modal can be closed by:
 - Clicking the X button
 
 This feature provides a clean, accessible way to preview resources without navigating away from the site.
+
+## 🔲 View Toggle
+
+The View Toggle feature allows you to switch between Grid view and List view for browsing resources:
+
+- **Grid View** (default): Display resources in a 3-column grid layout, ideal for desktop browsing
+- **List View**: Display resources in a single-column vertical list, great for quick scanning
+
+### How to Use
+
+- Click the Grid or List button in the top-right corner of any page
+- The view preference persists in the URL (e.g., `?view=list`)
+- Share the URL with others to share your preferred view
+
+The View Toggle is available on:
+- Home page
+- Category pages (e.g., `/ui-graphics`)
+- Search results page
+- Favorites page
+
+On mobile devices, only icons are shown to save space.
 
 ## Project Structure
 

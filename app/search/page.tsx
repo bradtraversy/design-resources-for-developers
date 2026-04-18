@@ -5,7 +5,9 @@ import { searchLinksAction, getCategoriesAction } from '../actions';
 import { LinkCard } from '@/components/link-card';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
 import { CategoryNav } from '@/components/category-nav';
+import { ViewToggle } from '@/components/view-toggle';
 import type { Link as LinkType } from '@/lib/types';
+import { cn } from '@/lib/utils';
 import {
   Pagination,
   PaginationContent,
@@ -16,10 +18,13 @@ import {
   PaginationPrevious,
 } from '@/components/ui/pagination';
 
+type ViewMode = 'grid' | 'list';
+
 interface SearchPageProps {
   searchParams: Promise<{
     q?: string;
     page?: string;
+    view?: string;
   }>;
 }
 
@@ -41,7 +46,15 @@ async function CategoriesNav() {
   return <CategoryNav categories={categories} />;
 }
 
-async function SearchResults({ query, page }: { query: string; page: number }) {
+async function SearchResults({
+  query,
+  page,
+  view,
+}: {
+  query: string;
+  page: number;
+  view: ViewMode;
+}) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
   const [result, categories] = await Promise.all([
     searchLinksAction(query),
@@ -110,9 +123,16 @@ async function SearchResults({ query, page }: { query: string; page: number }) {
             <h2 className='text-xl font-semibold text-slate-800 dark:text-slate-200'>
               {categoryName}
             </h2>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 stagger-children'>
+            <div
+              className={cn(
+                'stagger-children',
+                view === 'list'
+                  ? 'flex flex-col gap-2'
+                  : 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4',
+              )}
+            >
               {categoryLinks.map((link, index) => (
-                <LinkCard key={link.id} link={link} index={index} />
+                <LinkCard key={link.id} link={link} index={index} view={view} />
               ))}
             </div>
           </section>
@@ -213,11 +233,16 @@ function LoadingState() {
   return <LinkGridSkeleton count={6} />;
 }
 
+function ViewToggleWrapper() {
+  return <ViewToggle className='hidden sm:block' />;
+}
+
 export default async function SearchPage({ searchParams }: SearchPageProps) {
-  const { q, page } = await searchParams;
+  const { q, page, view } = await searchParams;
   const query = q?.trim();
   const currentPage = page ? parseInt(page, 10) : 1;
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
+  const currentView = (view as ViewMode) || 'grid';
 
   if (!query) {
     notFound();
@@ -242,9 +267,16 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </Suspense>
         </div>
 
+        {/* View Toggle */}
+        <div className='flex justify-end mb-4'>
+          <Suspense fallback={null}>
+            <ViewToggleWrapper />
+          </Suspense>
+        </div>
+
         {/* Search Results */}
         <Suspense fallback={<LoadingState />}>
-          <SearchResults query={query} page={validPage} />
+          <SearchResults query={query} page={validPage} view={currentView} />
         </Suspense>
       </main>
 

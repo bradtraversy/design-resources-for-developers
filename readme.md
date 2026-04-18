@@ -176,6 +176,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ColorGradient](https://colorgradient.dev/)| A free tool to create simple and complex CSS Gradients visually |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [UI Colors](https://uicolors.app/create) | Tailwind CSS color palette generator |
+| [FastTool Design](https://fasttool.app/category/design) | Free browser-based color picker, palette generator, CSS gradient builder, contrast checker, and format converters |
 | [HTML Color Codes](https://htmlcolorcodes.com/)| Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
 | [Palette List](https://www.palettelist.com/)| Pick 2 colors you like and the tool generates thousands of palettes for you. |

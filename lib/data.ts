@@ -1,7 +1,7 @@
 import { Category, Link, CategoryWithLinks } from './types';
 import { slugify } from './utils';
 import { prisma } from './db';
-import { Prisma } from '../generated/prisma/client';
+import { Prisma } from '@prisma/client';
 
 // Helper to convert null to undefined for optional string fields
 function nullToUndefined<T>(value: T | null): T | undefined {

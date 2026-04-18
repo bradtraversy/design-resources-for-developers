@@ -1,5 +1,5 @@
 // lib/prisma.ts
-import { PrismaClient } from '../generated/prisma/client';
+import { PrismaClient } from '@prisma/client';
 
 const url = process.env.MONGODB_URI ?? process.env.DATABASE_URL; // keep both options if you changed the schema
 

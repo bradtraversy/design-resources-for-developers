@@ -42,3 +42,4 @@ next-env.d.ts
 
 /generated/prisma
 features.md
+generated

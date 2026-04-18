@@ -6,6 +6,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **Quick Preview Modal** - Preview resource details in a modal without leaving the site
 - **Favorites/Bookmarks** - Save your favorite resources to local storage for quick access
 - **Global Search** - Search across all categories from anywhere via the header search bar
 - **Curated Categories** - Browse resources organized by type (UI Graphics, CSS Frameworks, Icons, Typography, etc.)
@@ -107,6 +108,22 @@ You can save your favorite design resources for quick access later. Here's how t
 - **Clear All**: Use the "Clear all" button on the favorites page to remove all saved resources
 
 Your favorites are stored locally in your browser, so they'll persist across sessions. Note that favorites are stored by resource ID, so if a resource is removed from the database, it may no longer appear in your favorites.
+
+## 👁️ Quick Preview Modal
+
+The Quick Preview Modal provides a better user experience than the previous hover tooltip approach. Instead of an intrusive tooltip that appears on hover (which could detract from the user experience), you can now:
+
+- **Preview**: Click the eye icon on any resource card to open a modal with full details
+- **View Details**: See the complete title, URL, description, and icon information
+- **Open**: Click "Open Resource" button to visit the external site
+- **Mobile-Friendly**: Works great on touch devices with responsive design
+
+The modal can be closed by:
+- Clicking outside the modal
+- Pressing the Escape key
+- Clicking the X button
+
+This feature provides a clean, accessible way to preview resources without navigating away from the site.
 
 ## Project Structure
 

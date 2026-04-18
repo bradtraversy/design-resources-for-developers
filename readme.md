@@ -1,36 +1,184 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Design Resources for Developers
 
-## Getting Started
+A curated collection of design resources for developers. Built with Next.js, this application helps you discover and organize the best design tools, UI frameworks, icons, fonts, and more for your web and mobile projects.
 
-First, run the development server:
+![Project Banner](./headerimage.png)
+
+## ✨ Features
+
+- **Curated Categories** - Browse resources organized by type (UI Graphics, CSS Frameworks, Icons, Typography, etc.)
+- **Search Functionality** - Quickly find resources across all categories
+- **Click Tracking** - Track resource popularity with click counts
+- **Featured Resources** - Highlight top resources
+- **Responsive Design** - Fully responsive UI that works on all devices
+- **Dark Mode Support** - Automatic theme based on system preferences
+- **Server-Side Rendering** - Fast initial loads with Next.js App Router
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 16](https://nextjs.org) (App Router)
+- **Language**: [TypeScript](https://www.typescriptlang.org)
+- **Database**: [MongoDB](https://www.mongodb.com) with [Prisma](https://www.prisma.io)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com)
+- **UI Components**: [Radix UI](https://www.radix-ui.com)
+- **Icons**: [Lucide React](https://lucide.dev)
+- **Forms**: [React Hook Form](https://react-hook-form.com) + [Zod](https://zod.dev)
+
+## 📋 Prerequisites
+
+Before running this project, ensure you have the following installed:
+
+- **Node.js** (v18 or later)
+- **npm** or **yarn** or **pnpm**
+- **MongoDB** (local or Atlas)
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone <repository-url>
+cd design-resources-for-developers
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+### 3. Environment Variables
+
+Create a `.env` file in the root directory and add your MongoDB connection string:
+
+```env
+DATABASE_URL="mongodb://localhost:27017/link-organizer"
+# Or for MongoDB Atlas:
+DATABASE_URL="mongodb+srv://username:password@cluster.mongodb.net/link-organizer"
+```
+
+### 4. Database Setup
+
+Generate the Prisma client:
+
+```bash
+npx prisma generate
+```
+
+### 5. Seed the Database
+
+Populate the database with initial design resources:
+
+```bash
+npm run seed
+```
+
+### 6. Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📁 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+├── app/                    # Next.js App Router pages
+│   ├── actions.ts         # Server actions for data operations
+│   ├── page.tsx           # Home page
+│   ├── layout.tsx         # Root layout
+│   └── [slug]/            # Dynamic category pages
+│       └── page.tsx
+├── components/            # React components
+│   ├── category-nav.tsx  # Category navigation
+│   ├── link-card.tsx     # Link display card
+│   ├── search-input.tsx  # Search component
+│   ├── skeletons.tsx     # Loading skeletons
+│   └── ui/               # UI components (Button, Card, etc.)
+├── lib/                   # Utility functions and data layer
+│   ├── data.ts           # Database operations
+│   ├── db.ts             # Prisma client
+│   ├── schemas.ts        # Zod validation schemas
+│   ├── types.ts          # TypeScript types
+│   └── utils.ts          # Helper functions
+├── prisma/                # Database schema and migrations
+│   ├── schema.prisma     # Database schema
+│   └── seed.ts           # Seed data
+├── public/                # Static assets
+└── package.json           # Project dependencies
+```
 
-## Learn More
+## 🔧 Available Scripts
 
-To learn more about Next.js, take a look at the following resources:
+| Script | Description |
+|--------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build for production |
+| `npm run start` | Start production server |
+| `npm run lint` | Run ESLint |
+| `npm run seed` | Seed the database |
+| `npx prisma studio` | Open Prisma database GUI |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧩 Adding New Resources
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To add new design resources to the database, you can either:
 
-## Deploy on Vercel
+### Option 1: Use Prisma Studio
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npx prisma studio
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This opens a GUI where you can add categories and links manually.
+
+### Option 2: Create a Seed Script
+
+Modify `prisma/seed.ts` to add your resources, then run:
+
+```bash
+npm run seed
+```
+
+## 🌐 Deployment
+
+### Vercel (Recommended)
+
+1. Push your code to GitHub
+2. Import the project on [Vercel](https://vercel.com)
+3. Add your `DATABASE_URL` environment variable
+4. Deploy
+
+### Self-Hosted
+
+Build for production:
+
+```bash
+npm run build
+npm run start
+```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [contributing guidelines](./contributing.md) before submitting a pull request.
+
+### Guidelines
+
+- Add one resource per pull request for easier review
+- Include resource name and category in the PR title
+- Verify the resource is free to use
+- Check if the resource already exists before adding
+
+## 🙏 Acknowledgments
+
+- [Brad Traversy](https://github.com/bradtraversy) for the initial project concept
+- [Vercel](https://vercel.com) for the hosting platform
+- All the amazing design resource creators

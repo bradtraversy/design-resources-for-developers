@@ -7,10 +7,12 @@ import {
   getCategoryWithLinksCountAction,
 } from '../actions';
 import { CategoryNav } from '@/components/category-nav';
+import { ViewToggle } from '@/components/view-toggle';
 import { LinkCard } from '@/components/link-card';
 import { SearchInput } from '@/components/search-input';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
 import { getCategoriesAction } from '../actions';
+import { cn } from '@/lib/utils';
 import {
   Pagination,
   PaginationContent,
@@ -21,12 +23,15 @@ import {
   PaginationPrevious,
 } from '@/components/ui/pagination';
 
+type ViewMode = 'grid' | 'list';
+
 interface CategoryPageProps {
   params: Promise<{
     slug: string;
   }>;
   searchParams: Promise<{
     page?: string;
+    view?: string;
   }>;
 }
 
@@ -57,7 +62,15 @@ async function CategoriesNav() {
   return <CategoryNav categories={categories} />;
 }
 
-async function CategoryContent({ slug, page }: { slug: string; page: number }) {
+async function CategoryContent({
+  slug,
+  page,
+  view,
+}: {
+  slug: string;
+  page: number;
+  view: ViewMode;
+}) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
   const category = await getCategoryWithLinksAction(slug, {
     limit: ITEMS_PER_PAGE,
@@ -88,10 +101,22 @@ async function CategoryContent({ slug, page }: { slug: string; page: number }) {
         <SearchInput placeholder={`Search in ${category.name}...`} />
       </div>
 
+      {/* View Toggle */}
+      <div className='flex justify-end mb-4'>
+        <ViewToggle />
+      </div>
+
       {/* Links Grid */}
-      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 stagger-children'>
+      <div
+        className={cn(
+          'stagger-children',
+          view === 'list'
+            ? 'flex flex-col gap-2'
+            : 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4',
+        )}
+      >
         {category.links.map((link, index) => (
-          <LinkCard key={link.id} link={link} index={index} />
+          <LinkCard key={link.id} link={link} index={index} view={view} />
         ))}
       </div>
 
@@ -194,9 +219,10 @@ export default async function CategoryPage({
   searchParams,
 }: CategoryPageProps) {
   const { slug } = await params;
-  const { page } = await searchParams;
+  const { page, view } = await searchParams;
   const currentPage = page ? parseInt(page, 10) : 1;
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
+  const currentView = (view as ViewMode) || 'grid';
 
   return (
     <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
@@ -219,7 +245,7 @@ export default async function CategoryPage({
 
         {/* Category Content */}
         <Suspense fallback={<LoadingState />}>
-          <CategoryContent slug={slug} page={validPage} />
+          <CategoryContent slug={slug} page={validPage} view={currentView} />
         </Suspense>
       </main>
 

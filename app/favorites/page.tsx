@@ -1,13 +1,14 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Heart, Trash2, ArrowRight } from 'lucide-react';
+import { Heart, Trash2, ArrowRight, LayoutGrid, List } from 'lucide-react';
 import Link from 'next/link';
 import { LinkCard } from '@/components/link-card';
 import { Button } from '@/components/ui/button';
 import { useFavorites } from '@/lib/hooks/use-favorites';
 import { getAllCategoriesWithLinksAction } from '@/app/actions';
 import type { Link as LinkType, CategoryWithLinks } from '@/lib/types';
+import { cn } from '@/lib/utils';
 
 const FAVORITES_STORAGE_KEY = 'design-resources-favorites';
 
@@ -26,10 +27,13 @@ function getStoredFavorites(): StoredFavorite[] {
   }
 }
 
+type ViewMode = 'grid' | 'list';
+
 export default function FavoritesPage() {
   const [, setFavoriteIds] = useState<Set<string>>(new Set());
   const [favoriteLinks, setFavoriteLinks] = useState<LinkType[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [viewMode, setViewMode] = useState<ViewMode>('grid');
   const { clearAllFavorites } = useFavorites();
 
   useEffect(() => {
@@ -124,20 +128,63 @@ export default function FavoritesPage() {
           </div>
 
           {favoriteLinks.length > 0 && (
-            <div className='flex items-center gap-4'>
+            <div className='flex items-center justify-between gap-4 flex-wrap'>
               <span className='text-sm text-slate-500 dark:text-slate-400'>
                 {favoriteLinks.length}{' '}
                 {favoriteLinks.length === 1 ? 'resource' : 'resources'} saved
               </span>
-              <Button
-                variant='outline'
-                size='sm'
-                onClick={handleClearAll}
-                className='text-red-500 border-red-200 dark:border-red-800 hover:bg-red-50 dark:hover:bg-red-950'
-              >
-                <Trash2 className='w-4 h-4 mr-2' />
-                Clear all
-              </Button>
+              <div className='flex items-center gap-2'>
+                {/* View Toggle */}
+                <div
+                  className={cn(
+                    'flex items-center gap-1 p-1 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700',
+                  )}
+                  role='group'
+                  aria-label='View toggle'
+                >
+                  <Button
+                    variant='ghost'
+                    size='sm'
+                    onClick={() => setViewMode('grid')}
+                    className={cn(
+                      'gap-1.5 px-3 h-8',
+                      viewMode === 'grid'
+                        ? 'bg-white dark:bg-slate-700 shadow-sm'
+                        : 'hover:bg-slate-200 dark:hover:bg-slate-700',
+                    )}
+                    aria-pressed={viewMode === 'grid'}
+                    aria-label='Grid view'
+                  >
+                    <LayoutGrid className='w-4 h-4' />
+                    <span className='hidden sm:inline text-sm'>Grid</span>
+                  </Button>
+                  <Button
+                    variant='ghost'
+                    size='sm'
+                    onClick={() => setViewMode('list')}
+                    className={cn(
+                      'gap-1.5 px-3 h-8',
+                      viewMode === 'list'
+                        ? 'bg-white dark:bg-slate-700 shadow-sm'
+                        : 'hover:bg-slate-200 dark:hover:bg-slate-700',
+                    )}
+                    aria-pressed={viewMode === 'list'}
+                    aria-label='List view'
+                  >
+                    <List className='w-4 h-4' />
+                    <span className='hidden sm:inline text-sm'>List</span>
+                  </Button>
+                </div>
+                <Button
+                  variant='outline'
+                  size='sm'
+                  onClick={handleClearAll}
+                  className='text-red-500 border-red-200 dark:border-red-800 hover:bg-red-50 dark:hover:bg-red-950'
+                >
+                  <Trash2 className='w-4 h-4 mr-2' />
+                  Clear all
+                </Button>
+              </div>
             </div>
           )}
         </header>
@@ -164,9 +211,21 @@ export default function FavoritesPage() {
             </Link>
           </div>
         ) : (
-          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 stagger-children'>
+          <div
+            className={cn(
+              'stagger-children',
+              viewMode === 'list'
+                ? 'flex flex-col gap-2'
+                : 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4',
+            )}
+          >
             {favoriteLinks.map((link, index) => (
-              <LinkCard key={link.id} link={link} index={index} />
+              <LinkCard
+                key={link.id}
+                link={link}
+                index={index}
+                view={viewMode}
+              />
             ))}
           </div>
         )}

@@ -107,13 +107,11 @@ async function CategoryContent({ slug, page }: { slug: string; page: number }) {
       {totalPages > 1 && (
         <Pagination className='mt-8'>
           <PaginationContent>
-            <PaginationItem>
-              <PaginationPrevious
-                href={`/${slug}${page > 1 ? `?page=${page - 1}` : ''}`}
-                aria-disabled={page <= 1}
-                className={page <= 1 ? 'pointer-events-none opacity-50' : ''}
-              />
-            </PaginationItem>
+            {page > 1 && (
+              <PaginationItem>
+                <PaginationPrevious href={`/${slug}?page=${page - 1}`} />
+              </PaginationItem>
+            )}
 
             {/* First page */}
             <PaginationItem>
@@ -175,15 +173,11 @@ async function CategoryContent({ slug, page }: { slug: string; page: number }) {
               </PaginationItem>
             )}
 
-            <PaginationItem>
-              <PaginationNext
-                href={`/${slug}${page < totalPages ? `?page=${page + 1}` : ''}`}
-                aria-disabled={page >= totalPages}
-                className={
-                  page >= totalPages ? 'pointer-events-none opacity-50' : ''
-                }
-              />
-            </PaginationItem>
+            {page < totalPages && (
+              <PaginationItem>
+                <PaginationNext href={`/${slug}?page=${page + 1}`} />
+              </PaginationItem>
+            )}
           </PaginationContent>
         </Pagination>
       )}

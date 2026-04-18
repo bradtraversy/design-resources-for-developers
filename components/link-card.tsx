@@ -1,9 +1,9 @@
 'use client';
 
 import { useState } from 'react';
-import Link from 'next/link';
 import { ExternalLink, Copy, Check } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 import { cn } from '@/lib/utils';
 import type { Link as LinkType } from '@/lib/types';
 
@@ -14,7 +14,6 @@ interface LinkCardProps {
 
 export function LinkCard({ link, index = 0 }: LinkCardProps) {
   const [copied, setCopied] = useState(false);
-  const [isHovered, setIsHovered] = useState(false);
 
   const handleCopy = async () => {
     try {
@@ -26,10 +25,14 @@ export function LinkCard({ link, index = 0 }: LinkCardProps) {
     }
   };
 
+  const handleCardClick = () => {
+    window.open(link.url, '_blank', 'noopener,noreferrer');
+  };
+
   return (
     <Card
       className={cn(
-        'group relative overflow-hidden transition-all duration-300',
+        'relative overflow-hidden transition-all duration-300',
         'hover:shadow-lg hover:-translate-y-1',
         'border-slate-200 dark:border-slate-800',
         'hover:border-slate-300 dark:hover:border-slate-700',
@@ -38,27 +41,27 @@ export function LinkCard({ link, index = 0 }: LinkCardProps) {
       style={{
         animationDelay: `${index * 50}ms`,
       }}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
+      onClick={handleCardClick}
     >
-      <Link
-        href={link.url}
-        target='_blank'
-        rel='noopener noreferrer'
-        className='absolute inset-0 z-10'
-        aria-label={`Visit ${link.title}`}
-      />
       <CardContent className='p-4'>
         <div className='flex items-start justify-between gap-3'>
           <div className='flex-1 min-w-0'>
-            <h3 className='font-semibold text-slate-900 dark:text-slate-100 truncate transition-colors group-hover:text-blue-600 dark:group-hover:text-blue-400'>
+            <h3 className='font-semibold text-slate-900 dark:text-slate-100 truncate transition-colors hover:text-blue-600 dark:hover:text-blue-400'>
               {link.title}
             </h3>
-            {link.description && (
-              <p className='mt-1 text-sm text-slate-500 dark:text-slate-400 line-clamp-2'>
+            <div className='relative mt-1 group/desc'>
+              <p className='text-sm text-slate-500 dark:text-slate-400 line-clamp-2 group-hover/desc:opacity-0 transition-opacity duration-150'>
                 {link.description}
               </p>
-            )}
+              <div className='absolute top-0 left-0 opacity-0 group-hover/desc:opacity-100 transition-opacity duration-150'>
+                <Badge
+                  variant='secondary'
+                  className='whitespace-normal text-left font-normal text-sm'
+                >
+                  {link.description}
+                </Badge>
+              </div>
+            </div>
             <p className='mt-2 text-xs text-slate-400 dark:text-slate-500 truncate'>
               {link.url.replace(/^https?:\/\//, '').replace(/\/$/, '')}
             </p>
@@ -66,7 +69,10 @@ export function LinkCard({ link, index = 0 }: LinkCardProps) {
 
           <div className='flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity'>
             <button
-              onClick={handleCopy}
+              onClick={e => {
+                e.stopPropagation();
+                handleCopy();
+              }}
               className='p-2 rounded-lg bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors'
               aria-label={copied ? 'Copied!' : 'Copy link'}
             >
@@ -77,10 +83,7 @@ export function LinkCard({ link, index = 0 }: LinkCardProps) {
               )}
             </button>
             <span
-              className={cn(
-                'p-2 rounded-lg bg-slate-100 dark:bg-slate-800 transition-transform',
-                isHovered && 'translate-x-1',
-              )}
+              className={cn('p-2 rounded-lg bg-slate-100 dark:bg-slate-800')}
             >
               <ExternalLink className='w-4 h-4 text-slate-500' />
             </span>

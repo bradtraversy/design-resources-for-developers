@@ -51,11 +51,16 @@ export async function getCategoryById(id: string): Promise<Category | null> {
 
 export async function getCategoryWithLinks(
   slug: string,
+  options?: { limit?: number; skip?: number },
 ): Promise<CategoryWithLinks | null> {
+  const { limit, skip } = options || {};
   const category = await prisma.category.findUnique({
     where: { slug },
     include: {
-      links: true,
+      links: {
+        take: limit,
+        skip,
+      },
     },
   });
   if (!category) return null;
@@ -72,13 +77,26 @@ export async function getCategoryWithLinks(
   };
 }
 
-export async function getAllCategoriesWithLinks(): Promise<
-  CategoryWithLinks[]
-> {
+export async function getCategoryWithLinksCount(slug: string): Promise<number> {
+  const category = await prisma.category.findUnique({
+    where: { slug },
+    select: { _count: { select: { links: true } } },
+  });
+  return category?._count?.links ?? 0;
+}
+
+export async function getAllCategoriesWithLinks(options?: {
+  limit?: number;
+  skip?: number;
+}): Promise<CategoryWithLinks[]> {
+  const { limit, skip } = options || {};
   const categories = await prisma.category.findMany({
     orderBy: { order: 'asc' },
     include: {
-      links: true,
+      links: {
+        take: limit,
+        skip,
+      },
     },
   });
   return categories.map(c => ({
@@ -92,6 +110,16 @@ export async function getAllCategoriesWithLinks(): Promise<
       icon: nullToUndefined(l.icon),
     })),
   }));
+}
+
+export async function getAllCategoriesWithLinksCount(): Promise<number> {
+  const count = await prisma.category.count();
+  return count;
+}
+
+export async function getAllLinksCount(): Promise<number> {
+  const count = await prisma.link.count();
+  return count;
 }
 
 export async function createCategory(data: {

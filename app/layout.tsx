@@ -35,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang='en' suppressHydrationWarning>
       <body className={inter.className}>
-        <TooltipProvider delayDuration={300} skipDelayDuration={100}>
+        <TooltipProvider delayDuration={100} skipDelayDuration={50}>
           <Header />
           {children}
         </TooltipProvider>

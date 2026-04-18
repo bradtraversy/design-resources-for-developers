@@ -6,6 +6,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **Favorites/Bookmarks** - Save your favorite resources to local storage for quick access
 - **Global Search** - Search across all categories from anywhere via the header search bar
 - **Curated Categories** - Browse resources organized by type (UI Graphics, CSS Frameworks, Icons, Typography, etc.)
 - **Click Tracking** - Track resource popularity with click counts
@@ -96,7 +97,18 @@ The application features a global search bar in the header that allows you to se
 
 The search looks through resource titles and descriptions, providing instant access to relevant design resources.
 
-## � Project Structure
+## ❤️ Favorites
+
+You can save your favorite design resources for quick access later. Here's how to use this feature:
+
+- **Add to Favorites**: Click the heart icon on any resource card to save it
+- **View Favorites**: Click the heart icon in the header navigation to see all your saved resources
+- **Remove from Favorites**: Click the heart icon again on a favorited resource to remove it
+- **Clear All**: Use the "Clear all" button on the favorites page to remove all saved resources
+
+Your favorites are stored locally in your browser, so they'll persist across sessions. Note that favorites are stored by resource ID, so if a resource is removed from the database, it may no longer appear in your favorites.
+
+## Project Structure
 
 ```
 ├── app/                    # Next.js App Router pages
@@ -105,12 +117,15 @@ The search looks through resource titles and descriptions, providing instant acc
 │   ├── layout.tsx         # Root layout
 │   ├── search/            # Global search results page
 │   │   └── page.tsx
-│   └── [slug]/            # Dynamic category pages
+│   ├── [slug]/            # Dynamic category pages
+│   │   └── page.tsx
+│   └── favorites/         # Favorites page
 │       └── page.tsx
 ├── components/            # React components
 │   ├── header.tsx        # Site header with global search
 │   ├── category-nav.tsx  # Category navigation
 │   ├── link-card.tsx     # Link display card
+│   ├── favorites-button.tsx # Favorites navigation button
 │   ├── search-input.tsx  # Search component
 │   ├── skeletons.tsx     # Loading skeletons
 │   └── ui/               # UI components (Button, Card, etc.)
@@ -119,7 +134,9 @@ The search looks through resource titles and descriptions, providing instant acc
 │   ├── db.ts             # Prisma client
 │   ├── schemas.ts        # Zod validation schemas
 │   ├── types.ts          # TypeScript types
-│   └── utils.ts          # Helper functions
+│   ├── utils.ts          # Helper functions
+│   └── hooks/            # Custom React hooks
+│       └── use-favorites.ts # Favorites local storage hook
 ├── prisma/                # Database schema and migrations
 │   ├── schema.prisma     # Database schema
 │   └── seed.ts           # Seed data

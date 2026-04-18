@@ -7,6 +7,7 @@ import { Search, X } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import { FavoritesButton } from '@/components/favorites-button';
 
 interface HeaderProps {
   className?: string;
@@ -97,9 +98,14 @@ export function Header({ className }: HeaderProps) {
             </Button>
           </form>
 
-          {/* Mobile Menu Button */}
-          <div className='flex items-center gap-2'>
-            {/* Mobile Search Button (opens search panel) */}
+          {/* Right Side Actions */}
+          <div className='flex items-center gap-1'>
+            {/* Desktop Favorites Button */}
+            <div className='hidden md:block'>
+              <FavoritesButton />
+            </div>
+
+            {/* Mobile Menu Button */}
             <Button
               variant='ghost'
               size='icon'
@@ -109,6 +115,11 @@ export function Header({ className }: HeaderProps) {
             >
               <Search className='w-5 h-5' />
             </Button>
+
+            {/* Mobile Favorites Button */}
+            <div className='md:hidden'>
+              <FavoritesButton />
+            </div>
           </div>
         </div>
 

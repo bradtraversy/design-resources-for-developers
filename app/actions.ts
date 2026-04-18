@@ -11,7 +11,10 @@ import {
   getCategories,
   getCategoryBySlug,
   getCategoryWithLinks,
+  getCategoryWithLinksCount,
   getAllCategoriesWithLinks,
+  getAllCategoriesWithLinksCount,
+  getAllLinksCount,
   createCategory as createCategoryData,
   updateCategory as updateCategoryData,
   deleteCategory as deleteCategoryData,
@@ -32,12 +35,30 @@ export async function getCategoryBySlugAction(slug: string) {
   return getCategoryBySlug(slug);
 }
 
-export async function getCategoryWithLinksAction(slug: string) {
-  return getCategoryWithLinks(slug);
+export async function getCategoryWithLinksAction(
+  slug: string,
+  options?: { limit?: number; skip?: number },
+) {
+  return getCategoryWithLinks(slug, options);
 }
 
-export async function getAllCategoriesWithLinksAction() {
-  return getAllCategoriesWithLinks();
+export async function getCategoryWithLinksCountAction(slug: string) {
+  return getCategoryWithLinksCount(slug);
+}
+
+export async function getAllCategoriesWithLinksAction(options?: {
+  limit?: number;
+  skip?: number;
+}) {
+  return getAllCategoriesWithLinks(options);
+}
+
+export async function getAllCategoriesWithLinksCountAction() {
+  return getAllCategoriesWithLinksCount();
+}
+
+export async function getAllLinksCountAction() {
+  return getAllLinksCount();
 }
 
 export async function createCategory(formData: FormData) {

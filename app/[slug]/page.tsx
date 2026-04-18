@@ -4,18 +4,33 @@ import { notFound } from 'next/navigation';
 import {
   getCategoryBySlugAction,
   getCategoryWithLinksAction,
+  getCategoryWithLinksCountAction,
 } from '../actions';
 import { CategoryNav } from '@/components/category-nav';
 import { LinkCard } from '@/components/link-card';
 import { SearchInput } from '@/components/search-input';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
 import { getCategoriesAction } from '../actions';
+import {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious,
+} from '@/components/ui/pagination';
 
 interface CategoryPageProps {
   params: Promise<{
     slug: string;
   }>;
+  searchParams: Promise<{
+    page?: string;
+  }>;
 }
+
+const ITEMS_PER_PAGE = 9;
 
 export async function generateMetadata({
   params,
@@ -42,8 +57,14 @@ async function CategoriesNav() {
   return <CategoryNav categories={categories} />;
 }
 
-async function CategoryContent({ slug }: { slug: string }) {
-  const category = await getCategoryWithLinksAction(slug);
+async function CategoryContent({ slug, page }: { slug: string; page: number }) {
+  const skip = (page - 1) * ITEMS_PER_PAGE;
+  const category = await getCategoryWithLinksAction(slug, {
+    limit: ITEMS_PER_PAGE,
+    skip,
+  });
+  const totalLinks = await getCategoryWithLinksCountAction(slug);
+  const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
 
   if (!category) {
     notFound();
@@ -81,6 +102,91 @@ async function CategoryContent({ slug }: { slug: string }) {
           </p>
         </div>
       )}
+
+      {/* Pagination */}
+      {totalPages > 1 && (
+        <Pagination className='mt-8'>
+          <PaginationContent>
+            <PaginationItem>
+              <PaginationPrevious
+                href={`/${slug}${page > 1 ? `?page=${page - 1}` : ''}`}
+                aria-disabled={page <= 1}
+                className={page <= 1 ? 'pointer-events-none opacity-50' : ''}
+              />
+            </PaginationItem>
+
+            {/* First page */}
+            <PaginationItem>
+              <PaginationLink href={`/${slug}?page=1`} isActive={page === 1}>
+                1
+              </PaginationLink>
+            </PaginationItem>
+
+            {/* Ellipsis if needed */}
+            {page > 3 && (
+              <PaginationItem>
+                <PaginationEllipsis />
+              </PaginationItem>
+            )}
+
+            {/* Previous page */}
+            {page > 2 && (
+              <PaginationItem>
+                <PaginationLink href={`/${slug}?page=${page - 1}`}>
+                  {page - 1}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            {/* Current page */}
+            {page !== 1 && page !== totalPages && (
+              <PaginationItem>
+                <PaginationLink href={`/${slug}?page=${page}`} isActive>
+                  {page}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            {/* Next page */}
+            {page < totalPages - 1 && (
+              <PaginationItem>
+                <PaginationLink href={`/${slug}?page=${page + 1}`}>
+                  {page + 1}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            {/* Ellipsis if needed */}
+            {page < totalPages - 2 && (
+              <PaginationItem>
+                <PaginationEllipsis />
+              </PaginationItem>
+            )}
+
+            {/* Last page */}
+            {totalPages > 1 && (
+              <PaginationItem>
+                <PaginationLink
+                  href={`/${slug}?page=${totalPages}`}
+                  isActive={page === totalPages}
+                >
+                  {totalPages}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            <PaginationItem>
+              <PaginationNext
+                href={`/${slug}${page < totalPages ? `?page=${page + 1}` : ''}`}
+                aria-disabled={page >= totalPages}
+                className={
+                  page >= totalPages ? 'pointer-events-none opacity-50' : ''
+                }
+              />
+            </PaginationItem>
+          </PaginationContent>
+        </Pagination>
+      )}
     </div>
   );
 }
@@ -89,8 +195,14 @@ async function LoadingState() {
   return <LinkGridSkeleton count={6} />;
 }
 
-export default async function CategoryPage({ params }: CategoryPageProps) {
+export default async function CategoryPage({
+  params,
+  searchParams,
+}: CategoryPageProps) {
   const { slug } = await params;
+  const { page } = await searchParams;
+  const currentPage = page ? parseInt(page, 10) : 1;
+  const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
 
   return (
     <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
@@ -113,7 +225,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
         {/* Category Content */}
         <Suspense fallback={<LoadingState />}>
-          <CategoryContent slug={slug} />
+          <CategoryContent slug={slug} page={validPage} />
         </Suspense>
       </main>
 

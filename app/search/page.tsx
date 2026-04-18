@@ -6,12 +6,24 @@ import { LinkCard } from '@/components/link-card';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
 import { CategoryNav } from '@/components/category-nav';
 import type { Link as LinkType } from '@/lib/types';
+import {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious,
+} from '@/components/ui/pagination';
 
 interface SearchPageProps {
   searchParams: Promise<{
     q?: string;
+    page?: string;
   }>;
 }
+
+const ITEMS_PER_PAGE = 9;
 
 export async function generateMetadata({
   searchParams,
@@ -29,7 +41,8 @@ async function CategoriesNav() {
   return <CategoryNav categories={categories} />;
 }
 
-async function SearchResults({ query }: { query: string }) {
+async function SearchResults({ query, page }: { query: string; page: number }) {
+  const skip = (page - 1) * ITEMS_PER_PAGE;
   const [result, categories] = await Promise.all([
     searchLinksAction(query),
     getCategoriesAction(),
@@ -45,9 +58,12 @@ async function SearchResults({ query }: { query: string }) {
     );
   }
 
-  const links = result.data;
+  const allLinks = result.data;
+  const totalLinks = allLinks?.length ?? 0;
+  const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
+  const paginatedLinks = allLinks?.slice(skip, skip + ITEMS_PER_PAGE) ?? [];
 
-  if (!links || links.length === 0) {
+  if (!paginatedLinks || paginatedLinks.length === 0) {
     return (
       <div className='text-center py-12'>
         <p className='text-slate-500 dark:text-slate-400'>
@@ -64,7 +80,7 @@ async function SearchResults({ query }: { query: string }) {
   }, {} as Record<string, string>);
 
   // Group links by category for better organization
-  const linksByCategory = links.reduce((acc, link) => {
+  const linksByCategory = paginatedLinks.reduce((acc, link) => {
     if (!acc[link.categoryId]) {
       acc[link.categoryId] = {
         categoryId: link.categoryId,
@@ -83,8 +99,8 @@ async function SearchResults({ query }: { query: string }) {
           Search Results
         </h1>
         <p className='mt-2 text-slate-500 dark:text-slate-400'>
-          Found {links.length} result{links.length !== 1 ? 's' : ''} for &quot;
-          {query}&quot;
+          Found {totalLinks} result{totalLinks !== 1 ? 's' : ''} for &quot;
+          {query}&quot; — Page {page} of {totalPages}
         </p>
       </div>
 
@@ -102,6 +118,101 @@ async function SearchResults({ query }: { query: string }) {
           </section>
         ),
       )}
+
+      {/* Pagination */}
+      {totalPages > 1 && (
+        <Pagination className='mt-8'>
+          <PaginationContent>
+            <PaginationItem>
+              <PaginationPrevious
+                href={`/search?q=${query}${
+                  page > 1 ? `&page=${page - 1}` : ''
+                }`}
+                aria-disabled={page <= 1}
+                className={page <= 1 ? 'pointer-events-none opacity-50' : ''}
+              />
+            </PaginationItem>
+
+            {/* First page */}
+            <PaginationItem>
+              <PaginationLink
+                href={`/search?q=${query}&page=1`}
+                isActive={page === 1}
+              >
+                1
+              </PaginationLink>
+            </PaginationItem>
+
+            {/* Ellipsis if needed */}
+            {page > 3 && (
+              <PaginationItem>
+                <PaginationEllipsis />
+              </PaginationItem>
+            )}
+
+            {/* Previous page */}
+            {page > 2 && (
+              <PaginationItem>
+                <PaginationLink href={`/search?q=${query}&page=${page - 1}`}>
+                  {page - 1}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            {/* Current page */}
+            {page !== 1 && page !== totalPages && (
+              <PaginationItem>
+                <PaginationLink
+                  href={`/search?q=${query}&page=${page}`}
+                  isActive
+                >
+                  {page}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            {/* Next page */}
+            {page < totalPages - 1 && (
+              <PaginationItem>
+                <PaginationLink href={`/search?q=${query}&page=${page + 1}`}>
+                  {page + 1}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            {/* Ellipsis if needed */}
+            {page < totalPages - 2 && (
+              <PaginationItem>
+                <PaginationEllipsis />
+              </PaginationItem>
+            )}
+
+            {/* Last page */}
+            {totalPages > 1 && (
+              <PaginationItem>
+                <PaginationLink
+                  href={`/search?q=${query}&page=${totalPages}`}
+                  isActive={page === totalPages}
+                >
+                  {totalPages}
+                </PaginationLink>
+              </PaginationItem>
+            )}
+
+            <PaginationItem>
+              <PaginationNext
+                href={`/search?q=${query}${
+                  page < totalPages ? `&page=${page + 1}` : ''
+                }`}
+                aria-disabled={page >= totalPages}
+                className={
+                  page >= totalPages ? 'pointer-events-none opacity-50' : ''
+                }
+              />
+            </PaginationItem>
+          </PaginationContent>
+        </Pagination>
+      )}
     </div>
   );
 }
@@ -111,8 +222,10 @@ function LoadingState() {
 }
 
 export default async function SearchPage({ searchParams }: SearchPageProps) {
-  const { q } = await searchParams;
+  const { q, page } = await searchParams;
   const query = q?.trim();
+  const currentPage = page ? parseInt(page, 10) : 1;
+  const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
 
   if (!query) {
     notFound();
@@ -139,7 +252,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
 
         {/* Search Results */}
         <Suspense fallback={<LoadingState />}>
-          <SearchResults query={query} />
+          <SearchResults query={query} page={validPage} />
         </Suspense>
       </main>
 

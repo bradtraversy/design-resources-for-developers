@@ -20,8 +20,6 @@ export function CategoryNav({ categories }: CategoryNavProps) {
     >
       {categories.map((category, index) => {
         const isActive = pathname.includes(category.slug);
-        const categoryPath =
-          category.slug === 'ui-graphics' ? '/' : `/${category.slug}`;
         const href =
           category.slug === 'ui-graphics' ? '/' : `/${category.slug}`;
 

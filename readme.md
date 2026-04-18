@@ -6,6 +6,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **Autocomplete Suggestions** - Show search suggestions as users type with keyboard navigation
 - **View Toggle** - Switch between Grid view and List view for browsing resources
 - **Quick Preview Modal** - Preview resource details in a modal without leaving the site
 - **Favorites/Bookmarks** - Save your favorite resources to local storage for quick access
@@ -88,14 +89,25 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🔍 Global Search
+## 🔍 Global Search with Autocomplete
 
-The application features a global search bar in the header that allows you to search across all categories and resources from any page:
+The application features an intelligent search bar in the header that provides autocomplete suggestions as you type:
+
+### How Autocomplete Works
+
+- **Suggestions**: As you type (minimum 2 characters), the search shows matching resources
+- **Quick Access**: Click any suggestion to go directly to that category
+- **Keyboard Navigation**: Use arrow keys (↑/↓) to navigate suggestions, Enter to select, Escape to close
+- **Tab Completion**: Press Tab to autocomplete with the highlighted suggestion
+- **Mobile Support**: Tap outside the dropdown to close, suggestions work on touch devices
+
+### Search Features
 
 - Type your query in the search bar (desktop or mobile)
-- Press Enter or click the Search button
+- Press Enter or click the Search button for full results
 - View results organized by category on the search results page
 - Clear your search with the X button to return home
+- Loading indicator shows while fetching suggestions
 
 The search looks through resource titles and descriptions, providing instant access to relevant design resources.
 

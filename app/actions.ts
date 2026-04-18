@@ -199,3 +199,21 @@ export async function searchLinksAction(query: string) {
 export async function trackLinkClick(linkId: string) {
   await incrementLinkClicks(linkId);
 }
+
+// Autocomplete Suggestions
+export async function getAutocompleteSuggestionsAction(query: string) {
+  try {
+    if (!query || query.trim().length < 2) {
+      return { success: true, data: [] };
+    }
+    const suggestions = await searchLinks(query.trim());
+    // Limit to 8 suggestions for autocomplete
+    const limitedSuggestions = suggestions.slice(0, 8);
+    return { success: true, data: limitedSuggestions };
+  } catch (error) {
+    if (error instanceof Error) {
+      return { success: false, error: error.message };
+    }
+    return { success: false, error: 'Failed to get suggestions' };
+  }
+}

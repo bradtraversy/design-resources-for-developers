@@ -38,6 +38,13 @@ export async function generateMetadata({
   return {
     title: `Search results for "${query}" - Design Resources`,
     description: `Search results for "${query}" among curated design resources`,
+    alternates: {
+      canonical: query
+        ? `https://design-resources-for-developers-tau.vercel.app/search?q=${encodeURIComponent(
+            query,
+          )}`
+        : 'https://design-resources-for-developers-tau.vercel.app/search',
+    },
   };
 }
 

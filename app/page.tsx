@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   title: 'Design Resources for Developers',
   description:
     'Discover the best design resources for your web and mobile projects',
+  alternates: {
+    canonical: 'https://design-resources-for-developers-tau.vercel.app/',
+  },
 };
 
 async function CategoriesNav() {

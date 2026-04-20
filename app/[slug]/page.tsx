@@ -12,6 +12,7 @@ import { LinkCard } from '@/components/link-card';
 import { SearchInput } from '@/components/search-input';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
 import { getCategoriesAction } from '../actions';
+import { BreadcrumbJsonLd } from '@/components/json-ld';
 import { cn } from '@/lib/utils';
 import {
   Pagination,
@@ -54,6 +55,9 @@ export async function generateMetadata({
     description:
       category.description ||
       `Browse ${category.name} design resources for developers`,
+    alternates: {
+      canonical: `https://design-resources-for-developers-tau.vercel.app/${slug}`,
+    },
   };
 }
 
@@ -223,45 +227,62 @@ export default async function CategoryPage({
   const currentPage = page ? parseInt(page, 10) : 1;
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
   const currentView = (view as ViewMode) || 'grid';
+  const category = await getCategoryBySlugAction(slug);
 
   return (
-    <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
-      {/* Background pattern */}
-      <div
-        className='fixed inset-0 -z-10 opacity-30 dark:opacity-10'
-        style={{
-          backgroundImage: `radial-gradient(circle at 1px 1px, rgb(148 163 184) 1px, transparent 0)`,
-          backgroundSize: '40px 40px',
-        }}
-      />
+    <>
+      {category && (
+        <BreadcrumbJsonLd
+          items={[
+            {
+              name: 'Home',
+              url: 'https://design-resources-for-developers-tau.vercel.app/',
+            },
+            {
+              name: category.name,
+              url: `https://design-resources-for-developers-tau.vercel.app/${slug}`,
+            },
+          ]}
+        />
+      )}
+      <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
+        {/* Background pattern */}
+        <div
+          className='fixed inset-0 -z-10 opacity-30 dark:opacity-10'
+          style={{
+            backgroundImage: `radial-gradient(circle at 1px 1px, rgb(148 163 184) 1px, transparent 0)`,
+            backgroundSize: '40px 40px',
+          }}
+        />
 
-      <main className='container mx-auto px-4 py-8 md:py-12 lg:py-16 max-w-7xl'>
-        {/* Category Navigation */}
-        <div className='mb-12'>
-          <Suspense fallback={<NavSkeleton />}>
-            <CategoriesNav />
-          </Suspense>
-        </div>
-
-        {/* Category Content */}
-        <Suspense fallback={<LoadingState />}>
-          <CategoryContent slug={slug} page={validPage} view={currentView} />
-        </Suspense>
-      </main>
-
-      {/* Footer */}
-      <footer className='border-t border-slate-200 dark:border-slate-800 mt-16'>
-        <div className='container mx-auto px-4 py-8 max-w-7xl'>
-          <div className='flex flex-col md:flex-row items-center justify-between gap-4'>
-            <p className='text-sm text-slate-500 dark:text-slate-400'>
-              © {new Date().getFullYear()} Design Resources for Developers
-            </p>
-            <p className='text-sm text-slate-400 dark:text-slate-500'>
-              Curated with ❤️ for the developer community
-            </p>
+        <main className='container mx-auto px-4 py-8 md:py-12 lg:py-16 max-w-7xl'>
+          {/* Category Navigation */}
+          <div className='mb-12'>
+            <Suspense fallback={<NavSkeleton />}>
+              <CategoriesNav />
+            </Suspense>
           </div>
-        </div>
-      </footer>
-    </div>
+
+          {/* Category Content */}
+          <Suspense fallback={<LoadingState />}>
+            <CategoryContent slug={slug} page={validPage} view={currentView} />
+          </Suspense>
+        </main>
+
+        {/* Footer */}
+        <footer className='border-t border-slate-200 dark:border-slate-800 mt-16'>
+          <div className='container mx-auto px-4 py-8 max-w-7xl'>
+            <div className='flex flex-col md:flex-row items-center justify-between gap-4'>
+              <p className='text-sm text-slate-500 dark:text-slate-400'>
+                © {new Date().getFullYear()} Design Resources for Developers
+              </p>
+              <p className='text-sm text-slate-400 dark:text-slate-500'>
+                Curated with ❤️ for the developer community
+              </p>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </>
   );
 }

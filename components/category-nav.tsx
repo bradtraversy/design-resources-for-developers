@@ -19,9 +19,8 @@ export function CategoryNav({ categories }: CategoryNavProps) {
       aria-label='Category navigation'
     >
       {categories.map((category, index) => {
-        const isActive = pathname.includes(category.slug);
-        const href =
-          category.slug === 'ui-graphics' ? '/' : `/${category.slug}`;
+        const href = `/${category.slug}`;
+        const isActive = pathname === href || pathname === `${href}/`;
 
         return (
           <Link

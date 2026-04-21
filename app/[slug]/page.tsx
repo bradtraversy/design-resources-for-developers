@@ -98,6 +98,12 @@ async function CategoryContent({
             {category.description}
           </p>
         )}
+        <p className='text-sm text-slate-500 dark:text-slate-400'>
+          <strong className='text-slate-700 dark:text-slate-300'>
+            {totalLinks}
+          </strong>{' '}
+          {totalLinks === 1 ? 'resource' : 'resources'} in this category
+        </p>
       </header>
 
       {/* Search */}

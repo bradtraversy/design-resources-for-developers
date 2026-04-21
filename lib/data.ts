@@ -122,6 +122,23 @@ export async function getAllLinksCount(): Promise<number> {
   return count;
 }
 
+export async function getAllLinksPaginated(options?: {
+  limit?: number;
+  skip?: number;
+}): Promise<Link[]> {
+  const { limit, skip } = options || {};
+  const links = await prisma.link.findMany({
+    take: limit,
+    skip,
+    orderBy: { createdAt: 'desc' },
+  });
+  return links.map(l => ({
+    ...l,
+    description: nullToUndefined(l.description),
+    icon: nullToUndefined(l.icon),
+  }));
+}
+
 export async function createCategory(data: {
   name: string;
   description?: string;

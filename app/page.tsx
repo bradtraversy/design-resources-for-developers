@@ -2,8 +2,9 @@ import { Suspense } from 'react';
 import type { Metadata } from 'next';
 import {
   getCategoriesAction,
-  getAllCategoriesWithLinksAction,
+  getAllLinksPaginatedAction,
   getAllLinksCountAction,
+  getAllCategoriesWithLinksCountAction,
 } from './actions';
 import { CategoryNav } from '@/components/category-nav';
 import { ViewToggle } from '@/components/view-toggle';
@@ -53,39 +54,34 @@ async function LinksByCategory({
   view: ViewMode;
 }) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
-  const categoriesWithLinks = await getAllCategoriesWithLinksAction({
+  const links = await getAllLinksPaginatedAction({
     limit: ITEMS_PER_PAGE,
     skip,
   });
   const totalLinks = await getAllLinksCountAction();
   const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
 
-  if (categoriesWithLinks.length === 0) {
+  if (links.length === 0) {
     return (
       <div className='text-center py-12'>
         <p className='text-slate-500 dark:text-slate-400'>
-          No categories found. Add some categories to get started!
+          No links found. Add some links to get started!
         </p>
       </div>
     );
   }
 
-  // Get the first (default) category for the home page
-  const defaultCategory = categoriesWithLinks[0];
-
   return (
     <div className='space-y-12'>
-      {/* Single category display on home - UI Graphics */}
+      {/* All links display on home page */}
       <section className='space-y-6'>
         <header className='space-y-2'>
           <h2 className='text-2xl md:text-3xl font-bold text-slate-900 dark:text-slate-100'>
-            {defaultCategory.name}
+            All Resources
           </h2>
-          {defaultCategory.description && (
-            <p className='text-slate-500 dark:text-slate-400 max-w-2xl'>
-              {defaultCategory.description}
-            </p>
-          )}
+          <p className='text-slate-500 dark:text-slate-400 max-w-2xl'>
+            Browse all design resources across all categories
+          </p>
         </header>
 
         <div
@@ -96,14 +92,14 @@ async function LinksByCategory({
               : 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4',
           )}
         >
-          {defaultCategory.links.map((link, index) => (
+          {links.map((link, index) => (
             <LinkCard key={link.id} link={link} index={index} view={view} />
           ))}
         </div>
 
-        {defaultCategory.links.length === 0 && (
+        {links.length === 0 && (
           <p className='text-slate-400 dark:text-slate-500 text-center py-8'>
-            No links in this category yet.
+            No links available yet.
           </p>
         )}
       </section>
@@ -194,6 +190,60 @@ function ViewToggleWrapper() {
   return <ViewToggle className='hidden sm:block' />;
 }
 
+async function StatsDisplay() {
+  const [totalCategories, totalLinks] = await Promise.all([
+    getAllCategoriesWithLinksCountAction(),
+    getAllLinksCountAction(),
+  ]);
+
+  return (
+    <div className='flex items-center justify-center gap-6 text-sm text-slate-500 dark:text-slate-400'>
+      <div className='flex items-center gap-2'>
+        <svg
+          className='w-4 h-4'
+          fill='none'
+          stroke='currentColor'
+          viewBox='0 0 24 24'
+        >
+          <path
+            strokeLinecap='round'
+            strokeLinejoin='round'
+            strokeWidth={2}
+            d='M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z'
+          />
+        </svg>
+        <span>
+          <strong className='text-slate-700 dark:text-slate-300'>
+            {totalCategories}
+          </strong>{' '}
+          {totalCategories === 1 ? 'category' : 'categories'}
+        </span>
+      </div>
+      <div className='flex items-center gap-2'>
+        <svg
+          className='w-4 h-4'
+          fill='none'
+          stroke='currentColor'
+          viewBox='0 0 24 24'
+        >
+          <path
+            strokeLinecap='round'
+            strokeLinejoin='round'
+            strokeWidth={2}
+            d='M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1'
+          />
+        </svg>
+        <span>
+          <strong className='text-slate-700 dark:text-slate-300'>
+            {totalLinks}
+          </strong>{' '}
+          {totalLinks === 1 ? 'resource' : 'resources'}
+        </span>
+      </div>
+    </div>
+  );
+}
+
 export default async function HomePage({ searchParams }: HomePageProps) {
   const { page, view } = await searchParams;
   const currentPage = page ? parseInt(page, 10) : 1;
@@ -220,6 +270,7 @@ export default async function HomePage({ searchParams }: HomePageProps) {
           <p className='text-lg md:text-xl text-slate-500 dark:text-slate-400 max-w-2xl mx-auto'>
             A curated collection of design resources for developers
           </p>
+          <StatsDisplay />
         </header>
 
         {/* Category Navigation with Suspense */}

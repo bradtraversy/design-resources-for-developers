@@ -18,7 +18,23 @@ A curated collection of design resources for developers. Built with Next.js, thi
 - **Dark Mode Support** - Automatic theme based on system preferences
 - **Server-Side Rendering** - Fast initial loads with Next.js App Router
 
-## 🛠️ Tech Stack
+## 🔄 CI/CD Automation
+
+This project uses GitHub Actions for automated database seeding:
+
+- **Trigger**: Automatically runs on push to the `dev` branch
+- **Condition**: Only executes when [`resources.md`](resources.md) is modified
+- **Action**: Runs the seed script to update the database with new resources from resources.md
+
+The workflow file is located at [`.github/workflows/seed-resources.yml`](.github/workflows/seed-resources.yml).
+
+### Adding New Resources
+
+1. Add new resources to the appropriate category in [`resources.md`](resources.md)
+2. Push changes to the `dev` branch
+3. The CI/CD workflow will automatically seed the database
+
+## �️ Tech Stack
 
 - **Framework**: [Next.js 16](https://nextjs.org) (App Router)
 - **Language**: [TypeScript](https://www.typescriptlang.org)

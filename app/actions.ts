@@ -15,7 +15,6 @@ import {
   getAllCategoriesWithLinks,
   getAllCategoriesWithLinksCount,
   getAllLinksCount,
-  getAllLinksPaginated,
   createCategory as createCategoryData,
   updateCategory as updateCategoryData,
   deleteCategory as deleteCategoryData,
@@ -60,13 +59,6 @@ export async function getAllCategoriesWithLinksCountAction() {
 
 export async function getAllLinksCountAction() {
   return getAllLinksCount();
-}
-
-export async function getAllLinksPaginatedAction(options?: {
-  limit?: number;
-  skip?: number;
-}) {
-  return getAllLinksPaginated(options);
 }
 
 export async function createCategory(formData: FormData) {

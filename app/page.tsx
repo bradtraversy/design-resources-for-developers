@@ -2,7 +2,7 @@ import { Suspense } from 'react';
 import type { Metadata } from 'next';
 import {
   getCategoriesAction,
-  getAllLinksPaginatedAction,
+  getAllCategoriesWithLinksAction,
   getAllLinksCountAction,
 } from './actions';
 import { CategoryNav } from '@/components/category-nav';
@@ -53,34 +53,39 @@ async function LinksByCategory({
   view: ViewMode;
 }) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
-  const links = await getAllLinksPaginatedAction({
+  const categoriesWithLinks = await getAllCategoriesWithLinksAction({
     limit: ITEMS_PER_PAGE,
     skip,
   });
   const totalLinks = await getAllLinksCountAction();
   const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
 
-  if (links.length === 0) {
+  if (categoriesWithLinks.length === 0) {
     return (
       <div className='text-center py-12'>
         <p className='text-slate-500 dark:text-slate-400'>
-          No links found. Add some links to get started!
+          No categories found. Add some categories to get started!
         </p>
       </div>
     );
   }
 
+  // Get the first (default) category for the home page
+  const defaultCategory = categoriesWithLinks[0];
+
   return (
     <div className='space-y-12'>
-      {/* All links display on home page */}
+      {/* Single category display on home - UI Graphics */}
       <section className='space-y-6'>
         <header className='space-y-2'>
           <h2 className='text-2xl md:text-3xl font-bold text-slate-900 dark:text-slate-100'>
-            All Resources
+            {defaultCategory.name}
           </h2>
-          <p className='text-slate-500 dark:text-slate-400 max-w-2xl'>
-            Browse all design resources across all categories
-          </p>
+          {defaultCategory.description && (
+            <p className='text-slate-500 dark:text-slate-400 max-w-2xl'>
+              {defaultCategory.description}
+            </p>
+          )}
         </header>
 
         <div
@@ -91,14 +96,14 @@ async function LinksByCategory({
               : 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4',
           )}
         >
-          {links.map((link, index) => (
+          {defaultCategory.links.map((link, index) => (
             <LinkCard key={link.id} link={link} index={index} view={view} />
           ))}
         </div>
 
-        {links.length === 0 && (
+        {defaultCategory.links.length === 0 && (
           <p className='text-slate-400 dark:text-slate-500 text-center py-8'>
-            No links available yet.
+            No links in this category yet.
           </p>
         )}
       </section>

@@ -1,22 +1,25 @@
 name: Seed Resources on resources.md Change
 
 on:
-  push:
+  pull_request:
     branches:
-      - dev
+      - master
     paths:
       - 'resources.md'
+    types:
+      - closed
 
 jobs:
   seed-database:
     runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
     environment: production
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: dev
+          ref: master
 
       - name: Setup Node.js
         uses: actions/setup-node@v4

@@ -6,6 +6,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **Share Buttons** - Share resources to social media (Twitter, LinkedIn, Facebook, Reddit, Email) with copy link functionality
 - **Autocomplete Suggestions** - Show search suggestions as users type with keyboard navigation
 - **View Toggle** - Switch between Grid view and List view for browsing resources
 - **Quick Preview Modal** - Preview resource details in a modal without leaving the site
@@ -22,19 +23,26 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 This project uses GitHub Actions for automated database seeding:
 
-- **Trigger**: Automatically runs on push to the `dev` branch
+- **Trigger**:
+  - Auto-runs when PR merging to master (with resources.md changes) is approved and merged
 - **Condition**: Only executes when [`resources.md`](resources.md) is modified
-- **Action**: Runs the seed script to update the database with new resources from resources.md
+- **Action**: The seed script automatically updates the database with new resources from resources.md
 
-The workflow file is located at [`.github/workflows/seed-resources.yml`](.github/workflows/seed-resources.yml).
+### How It Works
+
+The workflow triggers on pull request merge to `master`, ensuring:
+- PR must be reviewed and approved before merging
+- Only runs when the PR is merged (not just opened/closed)
+- Repository owner can configure required reviews in repository settings
 
 ### Adding New Resources
 
 1. Add new resources to the appropriate category in [`resources.md`](resources.md)
-2. Push changes to the `dev` branch
-3. The CI/CD workflow will automatically seed the database
+2. Create a pull request to `master`
+3. After review and approval, merge the PR
+4. The CI/CD workflow will automatically seed the database
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 16](https://nextjs.org) (App Router)
 - **Language**: [TypeScript](https://www.typescriptlang.org)

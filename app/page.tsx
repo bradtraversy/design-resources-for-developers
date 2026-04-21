@@ -4,6 +4,7 @@ import {
   getCategoriesAction,
   getAllLinksPaginatedAction,
   getAllLinksCountAction,
+  getAllCategoriesWithLinksCountAction,
 } from './actions';
 import { CategoryNav } from '@/components/category-nav';
 import { ViewToggle } from '@/components/view-toggle';
@@ -189,6 +190,60 @@ function ViewToggleWrapper() {
   return <ViewToggle className='hidden sm:block' />;
 }
 
+async function StatsDisplay() {
+  const [totalCategories, totalLinks] = await Promise.all([
+    getAllCategoriesWithLinksCountAction(),
+    getAllLinksCountAction(),
+  ]);
+
+  return (
+    <div className='flex items-center justify-center gap-6 text-sm text-slate-500 dark:text-slate-400'>
+      <div className='flex items-center gap-2'>
+        <svg
+          className='w-4 h-4'
+          fill='none'
+          stroke='currentColor'
+          viewBox='0 0 24 24'
+        >
+          <path
+            strokeLinecap='round'
+            strokeLinejoin='round'
+            strokeWidth={2}
+            d='M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z'
+          />
+        </svg>
+        <span>
+          <strong className='text-slate-700 dark:text-slate-300'>
+            {totalCategories}
+          </strong>{' '}
+          {totalCategories === 1 ? 'category' : 'categories'}
+        </span>
+      </div>
+      <div className='flex items-center gap-2'>
+        <svg
+          className='w-4 h-4'
+          fill='none'
+          stroke='currentColor'
+          viewBox='0 0 24 24'
+        >
+          <path
+            strokeLinecap='round'
+            strokeLinejoin='round'
+            strokeWidth={2}
+            d='M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1'
+          />
+        </svg>
+        <span>
+          <strong className='text-slate-700 dark:text-slate-300'>
+            {totalLinks}
+          </strong>{' '}
+          {totalLinks === 1 ? 'resource' : 'resources'}
+        </span>
+      </div>
+    </div>
+  );
+}
+
 export default async function HomePage({ searchParams }: HomePageProps) {
   const { page, view } = await searchParams;
   const currentPage = page ? parseInt(page, 10) : 1;
@@ -215,6 +270,7 @@ export default async function HomePage({ searchParams }: HomePageProps) {
           <p className='text-lg md:text-xl text-slate-500 dark:text-slate-400 max-w-2xl mx-auto'>
             A curated collection of design resources for developers
           </p>
+          <StatsDisplay />
         </header>
 
         {/* Category Navigation with Suspense */}

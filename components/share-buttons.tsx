@@ -18,6 +18,7 @@ interface ShareButtonsProps {
   className?: string;
   variant?: 'default' | 'ghost';
   size?: 'default' | 'sm' | 'icon';
+  showTooltip?: boolean;
 }
 
 interface ShareOption {
@@ -96,6 +97,7 @@ export function ShareButtons({
   className,
   variant = 'ghost',
   size = 'icon',
+  showTooltip = true,
 }: ShareButtonsProps) {
   const [copied, setCopied] = useState(false);
   const [showShareMenu, setShowShareMenu] = useState(false);
@@ -159,91 +161,97 @@ export function ShareButtons({
     setShowShareMenu(false);
   };
 
-  return (
-    <TooltipProvider delayDuration={300}>
-      <div className={cn('relative', className)} ref={menuRef}>
-        {/* Share Button */}
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <Button
-              variant={variant}
-              size={size}
-              onClick={handleShare}
-              className={cn(
-                'rounded-lg transition-colors',
-                showShareMenu && 'bg-slate-100 dark:bg-slate-800',
-              )}
-              aria-label='Share'
-              aria-expanded={showShareMenu}
-            >
-              {copied ? (
-                <Check className='w-4 h-4 text-green-500' />
-              ) : (
-                <Share2 className='w-4 h-4' />
-              )}
-            </Button>
-          </TooltipTrigger>
-          <TooltipContent>{copied ? 'Copied!' : 'Share'}</TooltipContent>
-        </Tooltip>
+  const renderShareButton = () => (
+    <Button
+      variant={variant}
+      size={size}
+      onClick={handleShare}
+      className={cn(
+        'rounded-lg transition-colors',
+        showShareMenu && 'bg-slate-100 dark:bg-slate-800',
+      )}
+      aria-label='Share'
+      aria-expanded={showShareMenu}
+      title='Share'
+    >
+      {copied ? (
+        <Check className='w-4 h-4 text-green-500' />
+      ) : (
+        <Share2 className='w-4 h-4' />
+      )}
+    </Button>
+  );
 
-        {/* Share Options Dropdown */}
-        {showShareMenu && (
-          <div
+  return (
+    <div className={cn('relative', className)} ref={menuRef}>
+      {showTooltip ? (
+        <TooltipProvider delayDuration={300}>
+          <Tooltip>
+            <TooltipTrigger asChild>{renderShareButton()}</TooltipTrigger>
+            <TooltipContent>{copied ? 'Copied!' : 'Share'}</TooltipContent>
+          </Tooltip>
+        </TooltipProvider>
+      ) : (
+        renderShareButton()
+      )}
+
+      {/* Share Options Dropdown */}
+      {showShareMenu && (
+        <div
+          className={cn(
+            'absolute right-0 top-full mt-2 z-50',
+            'bg-white dark:bg-slate-900',
+            'rounded-lg shadow-lg border border-slate-200 dark:border-slate-700',
+            'py-2 min-w-[180px]',
+            'animate-in fade-in zoom-in-95 duration-200',
+          )}
+        >
+          {/* Copy Link Option */}
+          <button
+            onClick={handleCopyLink}
             className={cn(
-              'absolute right-0 top-full mt-2 z-50',
-              'bg-white dark:bg-slate-900',
-              'rounded-lg shadow-lg border border-slate-200 dark:border-slate-700',
-              'py-2 min-w-[180px]',
-              'animate-in fade-in zoom-in-95 duration-200',
+              'w-full px-4 py-2 text-left text-sm',
+              'flex items-center gap-3',
+              'text-slate-700 dark:text-slate-300',
+              'hover:bg-slate-100 dark:hover:bg-slate-800',
+              'transition-colors',
             )}
           >
-            {/* Copy Link Option */}
+            {copied ? (
+              <>
+                <Check className='w-4 h-4 text-green-500' />
+                <span className='text-green-500'>Copied!</span>
+              </>
+            ) : (
+              <>
+                <Link2 className='w-4 h-4' />
+                <span>Copy Link</span>
+              </>
+            )}
+          </button>
+
+          <div className='h-px bg-slate-200 dark:bg-slate-700 my-1' />
+
+          {/* Social Media Options */}
+          {shareOptions.map(option => (
             <button
-              onClick={handleCopyLink}
+              key={option.name}
+              onClick={e => handleShareTo(option, e)}
               className={cn(
                 'w-full px-4 py-2 text-left text-sm',
                 'flex items-center gap-3',
                 'text-slate-700 dark:text-slate-300',
+                option.color,
                 'hover:bg-slate-100 dark:hover:bg-slate-800',
                 'transition-colors',
               )}
             >
-              {copied ? (
-                <>
-                  <Check className='w-4 h-4 text-green-500' />
-                  <span className='text-green-500'>Copied!</span>
-                </>
-              ) : (
-                <>
-                  <Link2 className='w-4 h-4' />
-                  <span>Copy Link</span>
-                </>
-              )}
+              {option.icon}
+              <span>Share on {option.name}</span>
             </button>
-
-            <div className='h-px bg-slate-200 dark:bg-slate-700 my-1' />
-
-            {/* Social Media Options */}
-            {shareOptions.map(option => (
-              <button
-                key={option.name}
-                onClick={e => handleShareTo(option, e)}
-                className={cn(
-                  'w-full px-4 py-2 text-left text-sm',
-                  'flex items-center gap-3',
-                  'text-slate-700 dark:text-slate-300',
-                  option.color,
-                  'hover:bg-slate-100 dark:hover:bg-slate-800',
-                  'transition-colors',
-                )}
-              >
-                {option.icon}
-                <span>Share on {option.name}</span>
-              </button>
-            ))}
-          </div>
-        )}
-      </div>
-    </TooltipProvider>
+          ))}
+        </div>
+      )}
+    </div>
   );
 }

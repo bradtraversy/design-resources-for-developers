@@ -14,6 +14,7 @@ import {
 import { cn } from '@/lib/utils';
 import type { Link as LinkType } from '@/lib/types';
 import { useFavorites } from '@/lib/hooks/use-favorites';
+import { ShareButtons } from '@/components/share-buttons';
 
 type ViewMode = 'grid' | 'list';
 
@@ -150,6 +151,15 @@ export function LinkCard({
                   />
                 </Button>
               )}
+
+              {/* Share Button */}
+              <ShareButtons
+                url={link.url}
+                title={link.title}
+                description={link.description}
+                size='icon'
+                variant='ghost'
+              />
 
               <Button
                 variant='ghost'

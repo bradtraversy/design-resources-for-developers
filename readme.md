@@ -6,6 +6,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 
 ## ✨ Features
 
+- **Share Buttons** - Share resources to social media (Twitter, LinkedIn, Facebook, Reddit, Email) with copy link functionality
 - **Autocomplete Suggestions** - Show search suggestions as users type with keyboard navigation
 - **View Toggle** - Switch between Grid view and List view for browsing resources
 - **Quick Preview Modal** - Preview resource details in a modal without leaving the site

@@ -159,6 +159,7 @@ export function LinkCard({
                 description={link.description}
                 size='icon'
                 variant='ghost'
+                showTooltip={false}
               />
 
               <Button

@@ -1,0 +1,42 @@
+name: Seed Resources on resources.md Change
+
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - 'resources.md'
+
+jobs:
+  seed-database:
+    runs-on: ubuntu-latest
+    environment: production
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Prisma Client
+        run: npx prisma generate
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+      - name: Run seed script
+        run: npm run seed
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          NODE_ENV: production
+
+      - name: Verify seed completion
+        run: echo "✅ Seed script completed successfully! Database updated with resources from resources.md"

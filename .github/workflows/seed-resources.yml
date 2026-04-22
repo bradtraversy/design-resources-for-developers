@@ -9,6 +9,10 @@ on:
     types:
       - closed
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   seed-database:
     runs-on: ubuntu-latest

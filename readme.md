@@ -242,6 +242,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
+| [Color Palette Generator – NoCodeVista](https://nocodevista.com/tools/color-palette-generator) | Free color palette generator — generate beautiful, accessible color palettes for web design, runs in your browser. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1221,6 +1222,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
+| [Background Remover – NoCodeVista](https://nocodevista.com/tools/image-background-remover) | Free AI-powered background remover — remove image backgrounds instantly in your browser, no uploads needed. |
+| [Image Cropper – NoCodeVista](https://nocodevista.com/tools/image-cropper) | Free image cropper with preset aspect ratios — crop images directly in your browser, no uploads needed. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1341,6 +1344,7 @@ Available for MacOS, Linux, & Windows<br>
 | [CompressImage.io](https://compressimage.io) | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline |
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
+| [Image Compressor – NoCodeVista](https://nocodevista.com/tools/image-compressor) | Free image compressor — compress JPG, PNG, WebP up to 90% smaller. Runs in your browser, no uploads needed. |
 
 
 <div align="right">

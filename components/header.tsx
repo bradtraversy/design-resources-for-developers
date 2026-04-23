@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { Search } from 'lucide-react';
+import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { FavoritesButton } from '@/components/favorites-button';
@@ -14,6 +15,7 @@ interface HeaderProps {
 
 export function Header({ className }: HeaderProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const router = useRouter();
 
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -45,7 +47,14 @@ export function Header({ className }: HeaderProps) {
 
           {/* Desktop Search */}
           <div className='hidden md:block flex-1 max-w-xl mx-4'>
-            <Autocomplete placeholder='Search all resources...' />
+            <Autocomplete
+              placeholder='Search all resources...'
+              onSearch={query => {
+                if (query.trim()) {
+                  router.push(`/search?q=${encodeURIComponent(query.trim())}`);
+                }
+              }}
+            />
           </div>
 
           {/* Right Side Actions */}
@@ -76,7 +85,14 @@ export function Header({ className }: HeaderProps) {
         {/* Mobile Search Panel */}
         {isMobileMenuOpen && (
           <div className='md:hidden mt-3 p-4 bg-slate-50 dark:bg-slate-900 rounded-lg border border-slate-200 dark:border-slate-800'>
-            <Autocomplete placeholder='Search all resources...' />
+            <Autocomplete
+              placeholder='Search all resources...'
+              onSearch={query => {
+                if (query.trim()) {
+                  router.push(`/search?q=${encodeURIComponent(query.trim())}`);
+                }
+              }}
+            />
           </div>
         )}
       </div>

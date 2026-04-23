@@ -20,7 +20,9 @@ export function Autocomplete({
 }: AutocompleteProps) {
   const router = useRouter();
   const [query, setQuery] = useState('');
-  const [suggestions, setSuggestions] = useState<Link[]>([]);
+  const [suggestions, setSuggestions] = useState<
+    (Link & { categorySlug?: string })[]
+  >([]);
   const [isLoading, setIsLoading] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState(-1);
@@ -100,12 +102,20 @@ export function Autocomplete({
   );
 
   const handleSuggestionClick = useCallback(
-    (suggestion: Link) => {
+    (suggestion: Link & { categorySlug?: string }) => {
       setQuery(suggestion.title);
       setIsOpen(false);
-      router.push(`/${suggestion.categoryId}`);
+      if (onSearch) {
+        onSearch(suggestion.title);
+      } else {
+        // Use categorySlug if available, otherwise fall back to categoryId
+        const path = suggestion.categorySlug
+          ? `/${suggestion.categorySlug}`
+          : `/${suggestion.categoryId}`;
+        router.push(path);
+      }
     },
-    [router],
+    [router, onSearch],
   );
 
   const handleKeyDown = useCallback(

@@ -300,3 +300,27 @@ export async function searchLinks(query: string): Promise<Link[]> {
     icon: nullToUndefined(l.icon),
   }));
 }
+
+export async function searchLinksWithCategorySlug(
+  query: string,
+): Promise<(Link & { categorySlug?: string })[]> {
+  const links = await prisma.link.findMany({
+    where: {
+      OR: [
+        { title: { contains: query, mode: 'insensitive' } },
+        { description: { contains: query, mode: 'insensitive' } },
+      ],
+    },
+    include: {
+      category: {
+        select: { slug: true },
+      },
+    },
+  });
+  return links.map(l => ({
+    ...l,
+    description: nullToUndefined(l.description),
+    icon: nullToUndefined(l.icon),
+    categorySlug: l.category?.slug,
+  }));
+}

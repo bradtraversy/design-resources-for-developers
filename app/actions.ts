@@ -23,6 +23,7 @@ import {
   updateLink as updateLinkData,
   deleteLink as deleteLinkData,
   searchLinks,
+  searchLinksWithCategorySlug,
   incrementLinkClicks,
 } from '@/lib/data';
 import { revalidatePath } from 'next/cache';
@@ -214,7 +215,7 @@ export async function getAutocompleteSuggestionsAction(query: string) {
     if (!query || query.trim().length < 2) {
       return { success: true, data: [] };
     }
-    const suggestions = await searchLinks(query.trim());
+    const suggestions = await searchLinksWithCategorySlug(query.trim());
     // Limit to 8 suggestions for autocomplete
     const limitedSuggestions = suggestions.slice(0, 8);
     return { success: true, data: limitedSuggestions };

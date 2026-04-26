@@ -1517,6 +1517,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
+| [A11y Starter Kit](https://a11y-starter-kit.vercel.app/) | A free, open-source Next.js accessibility starter kit with WCAG 2.1 AA compliant components, keyboard navigation, and screen reader support |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

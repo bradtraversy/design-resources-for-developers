@@ -7,7 +7,8 @@ function Skeleton({
   return (
     <div
       className={cn(
-        'animate-pulse rounded-md bg-slate-200 dark:bg-slate-800',
+        'animate-pulse rounded-lg bg-slate-200/50 dark:bg-slate-800/50',
+        'border border-slate-200/50 dark:border-slate-700/50',
         className,
       )}
       {...props}
@@ -17,14 +18,19 @@ function Skeleton({
 
 function CardSkeleton() {
   return (
-    <div className='rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-950 p-4'>
-      <div className='flex items-start justify-between gap-3'>
-        <div className='flex-1 space-y-2'>
-          <Skeleton className='h-5 w-3/4' />
-          <Skeleton className='h-4 w-full' />
-          <Skeleton className='h-3 w-1/2' />
+    <div className='rounded-2xl border border-slate-200/50 dark:border-slate-800/50 bg-white/50 dark:bg-slate-900/50 p-4 md:p-5 backdrop-blur-sm'>
+      <div className='flex items-start gap-3 md:gap-4'>
+        <Skeleton className='w-10 h-10 md:w-12 md:h-12 rounded-xl flex-shrink-0' />
+        <div className='flex-1 min-w-0 space-y-2'>
+          <Skeleton className='h-5 w-3/4 rounded-lg' />
+          <Skeleton className='h-3 w-full rounded-lg' />
+          <Skeleton className='h-3 w-1/3 rounded-lg' />
         </div>
-        <Skeleton className='h-8 w-8 rounded-lg' />
+        <div className='flex gap-1 flex-shrink-0'>
+          <Skeleton className='w-9 h-9 rounded-lg' />
+          <Skeleton className='w-9 h-9 rounded-lg' />
+          <Skeleton className='w-9 h-9 rounded-lg' />
+        </div>
       </div>
     </div>
   );
@@ -34,7 +40,11 @@ function NavSkeleton() {
   return (
     <div className='flex flex-wrap gap-2 justify-center'>
       {[...Array(5)].map((_, i) => (
-        <Skeleton key={i} className='h-10 w-24 rounded-full' />
+        <Skeleton
+          key={i}
+          className='h-11 w-28 rounded-full animate-pulse'
+          style={{ animationDelay: `${i * 100}ms` }}
+        />
       ))}
     </div>
   );
@@ -55,8 +65,8 @@ function PageSkeleton() {
     <div className='space-y-8'>
       <NavSkeleton />
       <div className='space-y-4'>
-        <Skeleton className='h-10 w-96' />
-        <Skeleton className='h-10 w-64' />
+        <Skeleton className='h-12 w-96 rounded-xl mx-auto' />
+        <Skeleton className='h-5 w-64 rounded-lg mx-auto' />
       </div>
       <LinkGridSkeleton />
     </div>

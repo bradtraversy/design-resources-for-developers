@@ -76,7 +76,7 @@ async function LinksByCategory({
       {/* All links display on home page */}
       <section className='space-y-6'>
         <header className='space-y-2'>
-          <h2 className='text-2xl md:text-3xl font-bold text-slate-900 dark:text-slate-100'>
+          <h2 className='text-2xl md:text-3xl font-display font-bold text-slate-900 dark:text-slate-100'>
             All Resources
           </h2>
           <p className='text-slate-500 dark:text-slate-400 max-w-2xl'>
@@ -264,7 +264,7 @@ export default async function HomePage({ searchParams }: HomePageProps) {
       <main className='container mx-auto px-4 py-8 md:py-12 lg:py-16 max-w-7xl'>
         {/* Header */}
         <header className='text-center mb-12 space-y-4 animate-fade-in'>
-          <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight'>
+          <h1 className='text-4xl md:text-5xl lg:text-6xl font-display font-bold tracking-tight'>
             <span className='gradient-text'>Design Resources</span>
           </h1>
           <p className='text-lg md:text-xl text-slate-500 dark:text-slate-400 max-w-2xl mx-auto'>
@@ -274,41 +274,22 @@ export default async function HomePage({ searchParams }: HomePageProps) {
         </header>
 
         {/* Category Navigation with Suspense */}
-        <div className='mb-8'>
+        <div className='mb-8 animate-fade-in'>
           <Suspense fallback={<NavSkeleton />}>
             <CategoriesNav />
           </Suspense>
         </div>
 
         {/* View Toggle */}
-        <div className='mb-6 flex justify-end'>
-          <Suspense fallback={null}>
-            <ViewToggleWrapper />
-          </Suspense>
+        <div className='flex justify-end mb-6 animate-fade-in'>
+          <ViewToggleWrapper />
         </div>
 
-        {/* Links Display */}
+        {/* Links Grid/List */}
         <Suspense fallback={<LinkGridSkeleton />}>
           <LinksByCategory page={validPage} view={currentView} />
         </Suspense>
       </main>
-
-      {/* Footer */}
-      <footer
-        className='border-t border-slate-200 dark:border-slate-800 mt-16 animate-fade-in'
-        style={{ animationDelay: '500ms' }}
-      >
-        <div className='container mx-auto px-4 py-8 max-w-7xl'>
-          <div className='flex flex-col md:flex-row items-center justify-between gap-4'>
-            <p className='text-sm text-slate-500 dark:text-slate-400'>
-              © {new Date().getFullYear()} Design Resources for Developers
-            </p>
-            <p className='text-sm text-slate-400 dark:text-slate-500'>
-              Curated with ❤️ for the developer community
-            </p>
-          </div>
-        </div>
-      </footer>
     </div>
   );
 }

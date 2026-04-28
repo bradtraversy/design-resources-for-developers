@@ -1,11 +1,15 @@
-import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+import type { Metadata, Viewport } from 'next';
 import './globals.css';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import { Header } from '@/components/header';
 import { JsonLd } from '@/components/json-ld';
+import { cn } from '@/lib/utils';
+import { Geist_Mono } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] });
+const geistMono = Geist_Mono({
+  subsets: ['latin'],
+  variable: '--font-mono',
+});
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -76,6 +80,19 @@ export const metadata: Metadata = {
   },
 };
 
+export const viewport: Viewport = {
+  themeColor: [
+    {
+      media: '(prefers-color-scheme: light)',
+      color: '#0ea5e9',
+    },
+    {
+      media: '(prefers-color-scheme: dark)',
+      color: '#0284c7',
+    },
+  ],
+};
+
 export default function RootLayout({
   children,
 }: {
@@ -83,11 +100,20 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en' suppressHydrationWarning>
-      <body className={inter.className}>
+      <body
+        className={cn(
+          'min-h-screen bg-background text-foreground antialiased',
+          geistMono.variable,
+        )}
+      >
+        {/* Atmospheric background effects */}
+        <div className='atmosphere' aria-hidden='true' />
+        <div className='noise-overlay' aria-hidden='true' />
+
         <JsonLd data={jsonLd} />
         <TooltipProvider delayDuration={100} skipDelayDuration={50}>
           <Header />
-          {children}
+          <main className='relative'>{children}</main>
         </TooltipProvider>
       </body>
     </html>

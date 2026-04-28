@@ -54,13 +54,17 @@ export async function getCategoryWithLinks(
   options?: { limit?: number; skip?: number },
 ): Promise<CategoryWithLinks | null> {
   const { limit, skip } = options || {};
+  const linksInclude: Prisma.LinkFindManyArgs = {};
+  if (limit !== undefined) {
+    linksInclude.take = limit;
+  }
+  if (skip !== undefined) {
+    linksInclude.skip = skip;
+  }
   const category = await prisma.category.findUnique({
     where: { slug },
     include: {
-      links: {
-        take: limit,
-        skip,
-      },
+      links: linksInclude,
     },
   });
   if (!category) return null;
@@ -90,13 +94,17 @@ export async function getAllCategoriesWithLinks(options?: {
   skip?: number;
 }): Promise<CategoryWithLinks[]> {
   const { limit, skip } = options || {};
+  const linksInclude: Prisma.LinkFindManyArgs = {};
+  if (limit !== undefined) {
+    linksInclude.take = limit;
+  }
+  if (skip !== undefined) {
+    linksInclude.skip = skip;
+  }
   const categories = await prisma.category.findMany({
     orderBy: { order: 'asc' },
     include: {
-      links: {
-        take: limit,
-        skip,
-      },
+      links: linksInclude,
     },
   });
   return categories.map(c => ({

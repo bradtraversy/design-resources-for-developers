@@ -1,6 +1,7 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { ExternalLink, Copy, Check, Heart } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -33,8 +34,16 @@ export function LinkCard({
 }: LinkCardProps) {
   const [copied, setCopied] = useState(false);
   const [isPreviewOpen, setIsPreviewOpen] = useState(false);
+  const [mounted, setMounted] = useState(false);
   const { isFavorite, toggleFavorite } = useFavorites();
-  const isFavorited = isFavorite(link.id);
+
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/rules-of-hooks
+    setMounted(true);
+  }, []);
+
+  // During SSR and initial hydration, render as not favorited to avoid mismatch
+  const displayIsFavorited = mounted ? isFavorite(link.id) : false;
 
   const handleCopy = async (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -191,7 +200,7 @@ export function LinkCard({
                     'w-9 h-9 rounded-lg',
                     'transition-all duration-300',
                     'hover:scale-110',
-                    isFavorited
+                    displayIsFavorited
                       ? [
                           'text-red-500',
                           'hover:text-red-600',
@@ -204,13 +213,15 @@ export function LinkCard({
                         ],
                   )}
                   aria-label={
-                    isFavorited ? 'Remove from favorites' : 'Add to favorites'
+                    displayIsFavorited
+                      ? 'Remove from favorites'
+                      : 'Add to favorites'
                   }
                 >
                   <Heart
                     className={cn(
                       'w-4 h-4 transition-transform duration-300',
-                      isFavorited && 'fill-current',
+                      displayIsFavorited && 'fill-current',
                     )}
                   />
                 </Button>

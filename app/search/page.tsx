@@ -1,6 +1,5 @@
 import { Suspense } from 'react';
 import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
 import { searchLinksAction, getCategoriesAction } from '../actions';
 import { LinkCard } from '@/components/link-card';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
@@ -36,8 +35,12 @@ export async function generateMetadata({
   const { q } = await searchParams;
   const query = q?.trim() || '';
   return {
-    title: `Search results for "${query}" - Design Resources`,
-    description: `Search results for "${query}" among curated design resources`,
+    title: query
+      ? `Search results for "${query}" - Design Resources`
+      : 'Search - Design Resources',
+    description: query
+      ? `Search results for "${query}" among curated design resources`
+      : 'Search through curated design resources for developers',
     alternates: {
       canonical: query
         ? `https://design-resources-for-developers-tau.vercel.app/search?q=${encodeURIComponent(
@@ -251,9 +254,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
   const currentView = (view as ViewMode) || 'grid';
 
-  if (!query) {
-    notFound();
-  }
+  const searchQuery = query || '';
 
   return (
     <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
@@ -283,7 +284,11 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
 
         {/* Search Results */}
         <Suspense fallback={<LoadingState />}>
-          <SearchResults query={query} page={validPage} view={currentView} />
+          <SearchResults
+            query={searchQuery}
+            page={validPage}
+            view={currentView}
+          />
         </Suspense>
       </main>
 

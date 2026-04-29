@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Search, X } from 'lucide-react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { FavoritesButton } from '@/components/favorites-button';
@@ -17,6 +17,7 @@ export function Header({ className }: HeaderProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const router = useRouter();
+  const searchParams = useSearchParams();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -83,9 +84,12 @@ export function Header({ className }: HeaderProps) {
                   placeholder='Search all resources...'
                   onSearch={query => {
                     if (query.trim()) {
-                      router.push(
-                        `/search?q=${encodeURIComponent(query.trim())}`,
+                      // Preserve the current view parameter if it exists
+                      const params = new URLSearchParams(
+                        searchParams.toString(),
                       );
+                      params.set('q', query.trim());
+                      router.push(`/search?${params.toString()}`);
                     }
                   }}
                 />
@@ -129,9 +133,12 @@ export function Header({ className }: HeaderProps) {
                   placeholder='Search all resources...'
                   onSearch={query => {
                     if (query.trim()) {
-                      router.push(
-                        `/search?q=${encodeURIComponent(query.trim())}`,
+                      // Preserve the current view parameter if it exists
+                      const params = new URLSearchParams(
+                        searchParams.toString(),
                       );
+                      params.set('q', query.trim());
+                      router.push(`/search?${params.toString()}`);
                       setIsMobileMenuOpen(false);
                     }
                   }}

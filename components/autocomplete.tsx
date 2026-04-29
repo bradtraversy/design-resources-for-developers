@@ -1,7 +1,7 @@
 ﻿'use client';
 
 import { useState, useEffect, useRef, useCallback } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { Search, Loader2 } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { cn } from '@/lib/utils';
@@ -19,6 +19,7 @@ export function Autocomplete({
   onSearch,
 }: AutocompleteProps) {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const [query, setQuery] = useState('');
   const [suggestions, setSuggestions] = useState<
     (Link & { categorySlug?: string })[]
@@ -94,11 +95,14 @@ export function Autocomplete({
         if (onSearch) {
           onSearch(query.trim());
         } else {
-          router.push(`/search?q=${encodeURIComponent(query.trim())}`);
+          // Preserve the current view parameter if it exists
+          const params = new URLSearchParams(searchParams.toString());
+          params.set('q', query.trim());
+          router.push(`/search?${params.toString()}`);
         }
       }
     },
-    [query, onSearch, router],
+    [query, onSearch, router, searchParams],
   );
 
   const handleSuggestionClick = useCallback(
@@ -205,6 +209,7 @@ export function Autocomplete({
             ref={inputRef}
             data-testid='search-input'
             type='search'
+            name='q'
             value={query}
             onChange={handleInputChange}
             onFocus={handleInputFocus}

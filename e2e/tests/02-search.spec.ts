@@ -22,6 +22,9 @@ test.describe('Search Functionality', () => {
     const searchQuery = 'design';
     await helpers.search(page, searchQuery);
 
+    // Wait for URL to update with search query parameter
+    await page.waitForURL(`**/search?q=${encodeURIComponent(searchQuery)}*`);
+
     // Verify URL contains search query
     expect(page.url()).toContain('q=' + encodeURIComponent(searchQuery));
 
@@ -55,6 +58,9 @@ test.describe('Search Functionality', () => {
     const searchQuery = 'react';
     await helpers.search(page, searchQuery);
 
+    // Wait for URL to update with search query parameter
+    await page.waitForURL(`**/search?q=${encodeURIComponent(searchQuery)}*`);
+
     // Check URL has correct query parameter
     const url = new URL(page.url());
     expect(url.searchParams.get('q')).toBe(searchQuery);
@@ -86,6 +92,9 @@ test.describe('Search Functionality', () => {
     // Perform a search
     await helpers.search(page, 'test');
 
+    // Wait for URL to update with search query parameter
+    await page.waitForURL(`**/search?q=*`);
+
     // Navigate to home
     await page.click(selectors.logo);
     await helpers.waitForPageLoad(page);
@@ -98,8 +107,8 @@ test.describe('Search Functionality', () => {
     await page.goto(urls.search);
     await helpers.waitForPageLoad(page);
 
-    // Submit empty search
-    await page.click(selectors.searchButton);
+    // Submit empty search by pressing Enter on the search input
+    await page.press(selectors.searchInput, 'Enter');
     await helpers.waitForPageLoad(page);
 
     // Should either show all results or a message - depends on implementation

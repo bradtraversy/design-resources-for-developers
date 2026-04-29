@@ -203,6 +203,7 @@ export function Autocomplete({
           {/* Input Field - Glass Card Style */}
           <Input
             ref={inputRef}
+            data-testid='search-input'
             type='search'
             value={query}
             onChange={handleInputChange}

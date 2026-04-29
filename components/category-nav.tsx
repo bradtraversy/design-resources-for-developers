@@ -14,6 +14,7 @@ export function CategoryNav({ categories }: CategoryNavProps) {
 
   return (
     <nav
+      data-testid='category-nav'
       className='flex flex-wrap justify-center gap-2 md:gap-3'
       role='navigation'
       aria-label='Category navigation'

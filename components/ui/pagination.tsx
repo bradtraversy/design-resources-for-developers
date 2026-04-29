@@ -6,6 +6,7 @@ const Pagination = React.forwardRef<
   React.HTMLAttributes<HTMLDivElement>
 >(({ className, ...props }, ref) => (
   <div
+    data-testid='pagination'
     ref={ref}
     className={cn('flex flex-row items-center justify-center gap-1', className)}
     {...props}

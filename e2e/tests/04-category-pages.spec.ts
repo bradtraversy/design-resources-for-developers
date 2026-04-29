@@ -1,4 +1,4 @@
-import { test, expect, Page } from '../fixtures/test-fixtures';
+import { test, expect } from '../fixtures/test-fixtures';
 import { selectors, urls } from '../helpers/selectors';
 import { helpers } from '../fixtures/test-fixtures';
 
@@ -16,8 +16,10 @@ test.describe('Category Pages', () => {
       const categoryName = await firstCategory.textContent();
       const categoryHref = await firstCategory.getAttribute('href');
 
-      await firstCategory.click();
-      await helpers.waitForPageLoad(page);
+      await Promise.all([
+        page.waitForURL(`**${categoryHref}`),
+        firstCategory.click(),
+      ]);
 
       // Verify we're on a category page
       expect(page.url()).toContain(categoryHref || '');

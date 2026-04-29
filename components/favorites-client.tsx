@@ -81,7 +81,10 @@ export function FavoritesClient() {
 
   if (isLoading) {
     return (
-      <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
+      <div
+        className='min-h-screen bg-slate-50 dark:bg-slate-950'
+        data-testid='favorites-page'
+      >
         <div className='container mx-auto px-4 py-8 md:py-12 max-w-7xl'>
           <div className='animate-pulse space-y-6'>
             <div className='h-8 bg-slate-200 dark:bg-slate-800 rounded w-48' />
@@ -100,7 +103,10 @@ export function FavoritesClient() {
   }
 
   return (
-    <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
+    <div
+      className='min-h-screen bg-slate-50 dark:bg-slate-950'
+      data-testid='favorites-page'
+    >
       {/* Background pattern */}
       <div
         className='fixed inset-0 -z-10 opacity-30 dark:opacity-10'

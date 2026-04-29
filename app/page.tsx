@@ -282,7 +282,9 @@ export default async function HomePage({ searchParams }: HomePageProps) {
 
         {/* View Toggle */}
         <div className='flex justify-end mb-6 animate-fade-in'>
-          <ViewToggleWrapper />
+          <Suspense fallback={null}>
+            <ViewToggleWrapper />
+          </Suspense>
         </div>
 
         {/* Links Grid/List */}

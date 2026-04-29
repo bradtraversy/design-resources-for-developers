@@ -43,3 +43,8 @@ next-env.d.ts
 /generated/prisma
 features.md
 generated
+
+# Playwright
+.playwright
+playwright-report
+test-results

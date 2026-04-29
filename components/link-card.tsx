@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/rules-of-hooks */
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -38,7 +37,7 @@ export function LinkCard({
   const { isFavorite, toggleFavorite } = useFavorites();
 
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/rules-of-hooks
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 
@@ -77,6 +76,7 @@ export function LinkCard({
   return (
     <>
       <Card
+        data-testid='link-card'
         className={cn(
           'group relative overflow-hidden transition-all duration-500 ease-out',
           'border border-transparent bg-card',
@@ -153,6 +153,7 @@ export function LinkCard({
             >
               <div className={cn('flex-1', isListView && 'min-w-0')}>
                 <h3
+                  data-testid='link-card-title'
                   className={cn(
                     'font-display font-semibold text-slate-900 dark:text-slate-100',
                     'truncate transition-colors',
@@ -164,7 +165,10 @@ export function LinkCard({
                 </h3>
 
                 {!isListView && link.description && (
-                  <p className='mt-2 text-sm text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed'>
+                  <p
+                    data-testid='link-card-description'
+                    className='mt-2 text-sm text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed'
+                  >
                     {link.description}
                   </p>
                 )}
@@ -193,6 +197,7 @@ export function LinkCard({
               {/* Favorite Button */}
               {showFavoriteButton && (
                 <Button
+                  data-testid='favorite-button'
                   variant='ghost'
                   size='icon'
                   onClick={handleFavoriteClick}
@@ -217,6 +222,7 @@ export function LinkCard({
                       ? 'Remove from favorites'
                       : 'Add to favorites'
                   }
+                  aria-pressed={displayIsFavorited}
                 >
                   <Heart
                     className={cn(

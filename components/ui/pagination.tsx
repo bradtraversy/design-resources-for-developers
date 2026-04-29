@@ -6,6 +6,7 @@ const Pagination = React.forwardRef<
   React.HTMLAttributes<HTMLDivElement>
 >(({ className, ...props }, ref) => (
   <div
+    data-testid='pagination'
     ref={ref}
     className={cn('flex flex-row items-center justify-center gap-1', className)}
     {...props}
@@ -99,12 +100,14 @@ const PaginationPrevious = React.forwardRef<
   <a
     ref={ref}
     href={href ?? ''}
+    aria-label='Previous'
     className={cn(
       'inline-flex h-9 w-9 items-center justify-center rounded-lg text-sm font-medium transition-all duration-200',
       'bg-slate-100/50 dark:bg-slate-800/50 hover:bg-slate-200 dark:hover:bg-slate-700',
       'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100',
       'border border-slate-200/50 dark:border-slate-700/50',
       'hover:scale-105',
+      !href && 'pointer-events-none opacity-50',
       className,
     )}
     {...props}
@@ -134,12 +137,14 @@ const PaginationNext = React.forwardRef<
   <a
     ref={ref}
     href={href ?? ''}
+    aria-label='Next'
     className={cn(
       'inline-flex h-9 w-9 items-center justify-center rounded-lg text-sm font-medium transition-all duration-200',
       'bg-slate-100/50 dark:bg-slate-800/50 hover:bg-slate-200 dark:hover:bg-slate-700',
       'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100',
       'border border-slate-200/50 dark:border-slate-700/50',
       'hover:scale-105',
+      !href && 'pointer-events-none opacity-50',
       className,
     )}
     {...props}

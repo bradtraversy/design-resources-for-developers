@@ -113,7 +113,9 @@ async function CategoryContent({
 
       {/* View Toggle */}
       <div className='flex justify-end mb-4'>
-        <ViewToggle />
+        <Suspense fallback={null}>
+          <ViewToggle />
+        </Suspense>
       </div>
 
       {/* Links Grid */}

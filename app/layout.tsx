@@ -5,6 +5,7 @@ import { Header } from '@/components/header';
 import { JsonLd } from '@/components/json-ld';
 import { cn } from '@/lib/utils';
 import { Geist_Mono } from 'next/font/google';
+import { Suspense } from 'react';
 
 const geistMono = Geist_Mono({
   subsets: ['latin'],
@@ -112,8 +113,12 @@ export default function RootLayout({
 
         <JsonLd data={jsonLd} />
         <TooltipProvider delayDuration={100} skipDelayDuration={50}>
-          <Header />
-          <main className='relative'>{children}</main>
+          <Suspense fallback={null}>
+            <Header />
+          </Suspense>
+          <main className='relative'>
+            <Suspense fallback={null}>{children}</Suspense>
+          </main>
         </TooltipProvider>
       </body>
     </html>

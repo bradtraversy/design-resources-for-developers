@@ -1,6 +1,7 @@
 'use client';
 
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useEffect, useState } from 'react';
+import { usePathname, useRouter } from 'next/navigation';
 import { LayoutGrid, List } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
@@ -13,18 +14,28 @@ interface ViewToggleProps {
 
 export function ViewToggle({ className }: ViewToggleProps) {
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const currentView = (searchParams.get('view') as ViewMode) || 'grid';
+  const pathname = usePathname();
+  const [currentView, setCurrentView] = useState<ViewMode>('grid');
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const nextView = params.get('view');
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setCurrentView(nextView === 'list' ? 'list' : 'grid');
+  }, []);
 
   const handleViewChange = (view: ViewMode) => {
-    const params = new URLSearchParams(searchParams.toString());
+    setCurrentView(view);
+
+    const params = new URLSearchParams(window.location.search);
     if (view === 'grid') {
       params.delete('view');
     } else {
       params.set('view', view);
     }
     const newSearch = params.toString();
-    router.push(`?${newSearch}`, { scroll: false });
+    const href = newSearch ? `${pathname}?${newSearch}` : pathname;
+    router.push(href, { scroll: false });
   };
 
   return (

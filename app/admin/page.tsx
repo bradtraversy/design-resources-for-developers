@@ -32,7 +32,9 @@ export default async function AdminPage() {
       <section className='mb-10'>
         <h2 className='mb-2 text-xl font-semibold'>Add Category</h2>
         <form
-          action={createCategory}
+          action={async FormData => {
+            await createCategory(FormData);
+          }}
           className='grid gap-2 rounded border p-4 md:grid-cols-2'
         >
           <input
@@ -68,7 +70,9 @@ export default async function AdminPage() {
           {categories.map(category => (
             <div key={category.id} className='rounded border p-4'>
               <form
-                action={updateCategoryAction}
+                action={async formData => {
+                  await updateCategoryAction(formData);
+                }}
                 className='grid gap-2 md:grid-cols-2'
               >
                 <input type='hidden' name='id' value={category.id} />
@@ -97,7 +101,12 @@ export default async function AdminPage() {
                   Update
                 </button>
               </form>
-              <form action={deleteCategoryAction} className='mt-2'>
+              <form
+                action={async formData => {
+                  await deleteCategoryAction(formData);
+                }}
+                className='mt-2'
+              >
                 <input type='hidden' name='id' value={category.id} />
                 <button className='rounded bg-red-600 px-4 py-2 text-white'>
                   Delete
@@ -111,7 +120,9 @@ export default async function AdminPage() {
       <section className='mb-10'>
         <h2 className='mb-2 text-xl font-semibold'>Add Link</h2>
         <form
-          action={createLink}
+          action={async FormData => {
+            await createLink(FormData);
+          }}
           className='grid gap-2 rounded border p-4 md:grid-cols-2'
         >
           <input
@@ -160,7 +171,9 @@ export default async function AdminPage() {
           {links.map(link => (
             <div key={link.id} className='rounded border p-4'>
               <form
-                action={updateLinkAction}
+                action={async FormData => {
+                  await updateLinkAction(FormData);
+                }}
                 className='grid gap-2 md:grid-cols-2'
               >
                 <input type='hidden' name='id' value={link.id} />
@@ -190,7 +203,12 @@ export default async function AdminPage() {
                   Update
                 </button>
               </form>
-              <form action={deleteLinkAction} className='mt-2'>
+              <form
+                action={async FormData => {
+                  await deleteLinkAction(FormData);
+                }}
+                className='mt-2'
+              >
                 <input type='hidden' name='id' value={link.id} />
                 <button className='rounded bg-red-600 px-4 py-2 text-white'>
                   Delete

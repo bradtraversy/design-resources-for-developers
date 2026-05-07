@@ -184,6 +184,7 @@ export async function updateLinkAction(
       url: formData.get('url') as string | undefined,
       description: formData.get('description') as string | undefined,
       icon: formData.get('icon') as string | undefined,
+      categoryId: formData.get('categoryId') as string,
     };
 
     const validated = updateLinkSchema.parse(data);

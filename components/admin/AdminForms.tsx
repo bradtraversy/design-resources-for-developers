@@ -116,6 +116,7 @@ function CategoryUpdateModal({
             <input
               name='icon'
               defaultValue={category.icon ?? ''}
+              placeholder='Emoji or image URL (e.g., https://example.com/icon.png)'
               className='w-full rounded border px-3 py-2'
             />
           </div>
@@ -316,6 +317,7 @@ function LinkUpdateModal({
             <input
               name='icon'
               defaultValue={link.icon ?? ''}
+              placeholder='Emoji or image URL (e.g., https://example.com/icon.png)'
               className='w-full rounded border px-3 py-2'
             />
           </div>
@@ -483,7 +485,7 @@ export function AddCategoryForm() {
       />
       <input
         name='icon'
-        placeholder='Icon'
+        placeholder='Emoji or image URL (e.g., https://example.com/icon.png)'
         className='rounded border px-3 py-2'
       />
       <input
@@ -536,7 +538,7 @@ export function AddLinkForm({ categories }: AddLinkFormProps) {
       />
       <input
         name='icon'
-        placeholder='Icon'
+        placeholder='Emoji or image URL (e.g., https://example.com/icon.png)'
         className='rounded border px-3 py-2'
       />
       <select

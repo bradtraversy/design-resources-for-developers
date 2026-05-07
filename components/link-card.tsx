@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 import { ExternalLink, Copy, Check, Heart } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -17,6 +18,15 @@ import { useFavorites } from '@/lib/hooks/use-favorites';
 import { ShareButtons } from '@/components/share-buttons';
 
 type ViewMode = 'grid' | 'list';
+
+function isUrl(string: string): boolean {
+  try {
+    new URL(string);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 interface LinkCardProps {
   link: LinkType;
@@ -73,6 +83,8 @@ export function LinkCard({
 
   const isListView = view === 'list';
 
+  const isImageIcon = link.icon && isUrl(link.icon);
+
   return (
     <>
       <Card
@@ -95,7 +107,31 @@ export function LinkCard({
         }}
         onClick={handleCardClick}
       >
-        {/* Background gradient overlay */}
+        {/* Background image (when icon is a URL) */}
+        {isImageIcon && (
+          <div
+            className={cn(
+              'absolute inset-0 opacity-15 group-hover:opacity-20',
+              'transition-opacity duration-500',
+              'bg-cover bg-center',
+              'pointer-events-none',
+              '-z-50',
+            )}
+            style={{ backgroundImage: `url(${link.icon})` }}
+          />
+        )}
+
+        {/* Content area overlay for better readability */}
+        <div
+          className={cn(
+            'absolute inset-0',
+            'bg-gradient-to-b from-slate-50/80 via-slate-50/60 to-slate-50/80',
+            'dark:from-slate-900/80 dark:via-slate-900/60 dark:to-slate-900/80',
+            'pointer-events-none',
+          )}
+        />
+
+        {/* Background gradient overlay (always present) */}
         <div
           className={cn(
             'absolute inset-0 opacity-0 group-hover:opacity-100',
@@ -127,21 +163,21 @@ export function LinkCard({
               isListView && 'items-center flex-1',
             )}
           >
-            {/* Icon/Thumbnail */}
-            {link.icon && (
+            {/* Icon/Thumbnail - only show for non-URL icons (emoji/text) */}
+            {link.icon && !isImageIcon && (
               <div
                 className={cn(
                   'flex-shrink-0 w-10 h-10 md:w-12 md:h-12',
                   'rounded-xl',
+                  'overflow-hidden',
                   'bg-gradient-to-br from-slate-100 to-slate-200',
                   'dark:from-slate-800 dark:to-slate-900',
                   'flex items-center justify-center',
-                  'text-2xl md:text-3xl',
                   'shadow-inner',
                   'group-hover:scale-110 transition-transform duration-300',
                 )}
               >
-                {link.icon}
+                <span className='text-2xl md:text-3xl'>{link.icon}</span>
               </div>
             )}
 
@@ -165,18 +201,26 @@ export function LinkCard({
                 </h3>
 
                 {!isListView && link.description && (
-                  <p
-                    data-testid='link-card-description'
-                    className='mt-2 text-sm text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed'
-                  >
-                    {link.description}
-                  </p>
+                  <>
+                    <p
+                      data-testid='link-card-description'
+                      className='mt-2 text-base text-slate-600 dark:text-slate-400 font-medium leading-relaxed line-clamp-2 pb-1'
+                    >
+                      {link.description}
+                    </p>
+
+                    <hr className='pt-0.5' />
+                  </>
                 )}
 
                 {isListView && link.description && (
-                  <p className='hidden md:block text-sm text-slate-500 dark:text-slate-400 truncate'>
-                    {link.description}
-                  </p>
+                  <>
+                    <p className='hidden md:block text-base text-slate-600 dark:text-slate-400 font-medium truncate pb-2'>
+                      {link.description}
+                    </p>
+
+                    <hr className='pt-0.5' />
+                  </>
                 )}
 
                 {/* URL display */}
@@ -315,8 +359,29 @@ export function LinkCard({
                 <h4 className='text-sm font-medium text-slate-500 dark:text-slate-400 mb-2 uppercase tracking-wider'>
                   Preview
                 </h4>
-                <div className='text-4xl p-4 rounded-xl bg-slate-100 dark:bg-slate-800 w-fit'>
-                  {link.icon}
+                <div className='rounded-xl bg-slate-100 dark:bg-slate-800 p-4'>
+                  {isUrl(link.icon) ? (
+                    <Image
+                      src={link.icon}
+                      alt={`${link.title} icon`}
+                      className='max-w-[200px] max-h-[200px] object-contain rounded-md'
+                      width={200}
+                      height={200}
+                      onError={e => {
+                        e.currentTarget.style.display = 'none';
+                        // Show fallback text if image fails
+                        const fallback = document.createElement('span');
+                        fallback.className = 'text-4xl';
+                        const iconValue = link.icon;
+                        if (iconValue) {
+                          fallback.textContent = iconValue;
+                          e.currentTarget.parentElement?.appendChild(fallback);
+                        }
+                      }}
+                    />
+                  ) : (
+                    <span className='text-4xl'>{link.icon}</span>
+                  )}
                 </div>
               </div>
             )}

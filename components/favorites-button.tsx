@@ -1,18 +1,18 @@
 'use client';
-/* eslint-disable react-hooks/rules-of-hooks */
 
 import { Heart } from 'lucide-react';
 import Link from 'next/link';
 import { useFavorites } from '@/lib/hooks/use-favorites';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 export function FavoritesButton() {
   const { favoritesCount } = useFavorites();
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true); // eslint-disable-line react-hooks/rules-of-hooks
-  }, []);
+  const [mounted] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return true;
+    }
+    return false;
+  });
 
   // During SSR and initial hydration, don't show the badge to avoid mismatch
   const displayCount = mounted ? favoritesCount : 0;

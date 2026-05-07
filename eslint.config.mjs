@@ -12,10 +12,19 @@ const eslintConfig = defineConfig([
     'out/**',
     'build/**',
     'next-env.d.ts',
+    // Playwright ignores:
+    'playwright-report',
+    'test-results',
+    // Prisma ignores:
+    'generated/**',
   ]),
   {
     rules: {
       'react/no-unescaped-entities': 'off',
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        { varsIgnorePattern: '^_' },
+      ],
     },
   },
 ]);

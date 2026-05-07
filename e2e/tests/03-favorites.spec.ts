@@ -1,4 +1,4 @@
-import { test, expect, Page } from '../fixtures/test-fixtures';
+import { test, expect } from '../fixtures/test-fixtures';
 import { selectors, urls } from '../helpers/selectors';
 import { helpers } from '../fixtures/test-fixtures';
 
@@ -14,9 +14,6 @@ test.describe('Favorites Management', () => {
   });
 
   test('should add a resource to favorites', async ({ page }) => {
-    // Get initial count
-    const initialCount = await helpers.getLinkCardCount(page);
-
     // Click favorite button on first card
     await helpers.toggleFavorite(page, 0);
 
@@ -121,10 +118,7 @@ test.describe('Favorites Management', () => {
   });
 
   test('should show toast notification when favoriting', async ({ page }) => {
-    // Listen for toast notifications
-    page.on('console', msg => {
-      // Toast might log something
-    });
+    // Toast notification may appear
 
     await helpers.toggleFavorite(page, 0);
 

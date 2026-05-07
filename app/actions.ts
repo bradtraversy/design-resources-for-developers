@@ -27,7 +27,14 @@ import {
   incrementLinkClicks,
 } from '@/lib/data';
 import { revalidatePath } from 'next/cache';
+import { getCurrentAdminEmail } from '@/lib/admin-auth';
 
+async function ensureAdmin() {
+  const adminEmail = await getCurrentAdminEmail();
+  if (!adminEmail) {
+    throw new Error('Unauthorized');
+  }
+}
 // Category Actions
 export async function getCategoriesAction() {
   return getCategories();
@@ -71,6 +78,7 @@ export async function getAllLinksPaginatedAction(options?: {
 }
 
 export async function createCategory(formData: FormData) {
+  await ensureAdmin();
   try {
     const data = {
       name: formData.get('name') as string,
@@ -92,6 +100,7 @@ export async function createCategory(formData: FormData) {
 }
 
 export async function updateCategoryAction(formData: FormData) {
+  await ensureAdmin();
   try {
     const data = {
       id: formData.get('id') as string,
@@ -114,6 +123,7 @@ export async function updateCategoryAction(formData: FormData) {
 }
 
 export async function deleteCategoryAction(formData: FormData) {
+  await ensureAdmin();
   try {
     const data = {
       id: formData.get('id') as string,
@@ -133,6 +143,7 @@ export async function deleteCategoryAction(formData: FormData) {
 
 // Link Actions
 export async function createLink(formData: FormData) {
+  await ensureAdmin();
   try {
     const data = {
       title: formData.get('title') as string,
@@ -155,6 +166,7 @@ export async function createLink(formData: FormData) {
 }
 
 export async function updateLinkAction(formData: FormData) {
+  await ensureAdmin();
   try {
     const data = {
       id: formData.get('id') as string,
@@ -177,6 +189,7 @@ export async function updateLinkAction(formData: FormData) {
 }
 
 export async function deleteLinkAction(formData: FormData) {
+  await ensureAdmin();
   try {
     const data = {
       id: formData.get('id') as string,

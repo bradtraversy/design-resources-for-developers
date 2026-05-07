@@ -1,12 +1,7 @@
 import { redirect } from 'next/navigation';
 import { getCurrentAdminEmail } from '@/lib/admin-auth';
 import { getCategories, getAllLinksPaginated } from '@/lib/data';
-import {
-  AddCategoryForm,
-  AddLinkForm,
-  Categories,
-  Links,
-} from '@/components/admin/AdminForms';
+import { AdminPageContent } from '@/components/admin/AdminPageContent';
 import { adminLogoutAction } from './actions';
 
 export default async function AdminPage() {
@@ -27,25 +22,7 @@ export default async function AdminPage() {
         </form>
       </div>
 
-      <section className='mb-10'>
-        <h2 className='mb-2 text-xl font-semibold'>Add Category</h2>
-        <AddCategoryForm />
-      </section>
-
-      <section className='mb-10'>
-        <h2 className='mb-2 text-xl font-semibold'>Update Category</h2>
-        <Categories categories={categories} />
-      </section>
-
-      <section className='mb-10'>
-        <h2 className='mb-2 text-xl font-semibold'>Add Link</h2>
-        <AddLinkForm categories={categories} />
-      </section>
-
-      <section>
-        <h2 className='mb-2 text-xl font-semibold'>Existing Links</h2>
-        <Links categories={categories} links={links} />
-      </section>
+      <AdminPageContent categories={categories} links={links} />
     </main>
   );
 }

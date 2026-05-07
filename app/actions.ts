@@ -77,134 +77,86 @@ export async function getAllLinksPaginatedAction(options?: {
   return getAllLinksPaginated(options);
 }
 
-export async function createCategory(formData: FormData) {
+export async function createCategory(formData: FormData): Promise<void> {
   await ensureAdmin();
-  try {
-    const data = {
-      name: formData.get('name') as string,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
-      color: formData.get('color') as string | undefined,
-    };
+  const data = {
+    name: formData.get('name') as string,
+    description: formData.get('description') as string | undefined,
+    icon: formData.get('icon') as string | undefined,
+    color: formData.get('color') as string | undefined,
+  };
 
-    const validated = categorySchema.parse(data);
-    const category = await createCategoryData(validated);
-    revalidatePath('/');
-    return { success: true, data: category };
-  } catch (error) {
-    if (error instanceof Error) {
-      return { success: false, error: error.message };
-    }
-    return { success: false, error: 'Failed to create category' };
-  }
+  const validated = categorySchema.parse(data);
+  await createCategoryData(validated);
+  revalidatePath('/');
 }
 
-export async function updateCategoryAction(formData: FormData) {
+export async function updateCategoryAction(formData: FormData): Promise<void> {
   await ensureAdmin();
-  try {
-    const data = {
-      id: formData.get('id') as string,
-      name: formData.get('name') as string | undefined,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
-      color: formData.get('color') as string | undefined,
-    };
+  const data = {
+    id: formData.get('id') as string,
+    name: formData.get('name') as string | undefined,
+    description: formData.get('description') as string | undefined,
+    icon: formData.get('icon') as string | undefined,
+    color: formData.get('color') as string | undefined,
+  };
 
-    const validated = updateCategorySchema.parse(data);
-    const category = await updateCategoryData(validated.id, validated);
-    revalidatePath('/');
-    return { success: true, data: category };
-  } catch (error) {
-    if (error instanceof Error) {
-      return { success: false, error: error.message };
-    }
-    return { success: false, error: 'Failed to update category' };
-  }
+  const validated = updateCategorySchema.parse(data);
+  await updateCategoryData(validated.id, validated);
+  revalidatePath('/');
 }
 
-export async function deleteCategoryAction(formData: FormData) {
+export async function deleteCategoryAction(formData: FormData): Promise<void> {
   await ensureAdmin();
-  try {
-    const data = {
-      id: formData.get('id') as string,
-    };
+  const data = {
+    id: formData.get('id') as string,
+  };
 
-    const validated = deleteSchema.parse(data);
-    await deleteCategoryData(validated.id);
-    revalidatePath('/');
-    return { success: true };
-  } catch (error) {
-    if (error instanceof Error) {
-      return { success: false, error: error.message };
-    }
-    return { success: false, error: 'Failed to delete category' };
-  }
+  const validated = deleteSchema.parse(data);
+  await deleteCategoryData(validated.id);
+  revalidatePath('/');
 }
 
 // Link Actions
-export async function createLink(formData: FormData) {
+export async function createLink(formData: FormData): Promise<void> {
   await ensureAdmin();
-  try {
-    const data = {
-      title: formData.get('title') as string,
-      url: formData.get('url') as string,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
-      categoryId: formData.get('categoryId') as string,
-    };
+  const data = {
+    title: formData.get('title') as string,
+    url: formData.get('url') as string,
+    description: formData.get('description') as string | undefined,
+    icon: formData.get('icon') as string | undefined,
+    categoryId: formData.get('categoryId') as string,
+  };
 
-    const validated = linkSchema.parse(data);
-    const link = await createLinkData(validated);
-    revalidatePath('/');
-    return { success: true, data: link };
-  } catch (error) {
-    if (error instanceof Error) {
-      return { success: false, error: error.message };
-    }
-    return { success: false, error: 'Failed to create link' };
-  }
+  const validated = linkSchema.parse(data);
+  await createLinkData(validated);
+  revalidatePath('/');
 }
 
-export async function updateLinkAction(formData: FormData) {
+export async function updateLinkAction(formData: FormData): Promise<void> {
   await ensureAdmin();
-  try {
-    const data = {
-      id: formData.get('id') as string,
-      title: formData.get('title') as string | undefined,
-      url: formData.get('url') as string | undefined,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
-    };
+  const data = {
+    id: formData.get('id') as string,
+    title: formData.get('title') as string | undefined,
+    url: formData.get('url') as string | undefined,
+    description: formData.get('description') as string | undefined,
+    icon: formData.get('icon') as string | undefined,
+  };
 
-    const validated = updateLinkSchema.parse(data);
-    const link = await updateLinkData(validated.id, validated);
-    revalidatePath('/');
-    return { success: true, data: link };
-  } catch (error) {
-    if (error instanceof Error) {
-      return { success: false, error: error.message };
-    }
-    return { success: false, error: 'Failed to update link' };
-  }
+  const validated = updateLinkSchema.parse(data);
+  await updateLinkData(validated.id, validated);
+  revalidatePath('/');
 }
 
-export async function deleteLinkAction(formData: FormData) {
+export async function deleteLinkAction(formData: FormData): Promise<void> {
   await ensureAdmin();
-  try {
-    const data = {
-      id: formData.get('id') as string,
-    };
+  const data = {
+    id: formData.get('id') as string,
+  };
 
-    const validated = deleteSchema.parse(data);
-    await deleteLinkData(validated.id);
-    revalidatePath('/');
-    return { success: true };
-  } catch (error) {
-    if (error instanceof Error) {
-      return { success: false, error: error.message };
-    }
-    return { success: false, error: 'Failed to delete link' };
-  }
+  const validated = deleteSchema.parse(data);
+  await deleteLinkData(validated.id);
+  revalidatePath('/');
 }
 
 export async function searchLinksAction(query: string) {

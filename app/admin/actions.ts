@@ -17,17 +17,19 @@ export async function adminLoginAction(formData: FormData) {
     redirect('/admin/login?error=missing');
   }
 
-  try {
-    const isValid = await validateAdminLogin(email, password);
-    if (!isValid) {
-      redirect('/admin/login?error=invalid');
-    }
+  let isValid = false;
 
-    await createAdminSession(email);
-    redirect('/admin');
+  try {
+    isValid = await validateAdminLogin(email, password);
   } catch {
     redirect('/admin/login?error=config');
   }
+  if (!isValid) {
+    redirect('/admin/login?error=invalid');
+  }
+
+  await createAdminSession(email);
+  redirect('/admin');
 }
 
 export async function adminLogoutAction() {

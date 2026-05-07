@@ -381,19 +381,19 @@
 
 /* Glass morphism effects */
 .glass {
-  background: hsla(var(--card), 0.7);
+  background: hsl(var(--card) / 0.7);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  border: 1px solid hsla(var(--border), 0.5);
-  box-shadow: var(--shadow-md), inset 0 1px 0 hsla(var(--fg), 0.05);
+  border: 1px solid hsl(var(--border) / 0.5);
+  box-shadow: var(--shadow-md), inset 0 1px 0 hsl(var(--fg) / 0.05);
 }
 
 .glass-strong {
-  background: hsla(var(--card), 0.85);
+  background: hsl(var(--card) / 0.85);
   backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(30px);
-  border: 1px solid hsla(var(--border), 0.6);
-  box-shadow: var(--shadow-lg), inset 0 1px 0 hsla(var(--fg), 0.08);
+  border: 1px solid hsl(var(--border) / 0.6);
+  box-shadow: var(--shadow-lg), inset 0 1px 0 hsl(var(--fg) / 0.08);
 }
 
 /* Gradient text */

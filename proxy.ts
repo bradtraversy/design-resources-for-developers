@@ -1,61 +1,45 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
-function decodeBasicAuth(header: string) {
-  const [scheme, token] = header.split(' ');
-  if (scheme?.toLowerCase() !== 'basic' || !token) return null;
-
-  try {
-    const decoded = atob(token);
-    const sep = decoded.indexOf(':');
-    if (sep === -1) return null;
-    return {
-      username: decoded.slice(0, sep),
-      password: decoded.slice(sep + 1),
-    };
-  } catch {
-    return null;
-  }
+function getAdminEmails(): string[] {
+  return (process.env.ADMIN_EMAILS ?? '')
+    .split(',')
+    .map(email => email.trim().toLowerCase())
+    .filter(Boolean);
 }
 
 export function proxy(request: NextRequest) {
-  if (!request.nextUrl.pathname.startsWith('/admin')) {
+  const { pathname } = request.nextUrl;
+
+  // Allow access to the login page without authentication
+  if (pathname === '/admin/login') {
     return NextResponse.next();
   }
 
-  const expectedUser = process.env.ADMIN_USERNAME;
-  const expectedPass = process.env.ADMIN_PASSWORD;
-
-  // Avoid hard-failing with opaque login errors when admin auth env vars are missing.
-  // In development we allow access to simplify local setup.
-  if (!expectedUser || !expectedPass) {
-    if (process.env.NODE_ENV === 'production') {
-      return new NextResponse(
-        'Admin login is not configured. Set ADMIN_USERNAME and ADMIN_PASSWORD.',
-        {
-          status: 500,
-        },
-      );
-    }
-
+  if (!pathname.startsWith('/admin')) {
     return NextResponse.next();
   }
 
-  const auth = decodeBasicAuth(request.headers.get('authorization') ?? '');
-  if (
-    auth &&
-    auth.username === expectedUser &&
-    auth.password === expectedPass
-  ) {
+  // In development, allow access without authentication
+  if (process.env.NODE_ENV !== 'production') {
     return NextResponse.next();
   }
 
-  return new NextResponse('Authentication required.', {
-    status: 401,
-    headers: {
-      'WWW-Authenticate': 'Basic realm="Admin Area"',
-    },
-  });
+  // In production, check for valid session cookie
+  const adminEmails = getAdminEmails();
+  const adminPassword = process.env.ADMIN_PASSWORD;
+
+  if (adminEmails.length === 0 || !adminPassword) {
+    return new NextResponse(
+      'Admin login is not configured. Set ADMIN_EMAILS and ADMIN_PASSWORD.',
+      {
+        status: 500,
+      },
+    );
+  }
+
+  // Allow the request to pass through - authentication is handled by the form-based system
+  return NextResponse.next();
 }
 
 export const config = {

@@ -187,6 +187,8 @@ export async function updateCategory(
   }>,
 ): Promise<Category | null> {
   const updateData: Prisma.CategoryUpdateInput = { ...data };
+  // Remove id from updateData if present (should not be updatable)
+  delete (updateData as { id?: unknown }).id;
   if (data.name) {
     updateData.slug = slugify(data.name);
   }
@@ -266,9 +268,12 @@ export async function updateLink(
     icon?: string;
   }>,
 ): Promise<Link | null> {
+  const updateData = { ...data };
+  // Remove id from updateData if present (should not be updatable)
+  delete (updateData as { id?: unknown }).id;
   const link = await prisma.link.update({
     where: { id },
-    data,
+    data: updateData,
   });
   return {
     ...link,

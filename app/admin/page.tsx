@@ -33,13 +33,13 @@ export default async function AdminPage() {
       </section>
 
       <section className='mb-10'>
-        <h2 className='mb-2 text-xl font-semibold'>Add Link</h2>
-        <AddLinkForm categories={categories} />
+        <h2 className='mb-2 text-xl font-semibold'>Update Category</h2>
+        <Categories categories={categories} />
       </section>
 
       <section className='mb-10'>
-        <h2 className='mb-2 text-xl font-semibold'>Existing Categories</h2>
-        <Categories categories={categories} />
+        <h2 className='mb-2 text-xl font-semibold'>Add Link</h2>
+        <AddLinkForm categories={categories} />
       </section>
 
       <section>

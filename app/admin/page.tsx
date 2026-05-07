@@ -2,13 +2,11 @@ import { redirect } from 'next/navigation';
 import { getCurrentAdminEmail } from '@/lib/admin-auth';
 import { getCategories, getAllLinksPaginated } from '@/lib/data';
 import {
-  createCategory,
-  updateCategoryAction,
-  deleteCategoryAction,
-  createLink,
-  updateLinkAction,
-  deleteLinkAction,
-} from '@/app/actions';
+  AddCategoryForm,
+  AddLinkForm,
+  Categories,
+  Links,
+} from '@/components/admin/AdminForms';
 import { adminLogoutAction } from './actions';
 
 export default async function AdminPage() {
@@ -31,174 +29,22 @@ export default async function AdminPage() {
 
       <section className='mb-10'>
         <h2 className='mb-2 text-xl font-semibold'>Add Category</h2>
-        <form
-          action={createCategory}
-          className='grid gap-2 rounded border p-4 md:grid-cols-2'
-        >
-          <input
-            name='name'
-            placeholder='Name'
-            required
-            className='rounded border px-3 py-2'
-          />
-          <input
-            name='description'
-            placeholder='Description'
-            className='rounded border px-3 py-2'
-          />
-          <input
-            name='icon'
-            placeholder='Icon'
-            className='rounded border px-3 py-2'
-          />
-          <input
-            name='color'
-            placeholder='Color'
-            className='rounded border px-3 py-2'
-          />
-          <button className='rounded bg-black px-4 py-2 text-white md:col-span-2'>
-            Create Category
-          </button>
-        </form>
-      </section>
-
-      <section className='mb-10'>
-        <h2 className='mb-2 text-xl font-semibold'>Existing Categories</h2>
-        <div className='space-y-4'>
-          {categories.map(category => (
-            <div key={category.id} className='rounded border p-4'>
-              <form
-                action={updateCategoryAction}
-                className='grid gap-2 md:grid-cols-2'
-              >
-                <input type='hidden' name='id' value={category.id} />
-                <input
-                  name='name'
-                  defaultValue={category.name}
-                  required
-                  className='rounded border px-3 py-2'
-                />
-                <input
-                  name='description'
-                  defaultValue={category.description ?? ''}
-                  className='rounded border px-3 py-2'
-                />
-                <input
-                  name='icon'
-                  defaultValue={category.icon ?? ''}
-                  className='rounded border px-3 py-2'
-                />
-                <input
-                  name='color'
-                  defaultValue={category.color ?? ''}
-                  className='rounded border px-3 py-2'
-                />
-                <button className='rounded bg-blue-600 px-4 py-2 text-white'>
-                  Update
-                </button>
-              </form>
-              <form action={deleteCategoryAction} className='mt-2'>
-                <input type='hidden' name='id' value={category.id} />
-                <button className='rounded bg-red-600 px-4 py-2 text-white'>
-                  Delete
-                </button>
-              </form>
-            </div>
-          ))}
-        </div>
+        <AddCategoryForm />
       </section>
 
       <section className='mb-10'>
         <h2 className='mb-2 text-xl font-semibold'>Add Link</h2>
-        <form
-          action={createLink}
-          className='grid gap-2 rounded border p-4 md:grid-cols-2'
-        >
-          <input
-            name='title'
-            placeholder='Title'
-            required
-            className='rounded border px-3 py-2'
-          />
-          <input
-            name='url'
-            placeholder='URL'
-            required
-            className='rounded border px-3 py-2'
-          />
-          <input
-            name='description'
-            placeholder='Description'
-            className='rounded border px-3 py-2'
-          />
-          <input
-            name='icon'
-            placeholder='Icon'
-            className='rounded border px-3 py-2'
-          />
-          <select
-            name='categoryId'
-            required
-            className='rounded border px-3 py-2 md:col-span-2'
-          >
-            <option value=''>Select a category</option>
-            {categories.map(category => (
-              <option key={category.id} value={category.id}>
-                {category.name}
-              </option>
-            ))}
-          </select>
-          <button className='rounded bg-black px-4 py-2 text-white md:col-span-2'>
-            Create Link
-          </button>
-        </form>
+        <AddLinkForm categories={categories} />
+      </section>
+
+      <section className='mb-10'>
+        <h2 className='mb-2 text-xl font-semibold'>Existing Categories</h2>
+        <Categories categories={categories} />
       </section>
 
       <section>
         <h2 className='mb-2 text-xl font-semibold'>Existing Links</h2>
-        <div className='space-y-4'>
-          {links.map(link => (
-            <div key={link.id} className='rounded border p-4'>
-              <form
-                action={updateLinkAction}
-                className='grid gap-2 md:grid-cols-2'
-              >
-                <input type='hidden' name='id' value={link.id} />
-                <input
-                  name='title'
-                  defaultValue={link.title}
-                  required
-                  className='rounded border px-3 py-2'
-                />
-                <input
-                  name='url'
-                  defaultValue={link.url}
-                  required
-                  className='rounded border px-3 py-2'
-                />
-                <input
-                  name='description'
-                  defaultValue={link.description ?? ''}
-                  className='rounded border px-3 py-2'
-                />
-                <input
-                  name='icon'
-                  defaultValue={link.icon ?? ''}
-                  className='rounded border px-3 py-2'
-                />
-                <button className='rounded bg-blue-600 px-4 py-2 text-white'>
-                  Update
-                </button>
-              </form>
-              <form action={deleteLinkAction} className='mt-2'>
-                <input type='hidden' name='id' value={link.id} />
-                <button className='rounded bg-red-600 px-4 py-2 text-white'>
-                  Delete
-                </button>
-              </form>
-            </div>
-          ))}
-        </div>
+        <Links categories={categories} links={links} />
       </section>
     </main>
   );

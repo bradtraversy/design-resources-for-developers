@@ -6,6 +6,7 @@ import { JsonLd } from '@/components/json-ld';
 import { cn } from '@/lib/utils';
 import { Geist_Mono } from 'next/font/google';
 import { Suspense } from 'react';
+import { Toaster } from 'sonner';
 
 const geistMono = Geist_Mono({
   subsets: ['latin'],
@@ -119,6 +120,7 @@ export default function RootLayout({
           <main className='relative'>
             <Suspense fallback={null}>{children}</Suspense>
           </main>
+          <Toaster position='top-right' richColors />
         </TooltipProvider>
       </body>
     </html>

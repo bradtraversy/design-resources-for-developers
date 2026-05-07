@@ -124,17 +124,27 @@ export function Header({ className }: HeaderProps) {
 
             {/* Right Side Actions */}
             <div className='flex items-center gap-1.5'>
-              {/* Admin Logout Button */}
+              {/* Admin Actions */}
               {isAdmin && (
-                <Button
-                  variant='ghost'
-                  size='sm'
-                  onClick={handleLogout}
-                  className='hidden md:flex items-center gap-1.5'
-                >
-                  <LogOut className='w-4 h-4' />
-                  Logout
-                </Button>
+                <>
+                  <Link
+                    href='/admin'
+                    className='hidden md:flex items-center gap-1.5'
+                  >
+                    <Button variant='ghost' size='sm'>
+                      Admin
+                    </Button>
+                  </Link>
+                  <Button
+                    variant='ghost'
+                    size='sm'
+                    onClick={handleLogout}
+                    className='hidden md:flex items-center gap-1.5'
+                  >
+                    <LogOut className='w-4 h-4' />
+                    Logout
+                  </Button>
+                </>
               )}
 
               {/* Desktop Favorites Button */}

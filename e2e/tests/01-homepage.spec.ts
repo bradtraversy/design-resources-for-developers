@@ -1,4 +1,4 @@
-import { test, expect, Page } from '../fixtures/test-fixtures';
+import { test, expect } from '../fixtures/test-fixtures';
 import { selectors, urls } from '../helpers/selectors';
 import { helpers } from '../fixtures/test-fixtures';
 
@@ -152,10 +152,6 @@ test.describe('Homepage', () => {
     // Each card should have a title
     await expect(firstCard.locator(selectors.linkCardTitle)).toBeVisible();
 
-    // Each card should have a description or at least some content
-    const hasDescription = await firstCard
-      .locator(selectors.linkCardDescription)
-      .isVisible();
     // Description might be optional, so we just check the element exists
 
     // Each card should have a favorite button

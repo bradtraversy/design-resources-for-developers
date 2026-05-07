@@ -1,6 +1,6 @@
 'use client';
 
-import { useSyncExternalStore, useCallback, useEffect } from 'react';
+import { useSyncExternalStore, useCallback, useEffect, useMemo } from 'react';
 import type { Link } from '@/lib/types';
 
 const FAVORITES_STORAGE_KEY = 'design-resources-favorites';
@@ -76,7 +76,10 @@ export function useFavorites() {
     }
   }, []);
 
-  const favoriteIds = new Set(storedFavorites.map(f => f.id));
+  const favoriteIds = useMemo(
+    () => new Set(storedFavorites.map(f => f.id)),
+    [storedFavorites],
+  );
   const favoritesCount = storedFavorites.length;
 
   const isFavorite = useCallback(

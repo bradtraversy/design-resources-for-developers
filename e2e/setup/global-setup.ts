@@ -1,10 +1,11 @@
-import { chromium, FullConfig } from '@playwright/test';
+import { FullConfig } from '@playwright/test';
 import * as dotenv from 'dotenv';
 
 // Load environment variables
 dotenv.config();
 
 export default async function globalSetup(config: FullConfig) {
+  void config;
   // Start a web server or perform any necessary setup before tests
   console.log('Global setup: Preparing test environment...');
 

@@ -1,6 +1,7 @@
 import { FullConfig } from '@playwright/test';
 
 export default async function globalTeardown(config: FullConfig) {
+  void config;
   // Clean up after tests if needed
   console.log('Global teardown: Cleaning up test environment...');
 

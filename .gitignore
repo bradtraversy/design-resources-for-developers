@@ -48,3 +48,5 @@ generated
 .playwright
 playwright-report
 test-results
+
+db-backup.json

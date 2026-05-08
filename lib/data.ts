@@ -51,10 +51,12 @@ export async function getCategoryById(id: string): Promise<Category | null> {
 
 export async function getCategoryWithLinks(
   slug: string,
-  options?: { limit?: number; skip?: number },
+  options?: { limit?: number; skip?: number; sortBy?: SortOrder },
 ): Promise<CategoryWithLinks | null> {
-  const { limit, skip } = options || {};
-  const linksInclude: Prisma.LinkFindManyArgs = {};
+  const { limit, skip, sortBy } = options || {};
+  const linksInclude: Prisma.LinkFindManyArgs = {
+    orderBy: sortBy === 'popular' ? { clicks: 'desc' } : { createdAt: 'desc' },
+  };
   if (limit !== undefined) {
     linksInclude.take = limit;
   }
@@ -130,15 +132,20 @@ export async function getAllLinksCount(): Promise<number> {
   return count;
 }
 
+export type SortOrder = 'newest' | 'popular';
+
 export async function getAllLinksPaginated(options?: {
   limit?: number;
   skip?: number;
+  sortBy?: SortOrder;
 }): Promise<Link[]> {
-  const { limit, skip } = options || {};
+  const { limit, skip, sortBy } = options || {};
+  const orderBy: Prisma.LinkOrderByWithRelationInput =
+    sortBy === 'popular' ? { clicks: 'desc' } : { createdAt: 'desc' };
   const links = await prisma.link.findMany({
     take: limit,
     skip,
-    orderBy: { createdAt: 'desc' },
+    orderBy,
   });
   return links.map(l => ({
     ...l,
@@ -213,9 +220,13 @@ export async function deleteCategory(id: string): Promise<boolean> {
 }
 
 // Link operations
-export async function getLinksByCategory(categoryId: string): Promise<Link[]> {
+export async function getLinksByCategory(
+  categoryId: string,
+  sortBy?: SortOrder,
+): Promise<Link[]> {
   const links = await prisma.link.findMany({
     where: { categoryId },
+    orderBy: sortBy === 'popular' ? { clicks: 'desc' } : { createdAt: 'desc' },
   });
   return links.map(l => ({
     ...l,

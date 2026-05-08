@@ -16,6 +16,7 @@ import { cn } from '@/lib/utils';
 import type { Link as LinkType } from '@/lib/types';
 import { useFavorites } from '@/lib/hooks/use-favorites';
 import { ShareButtons } from '@/components/share-buttons';
+import { trackLinkClick } from '@/app/actions';
 
 type ViewMode = 'grid' | 'list';
 
@@ -76,6 +77,8 @@ export function LinkCard({
 
   const handleOpenResource = () => {
     setIsPreviewOpen(false);
+    // Track the click before opening the resource
+    trackLinkClick(link.id);
     setTimeout(() => {
       window.open(link.url, '_blank', 'noopener,noreferrer');
     }, 100);

@@ -8,6 +8,7 @@ import {
 } from '../actions';
 import { CategoryNav } from '@/components/category-nav';
 import { ViewToggle } from '@/components/view-toggle';
+import { SortDropdown } from '@/components/sort-dropdown';
 import { LinkCard } from '@/components/link-card';
 import { SearchInput } from '@/components/search-input';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
@@ -25,6 +26,7 @@ import {
 } from '@/components/ui/pagination';
 
 type ViewMode = 'grid' | 'list';
+type SortOrder = 'newest' | 'popular';
 
 interface CategoryPageProps {
   params: Promise<{
@@ -33,6 +35,7 @@ interface CategoryPageProps {
   searchParams: Promise<{
     page?: string;
     view?: string;
+    sort?: string;
   }>;
 }
 
@@ -70,15 +73,18 @@ async function CategoryContent({
   slug,
   page,
   view,
+  sortBy,
 }: {
   slug: string;
   page: number;
   view: ViewMode;
+  sortBy: SortOrder;
 }) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
   const category = await getCategoryWithLinksAction(slug, {
     limit: ITEMS_PER_PAGE,
     skip,
+    sortBy,
   });
   const totalLinks = await getCategoryWithLinksCountAction(slug);
   const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
@@ -114,11 +120,12 @@ async function CategoryContent({
         />
       </div>
 
-      {/* View Toggle */}
-      <div className='flex justify-end mb-4'>
+      {/* View Toggle and Sort */}
+      <div className='flex justify-end items-center gap-2 mb-4'>
         <Suspense fallback={null}>
           <ViewToggle />
         </Suspense>
+        <SortDropdown defaultValue={sortBy} />
       </div>
 
       {/* Links Grid */}
@@ -234,10 +241,11 @@ export default async function CategoryPage({
   searchParams,
 }: CategoryPageProps) {
   const { slug } = await params;
-  const { page, view } = await searchParams;
+  const { page, view, sort } = await searchParams;
   const currentPage = page ? parseInt(page, 10) : 1;
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
   const currentView = (view as ViewMode) || 'grid';
+  const currentSort = (sort as SortOrder) || 'newest';
   const category = await getCategoryBySlugAction(slug);
 
   return (
@@ -276,7 +284,12 @@ export default async function CategoryPage({
 
           {/* Category Content */}
           <Suspense fallback={<LoadingState />}>
-            <CategoryContent slug={slug} page={validPage} view={currentView} />
+            <CategoryContent
+              slug={slug}
+              page={validPage}
+              view={currentView}
+              sortBy={currentSort}
+            />
           </Suspense>
         </main>
 

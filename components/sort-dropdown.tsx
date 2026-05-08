@@ -10,7 +10,7 @@ import {
 } from '@/components/ui/select';
 import { cn } from '@/lib/utils';
 
-type SortOrder = 'newest' | 'popular';
+type SortOrder = 'newest' | 'popular' | 'az' | 'za';
 
 interface SortDropdownProps {
   className?: string;
@@ -48,6 +48,8 @@ export function SortDropdown({
         <SelectContent>
           <SelectItem value='newest'>Newest</SelectItem>
           <SelectItem value='popular'>Most Popular</SelectItem>
+          <SelectItem value='az'>A-Z</SelectItem>
+          <SelectItem value='za'>Z-A</SelectItem>
         </SelectContent>
       </Select>
     </div>

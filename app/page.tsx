@@ -39,7 +39,7 @@ async function CategoriesNav() {
 const ITEMS_PER_PAGE = 12;
 
 type ViewMode = 'grid' | 'list';
-type SortOrder = 'newest' | 'popular';
+type SortOrder = 'newest' | 'popular' | 'az' | 'za';
 
 interface HomePageProps {
   searchParams: Promise<{
@@ -66,6 +66,15 @@ async function LinksByCategory({
   });
   const totalLinks = await getAllLinksCountAction();
   const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
+
+  // Helper to build URL with preserved query params
+  const buildUrl = (pageNum: number) => {
+    const params = new URLSearchParams();
+    params.set('page', String(pageNum));
+    if (view !== 'grid') params.set('view', view);
+    if (sortBy !== 'newest') params.set('sort', sortBy);
+    return `/?${params.toString()}`;
+  };
 
   if (links.length === 0) {
     return (
@@ -116,13 +125,13 @@ async function LinksByCategory({
           <PaginationContent>
             {page > 1 && (
               <PaginationItem>
-                <PaginationPrevious href={`/?page=${page - 1}`} />
+                <PaginationPrevious href={buildUrl(page - 1)} />
               </PaginationItem>
             )}
 
             {/* First page */}
             <PaginationItem>
-              <PaginationLink href='/?page=1' isActive={page === 1}>
+              <PaginationLink href={buildUrl(1)} isActive={page === 1}>
                 1
               </PaginationLink>
             </PaginationItem>
@@ -137,7 +146,7 @@ async function LinksByCategory({
             {/* Previous page */}
             {page > 2 && (
               <PaginationItem>
-                <PaginationLink href={`/?page=${page - 1}`}>
+                <PaginationLink href={buildUrl(page - 1)}>
                   {page - 1}
                 </PaginationLink>
               </PaginationItem>
@@ -146,7 +155,7 @@ async function LinksByCategory({
             {/* Current page (if not first or last) */}
             {page !== 1 && page !== totalPages && (
               <PaginationItem>
-                <PaginationLink href={`/?page=${page}`} isActive>
+                <PaginationLink href={buildUrl(page)} isActive>
                   {page}
                 </PaginationLink>
               </PaginationItem>
@@ -155,7 +164,7 @@ async function LinksByCategory({
             {/* Next page */}
             {page < totalPages - 1 && (
               <PaginationItem>
-                <PaginationLink href={`/?page=${page + 1}`}>
+                <PaginationLink href={buildUrl(page + 1)}>
                   {page + 1}
                 </PaginationLink>
               </PaginationItem>
@@ -172,7 +181,7 @@ async function LinksByCategory({
             {totalPages > 1 && (
               <PaginationItem>
                 <PaginationLink
-                  href={`/?page=${totalPages}`}
+                  href={buildUrl(totalPages)}
                   isActive={page === totalPages}
                 >
                   {totalPages}
@@ -182,7 +191,7 @@ async function LinksByCategory({
 
             {page < totalPages && (
               <PaginationItem>
-                <PaginationNext href={`/?page=${page + 1}`} />
+                <PaginationNext href={buildUrl(page + 1)} />
               </PaginationItem>
             )}
           </PaginationContent>

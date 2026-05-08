@@ -54,8 +54,18 @@ export async function getCategoryWithLinks(
   options?: { limit?: number; skip?: number; sortBy?: SortOrder },
 ): Promise<CategoryWithLinks | null> {
   const { limit, skip, sortBy } = options || {};
+  let orderBy: Prisma.LinkOrderByWithRelationInput;
+  if (sortBy === 'popular') {
+    orderBy = { clicks: 'desc' };
+  } else if (sortBy === 'az') {
+    orderBy = { title: 'asc' };
+  } else if (sortBy === 'za') {
+    orderBy = { title: 'desc' };
+  } else {
+    orderBy = { createdAt: 'desc' };
+  }
   const linksInclude: Prisma.LinkFindManyArgs = {
-    orderBy: sortBy === 'popular' ? { clicks: 'desc' } : { createdAt: 'desc' },
+    orderBy,
   };
   if (limit !== undefined) {
     linksInclude.take = limit;
@@ -132,7 +142,7 @@ export async function getAllLinksCount(): Promise<number> {
   return count;
 }
 
-export type SortOrder = 'newest' | 'popular';
+export type SortOrder = 'newest' | 'popular' | 'az' | 'za';
 
 export async function getAllLinksPaginated(options?: {
   limit?: number;
@@ -140,8 +150,16 @@ export async function getAllLinksPaginated(options?: {
   sortBy?: SortOrder;
 }): Promise<Link[]> {
   const { limit, skip, sortBy } = options || {};
-  const orderBy: Prisma.LinkOrderByWithRelationInput =
-    sortBy === 'popular' ? { clicks: 'desc' } : { createdAt: 'desc' };
+  let orderBy: Prisma.LinkOrderByWithRelationInput;
+  if (sortBy === 'popular') {
+    orderBy = { clicks: 'desc' };
+  } else if (sortBy === 'az') {
+    orderBy = { title: 'asc' };
+  } else if (sortBy === 'za') {
+    orderBy = { title: 'desc' };
+  } else {
+    orderBy = { createdAt: 'desc' };
+  }
   const links = await prisma.link.findMany({
     take: limit,
     skip,
@@ -224,9 +242,19 @@ export async function getLinksByCategory(
   categoryId: string,
   sortBy?: SortOrder,
 ): Promise<Link[]> {
+  let orderBy: Prisma.LinkOrderByWithRelationInput;
+  if (sortBy === 'popular') {
+    orderBy = { clicks: 'desc' };
+  } else if (sortBy === 'az') {
+    orderBy = { title: 'asc' };
+  } else if (sortBy === 'za') {
+    orderBy = { title: 'desc' };
+  } else {
+    orderBy = { createdAt: 'desc' };
+  }
   const links = await prisma.link.findMany({
     where: { categoryId },
-    orderBy: sortBy === 'popular' ? { clicks: 'desc' } : { createdAt: 'desc' },
+    orderBy,
   });
   return links.map(l => ({
     ...l,

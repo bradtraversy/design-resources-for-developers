@@ -26,7 +26,7 @@ import {
 } from '@/components/ui/pagination';
 
 type ViewMode = 'grid' | 'list';
-type SortOrder = 'newest' | 'popular';
+type SortOrder = 'newest' | 'popular' | 'az' | 'za';
 
 interface CategoryPageProps {
   params: Promise<{
@@ -88,6 +88,15 @@ async function CategoryContent({
   });
   const totalLinks = await getCategoryWithLinksCountAction(slug);
   const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
+
+  // Helper to build URL with preserved query params
+  const buildUrl = (pageNum: number) => {
+    const params = new URLSearchParams();
+    params.set('page', String(pageNum));
+    if (view !== 'grid') params.set('view', view);
+    if (sortBy !== 'newest') params.set('sort', sortBy);
+    return `/${slug}?${params.toString()}`;
+  };
 
   if (!category) {
     notFound();
@@ -156,13 +165,13 @@ async function CategoryContent({
           <PaginationContent>
             {page > 1 && (
               <PaginationItem>
-                <PaginationPrevious href={`/${slug}?page=${page - 1}`} />
+                <PaginationPrevious href={buildUrl(page - 1)} />
               </PaginationItem>
             )}
 
             {/* First page */}
             <PaginationItem>
-              <PaginationLink href={`/${slug}?page=1`} isActive={page === 1}>
+              <PaginationLink href={buildUrl(1)} isActive={page === 1}>
                 1
               </PaginationLink>
             </PaginationItem>
@@ -177,7 +186,7 @@ async function CategoryContent({
             {/* Previous page */}
             {page > 2 && (
               <PaginationItem>
-                <PaginationLink href={`/${slug}?page=${page - 1}`}>
+                <PaginationLink href={buildUrl(page - 1)}>
                   {page - 1}
                 </PaginationLink>
               </PaginationItem>
@@ -186,7 +195,7 @@ async function CategoryContent({
             {/* Current page */}
             {page !== 1 && page !== totalPages && (
               <PaginationItem>
-                <PaginationLink href={`/${slug}?page=${page}`} isActive>
+                <PaginationLink href={buildUrl(page)} isActive>
                   {page}
                 </PaginationLink>
               </PaginationItem>
@@ -195,7 +204,7 @@ async function CategoryContent({
             {/* Next page */}
             {page < totalPages - 1 && (
               <PaginationItem>
-                <PaginationLink href={`/${slug}?page=${page + 1}`}>
+                <PaginationLink href={buildUrl(page + 1)}>
                   {page + 1}
                 </PaginationLink>
               </PaginationItem>
@@ -212,7 +221,7 @@ async function CategoryContent({
             {totalPages > 1 && (
               <PaginationItem>
                 <PaginationLink
-                  href={`/${slug}?page=${totalPages}`}
+                  href={buildUrl(totalPages)}
                   isActive={page === totalPages}
                 >
                   {totalPages}
@@ -222,7 +231,7 @@ async function CategoryContent({
 
             {page < totalPages && (
               <PaginationItem>
-                <PaginationNext href={`/${slug}?page=${page + 1}`} />
+                <PaginationNext href={buildUrl(page + 1)} />
               </PaginationItem>
             )}
           </PaginationContent>

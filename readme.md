@@ -9,6 +9,7 @@ A curated collection of design resources for developers. Built with Next.js, thi
 - **Share Buttons** - Share resources to social media (Twitter, LinkedIn, Facebook, Reddit, Email) with copy link functionality
 - **Autocomplete Suggestions** - Show search suggestions as users type with keyboard navigation
 - **View Toggle** - Switch between Grid view and List view for browsing resources
+- **Sort by Popularity** - Sort resources by most clicked/popular to discover trending resources
 - **Quick Preview Modal** - Preview resource details in a modal without leaving the site
 - **Favorites/Bookmarks** - Save your favorite resources to local storage for quick access
 - **Global Search** - Search across all categories from anywhere via the header search bar
@@ -182,6 +183,26 @@ The View Toggle is available on:
 - Favorites page
 
 On mobile devices, only icons are shown to save space.
+
+## 📊 Sort by Popularity
+
+The Sort by Popularity feature allows you to sort resources by their click count, helping you discover the most popular and trending resources:
+
+- **Newest** (default): Display resources sorted by creation date, newest first
+- **Most Popular**: Display resources sorted by click count, most clicked first
+
+### How to Use
+
+- Click the "Sort by" dropdown in the top-right corner of any page
+- Select "Newest" to sort by date or "Most Popular" to sort by click count
+- The sort preference persists in the URL (e.g., `?sort=popular`)
+- Share the URL with others to share your preferred sort order
+
+### How Click Tracking Works
+
+- Each time you click "Open Resource" on a link card, the click is tracked
+- Click counts are stored in the database and used for popularity sorting
+- This helps identify which resources are most valuable to the community
 
 ## Project Structure
 

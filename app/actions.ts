@@ -26,6 +26,7 @@ import {
   searchLinksByCategory,
   searchLinksWithCategorySlug,
   incrementLinkClicks,
+  SortOrder,
 } from '@/lib/data';
 import { revalidatePath } from 'next/cache';
 import { getCurrentAdminEmail } from '@/lib/admin-auth';
@@ -47,7 +48,7 @@ export async function getCategoryBySlugAction(slug: string) {
 
 export async function getCategoryWithLinksAction(
   slug: string,
-  options?: { limit?: number; skip?: number },
+  options?: { limit?: number; skip?: number; sortBy?: SortOrder },
 ) {
   return getCategoryWithLinks(slug, options);
 }
@@ -74,6 +75,7 @@ export async function getAllLinksCountAction() {
 export async function getAllLinksPaginatedAction(options?: {
   limit?: number;
   skip?: number;
+  sortBy?: SortOrder;
 }) {
   return getAllLinksPaginated(options);
 }

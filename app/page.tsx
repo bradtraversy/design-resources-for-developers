@@ -8,6 +8,7 @@ import {
 } from './actions';
 import { CategoryNav } from '@/components/category-nav';
 import { ViewToggle } from '@/components/view-toggle';
+import { SortDropdown } from '@/components/sort-dropdown';
 import { LinkCard } from '@/components/link-card';
 import { LinkGridSkeleton, NavSkeleton } from '@/components/skeletons';
 import { cn } from '@/lib/utils';
@@ -38,25 +39,30 @@ async function CategoriesNav() {
 const ITEMS_PER_PAGE = 12;
 
 type ViewMode = 'grid' | 'list';
+type SortOrder = 'newest' | 'popular';
 
 interface HomePageProps {
   searchParams: Promise<{
     page?: string;
     view?: string;
+    sort?: string;
   }>;
 }
 
 async function LinksByCategory({
   page,
   view,
+  sortBy,
 }: {
   page: number;
   view: ViewMode;
+  sortBy: SortOrder;
 }) {
   const skip = (page - 1) * ITEMS_PER_PAGE;
   const links = await getAllLinksPaginatedAction({
     limit: ITEMS_PER_PAGE,
     skip,
+    sortBy,
   });
   const totalLinks = await getAllLinksCountAction();
   const totalPages = Math.ceil(totalLinks / ITEMS_PER_PAGE);
@@ -245,10 +251,11 @@ async function StatsDisplay() {
 }
 
 export default async function HomePage({ searchParams }: HomePageProps) {
-  const { page, view } = await searchParams;
+  const { page, view, sort } = await searchParams;
   const currentPage = page ? parseInt(page, 10) : 1;
   const validPage = isNaN(currentPage) || currentPage < 1 ? 1 : currentPage;
   const currentView = (view as ViewMode) || 'grid';
+  const currentSort = (sort as SortOrder) || 'newest';
 
   return (
     <div className='min-h-screen bg-slate-50 dark:bg-slate-950'>
@@ -280,16 +287,21 @@ export default async function HomePage({ searchParams }: HomePageProps) {
           </Suspense>
         </div>
 
-        {/* View Toggle */}
-        <div className='flex justify-end mb-6 animate-fade-in'>
+        {/* View Toggle and Sort */}
+        <div className='flex justify-end items-center gap-2 mb-6 animate-fade-in'>
           <Suspense fallback={null}>
             <ViewToggleWrapper />
           </Suspense>
+          <SortDropdown defaultValue={currentSort} />
         </div>
 
         {/* Links Grid/List */}
         <Suspense fallback={<LinkGridSkeleton />}>
-          <LinksByCategory page={validPage} view={currentView} />
+          <LinksByCategory
+            page={validPage}
+            view={currentView}
+            sortBy={currentSort}
+          />
         </Suspense>
       </main>
     </div>

@@ -1,4 +1,4 @@
-import dotenv from 'dotenv';
+import * as dotenv from 'dotenv';
 dotenv.config();
 import { PrismaClient } from '@prisma/client';
 import * as fs from 'fs';
@@ -6,205 +6,6 @@ import * as path from 'path';
 
 // Initialize Prisma client
 const prisma = new PrismaClient();
-
-// Categories from the Table of Contents in resources.md
-const CATEGORIES = [
-  {
-    name: 'UI Graphics',
-    description:
-      'Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc.',
-    slug: 'ui-graphics',
-    order: 1,
-  },
-  {
-    name: 'Fonts',
-    description: 'Websites that offer free fonts as well as font-based tools',
-    slug: 'fonts',
-    order: 2,
-  },
-  {
-    name: 'Colors',
-    description:
-      'Websites and resources that help with choices related to colors',
-    slug: 'colors',
-    order: 3,
-  },
-  {
-    name: 'Icons',
-    description: 'Resources for Icons including png, svg and more',
-    slug: 'icons',
-    order: 4,
-  },
-  {
-    name: 'Logos',
-    description: 'Resources for Logos',
-    slug: 'logos',
-    order: 5,
-  },
-  {
-    name: 'Favicons',
-    description: 'Resources for Favicons',
-    slug: 'favicons',
-    order: 6,
-  },
-  {
-    name: 'Icon Fonts',
-    description: 'Resources for Icon Fonts',
-    slug: 'icon-fonts',
-    order: 7,
-  },
-  {
-    name: 'Stock Photos',
-    description: 'Resources for Stock Photos',
-    slug: 'stock-photos',
-    order: 8,
-  },
-  {
-    name: 'Stock Videos',
-    description: 'Resources for Stock Videos',
-    slug: 'stock-videos',
-    order: 9,
-  },
-  {
-    name: 'Stock Music & Sound Effects',
-    description: 'Resources for Stock Music & Sound Effects',
-    slug: 'stock-music--sound-effects',
-    order: 10,
-  },
-  {
-    name: 'Vectors & Clip Art',
-    description: 'Resources for Vectors & Clip Art',
-    slug: 'vectors--clip-art',
-    order: 11,
-  },
-  {
-    name: 'Product & Image Mockups',
-    description: 'Resources for Product & Image Mockups',
-    slug: 'product--image-mockups',
-    order: 12,
-  },
-  {
-    name: 'HTML & CSS Templates',
-    description: 'Resources for HTML & CSS Templates',
-    slug: 'html--css-templates',
-    order: 13,
-  },
-  {
-    name: 'CSS Frameworks',
-    description: 'Resources for CSS Frameworks',
-    slug: 'css-frameworks',
-    order: 14,
-  },
-  {
-    name: 'CSS Methodologies',
-    description: 'Resources for CSS Methodologies',
-    slug: 'css-methodologies',
-    order: 15,
-  },
-  {
-    name: 'CSS Animations',
-    description: 'Resources for CSS Animations',
-    slug: 'css-animations',
-    order: 16,
-  },
-  {
-    name: 'Javascript Animation Libraries',
-    description: 'Resources for Javascript Animation Libraries',
-    slug: 'javascript-animation-libraries',
-    order: 17,
-  },
-  {
-    name: 'Javascript Chart Libraries',
-    description: 'Resources for Javascript Chart Libraries',
-    slug: 'javascript-chart-libraries',
-    order: 18,
-  },
-  {
-    name: 'UI Components & Kits',
-    description: 'Resources for UI Components & Kits',
-    slug: 'ui-components--kits',
-    order: 19,
-  },
-  {
-    name: 'React UI Libraries',
-    description: 'Resources for React UI Libraries',
-    slug: 'react-ui-libraries',
-    order: 20,
-  },
-  {
-    name: 'Vue UI Libraries',
-    description: 'Resources for Vue UI Libraries',
-    slug: 'vue-ui-libraries',
-    order: 21,
-  },
-  {
-    name: 'Angular UI Libraries',
-    description: 'Resources for Angular UI Libraries',
-    slug: 'angular-ui-libraries',
-    order: 22,
-  },
-  {
-    name: 'Svelte UI Libraries',
-    description: 'Resources for Svelte UI Libraries',
-    slug: 'svelte-ui-libraries',
-    order: 23,
-  },
-  {
-    name: 'React Native UI Libraries',
-    description: 'Resources for React Native UI Libraries',
-    slug: 'react-native-ui-libraries',
-    order: 24,
-  },
-  {
-    name: 'Design Systems & Style Guides',
-    description: 'Resources for Design Systems & Style Guides',
-    slug: 'design-systems--style-guides',
-    order: 25,
-  },
-  {
-    name: 'Online Design Tools',
-    description: 'Resources for Online Design Tools',
-    slug: 'online-design-tools',
-    order: 26,
-  },
-  {
-    name: 'Downloadable Design Software',
-    description: 'Resources for Downloadable Design Software',
-    slug: 'downloadable-design-software',
-    order: 27,
-  },
-  {
-    name: 'Design Inspiration',
-    description: 'Resources for Design Inspiration',
-    slug: 'design-inspiration',
-    order: 28,
-  },
-  {
-    name: 'Image Compression',
-    description: 'Resources for Image Compression',
-    slug: 'image-compression',
-    order: 29,
-  },
-  {
-    name: 'Chrome Extensions',
-    description: 'Resources for Chrome Extensions',
-    slug: 'chrome-extensions',
-    order: 30,
-  },
-  {
-    name: 'Firefox Extensions',
-    description: 'Resources for Firefox Extensions',
-    slug: 'firefox-extensions',
-    order: 31,
-  },
-  {
-    name: 'AI Graphic Design Tools',
-    description: 'Resources for AI Graphic Design Tools',
-    slug: 'ai-graphic-design-tools',
-    order: 32,
-  },
-  { name: 'Others', description: 'Other resources', slug: 'others', order: 33 },
-];
 
 /**
  * Parse links from a markdown table section
@@ -289,8 +90,15 @@ function extractSections(content: string): Map<string, string> {
   return sections;
 }
 
+/**
+ * Create a unique key for a link based on title and URL
+ */
+function createLinkKey(title: string, url: string): string {
+  return `${title}:::${url}`;
+}
+
 async function main() {
-  console.log('Starting seed process...');
+  console.log('Starting smart seed process...');
 
   // Read the resources.md file
   const resourcesPath = path.join(process.cwd(), 'resources.md');
@@ -299,62 +107,163 @@ async function main() {
   // Extract sections for each category
   const sections = extractSections(content);
 
-  // Create categories and links
-  let totalLinks = 0;
+  // Get all existing categories and links from database
+  const existingCategories = await prisma.category.findMany({
+    include: {
+      links: true,
+    },
+  });
 
-  for (const category of CATEGORIES) {
-    console.log(`Creating category: ${category.name}`);
+  // Create maps for efficient lookup
+  const existingCategoryByName = new Map(
+    existingCategories.map(cat => [cat.name, cat]),
+  );
 
-    // Get section content for this category
-    const sectionContent = sections.get(category.name) || '';
+  // Track statistics
+  let totalCategoriesAdded = 0;
+  let totalCategoriesUpdated = 0;
+  let totalCategoriesRemoved = 0;
+  let totalLinksAdded = 0;
+  let totalLinksUpdated = 0;
+  let totalLinksRemoved = 0;
+
+  // Process each category from resources.md
+  for (const [categoryName, sectionContent] of sections) {
     const links = parseLinksFromSection(sectionContent);
 
-    // Create category
-    const createdCategory = await prisma.category.upsert({
-      where: { slug: category.slug },
-      update: {
-        name: category.name,
-        description: category.description,
-        order: category.order,
-      },
-      create: {
-        name: category.name,
-        slug: category.slug,
-        description: category.description,
-        order: category.order,
-      },
+    // Check if category exists by name
+    const existingCategory = existingCategoryByName.get(categoryName);
+    const description = sectionContent.match(/>\s*([^\n]+)/)?.[1] || null;
+
+    let categoryId: string;
+
+    if (existingCategory) {
+      // Category exists - check if it needs updating
+      const needsUpdate =
+        existingCategory.name !== categoryName ||
+        existingCategory.description !== description;
+
+      if (needsUpdate) {
+        const updatedCategory = await prisma.category.update({
+          where: { id: existingCategory.id },
+          data: {
+            name: categoryName,
+            description,
+          },
+        });
+        categoryId = updatedCategory.id;
+        totalCategoriesUpdated++;
+        console.log(`Updated category: ${categoryName}`);
+      } else {
+        categoryId = existingCategory.id;
+      }
+    } else {
+      // Create new category
+      // Generate slug from name
+      const slug = categoryName
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '');
+
+      const newCategory = await prisma.category.create({
+        data: {
+          name: categoryName,
+          slug,
+          description,
+          order: 0,
+        },
+      });
+      categoryId = newCategory.id;
+      totalCategoriesAdded++;
+      console.log(`Added category: ${categoryName}`);
+    }
+
+    // Fetch current links for this category
+    const dbCategory = await prisma.category.findUnique({
+      where: { id: categoryId },
+      include: { links: true },
     });
 
-    console.log(
-      `  - Created/updated category: ${createdCategory.name} (${links.length} links)`,
+    const existingLinksMap = new Map(
+      (dbCategory?.links || []).map(link => [
+        createLinkKey(link.title, link.url),
+        link,
+      ]),
+    );
+    const newLinksMap = new Map(
+      links.map(link => [createLinkKey(link.title, link.url), link]),
     );
 
-    // Delete existing links for this category
-    await prisma.link.deleteMany({
-      where: { categoryId: createdCategory.id },
-    });
+    // Find links to add (in new but not in existing)
+    for (const [key, newLink] of newLinksMap) {
+      if (!existingLinksMap.has(key)) {
+        await prisma.link.create({
+          data: {
+            title: newLink.title,
+            url: newLink.url,
+            description: newLink.description,
+            categoryId,
+          },
+        });
+        totalLinksAdded++;
+      } else {
+        // Check if link needs updating (description changed)
+        const existingLink = existingLinksMap.get(key)!;
+        if (existingLink.description !== newLink.description) {
+          await prisma.link.update({
+            where: { id: existingLink.id },
+            data: { description: newLink.description },
+          });
+          totalLinksUpdated++;
+        }
+      }
+    }
 
-    // Create links for this category
-    if (links.length > 0) {
-      const linkData = links.map(link => ({
-        title: link.title,
-        url: link.url,
-        description: link.description,
-        categoryId: createdCategory.id,
-      }));
+    // Find links to remove (in existing but not in new)
+    for (const [key, existingLink] of existingLinksMap) {
+      if (!newLinksMap.has(key)) {
+        await prisma.link.delete({
+          where: { id: existingLink.id },
+        });
+        totalLinksRemoved++;
+      }
+    }
 
-      await prisma.link.createMany({
-        data: linkData,
+    console.log(
+      `  - Category "${categoryName}": ${links.length} links (added: ${
+        [...newLinksMap].filter(([k]) => !existingLinksMap.has(k)).length
+      }, updated: ${
+        [...newLinksMap].filter(
+          ([k]) =>
+            existingLinksMap.has(k) &&
+            existingLinksMap.get(k)?.description !==
+              newLinksMap.get(k)?.description,
+        ).length
+      }, removed: ${
+        [...existingLinksMap].filter(([k]) => !newLinksMap.has(k)).length
+      })`,
+    );
+  }
+
+  // Find categories to remove (in database but not in resources.md)
+  for (const category of existingCategories) {
+    if (!sections.has(category.name)) {
+      // Delete all links for this category (cascade will handle this)
+      await prisma.category.delete({
+        where: { id: category.id },
       });
-
-      console.log(`  - Added ${links.length} links`);
-      totalLinks += links.length;
+      totalCategoriesRemoved++;
+      console.log(`Removed category: ${category.name}`);
     }
   }
 
-  console.log(`\nSeed completed successfully!`);
-  console.log(`Total categories: ${CATEGORIES.length}`);
-  console.log(`Total links: ${totalLinks}`);
+  console.log('\nSeed completed successfully!');
+  console.log(
+    `Categories - Added: ${totalCategoriesAdded}, Updated: ${totalCategoriesUpdated}, Removed: ${totalCategoriesRemoved}`,
+  );
+  console.log(
+    `Links - Added: ${totalLinksAdded}, Updated: ${totalLinksUpdated}, Removed: ${totalLinksRemoved}`,
+  );
 }
 
 main()

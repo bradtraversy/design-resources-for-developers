@@ -20,6 +20,15 @@ A curated collection of design resources for developers. Built with Next.js, thi
 - **Dark Mode Support** - Automatic theme based on system preferences
 - **Server-Side Rendering** - Fast initial loads with Next.js App Router
 
+### Admin & Management Features
+
+- **Bulk Import** - Import resources from JSON/CSV files for quick database population
+- **Resource Submission** - Allow users to submit new resources for admin approval
+- **Analytics Dashboard** - Track and display:
+  - Most popular resources
+  - Most popular categories
+  - Daily/weekly/monthly trends
+
 ## 🔄 CI/CD Automation
 
 This project uses GitHub Actions for automated database seeding:
@@ -204,6 +213,41 @@ The Sort by Popularity feature allows you to sort resources by their click count
 - Click counts are stored in the database and used for popularity sorting
 - This helps identify which resources are most valuable to the community
 
+## 🔐 Admin Dashboard
+
+The admin dashboard provides tools for managing resources:
+
+### Access
+
+Navigate to `/admin/login` and enter your admin credentials to access the dashboard.
+
+### Features
+
+- **Manage Resources**: Add, update, and delete categories and links
+- **Bulk Import**: Import resources from JSON or CSV format
+- **Review Submissions**: Approve or reject user-submitted resources
+- **Analytics**: View popular resources, categories, and usage trends
+
+### Bulk Import Format
+
+JSON format:
+```json
+[
+  {
+    "title": "Resource Name",
+    "url": "https://example.com",
+    "description": "Description",
+    "category": "Category Name"
+  }
+]
+```
+
+CSV format:
+```
+title,url,description,category
+Resource Name,https://example.com,Description,Category Name
+```
+
 ## Project Structure
 
 ```
@@ -215,6 +259,10 @@ The Sort by Popularity feature allows you to sort resources by their click count
 │   │   └── page.tsx
 │   ├── [slug]/            # Dynamic category pages
 │   │   └── page.tsx
+│   ├── admin/             # Admin dashboard
+│   │   └── page.tsx
+│   ├── submit/            # Resource submission page
+│   │   └── page.tsx
 │   └── favorites/         # Favorites page
 │       └── page.tsx
 ├── components/            # React components
@@ -224,9 +272,15 @@ The Sort by Popularity feature allows you to sort resources by their click count
 │   ├── favorites-button.tsx # Favorites navigation button
 │   ├── search-input.tsx  # Search component
 │   ├── skeletons.tsx     # Loading skeletons
+│   ├── admin/            # Admin components
+│   │   ├── AdminPageContent.tsx
+│   │   ├── AnalyticsDashboard.tsx
+│   │   ├── BulkImportForm.tsx
+│   │   └── SubmissionsReview.tsx
 │   └── ui/               # UI components (Button, Card, etc.)
 ├── lib/                   # Utility functions and data layer
 │   ├── data.ts           # Database operations
+│   ├── analytics.ts      # Analytics functions
 │   ├── db.ts             # Prisma client
 │   ├── schemas.ts        # Zod validation schemas
 │   ├── types.ts          # TypeScript types

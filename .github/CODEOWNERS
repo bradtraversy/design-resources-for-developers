@@ -1,0 +1,14 @@
+# Code Owners
+# https://help.github.com/articles/about-code-owners/
+
+# Default owner for all files
+* @zntb
+
+# Code owner for resources.md - requires approval for changes
+resources.md @zntb
+
+# Code owner for CI/CD workflow
+.github/workflows/seed-resources.yml @zntb
+
+# Code owner for database seeding
+prisma/seed.ts @zntb

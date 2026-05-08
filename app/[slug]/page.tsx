@@ -108,7 +108,10 @@ async function CategoryContent({
 
       {/* Search */}
       <div className='max-w-md mx-auto'>
-        <SearchInput placeholder={`Search in ${category.name}...`} />
+        <SearchInput
+          placeholder={`Search in ${category.name}...`}
+          categorySlug={slug}
+        />
       </div>
 
       {/* View Toggle */}

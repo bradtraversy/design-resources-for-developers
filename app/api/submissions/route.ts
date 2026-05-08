@@ -30,7 +30,10 @@ export async function POST(request: NextRequest) {
       email: data.email,
     });
 
-    return NextResponse.json({ success: true, data: submission });
+    return NextResponse.json(
+      { success: true, data: submission },
+      { status: 200 },
+    );
   } catch (error) {
     return NextResponse.json(
       {
@@ -60,7 +63,10 @@ export async function GET(request: NextRequest) {
 
   try {
     const submissions = await getResourceSubmissions(status);
-    return NextResponse.json({ success: true, data: submissions });
+    return NextResponse.json(
+      { success: true, data: submissions },
+      { status: 200 },
+    );
   } catch (error) {
     return NextResponse.json(
       {
@@ -103,7 +109,10 @@ export async function PATCH(request: NextRequest) {
       );
     }
 
-    return NextResponse.json({ success: true, data: submission });
+    return NextResponse.json(
+      { success: true, data: submission },
+      { status: 200 },
+    );
   } catch (error) {
     return NextResponse.json(
       {
@@ -133,7 +142,7 @@ export async function DELETE(request: NextRequest) {
 
   try {
     await deleteResourceSubmission(id);
-    return NextResponse.json({ success: true });
+    return NextResponse.json({ success: true }, { status: 200 });
   } catch (error) {
     return NextResponse.json(
       {

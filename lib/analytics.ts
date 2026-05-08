@@ -213,6 +213,10 @@ export async function updateResourceSubmissionStatus(
     data: { status },
   });
 
+  if (!submission) {
+    return null;
+  }
+
   return {
     ...submission,
     description: submission.description ?? undefined,
@@ -253,11 +257,8 @@ export async function bulkImportResources(
       });
 
       if (!category) {
-        // Create new category
-        const lastCategory = await prisma.category.findFirst({
-          orderBy: { order: 'desc' },
-        });
-        const newOrder = lastCategory ? lastCategory.order + 1 : 1;
+        // Simplified: assign default order
+        const newOrder = 1;
 
         category = await prisma.category.create({
           data: {

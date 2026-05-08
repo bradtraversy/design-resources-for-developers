@@ -222,6 +222,11 @@ export async function updateCategory(
     where: { id },
     data: updateData,
   });
+
+  if (!category) {
+    return null;
+  }
+
   return {
     ...category,
     description: nullToUndefined(category.description),

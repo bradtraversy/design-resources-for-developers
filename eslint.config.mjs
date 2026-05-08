@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     'out/**',
     'build/**',
     'next-env.d.ts',
+    // Jest ignores:
+    'coverage',
     // Playwright ignores:
     'playwright-report',
     'test-results',

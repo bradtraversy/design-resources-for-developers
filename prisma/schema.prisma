@@ -37,3 +37,26 @@ model Link {
   @@index([url])
   @@index([isFeatured])
 }
+
+model ResourceSubmission {
+  id          String           @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  url         String
+  description String?
+  icon        String?
+  category    String?
+  submitter   String?
+  email       String?
+  status      SubmissionStatus @default(PENDING)
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+
+  @@index([status])
+  @@index([createdAt])
+}
+
+enum SubmissionStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}

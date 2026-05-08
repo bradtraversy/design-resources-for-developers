@@ -87,9 +87,9 @@ export async function createCategory(
     await ensureAdmin();
     const data = {
       name: formData.get('name') as string,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
-      color: formData.get('color') as string | undefined,
+      description: formData.get('description') || undefined,
+      icon: formData.get('icon') || undefined,
+      color: formData.get('color') || undefined,
     };
 
     const validated = categorySchema.parse(data);
@@ -111,10 +111,10 @@ export async function updateCategoryAction(
     await ensureAdmin();
     const data = {
       id: formData.get('id') as string,
-      name: formData.get('name') as string | undefined,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
-      color: formData.get('color') as string | undefined,
+      name: formData.get('name') || undefined,
+      description: formData.get('description') || undefined,
+      icon: formData.get('icon') || undefined,
+      color: formData.get('color') || undefined,
     };
 
     const validated = updateCategorySchema.parse(data);
@@ -159,8 +159,8 @@ export async function createLink(
     const data = {
       title: formData.get('title') as string,
       url: formData.get('url') as string,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
+      description: formData.get('description') || undefined,
+      icon: formData.get('icon') || undefined,
       categoryId: formData.get('categoryId') as string,
     };
 
@@ -183,10 +183,10 @@ export async function updateLinkAction(
     await ensureAdmin();
     const data = {
       id: formData.get('id') as string,
-      title: formData.get('title') as string | undefined,
-      url: formData.get('url') as string | undefined,
-      description: formData.get('description') as string | undefined,
-      icon: formData.get('icon') as string | undefined,
+      title: formData.get('title') || undefined,
+      url: formData.get('url') || undefined,
+      description: formData.get('description') || undefined,
+      icon: formData.get('icon') || undefined,
       categoryId: formData.get('categoryId') as string,
     };
 

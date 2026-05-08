@@ -121,3 +121,10 @@ export function useFavorites() {
     clearAllFavorites,
   };
 }
+
+// Export a reset function for testing purposes
+export function resetFavoritesStore() {
+  favorites = [];
+  initialized = false;
+  subscribers.clear();
+}

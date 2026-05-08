@@ -3,9 +3,19 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Search, Loader2 } from 'lucide-react';
+import Image from 'next/image';
 import { Input } from '@/components/ui/input';
 import { cn } from '@/lib/utils';
 import type { Link } from '@/lib/types';
+
+function isUrl(string: string): boolean {
+  try {
+    new URL(string);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 interface AutocompleteProps {
   className?: string;
@@ -307,9 +317,19 @@ export function Autocomplete({
               onMouseEnter={() => setSelectedIndex(index)}
             >
               {/* Icon */}
-              <div className='w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800 flex items-center justify-center flex-shrink-0'>
+              <div className='w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-800 flex items-center justify-center flex-shrink-0 overflow-hidden'>
                 {suggestion.icon ? (
-                  <span className='text-lg'>{suggestion.icon}</span>
+                  isUrl(suggestion.icon) ? (
+                    <Image
+                      src={suggestion.icon}
+                      alt=''
+                      width={32}
+                      height={32}
+                      className='w-8 h-8 object-cover'
+                    />
+                  ) : (
+                    <span className='text-lg'>{suggestion.icon}</span>
+                  )
                 ) : (
                   <Search className='w-4 h-4 text-slate-400' />
                 )}

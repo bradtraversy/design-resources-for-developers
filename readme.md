@@ -229,6 +229,30 @@ On mobile devices, only icons are shown to save space.
 | `npm run lint` | Run ESLint |
 | `npm run seed` | Seed the database |
 | `npx prisma studio` | Open Prisma database GUI |
+| `npx tsx scripts/db-export-import.ts export` | Export database contents to JSON file |
+| `npx tsx scripts/db-export-import.ts import --file=./db-backup.json` | Import database contents from JSON file |
+
+## 💾 Database Backup & Restore
+
+You can export and import your database contents using the provided script:
+
+### Export Database
+```bash
+npx tsx scripts/db-export-import.ts export
+```
+This creates a `db-backup.json` file containing all categories and links.
+
+### Import Database
+```bash
+npx tsx scripts/db-export-import.ts import --file=./db-backup.json
+```
+This imports data from the specified JSON file. Existing records will be updated if they match by ID or slug, and new records will be created.
+
+### Import with Clear
+```bash
+npx tsx scripts/db-export-import.ts import --file=./db-backup.json --clear
+```
+This clears all existing data before importing, ensuring a clean slate.
 
 ## 🧩 Adding New Resources
 

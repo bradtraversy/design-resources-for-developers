@@ -11,12 +11,14 @@ interface AutocompleteProps {
   className?: string;
   placeholder?: string;
   onSearch?: (query: string) => void;
+  categorySlug?: string;
 }
 
 export function Autocomplete({
   className,
   placeholder = 'Search all resources...',
   onSearch,
+  categorySlug,
 }: AutocompleteProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -44,10 +46,12 @@ export function Autocomplete({
       setIsLoading(true);
 
       try {
-        const response = await fetch(
-          `/api/suggestions?q=${encodeURIComponent(query.trim())}`,
-          { signal: abortController.signal },
-        );
+        const url = categorySlug
+          ? `/api/suggestions?q=${encodeURIComponent(
+              query.trim(),
+            )}&category=${encodeURIComponent(categorySlug)}`
+          : `/api/suggestions?q=${encodeURIComponent(query.trim())}`;
+        const response = await fetch(url, { signal: abortController.signal });
 
         if (response.ok) {
           const data = await response.json();
@@ -70,7 +74,7 @@ export function Autocomplete({
       clearTimeout(timeoutId);
       abortController.abort();
     };
-  }, [query]);
+  }, [query, categorySlug]);
 
   // Close suggestions when clicking outside
   useEffect(() => {

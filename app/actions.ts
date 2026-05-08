@@ -23,6 +23,7 @@ import {
   updateLink as updateLinkData,
   deleteLink as deleteLinkData,
   searchLinks,
+  searchLinksByCategory,
   searchLinksWithCategorySlug,
   incrementLinkClicks,
 } from '@/lib/data';
@@ -231,17 +232,40 @@ export async function searchLinksAction(query: string) {
   }
 }
 
+export async function searchLinksByCategoryAction(
+  query: string,
+  categorySlug: string,
+) {
+  try {
+    return {
+      success: true,
+      data: await searchLinksByCategory(query, categorySlug),
+    };
+  } catch (error) {
+    if (error instanceof Error) {
+      return { success: false, error: error.message };
+    }
+    return { success: false, error: 'Failed to search links' };
+  }
+}
+
 export async function trackLinkClick(linkId: string) {
   await incrementLinkClicks(linkId);
 }
 
 // Autocomplete Suggestions
-export async function getAutocompleteSuggestionsAction(query: string) {
+export async function getAutocompleteSuggestionsAction(
+  query: string,
+  categorySlug?: string,
+) {
   try {
     if (!query || query.trim().length < 2) {
       return { success: true, data: [] };
     }
-    const suggestions = await searchLinksWithCategorySlug(query.trim());
+    const suggestions = await searchLinksWithCategorySlug(
+      query.trim(),
+      categorySlug,
+    );
     // Limit to 8 suggestions for autocomplete
     const limitedSuggestions = suggestions.slice(0, 8);
     return { success: true, data: limitedSuggestions };

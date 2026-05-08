@@ -314,8 +314,31 @@ export async function searchLinks(query: string): Promise<Link[]> {
   }));
 }
 
+export async function searchLinksByCategory(
+  query: string,
+  categorySlug: string,
+): Promise<Link[]> {
+  const links = await prisma.link.findMany({
+    where: {
+      OR: [
+        { title: { contains: query, mode: 'insensitive' } },
+        { description: { contains: query, mode: 'insensitive' } },
+      ],
+      category: {
+        slug: categorySlug,
+      },
+    },
+  });
+  return links.map(l => ({
+    ...l,
+    description: nullToUndefined(l.description),
+    icon: nullToUndefined(l.icon),
+  }));
+}
+
 export async function searchLinksWithCategorySlug(
   query: string,
+  categorySlug?: string,
 ): Promise<(Link & { categorySlug?: string })[]> {
   const links = await prisma.link.findMany({
     where: {
@@ -323,6 +346,11 @@ export async function searchLinksWithCategorySlug(
         { title: { contains: query, mode: 'insensitive' } },
         { description: { contains: query, mode: 'insensitive' } },
       ],
+      ...(categorySlug && {
+        category: {
+          slug: categorySlug,
+        },
+      }),
     },
     include: {
       category: {

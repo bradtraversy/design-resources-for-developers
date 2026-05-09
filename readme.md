@@ -184,6 +184,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavors |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Image Color Picker](https://codequest.work/generator/image-color-picker/)| Extract color palettes from any image using k-means++ clustering. Export as CSS variables, HEX, RGB, or HSL with one click |
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
 | [ColorsWall](https://colorswall.com/) | Place to store your color palettes and generate palette in one click |
 | [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real-world example as to how the colors could be used in your design projects by Mackenzie Child |
@@ -1180,7 +1181,9 @@ Available for MacOS, Linux, & Windows<br>
 | [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
+| [CSS Grid Generator](https://codequest.work/generator/grid/)| A visual CSS Grid layout generator. Drag to place grid items and auto-generate HTML/CSS code with one-click copy |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
+| [CSS Flex Generator](https://codequest.work/generator/flex/)| A visual CSS Flexbox layout generator. Configure flex properties with real-time preview and auto-generate CSS code |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution (4 free) |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Big Heads](https://github.com/RobertBroersma/bigheads) | Easily generate avatars for your projects with Big Heads by Robert Broersma.

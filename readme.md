@@ -167,6 +167,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Coolours](https://coolours.perpetualsummer.ltd/)| Coolours is a Colour Scheme Generator tool to help you chose and export the perfect colour scheme. |
 | [PaletteForge](https://paletteforge.io) | Generate beautiful color palettes from different categories.
 | [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.
 | [Color Brewer 2](https://colorbrewer2.org/)| The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. |

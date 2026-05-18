@@ -1138,6 +1138,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Patterns](https://www.patterns.dev) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.|
 | [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers.|
 | [Once UI](https://once-ui.com/)| Open-source design system for Next.js with 100+ components, deployment-ready app templates, and Figma integration |
+| [Chinese Color Atlas](https://chinesecoloratlas.com/resources/free)| Free Chinese traditional color tokens, CSS variables, Tailwind theme samples, Figma Variables samples, Procreate swatches, and AI prompt resources. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

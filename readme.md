@@ -592,7 +592,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
-
+| [WPSkins.org](https://wpskins.org) - Free directory of 2,800+ website themes across WordPress, Shopify, Webflow, Framer, Ghost, Astro, and more.
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

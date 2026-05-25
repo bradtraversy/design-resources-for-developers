@@ -1,4 +1,4 @@
-![Repository Banner](headerimage.png)
+<img width="1283" height="598" alt="image" src="https://github.com/user-attachments/assets/8fd6a393-31cc-4b71-9bd6-96734953bde3" />![Repository Banner](headerimage.png)
 
 <div align="center" markdown="1">
    <sup>Special thanks to:</sup>
@@ -1321,6 +1321,7 @@ Available for MacOS, Linux, & Windows<br>
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
+| [ToolKnit](https://toolknit.com) | A 100% browser-based online toolkit offering 65+ free utilities including image optimization, PDF editing, and UI tools. |
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |

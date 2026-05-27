@@ -1445,6 +1445,7 @@ Available for MacOS, Linux, & Windows<br>
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 | [Free AI Diagram Generator](https://diagram-generator.com/) a free AI-powered platform that helps you create various types of diagrams with ease. |
 | [PolyGlyph](https://polyglyph.io/) | AI-powered SVG generation and editing tool. Type a prompt to generate a vector graphic, then edit it in a browser-based vector editor. Free credits on signup. |
+| [PhotoRestore.ai](https://photorestore.ai) | AI-powered old photo restoration. Automatically repairs scratches, tears, fading, and colorizes black-and-white photos. Free trial. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

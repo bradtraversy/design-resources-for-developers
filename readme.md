@@ -1176,6 +1176,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
+| [PhotoQuill](https://photoquill.com)| Free browser-based Photoshop alternative with PSD support, layers, masks, blend modes, and local image processing. |
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
 | [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |

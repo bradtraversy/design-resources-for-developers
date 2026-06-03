@@ -869,6 +869,7 @@ Available for MacOS, Linux, & Windows<br>
 |[Bundui](https://bundui.io/) | Discover a curated collection of over 200 handcrafted UI components made with Tailwind CSS, React, and Shadcn UI. |
 |[Shadcn Examples](https://shadcnexamples.com/) | Examples and components built with React and Tailwind CSS, compatible with Shadcn UI. |
 |[Shadcn Admin](https://shadcnadmin.com/) | A multipurpose admin dashboard template for React, Next.js, and Vue.js. Fully compatible with shadcn/ui.
+|[IT Tools](https://it-tools.tech/) | Collection of handy online tools for developers, with great UX. IT Tools is a free and open-source collection of handy online tools for developers & people working in IT.
 
 
 <div align="right">

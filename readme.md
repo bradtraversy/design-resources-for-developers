@@ -1441,6 +1441,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
 | [Galileo AI](https://www.usegalileo.ai/) | Galileo AI is a UI generation platform for easy and fast design ideation. It allows users to generate interface designs from text. |
 | [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
+| [igly.ai](https://igly.ai) | AI image editing platform for background removal, inpainting, upscaling, and generative fill. Demo: https://www.youtube.com/watch?v=HB2E1WZ12is |
 | [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 | [Free AI Diagram Generator](https://diagram-generator.com/) a free AI-powered platform that helps you create various types of diagrams with ease. |

@@ -1392,6 +1392,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Hackertab.dev](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) | Hackertab helps developers stay up-to-date with the latest dev news and resources in one tab. |
 | [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) | Formats and colors JSON content for better readability. It can also collapse and expand nested structures. |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?hl=en) | A SEO tool that includes features like on-page SEO analysis, broken link checking, and SERP preview and more. |
+| [MiroMiro](https://chromewebstore.google.com/detail/npkpdkeiibipngipdoohnjhniodgppik) | Inspect any website and export its real HTML, Tailwind & design tokens as clean, paste-ready code for Cursor, Claude & v0. Also extracts CSS, SVGs, and Lottie. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

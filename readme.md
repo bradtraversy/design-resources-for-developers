@@ -81,7 +81,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
 | [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails |
-| [sketchvalley](https://sketchvalley.com/) | Download free PNG, SVG or AI file . |
+| [SketchValley](https://sketchvalley.com/) | 1,000+ free SVG & PNG illustrations — flat, 3D, hand-drawn & minimal styles. Commercial use, no attribution required. |
 | [PatternPad](https://patternpad.com/) | Free and unlimited unique pattern designs. |
 | [Dimensions](https://www.dimensions.com/) | Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces|
 | [Freebiesbug](https://freebiesbug.com/) | Hand-picked resources for web designers and developers, constantly updated.|

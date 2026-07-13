@@ -539,6 +539,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Shot Snap](https://shotsnapp.com/)| Create beautiful device mockup images for your app or website design |
 | [Screely](https://www.screely.com/)| Instantly turn your screenshot into a mockup |
 | [Screenshot.rocks](https://screenshot.rocks/)| Create beautiful browser & mobile mockups in seconds |
+| [Moonshot](https://ameeramer.github.io/)| Wrap screenshots in device frames and gradient backdrops, entirely in your browser — nothing is uploaded (free & premium) |
 | [Screen Peak](https://screenpeek.io/)| Create a mockup from a URL |
 | [Mockup World](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |

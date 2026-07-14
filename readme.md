@@ -157,6 +157,7 @@ Available for MacOS, Linux, & Windows<br>
 | [FontsWiki](https://fontswiki.com/) | Free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects. |
 | [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 | [Bunny Fonts](https://fonts.bunny.net/) | Privacy-focused Google Fonts alternative, GDPR compliant with faster CDN |
+[Font Finder by Image](https://fontboxdl.com/tools/font-finder)| Free tool that identifies any font from an uploaded image or photo — no signup, a free WhatTheFont alternative |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

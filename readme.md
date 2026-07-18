@@ -493,6 +493,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Visual Hub](https://visual-hub.net/) | Free flat-style illustrations for business, education and blogging. Commercial use OK, no attribution or signup required. Available in EN/JA/ZH/KO. |
 | [PNGFree.ai](https://pngfree.ai/)| PNGFree.ai offers millions of high-quality Free PNG images |
 | [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
 | [Freepik](https://www.freepik.com)| Free vectors, stock photos, PSD and icons |

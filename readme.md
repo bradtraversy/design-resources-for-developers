@@ -868,7 +868,8 @@ Available for MacOS, Linux, & Windows<br>
 |[Shadcn studio](https://shadcnstudio.com/)| Preview your theme changes across different components and layouts. |
 |[Bundui](https://bundui.io/) | Discover a curated collection of over 200 handcrafted UI components made with Tailwind CSS, React, and Shadcn UI. |
 |[Shadcn Examples](https://shadcnexamples.com/) | Examples and components built with React and Tailwind CSS, compatible with Shadcn UI. |
-|[Shadcn Admin](https://shadcnadmin.com/) | A multipurpose admin dashboard template for React, Next.js, and Vue.js. Fully compatible with shadcn/ui.
+|[Shadcn Admin](https://shadcnadmin.com/) | A multipurpose admin dashboard template for React, Next.js, and Vue.js. Fully compatible with shadcn/ui. |
+|[Namer UI](https://namer-ui.vercel.app/) | A collection of reusable Next.js/React components made to empower developers to quickly build beautiful UIs. |
 
 
 <div align="right">

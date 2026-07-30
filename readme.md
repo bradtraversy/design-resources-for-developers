@@ -921,6 +921,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
 | [@tsparticles/react](https://github.com/tsparticles/react)| A lightweight React component for creating particles |
+| [Hyperiux Vault](https://vault.hyperiux.com/) | A collection of animation effects and interactive components for Next.js. Free and Pro effects installable via CLI, source code copied directly into your project. |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 | [Treact](https://treact.owaiskhan.me)| Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |

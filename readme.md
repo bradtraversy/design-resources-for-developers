@@ -243,6 +243,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
+| [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) | Pull the exact palette out of any image and export it as an Aseprite/GIMP `.gpl`, a Lospec `.hex`, CSS variables, JSON or a PNG swatch strip. Runs entirely in the browser. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

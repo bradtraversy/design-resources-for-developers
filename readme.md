@@ -1520,6 +1520,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
+| [JSON Viewer Tool](https://jsonviewertool.com/) | Free online JSON viewer, formatter, validator and converter (CSV, Excel, YAML, XML). Runs fully in the browser. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1251,6 +1251,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
 | [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook: For mac only |
+| [ItsPaint](https://itspaintmac.com)| Free & open source native Mac paint app: blank canvas at any size, crop, and screenshot markup |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

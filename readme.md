@@ -209,6 +209,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Gradient Buttons](https://gradientbuttons.colorion.co/) | Ready to use copy/paste gradient buttons |
 | [Khroma](http://khroma.co/) | Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. |
 | [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+| [A11yKit](https://a11ykit.site) | 15 free client-side accessibility tools: WCAG 2.2 & APCA contrast checker, color blind simulator, ARIA generator, and URL scanner |
 | [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
 | [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |

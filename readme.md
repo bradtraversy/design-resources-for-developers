@@ -1337,6 +1337,7 @@ Available for MacOS, Linux, & Windows<br>
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
 | [Verexif](https://www.verexif.com/en/) | Remove meta tags in image in order to reduce image size and increase privacy security |
+| [PhotoReducer](https://photoreducer.com/)| Compress images to an exact file size (e.g. under 100 KB), resize and convert JPG, PNG, WebP, AVIF & HEIC — runs fully in the browser via WebAssembly, so photos are never uploaded |
 | [Vecta Nano](https://vecta.io/nano) | Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)  |
 | [Watermarkly](https://watermarkly.com/compress-jpeg/) | Private, client-side compression of JPEG images. The app does not send images to a server for processing. |
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |

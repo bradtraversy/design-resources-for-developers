@@ -1520,6 +1520,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
+| [GEOKit](https://geokit.site) | Free Generative Engine Optimization (GEO) and AI SEO toolkit with llms.txt builder, AI robots.txt generator, JSON-LD Schema maker, and AI readiness grader. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

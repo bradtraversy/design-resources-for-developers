@@ -1139,6 +1139,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Patterns](https://www.patterns.dev) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.|
 | [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers.|
 | [Once UI](https://once-ui.com/)| Open-source design system for Next.js with 100+ components, deployment-ready app templates, and Figma integration |
+| [Enterprise UI Kit](https://github.com/vadim-a-yegorov/uikit) | Style-agnostic design system specification for enterprise ERP/SCM/FSM screens. ~120 components, compatible with SAP Fundamentals (React/Vue/Angular/Flutter) and OpenUI5. MIT. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

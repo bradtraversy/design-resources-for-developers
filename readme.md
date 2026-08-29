@@ -1276,7 +1276,7 @@ Available for MacOS, Linux, & Windows<br>
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Saaspages.xyz](https://saaspages.xyz)| A collection of the best landing pages with a focus on copywriting and design. |
 | [Screenlane](https://screenlane.com)| Screenlane is a website and newsletter that features the latest web and mobile design inspiration. |
-| [UIZZE](https://uizze.com/)| STOP UI SLOP with 800,000+ real web and iOS product screens for developers and coding agents, plus design contracts and a hard finish gate. |
+| [UIZZE](https://uizze.com/)| Three free skills for product-specific UI direction and research; optional authenticated MCP provides focused references and hosted design materials grounded in 800,000+ real web and iOS screens. |
 | [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration |
 | [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and javascript. latest work some design part |
 | [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |

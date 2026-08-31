@@ -1520,6 +1520,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
+| [Calculora](https://calculora.net) | Free web-based calculator platform with 260+ tools covering finance, math, science, health, and developer utilities. Multi-language support in 26 languages. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

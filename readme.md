@@ -317,6 +317,7 @@ Available for MacOS, Linux, & Windows<br>
 | [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
 | [All SVG Icons](https://allsvgicons.com/) | Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries. |
 | [SVG to ICO](https://svg-to-ico.org) - A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
+| [IconMind](https://iconmind.dev)| Open source SVG icons on a 24px grid, in outline and duotone, with React, Vue, Svelte and Flutter packages |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

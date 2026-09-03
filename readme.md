@@ -1346,6 +1346,8 @@ Available for MacOS, Linux, & Windows<br>
 | [PNG Compressor](https://99tools.net/png-compressor/) | A fast and simple PNG Compressor that reduces image file size without noticeable quality loss. Optimize PNGs instantly in your browser—no uploads, secure, and developer-friendly. |
 
 
+| [Refentra](https://refentra.com/tools/compress-image-to-target-size/)| Compress JPEG or WebP to an exact KB or MB target locally in the browser without uploading the file. |
+  
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

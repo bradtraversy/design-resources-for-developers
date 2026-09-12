@@ -1223,6 +1223,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
 | [FastTool Design](https://fasttool.app/category/design) | Free browser-based design utilities: color picker, palette generator, CSS gradient builder, contrast checker, hex/RGB/HSL converter, shadow generator. No signup, no upload. |
+| [OmniTools](https://www.devomnitools.com) | Free, fast, and 100% private client-side developer design utilities: interactive CSS Flexbox playground with Tailwind export, 8K SVG to PNG converter, CSS Glassmorphism generator, and QR code maker. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

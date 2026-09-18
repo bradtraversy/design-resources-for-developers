@@ -1344,6 +1344,7 @@ Available for MacOS, Linux, & Windows<br>
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
 | [PNG Compressor](https://99tools.net/png-compressor/) | A fast and simple PNG Compressor that reduces image file size without noticeable quality loss. Optimize PNGs instantly in your browser—no uploads, secure, and developer-friendly. |
+| [QoTool](https://qotool.com/image-compressor) | Free browser-based JPEG, PNG, WebP and AVIF still-image compression, with quality controls, optional resizing and batch downloads. |
 
 
 <div align="right">

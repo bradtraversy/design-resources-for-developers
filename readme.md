@@ -482,6 +482,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 | [Pixabay](https://pixabay.com/music/)| Free music downloads for your project like Youtube videos, Music, Vlog, Film, Podcast etc. |
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
+| [BudgetPixel Sound Effects](https://budgetpixel.com/sfx)| 2,600+ AI-generated sound effects in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

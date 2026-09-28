@@ -244,6 +244,23 @@ Available for MacOS, Linux, & Windows<br>
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
 
+### [PNGDEX](https://pngdex.com)
+
+No Limit, No Account, Just Free transparent PNGs.
+
+**Features:**
+- Image Cropper
+- Image Splitter
+- Image Compressor
+- Image Resizer
+- Image Converter
+- Rotate Image
+- Strip EXIF
+- Watermark Image
+
+**Tags:** `png` `transparent` `free` `design` `images` `tools`
+
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

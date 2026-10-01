@@ -1321,6 +1321,7 @@ Available for MacOS, Linux, & Windows<br>
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
+| [CompressMyPhotos](https://compressmyphotos.com/) | Free browser-based JPG, PNG and WebP compression with exact target sizes, batch downloads and EXIF removal |
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |

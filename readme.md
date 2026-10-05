@@ -995,6 +995,8 @@ Available for MacOS, Linux, & Windows<br>
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+- [Payload Components](https://www.payload-components.xyz) - Free, MIT-licensed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as customizable source with automated collection, renderer, types and admin import-map wiring.
+
 ## Vue UI Libraries
 
 >UI and component libraries for the Vue JavaScript framework

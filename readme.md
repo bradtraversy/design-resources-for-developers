@@ -1167,6 +1167,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Laws of UX](https://lawsofux.com/) | A collection of the key maxims that designers must consider when building user interfaces. |
 | [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
 | [Humane By Design](https://humanebydesign.com/) | A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. |
+| [HorizonX Design-to-Code Guide](https://horizonx.so/blog/figma-to-production-design-to-code-2026) | Free production workflow for translating Figma components, design tokens, states, accessibility, and responsive behavior into frontend code. |
 | [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 | [Patterfly](https://www.patternfly.org/) | PatternFly is an open source design system from Red Hat, Inc. |
 | [Patterns](https://www.patterns.dev) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.|

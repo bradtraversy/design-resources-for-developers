@@ -1590,6 +1590,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
+| [Calculora](https://calculora.net) | Free web-based calculator platform with 300+ tools across 21 categories, including finance, math, science, health, and developer utilities. Available in 26 languages. |
 | [A11y Starter Kit](https://a11y-starter-kit.vercel.app/) | A free, open-source Next.js accessibility starter kit with WCAG 2.1 AA compliant components, keyboard navigation, and screen reader support |
 | [onHTML.com](https://onhtml.com/) | Free online HTML/CSS/JS live editor bundled with 60+ developer tools (JSON formatter, regex tester, JWT decoder, color picker, gradient maker, image compressor, base64 encoder). Client-side, no signup. |
 | [JSON Viewer Tool](https://jsonviewertool.com/) | Free online JSON viewer, formatter, validator and converter (CSV, Excel, YAML, XML). Runs fully in the browser. |

@@ -157,6 +157,7 @@ Available for MacOS, Linux, & Windows<br>
 | [FontsWiki](https://fontswiki.com/) | Free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects. |
 | [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 | [Bunny Fonts](https://fonts.bunny.net/) | Privacy-focused Google Fonts alternative, GDPR compliant with faster CDN |
+| [Cursive Text Generator](https://cursive-text-generator.net/) | Free font-based tool that converts text into Unicode cursive and script characters you can copy and paste into bios, posts and usernames |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -441,6 +442,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Lorem.space - Placeholder image generator](https://lorem.space) | API for placeholder images but useful! |
 | [Openverse](https://wordpress.org/openverse/) | Openverse is a search engine for openly-licensed media |
 | [ISO Republic](https://isorepublic.com/) | Get Thousands of Free High-Resolution Stock CC0 Photos |
+| [BudgetPixel Free Images](https://budgetpixel.com/images)| 9,000+ AI-generated photos and illustrations, CC BY 4.0 (credit required), no sign-up |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -482,6 +484,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 | [Pixabay](https://pixabay.com/music/)| Free music downloads for your project like Youtube videos, Music, Vlog, Film, Podcast etc. |
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
+| [BudgetPixel Sound Effects](https://budgetpixel.com/sfx)| 2,600+ AI-generated sound effects in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
+| [BudgetPixel Background Music](https://budgetpixel.com/background-music)| 700+ AI-generated instrumental tracks in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -593,6 +597,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
+| [PagePatch Free Hero Example](https://github.com/l-portet/pagepatch-free-hero) | Free AI-generated HTML/CSS hero example with before/after pages, five explained changes, and permission for commercial reuse. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1179,6 +1184,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
 | [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
+| [Mermaid Design](https://mermaid.design)| Mermaid diagram editor with SVG and ASCII rendering, custom themes, and image export.  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
@@ -1222,7 +1228,10 @@ Available for MacOS, Linux, & Windows<br>
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
+| [PicCollages](https://piccollages.com/) | Free browser-based photo collage maker for grid layouts and long-image stitching, with drag-and-drop editing and local image processing. No signup required. |
 | [FastTool Design](https://fasttool.app/category/design) | Free browser-based design utilities: color picker, palette generator, CSS gradient builder, contrast checker, hex/RGB/HSL converter, shadow generator. No signup, no upload. |
+| [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
+| [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1345,6 +1354,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
 | [PNG Compressor](https://99tools.net/png-compressor/) | A fast and simple PNG Compressor that reduces image file size without noticeable quality loss. Optimize PNGs instantly in your browser—no uploads, secure, and developer-friendly. |
 | [frisqoo Compress Images](https://frisqoo.com/tools/compress-image/) | Compress JPG, PNG and WebP images in the browser. Files are processed in the browser and are not uploaded. |
+| [UseCOS Photo Resizer](https://usecos.app/tools/passport-photo-resizer) | Fast client-side image resizer and compressor with exact KB targets (50KB, 100KB, 200KB) and aspect ratio presets. Runs 100% in-browser with zero uploads. |
 
 
 <div align="right">

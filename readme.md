@@ -1402,6 +1402,7 @@ Available for MacOS, Linux, & Windows<br>
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
 | [PNG Compressor](https://99tools.net/png-compressor/) | A fast and simple PNG Compressor that reduces image file size without noticeable quality loss. Optimize PNGs instantly in your browser—no uploads, secure, and developer-friendly. |
+| [PixHeic](https://pixheic.com) | Free browser-based HEIC toolkit for batch conversion to JPG, PNG, WebP, and PDF. Files are processed locally with no uploads. |
 | [DevTransform](https://devtransform-hub.vercel.app/tools/image-compressor/) | Fast, client-side browser image compression and format conversion (PNG, JPEG, WebP) with zero server uploads. |
 | [Narqo](https://narqo.com) | Compress images to a target file size, convert HEIC to JPG, crop and resize. Everything runs in the browser, no upload and no sign-up. |
 | [EasyPNG](https://amanghuman.com/easypng.html) | Free, 100% offline, client-side image compressor and converter for WebP, JPEG, PNG, and AVIF with zero server uploads and no file limits. |

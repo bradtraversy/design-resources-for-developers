@@ -1380,6 +1380,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Promo Image Resizer](https://promo.com/tools/image-resizer/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
+| [Image Compressor](https://www.nasrtech.dev/image-compressor/)| Free browser-based image compressor for JPG, PNG and WebP — runs 100% client-side, nothing is uploaded |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
 | [QuickTiny Compress Image](https://quicktinyv2.vercel.app/compress-image)| Free, no-signup image compressor that runs entirely in the browser, no upload to a server |
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |

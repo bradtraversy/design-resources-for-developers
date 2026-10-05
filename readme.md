@@ -104,6 +104,7 @@ Available for MacOS, Linux, & Windows<br>
 | [fffuel](https://www.fffuel.co) | collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
 | [Mesher](https://csshero.org/mesher) | A Free tool to create beautiful mesh gradients only with CSS code. Use your own colors or randomly generated ones to build the trendiest CSS gradients |
 | [Square Face Avatar Generator](https://www.squarefaceicongenerator.co/) | Generate square-face avatars & icons online |
+| [ToolSnippet](https://www.toolsnippet.com/category/design-generators) | 100% client-side CSS generators (glassmorphism, gradients, box-shadows), SVG converters, and developer utilities with zero server uploads. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

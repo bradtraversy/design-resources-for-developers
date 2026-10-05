@@ -1361,6 +1361,7 @@ Available for MacOS, Linux, & Windows<br>
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
 | [PNG Compressor](https://99tools.net/png-compressor/) | A fast and simple PNG Compressor that reduces image file size without noticeable quality loss. Optimize PNGs instantly in your browser—no uploads, secure, and developer-friendly. |
+| [Compress Image to Target Size](https://abox.tools/compress-image/) | Compress a JPEG, PNG or WebP down to an exact file size — 100 KB, 2 MB, whatever the upload limit is — instead of guessing at a quality slider. Runs entirely in the browser, nothing is uploaded, and it works offline. Free and open source. |
 | [frisqoo Compress Images](https://frisqoo.com/tools/compress-image/) | Compress JPG, PNG and WebP images in the browser. Files are processed in the browser and are not uploaded. |
 | [UseCOS Photo Resizer](https://usecos.app/tools/passport-photo-resizer) | Fast client-side image resizer and compressor with exact KB targets (50KB, 100KB, 200KB) and aspect ratio presets. Runs 100% in-browser with zero uploads. |
 

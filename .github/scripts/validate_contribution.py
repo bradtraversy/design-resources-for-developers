@@ -18,7 +18,10 @@ ENTRY_PATTERN = re.compile(
     re.IGNORECASE,
 )
 LINK_PATTERN = re.compile(r"^Link:\s*(https://\S+)\s*$", re.MULTILINE)
-OWNERSHIP_PATTERN = re.compile(r"^Is this your product\?\s*(Yes|No)\s*$", re.IGNORECASE | re.MULTILINE)
+OWNERSHIP_PATTERN = re.compile(
+    r"^Is this your product\?\s*(Yes|No)(?!\s*/)(?:\s+\S.*?)?\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
 HEADING_PATTERN = re.compile(r"^##\s+(.+?)\s*$")
 
 

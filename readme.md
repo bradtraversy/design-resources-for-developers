@@ -1186,6 +1186,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |
 | [Animoto Video Maker](https://animoto.com/apps/online-video-maker)| Make videos online |
 | [RemoveBG](https://www.remove.bg/)| Remove image backgrounds |
+| [AI Background Remover](https://codequest.work/generator/bg-remover/)| Automatically remove image backgrounds with AI subject detection. Free, no signup, runs entirely in the browser. |
 | [Photo Creator](https://photos.icons8.com/creator)| Create your own photos instead of searching for stock |
 | [Visme](https://www.visme.co/)| Create presentations, infographics and more |
 | [Infogram](https://infogram.com/)| Create infograms |

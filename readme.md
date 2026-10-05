@@ -252,6 +252,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
+| [okaybabe gradient pack](https://github.com/Okay-Babe/okaybabe-gradient-pack) | 41 free, MIT-licensed OKLCH gradients with formats for CSS, Figma and Tailwind v4. |
 | [ColorTools](https://colorpicker.cx/) | Free browser-based toolkit with an image color picker, color wheel, palette and CSS gradient generators, color conversion, and WCAG/APCA contrast checking. |
 | [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) | Generate tints and shades from any base color as an 11-step scale, exportable as CSS variables, Tailwind config, or SCSS. Free, runs entirely in the browser. |
 | [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) | Pull the exact palette out of any image and export it as an Aseprite/GIMP `.gpl`, a Lospec `.hex`, CSS variables, JSON or a PNG swatch strip. Runs entirely in the browser. |

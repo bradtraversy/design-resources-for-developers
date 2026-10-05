@@ -1347,7 +1347,7 @@ Available for MacOS, Linux, & Windows<br>
 
 
 | [Refentra](https://refentra.com/tools/compress-image-to-target-size/)| Compress JPEG or WebP toward a chosen KB or MB limit locally, and check the actual output size before downloading. No file upload. |
-  
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

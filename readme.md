@@ -1232,6 +1232,7 @@ Available for MacOS, Linux, & Windows<br>
 | [PixCleaner](https://www.pixcleaner.com/)| Accurate and hassle free background removal tool |
 | [Glass UI](https://ui.glass/generator)| A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications. |
 | [Glassmorphism](https://glassmorphism.com/)| An incredible online tool for generating quick glassmorphic UI in CSS code snippets. |
+| [Liquid Glass Generator](https://codequest.work/generator/liquid-glass-generator/)| Generate Apple-style Liquid Glass UI effects with WebGL (refraction, chromatic aberration, frosted glass) and copy the code. |
 | [Nutilz Glassmorphism Generator](https://nutilz.com/glassmorphism-generator)| Free online glassmorphism CSS generator with live preview — adjust blur, transparency and border to get ready-to-use CSS code. No signup required. |
 | [TableConvert](https://tableconvert.com/)| Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table.  |
 | [Excel to Markdown](https://exceltomd.com/excel-to-markdown) | Convert XLSX, XLS, CSV, or pasted cells into Markdown tables locally in the browser without uploading files. |

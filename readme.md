@@ -1515,6 +1515,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Formatter, Minifier, File Converter |
 | [Tiny helpers](https://tiny-helpers.dev/)| A collection of free single-purpose online tools for web developers |
+| [DevUtils](https://tyr1105.github.io/devutils-tools/)| 10 free online developer tools (JSON formatter, Base64, JWT debugger, hash generator, regex tester, color converter, markdown preview, etc.) — no login required. |
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
 | [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
 | [kangax-js-compat-table](https://compat-table.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|

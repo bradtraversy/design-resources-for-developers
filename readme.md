@@ -330,7 +330,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
 | [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
 | [All SVG Icons](https://allsvgicons.com/) | Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries. |
-| [SVG to ICO](https://svg-to-ico.org) - A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
+| [SVG to ICO](https://svg-to-ico.org) | A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
+| [SVGIconify](https://svgiconify.com) | Search 343K+ icons from 240 curated libraries and export as SVG, PNG, JSX, or Base64, no account needed. |
 | [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons)| Free 10-icon SVG sample pack, no attribution required, personal & commercial use |
 
 <div align="right">

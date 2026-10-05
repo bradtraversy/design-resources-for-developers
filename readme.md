@@ -136,6 +136,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Fonts for Apple Platforms](https://developer.apple.com/fonts/)| Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps |
 | [SFWin](https://github.com/blaisck/sfwin/)| San Francisco Fonts for Windows 10 and non-Apple Platform |
 | [Font Flipper](https://fontflipper.com/)| Preview 800+ Google Fonts on top of your own designs, without having to download the fonts |
+| [What The Google Font](https://www.serbyte.net/what-the-google-font) | Upload an image to find the closest Google Font match with confidence scores, then download for free |
 | [Fonts Arena](https://fontsarena.com/) | Free curated fonts |
 | [Befonts](https://befonts.com/) | High quality fonts for free |
 | [Arabic fonts](https://arabicfonts.net/) | Arabic fonts for free |
@@ -154,8 +155,12 @@ Available for MacOS, Linux, & Windows<br>
 | [Typespiration](https://typespiration.com/)| Inspirational font combinations and color palettes |
 | [Fontsource](https://fontsource.org/) | Self-host Open Source fonts in neatly bundled NPM packages. |
 | [FontBolt](https://www.fontbolt.com/) | Discover and generate your favorite fonts from pop culture. |
+| [FontsWiki](https://fontswiki.com/) | Free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects. |
+| [What Font Finder](https://whatfontfinder.com/font-identifier/) | Identify a font from an image in your browser — the picture never leaves your device, and each match is scored so you can tell a close hit from a guess |
 | [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 | [Bunny Fonts](https://fonts.bunny.net/) | Privacy-focused Google Fonts alternative, GDPR compliant with faster CDN |
+| [Font Finder by Image](https://fontboxdl.com/tools/font-finder)| Free tool that identifies any font from an uploaded image or photo — no signup, a free WhatTheFont alternative |
+| [Cursive Text Generator](https://cursive-text-generator.net/) | Free font-based tool that converts text into Unicode cursive and script characters you can copy and paste into bios, posts and usernames |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -169,21 +174,25 @@ Available for MacOS, Linux, & Windows<br>
 | ----------------------- | ------------------ |
 | [PaletteForge](https://paletteforge.io) | Generate beautiful color palettes from different categories.
 | [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.
+| [ColorOf](https://colorof.app/) | Color guide for palette comparison and accessibility checks. |
 | [Color Brewer 2](https://colorbrewer2.org/)| The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. |
 | [Huetone](https://github.com/ardov/huetone)| A tool to create accessible color systems. |
 | [Colormind.io](http://colormind.io)| Color palette generator |
 | [ColorCurves.app](https://colorcurves.app)| Color palette generator that uses curves to generate color palettes |
 | [ColorGradient](https://colorgradient.dev/)| A free tool to create simple and complex CSS Gradients visually |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
+| [Shademix](https://shademix.com) | Free color toolkit: eyedropper, 10 paint-system matcher (RAL, NCS, Pantone-equivalent), OKLCH harmonies, WCAG contrast, CMYK warnings, 11 export formats. Web + iPhone/iPad/Mac/Vision Pro. No signup |
 | [UI Colors](https://uicolors.app/create) | Tailwind CSS color palette generator |
 | [HTML Color Codes](https://htmlcolorcodes.com/)| Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
 | [Palette List](https://www.palettelist.com/)| Pick 2 colors you like and the tool generates thousands of palettes for you. |
 | [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
+| [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) | Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavors |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Image Color Picker](https://codequest.work/generator/image-color-picker/)| Extract color palettes from any image using k-means++ clustering. Export as CSS variables, HEX, RGB, or HSL with one click |
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
 | [ColorsWall](https://colorswall.com/) | Place to store your color palettes and generate palette in one click |
 | [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real-world example as to how the colors could be used in your design projects by Mackenzie Child |
@@ -242,6 +251,10 @@ Available for MacOS, Linux, & Windows<br>
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
+| [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) | Generate tints and shades from any base color as an 11-step scale, exportable as CSS variables, Tailwind config, or SCSS. Free, runs entirely in the browser. |
+| [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) | Pull the exact palette out of any image and export it as an Aseprite/GIMP `.gpl`, a Lospec `.hex`, CSS variables, JSON or a PNG swatch strip. Runs entirely in the browser. |
+| [Nutilz Color Picker](https://nutilz.com/color-picker) | Free online color picker, HEX/RGB/HSL converter, and palette generator. |
+| [CSS Gradient Generator](https://www.uixdraft.com/tools/css-gradient-generator) | Free tool for linear, radial, and conic CSS gradients with a live preview and one-click copy. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -316,6 +329,7 @@ Available for MacOS, Linux, & Windows<br>
 | [IconShelf](https://iconshelf.com/) | Access 250,000+ open-source SVG icons you can customize to fit any design or development project. |
 | [All SVG Icons](https://allsvgicons.com/) | Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries. |
 | [SVG to ICO](https://svg-to-ico.org) - A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
+| [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons)| Free 10-icon SVG sample pack, no attribution required, personal & commercial use |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -336,6 +350,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
+| [asvg](https://asvg.app/) | Free SVG, PNG, and WebP logos, icons, and flags |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -440,6 +455,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Lorem.space - Placeholder image generator](https://lorem.space) | API for placeholder images but useful! |
 | [Openverse](https://wordpress.org/openverse/) | Openverse is a search engine for openly-licensed media |
 | [ISO Republic](https://isorepublic.com/) | Get Thousands of Free High-Resolution Stock CC0 Photos |
+| [BudgetPixel Free Images](https://budgetpixel.com/images)| 9,000+ AI-generated photos and illustrations, CC BY 4.0 (credit required), no sign-up |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -481,6 +497,9 @@ Available for MacOS, Linux, & Windows<br>
 | [Musopen](https://musopen.org/music/)| An online copyright free classical music library |
 | [Pixabay](https://pixabay.com/music/)| Free music downloads for your project like Youtube videos, Music, Vlog, Film, Podcast etc. |
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
+| [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds)| Twelve original WAV interface clicks. $0 checkout; commercial use allowed. |
+| [BudgetPixel Sound Effects](https://budgetpixel.com/sfx)| 2,600+ AI-generated sound effects in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
+| [BudgetPixel Background Music](https://budgetpixel.com/background-music)| 700+ AI-generated instrumental tracks in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -521,6 +540,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
 | [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |
 | [Mossaik](https://mossaik.app/) | Free SVG generator with different tools, waves, tiles, blobs, and more. |
+| [CSS Clip-Path Generator](https://csstoolkit.net/css-clip-path-generator/) | Visually build CSS clip-path shapes (polygon, circle, ellipse, inset) by dragging points, then copy the CSS or SVG output |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -532,7 +552,9 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [App Doodler](https://doodler.copymyui.com/)| Free, open-source generator for multilingual App Store screenshots and device-sized PNG sets. |
 | [MockCity](https://mockcity.com/)| Bulk generate mockups from PSD templates by automatically placing images in SmartObjects. The visual editor allows you to change SmartObject parameters and see an updated mockup preview in realtime. |
+| [MockupReel](https://mockupreel.studio)| Free browser-based app mockup generator for turning screen recordings into beautiful device mockups. No account required. |
 | [Smart Mockups](https://smartmockups.com/)| Create stunning product mockups (free & premium) |
 | [Media Modifier](https://mediamodifier.com/)| beautiful design mockups service for your products (free & premium) |
 | [Shot Snap](https://shotsnapp.com/)| Create beautiful device mockup images for your app or website design |
@@ -553,6 +575,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pika](https://pika.style)| Instantly create browser mockups and beautiful images for marketing, blog post and more |
 | [Lunacy](https://icons8.com/lunacy)| Create mockups from scratch for free  |
 | [Podifai Mockup Generator](https://podifai.com/tools/mockup-generator)| Free online 3D mockup generator for product photos, branding, and e-commerce. No signup required |
+| [GoSocialMockup](https://gosocialmockup.com)| Create fake tweet, Instagram, Facebook, iMessage, and YouTube comment screenshots in your browser. Free with no signup and no watermark. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -592,6 +615,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
+| [PagePatch Free Hero Example](https://github.com/l-portet/pagepatch-free-hero) | Free AI-generated HTML/CSS hero example with before/after pages, five explained changes, and permission for commercial reuse. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -803,6 +827,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Frutjam](https://frutjam.com/) | CSS-only Tailwind v4 component library — no JS, no hydration issues. 60+ WCAG AA/AAA accessible components for Next.js, Nuxt, Django, Laravel, or any framework |
 | [CSSnippets](https://cssnippets.shefali.dev)| Explore a vast collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more. |
 | [Bit](https://bit.dev/components)| Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members |
 | [UILang](http://uilang.com/)| A minimal, UI-focused programming language for web designers |
@@ -955,6 +980,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Shadcn Templates](https://shadcntemplates.com/)| Free collection of Shadcn UI templates, components, blocks, boilerplates, and more. |
 | [Eldora UI](https://eldoraui.site/)| Collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. |
 | [StyleSeed](https://github.com/bitjaru/styleseed)| Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
+| [AtomicMotion UI](https://atomicmotion.dev/)| Open-source collection of copy-paste micro-interactions and animated UI components built with React, TypeScript, Framer Motion, and Tailwind CSS. |
 
 
 <div align="right">
@@ -1138,6 +1164,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Patterns](https://www.patterns.dev) | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.|
 | [Design Principles For Developers](https://medium.com/design-bootcamp/the-ultimate-design-principles-guide-for-developers-d4aa58937283) | A resource to improve Design principles and guidelines for developers.|
 | [Once UI](https://once-ui.com/)| Open-source design system for Next.js with 100+ components, deployment-ready app templates, and Figma integration |
+| [Chinese Color Atlas](https://chinesecoloratlas.com/resources/free)| Free Chinese traditional color tokens, CSS variables, Tailwind theme samples, Figma Variables samples, Procreate swatches, and AI prompt resources. |
+| [CloneAny Gallery](https://cloneany.com/gallery) | Free webpage design examples with downloadable DESIGN.md style guides and source/clone previews. No signup needed to browse or download the guides. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1162,6 +1190,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |
 | [Animoto Video Maker](https://animoto.com/apps/online-video-maker)| Make videos online |
 | [RemoveBG](https://www.remove.bg/)| Remove image backgrounds |
+| [AI Background Remover](https://codequest.work/generator/bg-remover/)| Automatically remove image backgrounds with AI subject detection. Free, no signup, runs entirely in the browser. |
 | [Photo Creator](https://photos.icons8.com/creator)| Create your own photos instead of searching for stock |
 | [Visme](https://www.visme.co/)| Create presentations, infographics and more |
 | [Infogram](https://infogram.com/)| Create infograms |
@@ -1178,9 +1207,12 @@ Available for MacOS, Linux, & Windows<br>
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |
 | [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
+| [Mermaid Design](https://mermaid.design)| Mermaid diagram editor with SVG and ASCII rendering, custom themes, and image export.  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
+| [CSS Grid Generator](https://codequest.work/generator/grid/)| A visual CSS Grid layout generator. Drag to place grid items and auto-generate HTML/CSS code with one-click copy |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
+| [CSS Flex Generator](https://codequest.work/generator/flex/)| A visual CSS Flexbox layout generator. Configure flex properties with real-time preview and auto-generate CSS code |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution (4 free) |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Big Heads](https://github.com/RobertBroersma/bigheads) | Easily generate avatars for your projects with Big Heads by Robert Broersma.
@@ -1205,7 +1237,10 @@ Available for MacOS, Linux, & Windows<br>
 | [PixCleaner](https://www.pixcleaner.com/)| Accurate and hassle free background removal tool |
 | [Glass UI](https://ui.glass/generator)| A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications. |
 | [Glassmorphism](https://glassmorphism.com/)| An incredible online tool for generating quick glassmorphic UI in CSS code snippets. |
+| [Liquid Glass Generator](https://codequest.work/generator/liquid-glass-generator/)| Generate Apple-style Liquid Glass UI effects with WebGL (refraction, chromatic aberration, frosted glass) and copy the code. |
+| [Nutilz Glassmorphism Generator](https://nutilz.com/glassmorphism-generator)| Free online glassmorphism CSS generator with live preview — adjust blur, transparency and border to get ready-to-use CSS code. No signup required. |
 | [TableConvert](https://tableconvert.com/)| Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table.  |
+| [Excel to Markdown](https://exceltomd.com/excel-to-markdown) | Convert XLSX, XLS, CSV, or pasted cells into Markdown tables locally in the browser without uploading files. |
 | [Doodle Ipsum](https://doodleipsum.com/)| The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools. |
 | [Figen](https://figen.cc/)| Post Cover & Background Generator Tool |
 | [Windframe](https://www.devwares.com/windframe/)|  A tool to rapidly prototype and build stunning websites using Tailwind CSS (Free & Premium) |
@@ -1220,7 +1255,12 @@ Available for MacOS, Linux, & Windows<br>
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
 | [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
+| [Responsive CSS Grid Generator](https://cssgridgenerator.net) | Draw a CSS Grid at each breakpoint and copy CSS with the media queries already written |
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
+| [PicCollages](https://piccollages.com/) | Free browser-based photo collage maker for grid layouts and long-image stitching, with drag-and-drop editing and local image processing. No signup required. |
+| [FastTool Design](https://fasttool.app/category/design) | Free browser-based design utilities: color picker, palette generator, CSS gradient builder, contrast checker, hex/RGB/HSL converter, shadow generator. No signup, no upload. |
+| [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
+| [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1249,6 +1289,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
 | [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
 | [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook: For mac only |
+| [ItsPaint](https://itspaintmac.com)| Free & open source native Mac paint app: blank canvas at any size, crop, and screenshot markup |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1307,6 +1348,7 @@ Available for MacOS, Linux, & Windows<br>
 | [App Motion](https://appmotion.design/)| Explore the best, hand-picked app motion design |
 | [Uiland Design](https://uiland.design/)| Home of the best mobile ui inspirations from top companies in the world |
 | [A1 Gallery](https://www.a1.gallery)| Hand-curated gallery of 1,000+ websites filterable by technology stack, font, style, colour, creator, type, and category |
+| [STEEP](https://steep.design/) | Free, curated vertical video ads for motion, typography, branding, and campaign inspiration. Browse by brand or category and save favorites without an account. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1322,6 +1364,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
+| [Image Compressor & Converter](https://codequest.work/generator/image-compressor/)| Compress and convert images between JPG, PNG, WebP, AVIF, and SVG, with resizing and automatic EXIF removal. Runs entirely in the browser. |
 | [BulkResizePhotos](https://bulkresizephotos.com/)| Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline) |
 | [iLoveIMG](https://www.iloveimg.com/)| The fastest free web app for easy image modification |
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
@@ -1331,6 +1374,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
+| [QuickTiny Compress Image](https://quicktinyv2.vercel.app/compress-image)| Free, no-signup image compressor that runs entirely in the browser, no upload to a server |
 | [Resizing.app](https://resizing.app/)| Resize Your Images Online |
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
@@ -1341,6 +1385,13 @@ Available for MacOS, Linux, & Windows<br>
 | [CompressImage.io](https://compressimage.io) | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline |
 | [JPEG Compressor](https://jpegcompressor.com/) | free image compressor tool and it support JPEG, PNG, SVG, JPG, WEBP and GIF. |
 | [Image Resize AI](https://imageresizeai.com/) | A 100% free & private (no upload) toolkit to resize, compress, crop, convert, and bulk image resizer. it support JPEG, PNG, SVG, JPG, WEBP and more. |
+| [PNG Compressor](https://99tools.net/png-compressor/) | A fast and simple PNG Compressor that reduces image file size without noticeable quality loss. Optimize PNGs instantly in your browser—no uploads, secure, and developer-friendly. |
+| [EasyPNG](https://amanghuman.com/easypng.html) | Free, 100% offline, client-side image compressor and converter for WebP, JPEG, PNG, and AVIF with zero server uploads and no file limits. |
+| [SammaPix](https://www.sammapix.com/tools/compress) | Compress JPG, PNG and WebP directly in the browser via Canvas and WebAssembly. No upload, no account. Part of a 51-tool suite (HEIC/WebP/JXL conversion, RAW, EXIF removal). |
+| [Image Machine](https://imagemachinery.net/) | Compress to an exact target file size (10 KB up to 5 MB), plus convert (AVIF, WebP, JPEG XL, HEIC, PSD), resize, and GIF optimisation. Runs entirely in the browser through WebAssembly, so files are never uploaded. |
+| [Compress Image to Target Size](https://abox.tools/compress-image/) | Compress a JPEG, PNG or WebP down to an exact file size — 100 KB, 2 MB, whatever the upload limit is — instead of guessing at a quality slider. Runs entirely in the browser, nothing is uploaded, and it works offline. Free and open source. |
+| [frisqoo Compress Images](https://frisqoo.com/tools/compress-image/) | Compress JPG, PNG and WebP images in the browser. Files are processed in the browser and are not uploaded. |
+| [UseCOS Photo Resizer](https://usecos.app/tools/passport-photo-resizer) | Fast client-side image resizer and compressor with exact KB targets (50KB, 100KB, 200KB) and aspect ratio presets. Runs 100% in-browser with zero uploads. |
 
 
 <div align="right">
@@ -1389,6 +1440,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Hackertab.dev](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) | Hackertab helps developers stay up-to-date with the latest dev news and resources in one tab. |
 | [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) | Formats and colors JSON content for better readability. It can also collapse and expand nested structures. |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?hl=en) | A SEO tool that includes features like on-page SEO analysis, broken link checking, and SERP preview and more. |
+| [Statable WCAG Checker](https://chromewebstore.google.com/detail/statable-wcag-checker/cgfkmhkdjaglhanjmaofjfkmieanchmo) | Free accessibility checker that runs axe-core on the current page and lists WCAG 2.0/2.1/2.2 A and AA issues in a side panel, each with the rule and a link to the fix. Also for Firefox and Edge. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1466,6 +1518,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Commitizen](http://commitizen.github.io/cz-cli/)| Command line tool to formatted commit messages according to the standards |
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Formatter, Minifier, File Converter |
 | [Tiny helpers](https://tiny-helpers.dev/)| A collection of free single-purpose online tools for web developers |
+| [DevUtils](https://tyr1105.github.io/devutils-tools/)| 10 free online developer tools (JSON formatter, Base64, JWT debugger, hash generator, regex tester, color converter, markdown preview, etc.) — no login required. |
 | [CSS Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/)| This generator will assist in creating a pure CSS corner ribbon. |
 | [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
 | [kangax-js-compat-table](https://compat-table.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
@@ -1518,6 +1571,8 @@ Available for MacOS, Linux, & Windows<br>
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
 | [onHTML.com](https://onhtml.com/) | Free online HTML/CSS/JS live editor bundled with 60+ developer tools (JSON formatter, regex tester, JWT decoder, color picker, gradient maker, image compressor, base64 encoder). Client-side, no signup. |
+| [JSON Viewer Tool](https://jsonviewertool.com/) | Free online JSON viewer, formatter, validator and converter (CSV, Excel, YAML, XML). Runs fully in the browser. |
+| [ToolCascade](https://toolcascade.com/) | 80+ free browser-based tools: PDF merge/split, image converters, CSS generators, minifiers, timers, and unit converters. Everything runs client-side — no signup, files never leave your device. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

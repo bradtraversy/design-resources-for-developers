@@ -618,6 +618,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
 | [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
 | [ScrewFast](https://github.com/mearashadowfax/ScrewFast) | Open-source Astro website template with sleek, customizable TailwindCSS components |
+| [Forge](https://forge.madebyever.com/) | Free dark-mode Next.js 16 landing page template featuring CSS 3D device mockups and ambient lighting. |
 | [PagePatch Free Hero Example](https://github.com/l-portet/pagepatch-free-hero) | Free AI-generated HTML/CSS hero example with before/after pages, five explained changes, and permission for commercial reuse. |
 
 <div align="right">

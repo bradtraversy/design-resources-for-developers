@@ -185,6 +185,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
 | [Palette List](https://www.palettelist.com/)| Pick 2 colors you like and the tool generates thousands of palettes for you. |
 | [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
+| [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) | Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values |
 | [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavors |

@@ -1407,6 +1407,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Hackertab.dev](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) | Hackertab helps developers stay up-to-date with the latest dev news and resources in one tab. |
 | [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) | Formats and colors JSON content for better readability. It can also collapse and expand nested structures. |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?hl=en) | A SEO tool that includes features like on-page SEO analysis, broken link checking, and SERP preview and more. |
+| [Statable WCAG Checker](https://chromewebstore.google.com/detail/statable-wcag-checker/cgfkmhkdjaglhanjmaofjfkmieanchmo) | Free accessibility checker that runs axe-core on the current page and lists WCAG 2.0/2.1/2.2 A and AA issues in a side panel, each with the rule and a link to the fix. Also for Firefox and Edge. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

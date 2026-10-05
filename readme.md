@@ -1458,7 +1458,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Figpeek](https://figpeek.vercel.app/) | Figpeek is a new Figma and GitHub thumbnail generator. |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |
-| [Docultra](https://docultra.org/) | Free browser-based file converter and PDF toolkit — batch-convert images, documents, audio and video, plus PDF merge, compress, redact, sign, OCR and translate. Files up to 10 GB, no sign-up, no watermark; many conversions run locally in the browser. |
+| [Docultra](https://docultra.org/) | Free file converter and PDF toolkit with batch processing up to 10 GB. No signup or watermark, and many conversions run locally in the browser. |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
 | [Devhints.io](https://devhints.io/) | This is a modest collection of cheatsheets on Internet |
 | [The Web Toolbox](https://thewebtoolbox.cc/)| A collection of handy, free-to-use tools for web developers, programmers and designers. |

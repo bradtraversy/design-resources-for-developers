@@ -1,11 +1,15 @@
 # Contributing Guidelines
 
-- Add single resource in one pull request as it will allow for easier review.
+- Add or correct one resource per pull request so it is easy to review.
 
-- Pull request title should include resource name and resource section.
+- Use the resource name and section in the pull request title.
   - Example: `[Tailwind CSS] -> [CSS Frameworks]`
 
-- Provide a link to submitted resource in pull request comment section for easier access without copy paste.
+- Include the direct resource URL in the pull request description.
   - Example: `Link: https://tailwindcss.com/`
 
-- Double check if the resource is truly free without any kind of hidden surprises.
+- Confirm the resource is genuinely usable for free. Paid-only products and time-limited trials are not accepted.
+
+- Search the README by resource name and URL before submitting. Duplicates are not accepted.
+
+- Change only the resource entry. Do not modify the repository banner or Warp sponsor section.

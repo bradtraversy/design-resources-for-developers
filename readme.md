@@ -355,6 +355,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
+| [AI Logo Collection](https://ailogocollection.com/) | Free SVG and PNG downloads for 340+ AI company logos. No signup required. |
 | [asvg](https://asvg.app/) | Free SVG, PNG, and WebP logos, icons, and flags |
 
 <div align="right">

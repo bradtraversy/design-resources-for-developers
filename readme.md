@@ -1544,6 +1544,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Automation Smoke Test](https://example.com/) | Temporary row used to verify contribution automation. |
 | [Figpeek](https://figpeek.vercel.app/) | Figpeek is a new Figma and GitHub thumbnail generator. |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |

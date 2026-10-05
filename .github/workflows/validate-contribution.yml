@@ -1,0 +1,42 @@
+name: Validate contribution
+
+on:
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize, ready_for_review]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-contribution-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  contribution-rules:
+    name: Contribution rules
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out trusted validator
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Fetch proposed merge as data
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: git fetch --no-tags origin "pull/${PR_NUMBER}/merge:refs/remotes/origin/pr-merge"
+
+      - name: Test validator
+        run: python3 -m unittest discover .github/scripts -p 'test_*.py'
+
+      - name: Validate contribution
+        env:
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: >-
+          python3 .github/scripts/validate_contribution.py
+          --merge refs/remotes/origin/pr-merge
+          --expected-head "$HEAD_SHA"
+          --event "$GITHUB_EVENT_PATH"

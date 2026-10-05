@@ -173,6 +173,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Coolours](https://coolours.perpetualsummer.ltd/) | Free color scheme generator for creating and exporting palettes. |
 | [PaletteForge](https://paletteforge.io) | Generate beautiful color palettes from different categories.
 | [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.
 | [ColorOf](https://colorof.app/) | Color guide for palette comparison and accessibility checks. |

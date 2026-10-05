@@ -189,6 +189,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
 | [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavors |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
+| [Image Color Picker](https://codequest.work/generator/image-color-picker/)| Extract color palettes from any image using k-means++ clustering. Export as CSS variables, HEX, RGB, or HSL with one click |
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
 | [ColorsWall](https://colorswall.com/) | Place to store your color palettes and generate palette in one click |
 | [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real-world example as to how the colors could be used in your design projects by Mackenzie Child |

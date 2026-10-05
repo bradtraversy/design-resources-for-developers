@@ -87,6 +87,15 @@ class ContributionValidationTests(unittest.TestCase):
         with self.assertRaisesRegex(VALIDATOR.ValidationError, "Yes or No"):
             VALIDATOR.validate_resource(BASE, candidate, "[New Resource] -> [Icons]", body)
 
+    def test_accepts_a_product_ownership_explanation(self):
+        candidate = BASE + "| [New Resource](https://new.example.com/) | New resource |\n"
+        body = BODY.replace(
+            "Is this your product? No",
+            "Is this your product? Yes - submitted on behalf of the product.",
+        )
+
+        VALIDATOR.validate_resource(BASE, candidate, "[New Resource] -> [Icons]", body)
+
     def test_accepts_a_correction_to_the_same_resource(self):
         candidate = BASE.replace(
             "| [Existing](https://example.com/) | Existing resource |",

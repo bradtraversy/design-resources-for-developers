@@ -442,6 +442,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Lorem.space - Placeholder image generator](https://lorem.space) | API for placeholder images but useful! |
 | [Openverse](https://wordpress.org/openverse/) | Openverse is a search engine for openly-licensed media |
 | [ISO Republic](https://isorepublic.com/) | Get Thousands of Free High-Resolution Stock CC0 Photos |
+| [BudgetPixel Free Images](https://budgetpixel.com/images)| 9,000+ AI-generated photos and illustrations, CC BY 4.0 (credit required), no sign-up |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

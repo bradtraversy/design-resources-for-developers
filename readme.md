@@ -1318,6 +1318,7 @@ Available for MacOS, Linux, & Windows<br>
 | [App Motion](https://appmotion.design/)| Explore the best, hand-picked app motion design |
 | [Uiland Design](https://uiland.design/)| Home of the best mobile ui inspirations from top companies in the world |
 | [A1 Gallery](https://www.a1.gallery)| Hand-curated gallery of 1,000+ websites filterable by technology stack, font, style, colour, creator, type, and category |
+| [STEEP](https://steep.design/) | Free, curated vertical video ads for motion, typography, branding, and campaign inspiration. Browse by brand or category and save favorites without an account. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

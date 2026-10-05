@@ -1268,6 +1268,7 @@ Available for MacOS, Linux, & Windows<br>
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
 | [PicCollages](https://piccollages.com/) | Free browser-based photo collage maker for grid layouts and long-image stitching, with drag-and-drop editing and local image processing. No signup required. |
 | [FastTool Design](https://fasttool.app/category/design) | Free browser-based design utilities: color picker, palette generator, CSS gradient builder, contrast checker, hex/RGB/HSL converter, shadow generator. No signup, no upload. |
+| [Grain Studio](https://grainstudio.harshith.com/) | Free, open-source image texture editor with 25 tactile effects, local-only processing, and offline PWA support. |
 | [OmniTools](https://www.devomnitools.com) | Free, fast, and 100% private client-side developer design utilities: interactive CSS Flexbox playground with Tailwind export, 8K SVG to PNG converter, CSS Glassmorphism generator, and QR code maker. |
 | [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |

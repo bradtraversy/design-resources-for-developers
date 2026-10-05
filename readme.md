@@ -430,6 +430,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Stock Snap](https://stocksnap.io/)| Hundreds of high quality photos added weekly |
 | [Morguefile](https://morguefile.com/)| Over 350,000 free stock photos for commercial use |
 | [Kaboom Pics](https://kaboompics.com/)| Stock photography and color palettes. Good for product images |
+| [Fine Art Free](https://fineartfree.com/)| 500,000+ public-domain paintings & prints from major museums, free for any use |
 | [New Old Stock](https://nos.twnsnd.co/)| Stock vintage photos |
 | [Pic Jumbo](https://picjumbo.com/)| Good collections of different types of photos |
 | [Public Domain Pictures](https://www.publicdomainpictures.net/en/)| Public domain images of all types |

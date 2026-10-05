@@ -1520,9 +1520,8 @@ Available for MacOS, Linux, & Windows<br>
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
+| [A1Lab](https://a1lab.tech) | Free interactive coding tutorials and browser-based practice for Python, C++, SQL, and web development. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
-* [A1Lab](https://a1lab.tech) - Free browser-based online IDE and code practice platform for Python, C++, SQL, and Web Dev.

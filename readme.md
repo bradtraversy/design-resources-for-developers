@@ -244,6 +244,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AiSeka](https://www.aiseka.com/) | Discover Created the best Color Palette & Color Tools. |
 | [Volume](https://www.volumecolor.io/) | 3D OKLCH color palette generator. |
 | [EnigmaEasel](https://enigmaeasel.com) | AI color palette generator and gradient generator for creating accessible design systems with built-in contrast auditing and Tailwind exports. |
+| [Nutilz Color Picker](https://nutilz.com/color-picker) | Free online color picker, HEX/RGB/HSL converter, and palette generator. |
 | [CSS Gradient Generator](https://www.uixdraft.com/tools/css-gradient-generator) | Free tool for linear, radial, and conic CSS gradients with a live preview and one-click copy. |
 
 <div align="right">

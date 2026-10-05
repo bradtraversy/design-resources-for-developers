@@ -1273,6 +1273,7 @@ Available for MacOS, Linux, & Windows<br>
 | [GrapesJS](https://grapesjs.com/) | Open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. |
 | [PicCollages](https://piccollages.com/) | Free browser-based photo collage maker for grid layouts and long-image stitching, with drag-and-drop editing and local image processing. No signup required. |
 | [FastTool Design](https://fasttool.app/category/design) | Free browser-based design utilities: color picker, palette generator, CSS gradient builder, contrast checker, hex/RGB/HSL converter, shadow generator. No signup, no upload. |
+| [Emote Resizer](https://emoteresize.com/) | Free client-side tool that generates Twitch, Discord, 7TV and Slack emote, badge and sticker sizes from one image. Supports animated GIFs, batch input and ZIP downloads. |
 | [Nutilz Image Watermark](https://nutilz.com/image-watermark) | Add a text or image watermark to photos in the browser with adjustable position, opacity and size. No signup or server upload required. |
 | [OneToolBox](https://onetoolbox.dev/) | Free browser-based developer and design utilities with client-side processing, no account, and no paywall. |
 | [DeerImage](https://deerimage.com/) | Free Chinese-language browser-based image toolkit for ID photos, signatures, drawing, compression, conversion, and editing; files stay on-device. |

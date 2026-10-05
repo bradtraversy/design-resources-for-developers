@@ -157,6 +157,7 @@ Available for MacOS, Linux, & Windows<br>
 | [FontsWiki](https://fontswiki.com/) | Free typography resource with font downloads, pairing guides, and font-in-use references for logos, films, games, and design projects. |
 | [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 | [Bunny Fonts](https://fonts.bunny.net/) | Privacy-focused Google Fonts alternative, GDPR compliant with faster CDN |
+| [Cursive Text Generator](https://cursive-text-generator.net/) | Free font-based tool that converts text into Unicode cursive and script characters you can copy and paste into bios, posts and usernames |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

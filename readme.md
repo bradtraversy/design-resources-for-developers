@@ -336,6 +336,7 @@ Available for MacOS, Linux, & Windows<br>
 | [SVG to ICO](https://svg-to-ico.org) | A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
 | [SVGIconify](https://svgiconify.com) | Search 343K+ icons from 240 curated libraries and export as SVG, PNG, JSX, or Base64, no account needed. |
 | [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons)| Free 10-icon SVG sample pack, no attribution required, personal & commercial use |
+| [Energy Icons](https://energyicons.com/) | 1,279 free, open source icons for energy, climate and everyday UI, with React, SVG, icon font and a Figma plugin. MIT licensed. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

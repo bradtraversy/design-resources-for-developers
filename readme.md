@@ -1289,6 +1289,7 @@ Available for MacOS, Linux, & Windows<br>
 | [OmniTools](https://www.devomnitools.com) | Free, fast, and 100% private client-side developer design utilities: interactive CSS Flexbox playground with Tailwind export, 8K SVG to PNG converter, CSS Glassmorphism generator, and QR code maker. |
 | [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
+| [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

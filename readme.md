@@ -1433,6 +1433,7 @@ Available for MacOS, Linux, & Windows<br>
 
 
 | [Refentra](https://refentra.com/tools/compress-image-to-target-size/)| Compress JPEG or WebP toward a chosen KB or MB limit locally, and check the actual output size before downloading. No file upload. |
+| [PictureToLink Image Compressor](https://picturetolink.com/image-compressor) | Free in-browser compressor for JPG, PNG and WebP with exact target sizes (e.g. 100 KB) and ZIP download for batches. Files stay on your device; no sign-up or watermark. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -995,13 +995,12 @@ Available for MacOS, Linux, & Windows<br>
 | [Emerald UI](https://www.emerald-ui.com/) | 52+ free, MIT-licensed React components built with Tailwind CSS and animation libraries. |
 | [StyleSeed](https://github.com/bitjaru/styleseed)| Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
 | [AtomicMotion UI](https://atomicmotion.dev/)| Open-source collection of copy-paste micro-interactions and animated UI components built with React, TypeScript, Framer Motion, and Tailwind CSS. |
+| [Payload Components](https://www.payload-components.xyz) | Free, MIT-licensed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as customizable source with automated collection, renderer, types and admin import-map wiring. |
 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
-
-- [Payload Components](https://www.payload-components.xyz) - Free, MIT-licensed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as customizable source with automated collection, renderer, types and admin import-map wiring.
 
 ## Vue UI Libraries
 
@@ -1430,9 +1429,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Compress Image to Target Size](https://abox.tools/compress-image/) | Compress a JPEG, PNG or WebP down to an exact file size — 100 KB, 2 MB, whatever the upload limit is — instead of guessing at a quality slider. Runs entirely in the browser, nothing is uploaded, and it works offline. Free and open source. |
 | [frisqoo Compress Images](https://frisqoo.com/tools/compress-image/) | Compress JPG, PNG and WebP images in the browser. Files are processed in the browser and are not uploaded. |
 | [UseCOS Photo Resizer](https://usecos.app/tools/passport-photo-resizer) | Fast client-side image resizer and compressor with exact KB targets (50KB, 100KB, 200KB) and aspect ratio presets. Runs 100% in-browser with zero uploads. |
-
-
-| [Refentra](https://refentra.com/tools/compress-image-to-target-size/)| Compress JPEG or WebP toward a chosen KB or MB limit locally, and check the actual output size before downloading. No file upload. |
+| [Refentra](https://refentra.com/tools/compress-image-to-target-size/) | Compress JPEG or WebP toward a chosen KB or MB limit locally, and check the actual output size before downloading. No file upload. |
 | [PictureToLink Image Compressor](https://picturetolink.com/image-compressor) | Free in-browser compressor for JPG, PNG and WebP with exact target sizes (e.g. 100 KB) and ZIP download for batches. Files stay on your device; no sign-up or watermark. |
 
 <div align="right">
@@ -1533,7 +1530,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ImgGen.Ai](https://imggen.ai/) | ImgGen AI is a free AI-powered image generator and enhancement tool. |
 | [Unblurimage.Ai](https://unblurimage.ai/) | Unblurimage AI is 100% Free,No Sign-Up online tool for unblur image. |
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
-| [Free AI Diagram Generator](https://diagram-generator.com/) a free AI-powered platform that helps you create various types of diagrams with ease. |
+| [Free AI Diagram Generator](https://diagram-generator.com/) | A free AI-powered platform that helps you create various types of diagrams with ease. |
 | [PolyGlyph](https://polyglyph.io/) | AI-powered SVG generation and editing tool. Type a prompt to generate a vector graphic, then edit it in a browser-based vector editor. Free credits on signup. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1611,7 +1608,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ExtendsClass](https://extendsclass.com/) | Free online tools for developers, including image compressors/encoders, code formatters, code playgrounds, and many other handy utilities. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
-| [ToolsHref](https://toolshref.com) - Online Java code analyzer and JSON-to-Mermaid visualization tool. Multiple Dev Tools    |
+| [ToolsHref](https://toolshref.com) | Online Java code analyzer, JSON-to-Mermaid visualization tool, and multiple developer tools. |
 | [Toolbox Kit](https://toolbox-kit.com/) | 150+ free browser-based developer tools: JSON formatter, diff checker, regex tester, JWT decoder, CSS generators, SVG optimizer, color tools, and hash/QR generators. Runs client-side, no signup. |
 | [ToolsNova](https://toolsnova.net/) | 155+ free browser-based utilities for developers and designers, plus a large prompt library. No signup required, and it works offline as a PWA. |
 | [A1Lab](https://a1lab.tech) | Free interactive coding tutorials and browser-based practice for Python, C++, SQL, and web development. |

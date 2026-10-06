@@ -798,6 +798,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Tingle.js](https://tingle.robinparisi.com/)| Tingle is a simple modal plugin written in pure JavaScript |
 | [Theatre.js](https://www.theatrejs.com/)| Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable. |
 | [splidejs](https://splidejs.com/)| Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
+| [Free GSAP Effects](https://github.com/jaydickinson/free-gsap-effects)| MIT-licensed, copy-paste GSAP animation effects, UI components and website templates, each with a live demo, reduced-motion fallbacks and cleanup built in. |
 | [nice-waves](https://gvguy.github.io/nice-waves/)| Beautiful animated waves |
 | [Vanta.js](https://www.vantajs.com/)| Animated website backgrounds in a few lines of code. |
 | [Splitting.js](https://splitting.js.org/)| Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more! |

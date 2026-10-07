@@ -1390,6 +1390,7 @@ Available for MacOS, Linux, & Windows<br>
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [TinyPNG](https://tinypng.com/)| Smart PNG and JPEG compression
+| [Practical Web Tools](https://practicalwebtools.com/edit/compress-image)| Free client-side image compressor (JPG, PNG, WebP) plus a suite of 1,400+ browser tools: PDF editors, image/audio converters, and calculators. Nothing is uploaded. |
 | [ToolKnit Image Compressor](https://toolknit.com/tools/compress-image.html) | Free client-side batch compressor for JPG, PNG and WebP with quality presets or exact target sizes. Files are not uploaded. |
 | [CompressMyPhotos](https://compressmyphotos.com/) | Free browser-based JPG, PNG and WebP compression with exact target sizes, batch downloads and EXIF removal |
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download

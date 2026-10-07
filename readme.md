@@ -358,6 +358,7 @@ Available for MacOS, Linux, & Windows<br>
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
 | [AI Logo Collection](https://ailogocollection.com/) | Free SVG and PNG downloads for 340+ AI company logos. No signup required. |
 | [asvg](https://asvg.app/) | Free SVG, PNG, and WebP logos, icons, and flags |
+| [FreemiumAssets](https://freemiumassets.com/) | Free brand logos in SVG and PNG with consistent Primary, Black, White, and Outline variants |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -305,6 +305,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Cryptoicons](http://cryptoicons.co/) | A set of 430 crypto and fiat currency icons. Completely free. |
 | [Ikonate](https://ikonate.com/) | Fully customizable & accessible vector icons |
 | [appicon](https://appicon.co/)| Quickly generate app icons in different sizes for your IOS, macOS and Android projects|
+| [APPLORE App Icon Generator](https://applore.app/app-icon-generator) | Free, in-browser export of one 1024px image to every app icon size: Xcode AppIcon set, macOS, Icon Composer (.icon), Android adaptive and themed icons, favicon and PWA. No signup |
 | [LineIcons](https://lineicons.com) | 2000+ Essential Line Icons for Designers and Developers |
 | [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) | Evericons is a big pack of over 460 free icons designed by Aleksey Popov. |
 | [SVG Repo](https://www.svgrepo.com/) | Download free SVG Vectors for commercial use. |

@@ -336,6 +336,7 @@ Available for MacOS, Linux, & Windows<br>
 | [SVG to ICO](https://svg-to-ico.org) | A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
 | [SVGIconify](https://svgiconify.com) | Search 343K+ icons from 240 curated libraries and export as SVG, PNG, JSX, or Base64, no account needed. |
 | [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons)| Free 10-icon SVG sample pack, no attribution required, personal & commercial use |
+| [Energy Icons](https://energyicons.com/) | 1,279 free, open source icons for energy, climate and everyday UI, with React, SVG, icon font and a Figma plugin. MIT licensed. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1290,6 +1291,7 @@ Available for MacOS, Linux, & Windows<br>
 | [OmniTools](https://www.devomnitools.com) | Free, fast, and 100% private client-side developer design utilities: interactive CSS Flexbox playground with Tailwind export, 8K SVG to PNG converter, CSS Glassmorphism generator, and QR code maker. |
 | [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
+| [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1433,7 +1435,8 @@ Available for MacOS, Linux, & Windows<br>
 | [UseCOS Photo Resizer](https://usecos.app/tools/passport-photo-resizer) | Fast client-side image resizer and compressor with exact KB targets (50KB, 100KB, 200KB) and aspect ratio presets. Runs 100% in-browser with zero uploads. |
 | [Refentra](https://refentra.com/tools/compress-image-to-target-size/) | Compress JPEG or WebP toward a chosen KB or MB limit locally, and check the actual output size before downloading. No file upload. |
 | [PictureToLink Image Compressor](https://picturetolink.com/image-compressor) | Free in-browser compressor for JPG, PNG and WebP with exact target sizes (e.g. 100 KB) and ZIP download for batches. Files stay on your device; no sign-up or watermark. |
-| [Quick Image Kit](https://quickimagekit.com/compress-image?utm_source=github&utm_medium=awesome_list&utm_campaign=design_resources_image_compression) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
+| [YangSpec Image Attachment Helper](https://yangspec.com/tools/image-attachment-helper/) | Free browser-based JPG/PNG attachment preparation with maximum file size and dimensions, before/after previews, and optional resizing. No signup; files are processed on-device. |
+| [Quick Image Kit](https://quickimagekit.com/compress-image) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

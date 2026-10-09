@@ -1201,6 +1201,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Penpot](https://penpot.app/)| Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community [Open Source and selfhostable](https://github.com/penpot/penpot#what-is-penpot) |
 | [Vectr](https://vectr.com/)| Free vector graphics software|
 | [Taler](https://www.taler.app/)| Create social media banner designs in minutes from hundreds of customizable templates |
+| [Free Banner Maker](https://astra-intelligence.github.io/free-banner-maker/)| Generate professional social media banners for 7 platforms (Twitter/X, LinkedIn, Instagram, YouTube, Facebook) with 4 visual styles; no sign-up, no API key, runs entirely in the browser |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Get Waves](https://getwaves.io/)| A free SVG wave generator to make unique SVG waves for web design |
 | [Clippy](https://bennettfeely.com/clippy/)| Easy CSS clip-path maker |

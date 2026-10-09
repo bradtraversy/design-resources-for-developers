@@ -999,6 +999,7 @@ Available for MacOS, Linux, & Windows<br>
 | [StyleSeed](https://github.com/bitjaru/styleseed)| Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
 | [AtomicMotion UI](https://atomicmotion.dev/)| Open-source collection of copy-paste micro-interactions and animated UI components built with React, TypeScript, Framer Motion, and Tailwind CSS. |
 | [Payload Components](https://www.payload-components.xyz) | Free, MIT-licensed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as customizable source with automated collection, renderer, types and admin import-map wiring. |
+| [Bestax](https://bestax.io/)| TypeScript React components for the Bulma v1 CSS framework |
 
 
 <div align="right">

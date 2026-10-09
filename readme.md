@@ -757,6 +757,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AniX](https://adajuly.github.io/AniX/)| Super easy and lightweight css animation library. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
+| [Button Interaction Specs](https://jsabutis.github.io/button-interaction-specs/)| Hover and press effects on one identical button, each with its CSS or JavaScript to copy. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

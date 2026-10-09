@@ -1609,6 +1609,7 @@ Available for MacOS, Linux, & Windows<br>
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
+| [ShareScan](https://sharescan.io/scan) | Free checker for Open Graph tags and image URLs across up to 10 pages at once. No account required. |
 | [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
 | [Python Cheat Sheet - CheatGrid](https://www.cheatgrid.com/programming-languages/0004-python-cheat-sheet) | Free Python quick reference with examples covering core syntax, data structures and object-oriented programming. No account required. |

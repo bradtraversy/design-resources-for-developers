@@ -336,6 +336,7 @@ Available for MacOS, Linux, & Windows<br>
 | [SVG to ICO](https://svg-to-ico.org) | A free, fast online tool to convert SVG images to ICO format for favicons and app icons. |
 | [SVGIconify](https://svgiconify.com) | Search 343K+ icons from 240 curated libraries and export as SVG, PNG, JSX, or Base64, no account needed. |
 | [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons)| Free 10-icon SVG sample pack, no attribution required, personal & commercial use |
+| [Energy Icons](https://energyicons.com/) | 1,279 free, open source icons for energy, climate and everyday UI, with React, SVG, icon font and a Figma plugin. MIT licensed. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -358,6 +359,7 @@ Available for MacOS, Linux, & Windows<br>
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
 | [AI Logo Collection](https://ailogocollection.com/) | Free SVG and PNG downloads for 340+ AI company logos. No signup required. |
 | [asvg](https://asvg.app/) | Free SVG, PNG, and WebP logos, icons, and flags |
+| [FreemiumAssets](https://freemiumassets.com/) | Free brand logos in SVG and PNG with consistent Primary, Black, White, and Outline variants |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -997,6 +999,7 @@ Available for MacOS, Linux, & Windows<br>
 | [StyleSeed](https://github.com/bitjaru/styleseed)| Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
 | [AtomicMotion UI](https://atomicmotion.dev/)| Open-source collection of copy-paste micro-interactions and animated UI components built with React, TypeScript, Framer Motion, and Tailwind CSS. |
 | [Payload Components](https://www.payload-components.xyz) | Free, MIT-licensed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as customizable source with automated collection, renderer, types and admin import-map wiring. |
+| [Bestax](https://bestax.io/)| TypeScript React components for the Bulma v1 CSS framework |
 
 
 <div align="right">
@@ -1289,6 +1292,8 @@ Available for MacOS, Linux, & Windows<br>
 | [OmniTools](https://www.devomnitools.com) | Free, fast, and 100% private client-side developer design utilities: interactive CSS Flexbox playground with Tailwind export, 8K SVG to PNG converter, CSS Glassmorphism generator, and QR code maker. |
 | [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
+| [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
+| [ImageSplit](https://www.imagesplit.online/) | Free browser-based image splitter and merger for grids, custom cuts and carousel slides. Export PNG, JPG, WebP or ZIP without an account; image files stay on-device. Input limit: 20 MB / 40 MP. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1432,6 +1437,8 @@ Available for MacOS, Linux, & Windows<br>
 | [UseCOS Photo Resizer](https://usecos.app/tools/passport-photo-resizer) | Fast client-side image resizer and compressor with exact KB targets (50KB, 100KB, 200KB) and aspect ratio presets. Runs 100% in-browser with zero uploads. |
 | [Refentra](https://refentra.com/tools/compress-image-to-target-size/) | Compress JPEG or WebP toward a chosen KB or MB limit locally, and check the actual output size before downloading. No file upload. |
 | [PictureToLink Image Compressor](https://picturetolink.com/image-compressor) | Free in-browser compressor for JPG, PNG and WebP with exact target sizes (e.g. 100 KB) and ZIP download for batches. Files stay on your device; no sign-up or watermark. |
+| [YangSpec Image Attachment Helper](https://yangspec.com/tools/image-attachment-helper/) | Free browser-based JPG/PNG attachment preparation with maximum file size and dimensions, before/after previews, and optional resizing. No signup; files are processed on-device. |
+| [Quick Image Kit](https://quickimagekit.com/compress-image) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

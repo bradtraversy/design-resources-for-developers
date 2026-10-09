@@ -1625,7 +1625,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ToolCascade](https://toolcascade.com/) | 80+ free browser-based tools: PDF merge/split, image converters, CSS generators, minifiers, timers, and unit converters. Everything runs client-side — no signup, files never leave your device. |
 | [IT Tools](https://it-tools.tech/) | Free, open-source collection of browser utilities for developers and IT professionals, with optional self-hosting. |
 | [BestJSON](https://bestjson.com/) | Free browser tools to format, validate, repair, compare and convert JSON locally, with no account required. |
-| BrivTools SEO ROI Calculator | Free online calculator to forecast and measure return on investment (ROI) for enterprise and SMB SEO campaigns. |
+| [BrivTools SEO ROI Calculator](https://www.brivtools.com/tools/seo-roi-calculator) | A browser-based calculator to estimate and project return on investment for SMB and enterprise SEO campaigns. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

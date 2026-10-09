@@ -999,6 +999,7 @@ Available for MacOS, Linux, & Windows<br>
 | [StyleSeed](https://github.com/bitjaru/styleseed)| Design engine that makes Claude Code and Cursor produce professional UI. 48 shadcn-style React components, 69 design rules, 11 AI slash-command skills, and swappable brand skins (Toss, Stripe, Linear, Vercel, Notion) on Tailwind CSS v4 + Radix UI. |
 | [AtomicMotion UI](https://atomicmotion.dev/)| Open-source collection of copy-paste micro-interactions and animated UI components built with React, TypeScript, Framer Motion, and Tailwind CSS. |
 | [Payload Components](https://www.payload-components.xyz) | Free, MIT-licensed Payload CMS blocks for Payload v3 and Next.js 15/16, installed as customizable source with automated collection, renderer, types and admin import-map wiring. |
+| [Bestax](https://bestax.io/)| TypeScript React components for the Bulma v1 CSS framework |
 
 
 <div align="right">
@@ -1292,6 +1293,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Image to ASCII](https://imagetoascii.art/) | Free browser-based image-to-ASCII converter with local processing, adjustable character styles, and TXT, PNG and SVG exports. No signup required. |
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
 | [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
+| [ImageSplit](https://www.imagesplit.online/) | Free browser-based image splitter and merger for grids, custom cuts and carousel slides. Export PNG, JPG, WebP or ZIP without an account; image files stay on-device. Input limit: 20 MB / 40 MP. |
 | [Xprite](https://xprite.cc/) | Free, open-source browser editor for pixel art and sprite animation. Opens and saves .ase/.aseprite files, with touch and stylus support. No account required. |
 
 <div align="right">

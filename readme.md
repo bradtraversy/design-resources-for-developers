@@ -1625,7 +1625,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ToolCascade](https://toolcascade.com/) | 80+ free browser-based tools: PDF merge/split, image converters, CSS generators, minifiers, timers, and unit converters. Everything runs client-side — no signup, files never leave your device. |
 | [IT Tools](https://it-tools.tech/) | Free, open-source collection of browser utilities for developers and IT professionals, with optional self-hosting. |
 | [BestJSON](https://bestjson.com/) | Free browser tools to format, validate, repair, compare and convert JSON locally, with no account required. |
-| [Free for Creators](https://github.com/skyzhao1223/free-for-creators) | License-verified directory of 172 free assets (music, SFX, footage, photos, fonts, icons, LUTs, mockups, 3D) with license, attribution, monetization and sign-up stated per entry. CC0 data, JSON API, link-checked weekly. |
+| [Free for Creators](https://github.com/skyzhao1223/free-for-creators) | A curated, license-transparent directory of free creator assets (music, SFX, footage, photos, fonts, icons, LUTs, mockups, 3D) with license, attribution, monetization and sign-up stated per entry. CC0 data, JSON API, link-checked weekly. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

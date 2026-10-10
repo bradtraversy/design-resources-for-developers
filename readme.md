@@ -1540,6 +1540,7 @@ Available for MacOS, Linux, & Windows<br>
 | [VMind](https://visactor.io/vmind) | VMind is an intelligent visualization suit that provides intelligent interfaces through rule algorithms, machine learning, and LLM. |
 | [Free AI Diagram Generator](https://diagram-generator.com/) | A free AI-powered platform that helps you create various types of diagrams with ease. |
 | [PolyGlyph](https://polyglyph.io/) | AI-powered SVG generation and editing tool. Type a prompt to generate a vector graphic, then edit it in a browser-based vector editor. Free credits on signup. |
+| [QRX](https://qrx.codes/) | QRX turns a text prompt and a link into an artistic, branded QR code and checks that it scans before returning it. Free with an account. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>

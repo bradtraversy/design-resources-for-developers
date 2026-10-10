@@ -1406,6 +1406,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Image Compressor & Converter](https://codequest.work/generator/image-compressor/)| Compress and convert images between JPG, PNG, WebP, AVIF, and SVG, with resizing and automatic EXIF removal. Runs entirely in the browser. |
 | [BulkResizePhotos](https://bulkresizephotos.com/)| Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline) |
 | [iLoveIMG](https://www.iloveimg.com/)| The fastest free web app for easy image modification |
+| [SnappyKit](https://snappykit.site) | 40+ free browser-based image tools: compression (JPG/PNG/WebP/AVIF), 40+ conversion pairs incl. HEIC, resize, crop, filters, EXIF cleanup and batch ZIP. Runs fully client-side, files are never uploaded |
 | [image-resizer.net](https://www.image-resizer.net/)| Fast Online Image Resizer & Optimizer – Resize Images Without Uploading to Any Server |
 | [SvgOMG](https://jakearchibald.github.io/svgomg/)| Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it.|
 | [CompressJPEG](https://compressjpeg.com/)| Compress JPEG images with size even greater than 5MB |

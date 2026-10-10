@@ -173,6 +173,7 @@ Available for MacOS, Linux, & Windows<br>
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [BrivTools Color Contrast Checker](https://www.brivtools.com/tools/color-contrast-checker) - A free tool to calculate color contrast ratios and ensure WCAG 2.1 compliance. |
 | [Coolours](https://coolours.perpetualsummer.ltd/) | Free color scheme generator for creating and exporting palettes. |
 | [PaletteForge](https://paletteforge.io) | Generate beautiful color palettes from different categories.
 | [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.

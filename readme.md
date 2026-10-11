@@ -1631,6 +1631,7 @@ Available for MacOS, Linux, & Windows<br>
 | [IT Tools](https://it-tools.tech/) | Free, open-source collection of browser utilities for developers and IT professionals, with optional self-hosting. |
 | [BestJSON](https://bestjson.com/) | Free browser tools to format, validate, repair, compare and convert JSON locally, with no account required. |
 | [Urban Mixo](https://www.urbanmixo.online/) | 100+ free, client-side developer utilities: JSON formatter, RFC 9562 UUIDv7 generator, SHA-256/512 hashes, Base64 converter, color tools, and text utilities. |
+| [Minglyph Newsletter Header Design Guide](https://minglyph.com/newsletter-header-design) | Free guide to newsletter-name lettering, narrow-layout readability and keeping essential identity available as text. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

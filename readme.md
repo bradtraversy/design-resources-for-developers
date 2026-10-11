@@ -876,6 +876,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Fast](https://www.fast.design/)| An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
 | [LottieFiles ](https://lottiefiles.com/)| Interactive animations in many formats like json,gif and mp4, libraries and plugins for Web & Mobile . |
 | [IconKing Lottie Tools](https://www.iconking.net/tools) | Free browser-based tools to preview, edit and convert Lottie animations. No signup or watermark. |
+| [EasyLottie](https://www.easylottie.com) | Free browser tools to preview, recolor, compress and convert Lottie files locally. No signup, upload or watermark. |
 | [Kutty](https://kutty.netlify.app/)| A set of accessible and reusable prebuilt Tailwind components that are commonly used in web applications. |
 | [Tailwind Templates](https://tailwindtemplates.io/)| A free collection of Tailwindcss Templates - tailwind components for rapid UI development. |
 | [Stitches](https://stitches.hyperyolo.com/)| An HTML template generator using functional css. |

@@ -1442,6 +1442,7 @@ Available for MacOS, Linux, & Windows<br>
 | [PictureToLink Image Compressor](https://picturetolink.com/image-compressor) | Free in-browser compressor for JPG, PNG and WebP with exact target sizes (e.g. 100 KB) and ZIP download for batches. Files stay on your device; no sign-up or watermark. |
 | [YangSpec Image Attachment Helper](https://yangspec.com/tools/image-attachment-helper/) | Free browser-based JPG/PNG attachment preparation with maximum file size and dimensions, before/after previews, and optional resizing. No signup; files are processed on-device. |
 | [Quick Image Kit](https://quickimagekit.com/compress-image) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
+| [SciZone](https://scizone.dev/) | Free batch converter to WebP and AVIF that runs fully in the browser. JPG, PNG, HEIC and TIFF input, 1000+ files at once, nothing is uploaded |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -34,7 +34,7 @@ BODY = """Link: https://new.example.com/
 Is this your product? No
 
 - [x] I am adding or correcting only one resource.
-- [x] I confirm this resource is genuinely free to use and is not only a trial.
+- [x] I confirm the exact linked resource is genuinely free to use indefinitely and is not only a trial, credit allowance, or recurring quota.
 - [x] I searched the README by name and URL and did not find this resource already listed.
 - [x] I did not modify the repository banner or Warp sponsor section.
 """

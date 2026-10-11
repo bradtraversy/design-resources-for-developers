@@ -259,6 +259,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) | Pull the exact palette out of any image and export it as an Aseprite/GIMP `.gpl`, a Lospec `.hex`, CSS variables, JSON or a PNG swatch strip. Runs entirely in the browser. |
 | [Nutilz Color Picker](https://nutilz.com/color-picker) | Free online color picker, HEX/RGB/HSL converter, and palette generator. |
 | [CSS Gradient Generator](https://www.uixdraft.com/tools/css-gradient-generator) | Free tool for linear, radial, and conic CSS gradients with a live preview and one-click copy. |
+| [CoolColor Space Video Palette](https://coolcolor.space/video-palette) | Extract a color palette from a video in the browser — from frames across the clip or from the paused frame; shows per-frame colors and exports CSS, SCSS, Tailwind or JSON. No upload, no sign-up |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -757,6 +758,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AniX](https://adajuly.github.io/AniX/)| Super easy and lightweight css animation library. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
+| [Button Interaction Specs](https://jsabutis.github.io/button-interaction-specs/)| Hover and press effects on one identical button, each with its CSS or JavaScript to copy. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1294,6 +1296,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
 | [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
 | [ImageSplit](https://www.imagesplit.online/) | Free browser-based image splitter and merger for grids, custom cuts and carousel slides. Export PNG, JPG, WebP or ZIP without an account; image files stay on-device. Input limit: 20 MB / 40 MP. |
+| [Xprite](https://xprite.cc/) | Free, open-source browser editor for pixel art and sprite animation. Opens and saves .ase/.aseprite files, with touch and stylus support. No account required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1627,6 +1630,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ToolCascade](https://toolcascade.com/) | 80+ free browser-based tools: PDF merge/split, image converters, CSS generators, minifiers, timers, and unit converters. Everything runs client-side — no signup, files never leave your device. |
 | [IT Tools](https://it-tools.tech/) | Free, open-source collection of browser utilities for developers and IT professionals, with optional self-hosting. |
 | [BestJSON](https://bestjson.com/) | Free browser tools to format, validate, repair, compare and convert JSON locally, with no account required. |
+| [Urban Mixo](https://www.urbanmixo.online/) | 100+ free, client-side developer utilities: JSON formatter, RFC 9562 UUIDv7 generator, SHA-256/512 hashes, Base64 converter, color tools, and text utilities. |
 | [Minglyph Newsletter Header Design Guide](https://minglyph.com/newsletter-header-design) | Free guide to newsletter-name lettering, narrow-layout readability and keeping essential identity available as text. |
 
 <div align="right">

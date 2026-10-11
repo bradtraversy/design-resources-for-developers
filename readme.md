@@ -361,6 +361,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AI Logo Collection](https://ailogocollection.com/) | Free SVG and PNG downloads for 340+ AI company logos. No signup required. |
 | [asvg](https://asvg.app/) | Free SVG, PNG, and WebP logos, icons, and flags |
 | [FreemiumAssets](https://freemiumassets.com/) | Free brand logos in SVG and PNG with consistent Primary, Black, White, and Outline variants |
+| [Trace Logos](https://trace-logos.ru/en/) | 800+ brand logos in SVG and PNG with a color editor, free to download |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

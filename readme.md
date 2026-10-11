@@ -1299,6 +1299,7 @@ Available for MacOS, Linux, & Windows<br>
 | [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
 | [ImageSplit](https://www.imagesplit.online/) | Free browser-based image splitter and merger for grids, custom cuts and carousel slides. Export PNG, JPG, WebP or ZIP without an account; image files stay on-device. Input limit: 20 MB / 40 MP. |
 | [Xprite](https://xprite.cc/) | Free, open-source browser editor for pixel art and sprite animation. Opens and saves .ase/.aseprite files, with touch and stylus support. No account required. |
+| [APPLORE App Icon Generator](https://applore.app/app-icon-generator) | Free in-browser app icon exporter: turns one image into every iOS, Android and favicon size and downloads them as a zip. No account required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

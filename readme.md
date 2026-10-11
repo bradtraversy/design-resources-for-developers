@@ -1444,6 +1444,7 @@ Available for MacOS, Linux, & Windows<br>
 | [YangSpec Image Attachment Helper](https://yangspec.com/tools/image-attachment-helper/) | Free browser-based JPG/PNG attachment preparation with maximum file size and dimensions, before/after previews, and optional resizing. No signup; files are processed on-device. |
 | [Quick Image Kit](https://quickimagekit.com/compress-image) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
 | [SciZone](https://scizone.dev/) | Free batch converter to WebP and AVIF that runs fully in the browser. JPG, PNG, HEIC and TIFF input, 1000+ files at once, nothing is uploaded |
+| [Filesvo Image Compressor](https://filesvo.com/compress-image/) | Compress JPG, PNG and WebP images with an adjustable quality slider. Runs entirely in the browser via WebAssembly, so files are never uploaded; no signup, no watermark, no daily limit. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

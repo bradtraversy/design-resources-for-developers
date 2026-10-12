@@ -1228,6 +1228,7 @@ Available for MacOS, Linux, & Windows<br>
 | [CTA Button Maker](https://www.clickminded.com/button-generator/)| Create call to action buttons |
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
+| [PhotoFresco](https://photofresco.com/)| Free browser-based image editor with layers, masks, brushes and PSD import/export. No install or account required. |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
 | [PhotoQuill](https://photoquill.com)| Free browser-based Photoshop alternative with PSD support, layers, masks, blend modes, and local image processing. |
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |

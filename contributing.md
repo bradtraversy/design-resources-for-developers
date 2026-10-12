@@ -8,7 +8,11 @@
 - Include the direct resource URL in the pull request description.
   - Example: `Link: https://tailwindcss.com/`
 
-- Confirm the resource is genuinely usable for free. Paid-only products and time-limited trials are not accepted.
+- Confirm that the exact linked resource provides useful functionality indefinitely for free.
+  - A pricing page or separate paid features do not automatically disqualify a resource.
+  - Describe only functionality that is available without payment.
+  - Paid-only products, time-limited trials, expiring credits, recurring daily or monthly quotas, storage quotas, watermarked output, and essential paid exports are not accepted.
+  - Repeatable per-use limits, such as file-size limits or pages processed per run, are allowed when the linked functionality can continue to be used without payment.
 
 - Search the README by resource name and URL before submitting. Duplicates are not accepted.
 

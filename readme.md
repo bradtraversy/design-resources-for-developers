@@ -259,6 +259,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) | Pull the exact palette out of any image and export it as an Aseprite/GIMP `.gpl`, a Lospec `.hex`, CSS variables, JSON or a PNG swatch strip. Runs entirely in the browser. |
 | [Nutilz Color Picker](https://nutilz.com/color-picker) | Free online color picker, HEX/RGB/HSL converter, and palette generator. |
 | [CSS Gradient Generator](https://www.uixdraft.com/tools/css-gradient-generator) | Free tool for linear, radial, and conic CSS gradients with a live preview and one-click copy. |
+| [CoolColor Space Video Palette](https://coolcolor.space/video-palette) | Extract a color palette from a video in the browser — from frames across the clip or from the paused frame; shows per-frame colors and exports CSS, SCSS, Tailwind or JSON. No upload, no sign-up |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -757,6 +758,7 @@ Available for MacOS, Linux, & Windows<br>
 | [AniX](https://adajuly.github.io/AniX/)| Super easy and lightweight css animation library. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
 | [Animatopy](https://sarthology.github.io/Animatopy/) | Just-add-water CSS animations snippets |
+| [Button Interaction Specs](https://jsabutis.github.io/button-interaction-specs/)| Hover and press effects on one identical button, each with its CSS or JavaScript to copy. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -874,6 +876,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Fast](https://www.fast.design/)| An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
 | [LottieFiles ](https://lottiefiles.com/)| Interactive animations in many formats like json,gif and mp4, libraries and plugins for Web & Mobile . |
 | [IconKing Lottie Tools](https://www.iconking.net/tools) | Free browser-based tools to preview, edit and convert Lottie animations. No signup or watermark. |
+| [EasyLottie](https://www.easylottie.com) | Free browser tools to preview, recolor, compress and convert Lottie files locally. No signup, upload or watermark. |
 | [Kutty](https://kutty.netlify.app/)| A set of accessible and reusable prebuilt Tailwind components that are commonly used in web applications. |
 | [Tailwind Templates](https://tailwindtemplates.io/)| A free collection of Tailwindcss Templates - tailwind components for rapid UI development. |
 | [Stitches](https://stitches.hyperyolo.com/)| An HTML template generator using functional css. |
@@ -1202,6 +1205,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Penpot](https://penpot.app/)| Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community [Open Source and selfhostable](https://github.com/penpot/penpot#what-is-penpot) |
 | [Vectr](https://vectr.com/)| Free vector graphics software|
 | [Taler](https://www.taler.app/)| Create social media banner designs in minutes from hundreds of customizable templates |
+| [Free Banner Maker](https://astra-intelligence.github.io/free-banner-maker/)| Generate professional social media banners for 7 platforms (Twitter/X, LinkedIn, Instagram, YouTube, Facebook) with 4 visual styles; no sign-up, no API key, runs entirely in the browser |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Get Waves](https://getwaves.io/)| A free SVG wave generator to make unique SVG waves for web design |
 | [Clippy](https://bennettfeely.com/clippy/)| Easy CSS clip-path maker |
@@ -1294,6 +1298,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Layout Forge](https://vumox.github.io/layout-forge/) | Free, open-source visual generators for CSS Grid, Flexbox, palettes, gradients, clip-path and glassmorphism. No account required. |
 | [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | 200+ free editable templates for Instagram posts, flyers, invitations, YouTube thumbnails, slides and résumés. Edit text and photos in the browser; free account required |
 | [ImageSplit](https://www.imagesplit.online/) | Free browser-based image splitter and merger for grids, custom cuts and carousel slides. Export PNG, JPG, WebP or ZIP without an account; image files stay on-device. Input limit: 20 MB / 40 MP. |
+| [Xprite](https://xprite.cc/) | Free, open-source browser editor for pixel art and sprite animation. Opens and saves .ase/.aseprite files, with touch and stylus support. No account required. |
 | [ToolStack](https://tools.mindutil.com/) | 32 free browser-based utilities for design and front-end work: image compression, resizing and cropping, JPG/PNG/WebP/HEIC conversion, color picker, HEX/RGB/HSL conversion, gradient and contrast checkers. Runs entirely on-device, no signup required, 7 languages |
 
 <div align="right">
@@ -1440,6 +1445,7 @@ Available for MacOS, Linux, & Windows<br>
 | [PictureToLink Image Compressor](https://picturetolink.com/image-compressor) | Free in-browser compressor for JPG, PNG and WebP with exact target sizes (e.g. 100 KB) and ZIP download for batches. Files stay on your device; no sign-up or watermark. |
 | [YangSpec Image Attachment Helper](https://yangspec.com/tools/image-attachment-helper/) | Free browser-based JPG/PNG attachment preparation with maximum file size and dimensions, before/after previews, and optional resizing. No signup; files are processed on-device. |
 | [Quick Image Kit](https://quickimagekit.com/compress-image) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
+| [SciZone](https://scizone.dev/) | Free batch converter to WebP and AVIF that runs fully in the browser. JPG, PNG, HEIC and TIFF input, 1000+ files at once, nothing is uploaded |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1610,6 +1616,7 @@ Available for MacOS, Linux, & Windows<br>
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
+| [ShareScan](https://sharescan.io/scan) | Free checker for Open Graph tags and image URLs across up to 10 pages at once. No account required. |
 | [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
 | [Python Cheat Sheet - CheatGrid](https://www.cheatgrid.com/programming-languages/0004-python-cheat-sheet) | Free Python quick reference with examples covering core syntax, data structures and object-oriented programming. No account required. |
@@ -1628,6 +1635,8 @@ Available for MacOS, Linux, & Windows<br>
 | [ToolCascade](https://toolcascade.com/) | 80+ free browser-based tools: PDF merge/split, image converters, CSS generators, minifiers, timers, and unit converters. Everything runs client-side — no signup, files never leave your device. |
 | [IT Tools](https://it-tools.tech/) | Free, open-source collection of browser utilities for developers and IT professionals, with optional self-hosting. |
 | [BestJSON](https://bestjson.com/) | Free browser tools to format, validate, repair, compare and convert JSON locally, with no account required. |
+| [Urban Mixo](https://www.urbanmixo.online/) | 100+ free, client-side developer utilities: JSON formatter, RFC 9562 UUIDv7 generator, SHA-256/512 hashes, Base64 converter, color tools, and text utilities. |
+| [Minglyph Newsletter Header Design Guide](https://minglyph.com/newsletter-header-design) | Free guide to newsletter-name lettering, narrow-layout readability and keeping essential identity available as text. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -18,6 +18,6 @@ Is this your product? Yes / No
 ## Checklist
 
 - [ ] I am adding or correcting only one resource.
-- [ ] I confirm this resource is genuinely free to use and is not only a trial.
+- [ ] I confirm the exact linked resource is genuinely free to use indefinitely and is not only a trial, credit allowance, or recurring quota.
 - [ ] I searched the README by name and URL and did not find this resource already listed.
 - [ ] I did not modify the repository banner or Warp sponsor section.

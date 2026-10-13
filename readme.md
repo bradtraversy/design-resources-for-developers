@@ -1302,6 +1302,7 @@ Available for MacOS, Linux, & Windows<br>
 | [ImageSplit](https://www.imagesplit.online/) | Free browser-based image splitter and merger for grids, custom cuts and carousel slides. Export PNG, JPG, WebP or ZIP without an account; image files stay on-device. Input limit: 20 MB / 40 MP. |
 | [Xprite](https://xprite.cc/) | Free, open-source browser editor for pixel art and sprite animation. Opens and saves .ase/.aseprite files, with touch and stylus support. No account required. |
 | [ToolStack](https://tools.mindutil.com/) | 32 free browser-based utilities for design and front-end work: image compression, resizing and cropping, JPG/PNG/WebP/HEIC conversion, color picker, HEX/RGB/HSL conversion, gradient and contrast checkers. Runs entirely on-device, no signup required, 7 languages |
+| [WarpImage](https://warpimage.com/) | Free browser-based text warper: bend words into 17 shapes (arc, arch, wave, flag, perspective...) in 1,900+ Google Fonts and download a transparent PNG up to 1,600 px, or CSS/SVG textPath code for arcs and perspective. No watermark; fonts and files stay on-device. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

@@ -1231,6 +1231,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [PhotoFresco](https://photofresco.com/)| Free browser-based image editor with layers, masks, brushes and PSD import/export. No install or account required. |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
+| [RetouchPi](https://retouchpi.com/en/retouchpi)| Free browser-based raster editor: 54 tools, layers, masks and PSD round-trip, opens CMYK/16-bit/HEIC/RAW, editing runs locally in a Rust+WASM engine. |
 | [PhotoQuill](https://photoquill.com)| Free browser-based Photoshop alternative with PSD support, layers, masks, blend modes, and local image processing. |
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Diagrams](https://www.diagrams.net/)| Diagram software and Flowchart maker  |

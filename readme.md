@@ -383,6 +383,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Maskable.app Editor](https://maskable.app/editor/) | Generate maskable PWA icons based on your existing icon |
 | [Favicon Generator](https://favicon.inbrowser.app/) | Generate website's favicon assets. SVG, maskable, image minified supported. Pure frontend. No privacy risk. Fast.|
 | [FaviFiles](https://favifiles.com/)| Generate pixel-perfect favicons for free in seconds |
+| [FaviconDL](https://favicondl.com/)| Download any website's favicon in ICO, PNG, SVG and Apple touch icon sizes, free with no sign-up |
 
 
 <div align="right">

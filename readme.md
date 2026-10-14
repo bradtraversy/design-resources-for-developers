@@ -1304,6 +1304,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Xprite](https://xprite.cc/) | Free, open-source browser editor for pixel art and sprite animation. Opens and saves .ase/.aseprite files, with touch and stylus support. No account required. |
 | [ToolStack](https://tools.mindutil.com/) | 32 free browser-based utilities for design and front-end work: image compression, resizing and cropping, JPG/PNG/WebP/HEIC conversion, color picker, HEX/RGB/HSL conversion, gradient and contrast checkers. Runs entirely on-device, no signup required, 7 languages |
 | [WarpImage](https://warpimage.com/) | Free browser-based text warper: bend words into 17 shapes (arc, arch, wave, flag, perspective...) in 1,900+ Google Fonts and download a transparent PNG up to 1,600 px, or CSS/SVG textPath code for arcs and perspective. No watermark; fonts and files stay on-device. |
+| [Semaphore](https://semaphore.bobochang.cn/) | Free browser-based image-to-ASCII and braille art converter with 2×4 dithering, local Canvas processing, and TXT, PNG and Share Card exports. Strict zero-upload privacy with no signup required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

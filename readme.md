@@ -1452,6 +1452,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Quick Image Kit](https://quickimagekit.com/compress-image) | Free browser-local compressor with exact target-KB output, plus resize, convert, crop and favicon tools; images are processed in the browser and never uploaded |
 | [SciZone](https://scizone.dev/) | Free batch converter to WebP and AVIF that runs fully in the browser. JPG, PNG, HEIC and TIFF input, 1000+ files at once, nothing is uploaded |
 | [Toolars Image Compressor](https://toolars.com/tools/image-compressor) | Free image compressor with target-size and quality controls for JPEG and WebP output. |
+| [PixVibe Image Compressor](https://pixvibe.ai/tools/compress-image) | Free image compressor with a target file size in KB or a fixed quality, output as JPG, PNG, WebP or AVIF. Runs in the browser, so images are not uploaded. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

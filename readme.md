@@ -1645,6 +1645,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Urban Mixo](https://www.urbanmixo.online/) | 100+ free, client-side developer utilities: JSON formatter, RFC 9562 UUIDv7 generator, SHA-256/512 hashes, Base64 converter, color tools, and text utilities. |
 | [Tool Kumar](https://tools.vikasmaur.com/) | Free browser-based JSON viewer, formatter, validator, repair tool and document comparison. Processes JSON locally with tree and table views, no account required. |
 | [Minglyph Newsletter Header Design Guide](https://minglyph.com/newsletter-header-design) | Free guide to newsletter-name lettering, narrow-layout readability and keeping essential identity available as text. |
+| [LaunchCheck source preflight](https://launch.7eventeen.dev/#preflight) | Free browser-local checker with 10 HTML source heuristics and source-order element cues. No account, purchase or source upload required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

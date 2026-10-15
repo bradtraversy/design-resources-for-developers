@@ -1231,6 +1231,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [PhotoFresco](https://photofresco.com/)| Free browser-based image editor with layers, masks, brushes and PSD import/export. No install or account required. |
+| [DishVivid Manual Photo Editor](https://dishvivid.com/studio) | Free browser-based manual light, color and crop adjustments with JPEG export; no account or AI credits needed for manual tools. Input limit: 20 MB. Optional AI editing is separate. |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
 | [RetouchPi](https://retouchpi.com/en/retouchpi)| Free browser-based raster editor: 54 tools, layers, masks and PSD round-trip, opens CMYK/16-bit/HEIC/RAW, editing runs locally in a Rust+WASM engine. |
 | [PhotoQuill](https://photoquill.com)| Free browser-based Photoshop alternative with PSD support, layers, masks, blend modes, and local image processing. |

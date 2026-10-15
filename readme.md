@@ -1190,6 +1190,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Once UI](https://once-ui.com/)| Open-source design system for Next.js with 100+ components, deployment-ready app templates, and Figma integration |
 | [Chinese Color Atlas](https://chinesecoloratlas.com/resources/free)| Free Chinese traditional color tokens, CSS variables, Tailwind theme samples, Figma Variables samples, Procreate swatches, and AI prompt resources. |
 | [CloneAny Gallery](https://cloneany.com/gallery) | Free webpage design examples with downloadable DESIGN.md style guides and source/clone previews. No signup needed to browse or download the guides. |
+| [LogoMovo One-Page Brand Guide](https://logomovo.com/blog/small-business-brand-style-guide-template) | Free, copyable manual brand-guide template covering approved logo variants, colors, typography and vendor handoff. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

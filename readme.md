@@ -1138,6 +1138,7 @@ Available for MacOS, Linux, & Windows<br>
 | [SnackUI](https://github.com/snackui/snackui)| SnackUI is a UI Kit for React Native + react-native-web that's much faster rocket with an optimizing compiler.  |
 | [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native  |
 | [Tamagui](https://tamagui.dev/)| Universal React design systems that optimize for native & web.  |
+| [OTF UI SDK](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=developer-resource-list&utm_content=2026-10-16) | Free, MIT-licensed UI components for React Native and web. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

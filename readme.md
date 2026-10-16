@@ -1651,6 +1651,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Minglyph Newsletter Header Design Guide](https://minglyph.com/newsletter-header-design) | Free guide to newsletter-name lettering, narrow-layout readability and keeping essential identity available as text. |
 | [LaunchCheck source preflight](https://launch.7eventeen.dev/#preflight) | Free browser-local checker with 10 HTML source heuristics and source-order element cues. No account, purchase or source upload required. |
 | [Free for Creators](https://github.com/skyzhao1223/free-for-creators) | A curated, license-transparent directory of free creator assets (music, SFX, footage, photos, fonts, icons, LUTs, mockups, 3D) with license, attribution, monetization and sign-up stated per entry. CC0 data, JSON API, link-checked weekly. |
+| [Formgong HTML Form Generator](https://formgong.com/en/tools/html-form-generator/) | Builds a plain HTML form (labels, required fields, a spam honeypot, no framework classes) from fields you pick, and gives you the code to copy. No account needed. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

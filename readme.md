@@ -1460,6 +1460,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Toolars Image Compressor](https://toolars.com/tools/image-compressor) | Free image compressor with target-size and quality controls for JPEG and WebP output. |
 | [PixVibe Image Compressor](https://pixvibe.ai/tools/compress-image) | Free image compressor with a target file size in KB or a fixed quality, output as JPG, PNG, WebP or AVIF. Runs in the browser, so images are not uploaded. |
 | [AI Lab Basic Image Compressor](https://ailab.packscena.com/tools/image-compressor#try) | Free browser-local JPG, PNG and WebP compression to WebP; no account or credits, with a 5MB input limit and 1600px maximum output edge. |
+| [Yuitility Image Compressor](https://www.yuitility.app/tools/image-compressor) | Free in-browser JPEG compression from JPEG, PNG or WebP inputs, with a quality slider, before/after previews and output-size comparison. No account required. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

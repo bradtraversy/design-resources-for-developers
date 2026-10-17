@@ -515,6 +515,7 @@ Available for MacOS, Linux, & Windows<br>
 | [mikroconsult Essential UI](https://mikroconsult.gumroad.com/l/free-ui-sounds)| Twelve original WAV interface clicks. $0 checkout; commercial use allowed. |
 | [BudgetPixel Sound Effects](https://budgetpixel.com/sfx)| 2,600+ AI-generated sound effects in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
 | [BudgetPixel Background Music](https://budgetpixel.com/background-music)| 700+ AI-generated instrumental tracks in WAV/MP3, CC BY 4.0 (credit required), no sign-up |
+| [Soundza](https://soundza.com/)| Thousands of free sound effects, music loops and ambience in WAV/MP3. Free for commercial use, no attribution needed |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

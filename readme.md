@@ -1509,6 +1509,7 @@ Available for MacOS, Linux, & Windows<br>
 | [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) | Formats and colors JSON content for better readability. It can also collapse and expand nested structures. |
 | [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?hl=en) | A SEO tool that includes features like on-page SEO analysis, broken link checking, and SERP preview and more. |
 | [Statable WCAG Checker](https://chromewebstore.google.com/detail/statable-wcag-checker/cgfkmhkdjaglhanjmaofjfkmieanchmo) | Free accessibility checker that runs axe-core on the current page and lists WCAG 2.0/2.1/2.2 A and AA issues in a side panel, each with the rule and a link to the fix. Also for Firefox and Edge. |
+| [Artspo](https://github.com/bryfeng/artspo) | Clip websites you like and measure their colors, type scale, radii, shadows and animation timing into plain files. Open source; works with AI coding agents. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

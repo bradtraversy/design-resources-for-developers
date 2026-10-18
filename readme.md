@@ -1417,6 +1417,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Optimizilla](https://imagecompressor.com/)| Online JPEG and PNG optimizer / compressor with settings and archive download
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
 | [Squoosh.app](https://squoosh.app/)| Image compression from Google Chrome Labs |
+| [Image Ready](https://www.opensourcephotoeditor.com/) | Free browser-based single-image cropping, resizing, and JPEG compression with local processing and individual JPG/PNG downloads. |
 | [Asset Melt](https://assetmelt.com)| Free browser-based image compressor & converter with batch processing, size budgets and AVIF/WebP/JXL/MozJPEG/Oxipng codecs (runs fully in the browser) |
 | [Image Compressor & Converter](https://codequest.work/generator/image-compressor/)| Compress and convert images between JPG, PNG, WebP, AVIF, and SVG, with resizing and automatic EXIF removal. Runs entirely in the browser. |
 | [BulkResizePhotos](https://bulkresizephotos.com/)| Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline) |

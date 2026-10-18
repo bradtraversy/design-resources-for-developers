@@ -1,23 +1,25 @@
+<!--
+New resource submissions are currently paused. Pull requests that add a new
+resource will not be accepted. This template is for approved maintenance work
+by repository maintainers and collaborators.
+-->
 
-<!-- Use the title format: [Resource name] -> [Section name] -->
-
-## Resource
+## Maintenance change
 
 Resource name:
 
 Section:
 
-Link: https://
+Current link: https://
 
-Is this your product? Yes / No
+Change type: Broken link / No longer free / Inaccurate description / Removal
 
-## Description
+## Explanation
 
-<!-- Briefly explain what the free resource provides. -->
+<!-- Explain the problem and why this change resolves it. -->
 
 ## Checklist
 
-- [ ] I am adding or correcting only one resource.
-- [ ] I confirm the exact linked resource is genuinely free to use indefinitely and is not only a trial, credit allowance, or recurring quota.
-- [ ] I searched the README by name and URL and did not find this resource already listed.
+- [ ] I am correcting or removing only existing resources.
+- [ ] I included evidence for the maintenance change.
 - [ ] I did not modify the repository banner or Warp sponsor section.

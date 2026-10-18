@@ -14,7 +14,12 @@ Available for MacOS, Linux, & Windows<br>
 </div>
 <hr>
 
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+> [!IMPORTANT]
+> New resource submissions are currently paused.
+>
+> This repository remains available as a curated reference, but it is not accepting new resource additions at this time. Please open an issue only to report a broken link, a resource that is no longer free, or an inaccurate existing description. Pull requests that were already open before October 18, 2026 will still be reviewed under the previous contribution rules.
+
+#### Please read the [`contributing guidelines`](./contributing.md) before reporting a maintenance issue.
 
 ## Table of Contents
 

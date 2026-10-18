@@ -1,0 +1,56 @@
+name: Report an existing resource
+description: Report a broken link, a resource that is no longer free, or an inaccurate listing.
+title: "[Maintenance] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        New resource submissions are paused. Use this form only to report a problem with a resource that is already listed.
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      description: What needs maintenance?
+      options:
+        - Broken or redirected link
+        - Resource is no longer free
+        - Inaccurate description
+        - Resource should be removed
+    validations:
+      required: true
+
+  - type: input
+    id: resource
+    attributes:
+      label: Resource name
+      description: Enter the name exactly as it appears in the README.
+      placeholder: Resource name
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Current README link
+      description: Paste the current link from the resource entry.
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the problem and include supporting links or other evidence when available.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I am reporting an existing resource, not suggesting a new one.
+          required: true
